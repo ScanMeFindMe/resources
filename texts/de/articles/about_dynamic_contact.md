@@ -22,15 +22,15 @@ Speichern Sie persönliche Kontaktinformationen, Social-Media-Handles und Foto/L
 
 <p>Sie müssen es Ihren Kunden erleichtern, Ihre Kontakte auf ihren Telefonen zu speichern, aber leider sind physische Visitenkarten dafür nicht optimiert. </p>
 
-<p>Beschäftigte Berufstätige finden es mühsam, Stapel von Visitenkarten zu durchsuchen, um den richtigen Ansprechpartner zu finden, es sei denn, sie investieren in einen Visitenkartenscanner. Dennoch besteht die Möglichkeit, dass einige Karten verlegt oder bereits entsorgt wurden. </p>
+<p>Beschäftigte Berufstätige finden es mühsam, Stapel von Visitenkarten zu durchsuchen, um den richtigen Ansprechpartner zu finden, es sei denn, sie investieren in einen Visitenkartenscanner. Dennoch besteht die Möglichkeit, dass einige Karten verlegt oder bereits entsorgt wurden.</p>
 
 <p><a href="#static:contact">Die Digitalisierung Ihrer Kontaktdaten mit QR-Codes</a> behebt viele der Nachteile der Verwendung physischer Visitenkarten.</p>
 
-<p>Ihre Kunden müssen lediglich den QR-Code scannen und sich alle Kontaktinformationen auf dem Bildschirm anzeigen lassen. </p>
+<p>Ihre Kunden müssen lediglich den QR-Code scannen und sich alle Kontaktinformationen auf dem Bildschirm anzeigen lassen.</p>
 
-<p>Mit einer einzigen Schaltfläche kann der Benutzer Sie sofort kontaktieren oder die Kontaktinformationen auf seinem Gerät speichern. Es macht Schluss mit Fällen, in denen Kunden Ihre E-Mails oder Telefonnummern verlegen oder vergessen. </p>
+<p>Mit einer einzigen Schaltfläche kann der Benutzer Sie sofort kontaktieren oder die Kontaktinformationen auf seinem Gerät speichern. Es macht Schluss mit Fällen, in denen Kunden Ihre E-Mails oder Telefonnummern verlegen oder vergessen.</p>
 
-<h2> Welche Kontaktinformationen können in einem QR-Code gespeichert werden </h2>
+<h2> Welche Kontaktinformationen können in einem QR-Code gespeichert werden</h2>
 
 <p>Dies hängt davon ab, welche Art von QR-Code Sie verwenden.</p>
 
