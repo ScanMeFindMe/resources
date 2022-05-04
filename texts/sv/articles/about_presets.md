@@ -42,7 +42,7 @@ Välj en fördesignad förinställning eller skapa en med utvald stil, färger, 
 <p>Alternativt kan du duplicera en befintlig förinställning i biblioteket och anpassa den. </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - anpassa preset.png"
+    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
         alt="Skapa en förinställning genom att kopiera ett system">
 </p>
 

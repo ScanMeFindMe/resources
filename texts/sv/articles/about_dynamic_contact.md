@@ -12,7 +12,7 @@ Lagra personlig kontaktinformation, handtag för sociala medier och foto/logotyp
 
 <p>Om du förväntar dig att kunderna manuellt ska lagra din information från visitkort måste du tänka om din varumärkesstrategi. De flesta tycker att det är irriterande och upprepande att behöva spara kontaktuppgifterna från ett pappersvisitkort på en mobiltelefon.</p>
 
-<p>Visste du dessutom att <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you- rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88 % av visitkorten</a> slängs inom en vecka efter att de delats ut ?</p>
+<p>Visste du dessutom att <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88 % av visitkorten</a> slängs inom en vecka efter att de delats ut ?</p>
 
 <p>Det är ett svindlande antal visitkort som gått till spillo. Det går inte bara emot många företags miljöengagemang, utan det förklarar också varför vissa kunder aldrig når dig även när de lovat det. </p>
 

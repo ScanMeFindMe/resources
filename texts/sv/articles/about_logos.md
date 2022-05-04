@@ -29,7 +29,7 @@ Högre felkorrigeringsnivå gör att en större del av QR-koden kan skadas men �
 <h2>Påverkar att lägga till en logotyp QR-kodsskanningsbarhet?</h2>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr-kod med logo.png"
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr code with logo.png"
         alt="QR-kod logotyp exempel - ScanMeFindMe">
 </p>
 

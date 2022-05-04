@@ -44,7 +44,7 @@ Den ungefärliga platsen för skanningsenheten. Det kanske inte alltid är korre
 <h3>Skannas efter månader</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - skannar efter månad.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png"
         alt="Scans by month chart - QR code generator ScanMeFindMe">
 </p>
 
@@ -53,7 +53,7 @@ Den ungefärliga platsen för skanningsenheten. Det kanske inte alltid är korre
 <h3>Skanningar efter timme på dygnet</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - skannar efter timmar på dygnet.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png"
         alt="Skanna per timme på dygnet diagram - QR-kodgenerator ScanMeFindMe">
 </p>
 
@@ -62,7 +62,7 @@ Den ungefärliga platsen för skanningsenheten. Det kanske inte alltid är korre
 <h3>Skannar efter OS</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - skanningar av OS.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png"
         alt="Scans by OS chart - QR code generator ScanMeFindMe">
 </p>
 
@@ -80,7 +80,7 @@ Den ungefärliga platsen för skanningsenheten. Det kanske inte alltid är korre
 <h3>Skanna efter land och stad</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - skannar efter land och stad.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - scans by country and city.png"
         alt="Skanna efter land och stad diagram - QR-kodgenerator ScanMeFindMe">
 </p>
 
@@ -109,7 +109,7 @@ Den ungefärliga platsen för skanningsenheten. Det kanske inte alltid är korre
 <p>Tabellen Senaste skanningar kan laddas ner i CSV-format (kommaseparerade värden), som kan användas för djupgående analys.</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - senaste skanningar - ladda ner som CSV.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png"
         alt="Ladda ner skanningsstatistik - QR-kodgenerator ScanMeFindMe">
 </p>
 

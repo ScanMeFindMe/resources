@@ -64,7 +64,7 @@ Ladda upp menyer, musik, manualer och andra filer till en personlig webbsida. De
 <p>Vår QR-kodgenerator för fildelning har ett intuitivt gränssnitt som låter dig anpassa webbsidan med titel, logotyp och beskrivning. Du kan också välja hur filerna ska visas på webbsidan. </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - hur filer visas.png"
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - how files are displayed.png"
         alt="Förhandsgranskning av en generator för en sida med filer - ScanMeFindMe">
 </p>
 

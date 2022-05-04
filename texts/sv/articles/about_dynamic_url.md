@@ -39,7 +39,7 @@ Skapa ett förkortat alias för din webbadress och spåra vem, var och hur anvä
 
 <p>När du genererar en dynamisk QR-kod med vår <a href="#pro">PRO QR-generator</a>, länkas den automatiskt till våra spårningsverktyg.</p>
 
-<p>När en användare skannar QR-koden och omdirigeras till destinationswebbsidan spårar <a href="#static:url">ScanMeFindMe</a> nyckelmått från enheten och sparar dem på instrumentpanelen.</p >
+<p>När en användare skannar QR-koden och omdirigeras till destinationswebbsidan spårar <a href="#static:url">ScanMeFindMe</a> nyckelmått från enheten och sparar dem på instrumentpanelen.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - total scans.png"

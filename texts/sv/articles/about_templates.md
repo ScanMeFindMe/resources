@@ -12,7 +12,7 @@ Lär dig hur du lägger till catchy fraser med QR-kodtexter. Välj bland fördef
 
 <p>För marknadsförare kommer allt till konvertering. Om du har en briljant annons designad är det för intet om publiken inte når ut på ett eller annat sätt.</p>
 
-<p><a href="#static:url">QR-koder</a> är ett användbart marknadsföringsverktyg, men att lägga till en QR-kod i vanlig format gör inte det kreativa arbetet med marknadsföringsmaterial rättvisa.</ p>
+<p><a href="#static:url">QR-koder</a> är ett användbart marknadsföringsverktyg, men att lägga till en QR-kod i vanlig format gör inte det kreativa arbetet med marknadsföringsmaterial rättvisa.</p>
 
 <p>Utan en liten knuff kan publiken hoppa över QR-koden, även när den är synlig. Ofta är en uppmaning (CTA) och en unik presentation vad som krävs för att få användare att skanna QR-koden.</p>
 
@@ -34,7 +34,7 @@ Lär dig hur du lägger till catchy fraser med QR-kodtexter. Välj bland fördef
 <p>Även i <a href="#static:url">gratisversionen av QR-kodgeneratorn</a> kan du ändra bildtexterna på mallarna. Ändra standardinställningen <strong>"Skanna mig"</strong> till <strong>"Mer info"</strong>, <strong>"Vår meny"</strong>, ditt instagram-handtag eller ett telefonnummer. Om din text är för lång eller för kort kan du minska eller öka teckenstorleken för att få den att se bättre ut.</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr-kod instagram.png"
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
         alt="QR-kod för instagramhandtag - ScanMeFindMe">
 </p>
 
@@ -53,7 +53,7 @@ Lär dig hur du lägger till catchy fraser med QR-kodtexter. Välj bland fördef
 <p>Det snabbaste sättet att skapa en mall är att duplicera en från biblioteket och redigera SVG-källan.</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - redigera svg template.png"
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
         alt="Redigera QR-kodmall - ScanMeFindMe">
 </p>
 
