@@ -1,99 +1,99 @@
-<h1>What are MeCard and vCard formats that are used for QR codes</h1>
+<h1>QRコードに使用されるMeCardおよびvCardフォーマットとは何ですか</h1>
 
 --- Abstract / Meta description ---
 
-What are the differences between MeCard and Vcard? Which works best for QR codes? Find out more in this article.
+MeCardとVcardの違いは何ですか？ QRコードに最適なのはどれですか？詳細については、この記事をご覧ください。
 
 --- Short content 1 ---
 
-Vcard stores more information and is commonly used for sharing contacts. MeCard is used exclusively for QR codes and is more compact.
+Vcardはより多くの情報を保存し、連絡先の共有に一般的に使用されます。 MeCardはQRコード専用で、よりコンパクトです。
 
 ----------
 
-<p>You've heard that QR codes make social networking easier. You can do away with stacks of printed business cards and have all your contact information encoded in a QR code. </p>
+<p>QRコードによってソーシャルネットワーキングが容易になると聞いたことがあります。印刷された名刺の山をなくし、すべての連絡先情報をQRコードにエンコードすることができます。 </ p>
 
-<p>Yet, there's often a choice to be made when <a href="#static:contact">generating a QR code for contacts</a>. Should you choose the MeCard or the Vcard format? </p>
+<p>ただし、<ahref = "＃static：contact">連絡先のQRコードを生成する</a>場合は、多くの場合、選択する必要があります。 MeCardまたはVcard形式を選択する必要がありますか？ </ p>
 
-<p>For most people, terms like MeCard and Vcard are intimidatingly unfamiliar. But knowing the fundamental difference between both formats helps in making the right choice when printing QR codes for contacts.</p>
+<p>ほとんどの人にとって、MeCardやVcardのような用語は恐ろしくなじみがありません。ただし、両方の形式の根本的な違いを知っていると、連絡先のQRコードを印刷するときに正しい選択をするのに役立ちます。</ p>
 
-<h2>MeCard vs Vcard</h2>
+<h2>MeCardとVcard</h2>
 
-<p>Both MeCard and Vcard are established standards in how personal details are stored in a QR code. Vcard was created in the 1990s and is the more popular of the two standards. Meanwhile, MeCard was developed by Domoco, the largest mobile phone service provider in Japan.</p>
+<p> MeCardとVcardはどちらも、個人情報をQRコードに保存する方法の確立された標準です。 Vcardは1990年代に作成され、2つの標準の中でより人気があります。一方、MeCardは、日本最大の携帯電話サービスプロバイダーであるDomocoによって開発されました。</ p>
 
-<p>Vcard supports a wide range of applications, including mobile phones, QR codes, emails, websites, and SMS. However, MeCard is limited to QR codes and mobile phones. </p>
+<p> Vcardは、携帯電話、QRコード、メール、ウェブサイト、SMSなどの幅広いアプリケーションをサポートしています。ただし、MeCardはQRコードと携帯電話に限定されています。 </ p>
 
-<p>Both formats support similar information, such as name, telephone, email, website, and address. The Vcard format supports organization and job title fields, which are not available in MeCard.</p>
+<p>どちらの形式も、名前、電話、電子メール、Webサイト、住所などの同様の情報をサポートしています。 Vcard形式は、MeCardでは使用できない組織および役職のフィールドをサポートしています。</ p>
 
-<p>When rendered, you'll get a smaller, compact QR code with the MeCard format. This means that a MeCard contact QR code is more readable when printed on a smaller area compared to its Vcard counterpart.</p>
+<p>レンダリングすると、MeCard形式の小さくてコンパクトなQRコードが表示されます。これは、MeCardの連絡先QRコードは、Vcardの対応するものと比較して小さな領域に印刷すると読みやすくなることを意味します。</ p>
 
-<p>vCard:</p>
+<p> vCard：</ p>
 
-<table>
-    <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 1 - qr vcard.png" width="150" height="150"
-        alt="QR code for contact in vCard format - ScanMeFindMe">
-    </td>
-        <td class="notranslate">
-<pre>BEGIN:VCARD
-VERSION:4.0
-FN:ScanMeFindMe
-N:;;;;
-ORG:ScanMeFindMe
-URL:https://scanmefindme.com
-REV:2021-02-13T18:18:45.089Z
-END:VCARD</pre>
-        </td>
-    </tr></table>
+<表>
+    <tr> <td> <img src = "https://media.scanmefindme.com/blog/about_contactformats/files/img 1 --qr vcard.png" width = "150" height = "150"
+        alt="vCard形式の連絡先のQRコード-ScanMeFindMe">
+    </ td>
+        <td class = "notranslate">
+<pre> BEGIN：VCARD
+バージョン：4.0
+FN：ScanMeFindMe
+N：;;;;
+ORG：ScanMeFindMe
+URL：https：//scanmefindme.com
+REV：2021-02-13T18：18：45.089Z
+END：VCARD </ pre>
+        </ td>
+    </ tr> </ table>
 
-<p></p>
+<p> </ p>
 
-<p>MeCard:</p>
+<p> MeCard：</ p>
 
-<table>
-    <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 2 - mecard.png" width="150" height="150"
-            alt="QR code for contact in MeCard format - ScanMeFindMe"></td>
-        <td class="notranslate">
-            <pre>MECARD:N:,ScanMeFindMe;URL:https://scanmefindme.com;;</pre>
-        </td>
-    </tr>
-</table>
+<表>
+    <tr> <td> <img src = "https://media.scanmefindme.com/blog/about_contactformats/files/img 2 --mecard.png" width = "150" height = "150"
+            alt="MeCard形式の連絡先のQRコード-ScanMeFindMe"></td>
+        <td class = "notranslate">
+            <pre> MECARD：N：、ScanMeFindMe; URL：https：//scanmefindme.com ;; </ pre>
+        </ td>
+    </ tr>
+</ table>
 
-<h2>Which Is The Better Choice?</h2>
+<h2>どちらが良い選択ですか？</ h2>
 
-<p>It depends on how you intend to use the QR code. MeCard offers simplicity, and you can print it easily on a business card. You don't need an internet connection to scan and save the contact details into your phone book.</p>
+<p>QRコードの使い方によって異なります。 MeCardはシンプルで、名刺に簡単に印刷できます。連絡先の詳細をスキャンして電話帳に保存するためにインターネット接続は必要ありません。</p>
 
-<p>Vcard is used more extensively for sharing contacts and is superior in terms of the types of information stored. While Vcard can be stored as a static QR code, you'll get much more out of it by using it as a <a href="#article:about_dynamic_contact" title="Dynamic QR code for contact card">dynamic QR code</a>.</p>
+<p> Vcardは連絡先の共有に広く使用されており、保存される情報の種類の点で優れています。 Vcardは静的QRコードとして保存できますが、<ahref="#article:about_dynamic_contact"title="連絡先カードの動的QRコード">動的QRコード<として使用することでさらに多くのメリットを得ることができます。 /a>。</p>
 
-<p>A dynamic QR code stores a link that redirects users to a web page to view and download the contact details in VCF format. You can also include photos and social media links when you're using <a href="#pro">ScanMeFindMe PRO.</a></p>
+<p>動的QRコードは、VCF形式で連絡先の詳細を表示およびダウンロードするためにユーザーをWebページにリダイレクトするリンクを保存します。 <a href="#pro"> ScanMeFindMe PRO </a> </ p>を使用しているときに、写真やソーシャルメディアのリンクを含めることもできます。
 
-<p>Also, a dynamic Vcard QR code is more compact because it stores the virtual card's URL instead of the actual contacts. It's also possible to <a href="#article:about_statistics" title="Track QR code scans">track</a> how many people have scanned and viewed your contacts with a dynamic Vcard.</p>
+<p>また、動的Vcard QRコードは、実際の連絡先ではなく仮想カードのURLを保存するため、よりコンパクトになります。動的Vcardを使用して連絡先をスキャンして表示した人の数を<ahref="＃article：about_statistics" title="QRコードスキャンを追跡">追跡</a>することもできます。</p>
 
-<h2>How To Generate QR Codes with MeCard and VCard formats</h2>
+<h2>MeCardおよびVCard形式でQRコードを生成する方法</h2>
 
-<p>ScanMeFindMe supports both MeCard and VCard formats. You can create static MeCard and VCard contacts with our <a href="#static:contact">free QR code generator.</a> </p>
+<p> ScanMeFindMeは、MeCard形式とVCard形式の両方をサポートしています。 <ahref = "＃static：contact">無料のQRコードジェネレーター</a> </ p>を使用して、静的なMeCardおよびVCardの連絡先を作成できます。
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 3 - create a qr code for contact.png"
-        alt="Create a static QR code for contact - ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_contactformats/files/img3-contact.pngのqrコードを作成する"
+        alt="連絡先の静的QRコードを作成-ScanMeFindMe">
+</ p>
 
-<p>Just choose the desired format and fill in the fields accordingly. The corresponding QR code is automatically generated as you do so.</p>
+<p>目的の形式を選択し、それに応じてフィールドに入力するだけです。対応するQRコードは、実行時に自動的に生成されます。</ p>
 
-<p>As mentioned, you can do much more with a <a href="#article:about_dynamic_contact">dynamic Vcard contact</a>.</p>
+<p>前述のように、<ahref = "＃article：about_dynamic_contact">動的Vcardコンタクト</a>を使用するとさらに多くのことができます。</ p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 4 - contact card.png"
-        alt="Create a dynamic QR code for contact - ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_contactformats/files/img 4-contact card.png"
+        alt="連絡先の動的QRコードを作成-ScanMeFindMe">
+</ p>
 
-<p>When you're using a dynamic VCard contact, you can:</p>
+<p>動的VCard連絡先を使用している場合は、次のことができます。</ p>
 
 <ul>
-    <li>Modify the contact details anytime you wish.</li>
-    <li>Upload a photo or organisation logo.</li>
-    <li>Include social media handles or links.</li>
-    <li>Monitor who scans the contact QR code, when, and where.</li>
-    <li>Allow a preview of the contact information before saving to a smartphone.</li>
-    <li>Have a smaller-sized QR code while storing more information.</li>
-</ul>
+    <li>連絡先の詳細はいつでも変更できます。</li>
+    <li>写真または組織のロゴをアップロードします。</li>
+    <li>ソーシャルメディアのハンドルまたはリンクを含めます。</li>
+    <li>連絡先のQRコードを誰が、いつ、どこでスキャンするかを監視します。</ li>
+    <li>スマートフォンに保存する前に連絡先情報のプレビューを許可します。</li>
+    <li>より多くの情報を保存しながら、より小さなサイズのQRコードを使用します。</ li>
+</ ul>
 
-<p><a href="#pro">Create dynamic Vcard contacts with ScanMeFindMe PRO now.</a></p>
+<p> <a href="#pro">ScanMeFindMePROを使用して動的なVcard連絡先を今すぐ作成します。</a></p>

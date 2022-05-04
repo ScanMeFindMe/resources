@@ -1,3 +1,3 @@
-<h1>[Crypto] Create a QR code for Cryptocurrencies</h1>
+<h1>[暗号] 暗号通貨のQRコードを作成する</h1>
 
 ----------

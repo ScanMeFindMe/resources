@@ -1,11 +1,11 @@
-<h1>[File] Create a QR code for a file</h1>
+<h1>[ファイル] ファイルのQRコードを作成する</h1>
 
 --- Text above the form ---
 
-<p class="smfm-static-file-link">Is your file already in the Internet and you just want to create a static link to it?<br>
-<span class="hint">Go straight to <a href="#static:url">Create a QR code for a website or URL</a> and put the link to your file there</span></p>
+<pclass = "smfm-static-file-link">ファイルはすでにインターネット上にあり、静的リンクを作成したいだけですか？<br>
+<spanclass = "hint"> <ahref = "＃static：url">ウェブサイトまたはURLのQRコードを作成</a>し、そこにファイルへのリンクを配置します</ span> </ p >>
 
-<p class="smfm-static-file-upload">Would you like to upload your file (or maybe several files), be able to modify the file at any moment and monitor who has scanned your QR code?<br>
-<span class="hint">Sign up for a <a href="#pro">free trial of the PRO account</a> on ScanMeFindMe and try Dynamic QR codes</span></p>
+<pclass = "smfm-static-file-upload">ファイル（または複数のファイル）をアップロードし、いつでもファイルを変更して、QRコードをスキャンしたユーザーを監視できますか？<br>
+<spanclass ="hint">ScanMeFindMeで<ahref="＃pro"> PROアカウントの無料トライアル</a>にサインアップして、動的QRコードを試してください</ span> </ p>
 
 ----------

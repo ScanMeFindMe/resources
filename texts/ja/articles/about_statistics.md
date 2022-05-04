@@ -1,118 +1,118 @@
-<h1>How QR code scan statistics can be viewed and used</h1>
+<h1>QRコードスキャン統計を表示および使用する方法</h1>
 
 --- Abstract / Meta description ---
 
-Monitor your campaign with dynamic QR code tracking. Find out what scan statistics are available on ScanMeFindMe and why they are important for marketers
+動的QRコードトラッキングでキャンペーンを監視します。 ScanMeFindMeで利用できるスキャン統計と、それらがマーケターにとって重要である理由を確認してください
 
 --- Short content 1 ---
 
-The approximate location of the scanning device. It may not always be accurate as the location is derived from the IP address of the internet service provider
+スキャンデバイスのおおよその位置。場所はインターネットサービスプロバイダーのIPアドレスから取得されるため、常に正確であるとは限りません。
 
 ----------
 
-<p>One of the reasons why marketers are turning to dynamic QR codes is their trackability. Unlike static QR codes, dynamic QR codes redirect users to a custom webpage when scanned. Therefore, it's possible to collect various metrics and compile them in visual formats. </p>
+<p>マーケターが動的QRコードに目を向けている理由の1つは、追跡可能性です。静的QRコードとは異なり、動的QRコードは、スキャン時にユーザーをカスタムWebページにリダイレクトします。したがって、さまざまなメトリックを収集して、視覚的な形式でコンパイルすることができます。 </ p>
 
-<h2>Why QR Code Scan Statistics Are Important</h2>
+<h2>QRコードスキャン統計が重要な理由</h2>
 
-<p>If you generate a dynamic QR code on <a href="#pro">ScanMeFindMe Pro</a>, you'll be able to track key metrics that can help with your marketing.</p>
+<p> <a href="#pro"> ScanMeFindMe Pro </a>で動的QRコードを生成すると、マーケティングに役立つ主要な指標を追跡できるようになります。</ p>
 
-<p>Rather than merely distributing marketing materials with QR codes, you'll want to monitor engagement indicators like how many people are accessing a landing page via QR code. Or if a particular campaign is reaching its audience in major cities. </p>
+<p> QRコードを使用してマーケティング資料を配布するだけでなく、QRコードを介してランディングページにアクセスしているユーザーの数などのエンゲージメントインジケーターを監視する必要があります。または、特定のキャンペーンが主要都市のオーディエンスに到達している場合。 </ p>
 
-<p>Without dynamic QR codes, you will have no idea if you're reaching the target audience or on the right track with conversion goals. You'll need to gather relevant statistics from <a href="#about:product">dynamic QR codes</a> and use them to improve the campaign.</p>
+<p>動的QRコードがないと、ターゲットオーディエンスに到達しているのか、コンバージョン目標を達成しているのかがわかりません。 <ahref = "＃about：product">動的QRコード</a>から関連する統計を収集し、それらを使用してキャンペーンを改善する必要があります。</ p>
 
-<p>QR code statistics show you what's working on your campaign and what's not. You'll know if you need a more intriguing design or a revamp in the overall strategy for better conversion from the numbers and charts. </p>
+<p> QRコードの統計は、キャンペーンで機能しているものと機能していないものを示します。数字やグラフからの変換を改善するために、より魅力的なデザインや全体的な戦略の刷新が必要かどうかがわかります。 </ p>
 
-<h2>Which Scan Statistics Are Available On ScanMeFindMe PRO?</h2>
+<h2> ScanMeFindMe PROで利用できるスキャン統計はどれですか？</ h2>
 
-<p><a href="#static:url">ScanMeFindMe</a> is developed to track and store important scan metrics in real-time. You'll have access to the following statistics when you sign up for a PRO account.</p>
+<p> <a href="#static:url"> ScanMeFindMe </a>は、重要なスキャン指標をリアルタイムで追跡および保存するために開発されました。 PROアカウントにサインアップすると、次の統計にアクセスできます。</ p>
 
-<h3>Total Scans</h3>
+<h3>合計スキャン</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - total scans.png"
-        alt="Total scans chart - QR code generator ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_statistics/files/img 1-total scans.png"
+        alt="トータルスキャンチャート-QRコードジェネレーターScanMeFindMe">
+</ p>
 
-<p>This chart shows the number of total and unique scans that you're getting everyday.</p>
+<p>このグラフは、毎日取得しているスキャンの総数と一意のスキャンの数を示しています。</ p>
 
-<p>Unique scans are the number of scans done from different devices. It does not include multiple scans from the same device. </p>
+<p>一意のスキャンは、さまざまなデバイスから実行されたスキャンの数です。同じデバイスからの複数のスキャンは含まれません。 </ p>
 
-<p>We use a special method where our server tags a device with a 'fingerprint' when it first scans a QR code. If the server detects a new scan with the same 'fingerprint', it is added to the total scans but not the unique scans.</p>
+<p>サーバーが最初にQRコードをスキャンするときに、デバイスに「指紋」のタグを付ける特別な方法を使用します。サーバーが同じ「フィンガープリント」を持つ新しいスキャンを検出した場合、そのスキャンは合計スキャンに追加されますが、一意のスキャンには追加されません。</ p>
 
-<p>You'll find this chart helpful when you want to know how many people are actually responding to your campaign. The unique scans will paint a clearer picture of how your campaign is performing.</p>
+<p>このグラフは、キャンペーンに実際に反応している人の数を知りたい場合に役立ちます。独自のスキャンにより、キャンペーンのパフォーマンスをより明確に把握できます。</ p>
 
-<h3>Scans By Months</h3>
+<h3>月ごとのスキャン</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png"
-        alt="Scans by month chart - QR code generator ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_statistics/files/img2-month.pngによるスキャン"
+        alt="月別スキャンチャート-QRコードジェネレーターScanMeFindMe">
+</ p>
 
-<p>If you're running a seasonal campaign, this chart will be helpful. The numbers of scans are plotted by month. It helps identify the months that bring your business the most QR code traffic. </p>
+<p>季節限定キャンペーンを実施している場合は、このグラフが役立ちます。スキャン数は月ごとにプロットされます。それはあなたのビジネスに最も多くのQRコードトラフィックをもたらす月を特定するのに役立ちます。 </ p>
 
-<h3>Scans By Hour Of The Day</h3>
+<h3>1日の時間ごとのスキャン</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png"
-        alt="Scans by hour of the day chart - QR code generator ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_statistics/files/img3-1日の時間ごとにスキャンします。png"
+        alt="時間チャートによるスキャン-QRコードジェネレーターScanMeFindMe">
+</ p>
 
-<p>You can also track QR scans by hours of the day. This is useful if you're running a restaurant or e-commerce where customers peak during different times. It helps to run a more targeted campaign during the peak hours.</p>
+<p>QRスキャンを1日の時間単位で追跡することもできます。これは、顧客がさまざまな時間帯にピークに達するレストランやeコマースを運営している場合に便利です。ピーク時に、より的を絞ったキャンペーンを実行するのに役立ちます。</ p>
 
-<h3>Scans By OS</h3>
+<h3>OSによるスキャン</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png"
-        alt="Scans by OS chart - QR code generator ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src ="https://media.scanmefindme.com/blog/about_statistics/files/img4-OS.pngによるスキャン"
+        alt="OSチャートによるスキャン-QRコードジェネレーターScanMeFindMe">
+</ p>
 
-<p>Our server can also pick up which operating system the users are using when scanning the QR code. Usually, iOS and Android tend to dominate the chart as most users scan QR codes from their mobile phones. The statistics help when you're getting users to download an app for a specific OS. </p>
+<p>サーバーは、QRコードをスキャンするときにユーザーが使用しているオペレーティングシステムを取得することもできます。通常、ほとんどのユーザーが携帯電話からQRコードをスキャンするため、iOSとAndroidがチャートを支配する傾向があります。統計は、ユーザーに特定のOS用のアプリをダウンロードさせるときに役立ちます。 </ p>
 
-<h3>Scans By Language</h3>
+<h3>言語別スキャン</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - scans by lang.png"
-        alt="Scans by language chart - QR code generator ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_statistics/files/img5-lang.pngによるスキャン"
+        alt="言語チャートでスキャン-QRコードジェネレーターScanMeFindMe">
+</ p>
 
-<p>This chart will show what is the primary language installed on your clients devices. This is usually the language they are most comfortable with. This can be useful as if you find that a lot of your clients prefer French, for example, you might offer some materials in French to increase sales and popularity.</p>
+<p>このグラフは、クライアントデバイスにインストールされている主要言語を示しています。これは通常、彼らが最も使いやすい言語です。これは、多くのクライアントがフランス語を好む場合に役立ちます。たとえば、売り上げと人気を高めるためにフランス語の資料を提供する場合があります。</ p>
 
-<h3>Scans By Country and City</h3>
+<h3>国および都市別のスキャン</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - scans by country and city.png"
-        alt="Scans by country and city chart - QR code generator ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src ="https://media.scanmefindme.com/blog/about_statistics/files/img6-国と都市によるスキャン.png"
+        alt="国と都市のチャートでスキャン-QRコードジェネレーターScanMeFindMe">
+</ p>
 
-<p><a href="#pro">ScanMeFindMe PRO</a> also tracks scans by city and country. This is done from tracking the IP address of the mobile operator or internet service provider where the device is connected to. Do note that the geolocation chart only gives an approximate location of where the scans originated. </p>
+<p> <a href="#pro"> ScanMeFindMe PRO </a>は、都市や国ごとのスキャンも追跡します。これは、デバイスが接続されているモバイルオペレーターまたはインターネットサービスプロバイダーのIPアドレスを追跡することから行われます。ジオロケーションチャートは、スキャンが開始されたおおよその位置のみを示していることに注意してください。 </ p>
 
-<p>You may occasionally see scans from a different city or even country and it may seem surprising, especially if your QR code could not have possibly gotten there (for example, if it is a sticker on your office entrance). This usually means that somebody with a mobile phone from that country scanned your code while being on mobile data roaming.</p>
+<p>別の都市や国からのスキャンが表示されることがありますが、特にQRコードがそこに到達できなかった場合（たとえば、オフィスの入り口のステッカーの場合）は意外に思われるかもしれません。これは通常、その国の携帯電話を持っている人がモバイルデータローミング中にコードをスキャンしたことを意味します。</ p>
 
-<h3>Last Scans</h3>
+<h3>最後のスキャン</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans.png"
-        alt="Last scans list - QR code generator ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_statistics/files/img 7-last scans.png"
+        alt="最後のスキャンリスト-QRコードジェネレーターScanMeFindMe">
+</ p>
 
-<p>This table is populated with historical scan data. You'll find the finer details of each scan such as the date, time, country, language, OS and browser. </p>
+<p>このテーブルには、過去のスキャンデータが入力されます。日付、時刻、国、言語、OS、ブラウザなど、各スキャンの詳細が表示されます。 </ p>
 
-<h2>How To View And Download The Scan Statistics?</h2>
+<h2>スキャン統計を表示およびダウンロードする方法</h2>
 
-<p>All ScanMeFindMe PRO users have access to the statistics, which are displayed on the dashboard. You can also access the charts and tables via the 'Statistics' button on each of the dynamic codes.</p>
+<p>すべてのScanMeFindMePROユーザーは、ダッシュボードに表示される統計にアクセスできます。各動的コードの[統計]ボタンからグラフや表にアクセスすることもできます。</p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - dynamic codes-statistic.png"
-        alt="Individual QR code statistics - ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_statistics/files/img8-動的コード-statistic.png"
+        alt="個々のQRコード統計-ScanMeFindMe">
+</ p>
 
-<p>The Last Scans table can be downloaded in CSV (comma-separated values) format, which can be used for in-depth analysis.</p>
+<p> Last ScansテーブルはCSV（カンマ区切り値）形式でダウンロードでき、詳細な分析に使用できます。</ p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png"
-        alt="Download scans statistics - QR code generator ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src ="https://media.scanmefindme.com/blog/about_statistics/files/img7-最後のスキャン-CSV.pngとしてダウンロード"
+        alt="スキャン統計のダウンロード-QRコードジェネレーターScanMeFindMe">
+</ p>
 
-<p>You don't want to miss out on the scan statistics that can drive your marketing campaign in the right direction.</p>
+<p>マーケティングキャンペーンを正しい方向に導くことができるスキャン統計を見逃したくない。</p>
 
-<p><a href="#pro">Sign up for a ScanMeFindMe PRO account now.</a></p>
+<p> <ahref = "＃pro">今すぐScanMeFindMePROアカウントにサインアップしてください。</a></ p>

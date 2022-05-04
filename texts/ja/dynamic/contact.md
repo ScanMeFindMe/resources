@@ -1,10 +1,10 @@
-<h1>[Create a contact card] Create a QR code for a Contact card</h1>
+<h1>[連絡先カードを作成する] 連絡先カードのQRコードを作成する</h1>
 
 --- Example header ---
 
-Contact card example
+お問い合わせカードの例
 
 ----------
 
-<img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width="100%" height="auto"
-    alt="Contact card example - ScanMeFindMe">
+<img src = "https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width = "100％" height = "auto"
+    alt="連絡先カードの例-ScanMeFindMe">

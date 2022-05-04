@@ -1,7 +1,7 @@
-<h1>[Phone] Create a QR code for a phone number</h1>
+<h1>[電話] 電話番号のQRコードを作成する</h1>
 
 --- Text above the form ---
 
-<p class="hint smfm-hint">Enter a phone number in any format that a smartphone can recognise. It can be in a local format if you only expect people from your city/country to scan it, however international phone format works the best.</p>
+<pclass="ヒントsmfm-hint">スマートフォンが認識できる任意の形式で電話番号を入力します。自分の都市/国の人だけがスキャンすることを期待している場合は、ローカル形式にすることができますが、国際電話形式が最適です。</ p>
 
 ----------

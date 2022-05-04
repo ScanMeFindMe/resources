@@ -1,54 +1,53 @@
-<h1>Save time by creating presets for your QR codes</h1>
+<h1>QRコードのプリセットを作成して時間を節約</h1>
 
 --- Abstract / Meta description ---
 
-Maximize efficiency when personalizing your QR codes with presets. Save your choices and reuse them any time you want.
+プリセットを使用してQRコードをパーソナライズする際の効率を最大化します。選択内容を保存して、いつでも再利用できます。
 
 --- Short content 1 ---
 
-Choose a pre-designed preset or create one with selected style, colors, templates, and logo. Reuse them easily when generating QR codes.
+事前に設計されたプリセットを選択するか、選択したスタイル、色、テンプレート、およびロゴを使用してプリセットを作成します。 QRコードを生成するときに簡単に再利用できます。
 
 ----------
 
-<p>Having a personalized QR code that captures customer's attention helps in getting more engagement. With fun colors, a catchy caption, and a logo, you'll have a QR code that resonates with your brand value.</p>
+<p>顧客の注意を引くパーソナライズされたQRコードを持つことは、より多くのエンゲージメントを得るのに役立ちます。楽しい色、キャッチーなキャプション、ロゴで、ブランド価値に共鳴するQRコードを手に入れることができます。</ p>
 
-<p>Customizing QR codes can be a fun process, but it can be equally taxing if you do it every time you need to generate a QR code. </p>
+<p> QRコードのカスタマイズは楽しいプロセスですが、QRコードを生成する必要があるたびにカスタマイズすると、同じように負担がかかる可能性があります。 </ p>
 
-<p>This is where you'll want to create presets, a feature exclusive to ScanMeFindMe PRO users.</p>
+<p>ここで、ScanMeFindMePROユーザー専用の機能であるプリセットを作成します。</p>
 
-<h2>What Are Presets And Why Do You Need Them?</h2>
+<h2>プリセットとは何ですか。なぜそれらが必要なのですか？</ h2>
 
-<p>Presets are a memory of customization you've selected or created for a particular QR code. When you're using ScanMeFindMe PRO, you get to personalize the QR code with styles, colors, <a href="#article:about_templates">templates</a>, and <a href="#article:about_logos">logos</a>.</p>
+<p>プリセットは、特定のQRコード用に選択または作成したカスタマイズのメモリです。 ScanMeFindMe PROを使用している場合は、スタイル、色、<a href="#article:about_templates">テンプレート</a>、<ahref = "＃article：about_logos">ロゴを使用してQRコードをパーソナライズできます。 </a>。</p>
 
-<p>These selections can be saved as a preset where they can automatically be selected and applied to a new QR code. Technically, a preset contains information on the particular choices of styles, templates, logos, and colors. Presets are valid as long as the individual elements are not renamed or deleted. </p>
+<p>これらの選択はプリセットとして保存でき、自動的に選択して新しいQRコードに適用できます。技術的には、プリセットには、スタイル、テンプレート、ロゴ、および色の特定の選択に関する情報が含まれています。プリセットは、個々の要素の名前が変更されたり削除されたりしない限り有効です。 </ p>
 
-<p>Here's how you can use presets to save setup time when creating a QR code. </p>
+<p>プリセットを使用してQRコードを作成する際のセットアップ時間を節約する方法は次のとおりです。 </ p>
 
-<p>You're releasing a series of yoga tutorial videos, and you're <a href="#article:about_static">encoding the links in QR codes.</a> If you're going to personalize the QR code for each episode, you'll need to manually choose the colors, logo, templates, and style.</p>
+<p>一連のヨガチュートリアルビデオをリリースし、<ahref = "＃article：about_static">リンクをQRコードでエンコードします。</a>QRコードをパーソナライズする場合エピソードごとに、色、ロゴ、テンプレート、スタイルを手動で選択する必要があります。</ p>
 
-<p>It's easy to make a mistake, which results in some QR codes looking out of place. Also, you're wasting time repeating a process that can be automated. </p>
+<p>間違いを犯しやすいため、一部のQRコードが見当違いになります。また、自動化できるプロセスを繰り返すのに時間を無駄にしています。 </ p>
 
-<p>By saving your choices as a preset, you can reuse the style elements by just loading the same preset when generating the QR code for each episode. </p>
+<p>選択内容をプリセットとして保存することで、エピソードごとにQRコードを生成するときに同じプリセットをロードするだけで、スタイル要素を再利用できます。 </ p>
 
-<h2>How To Create And Save Presets for QR codes</h2>
+<h2>QRコードのプリセットを作成して保存する方法</h2>
 
-<p>If you're using <a href="#pro">ScanMeFindMe PRO</a>, you can create a preset with the 'Create a new preset' button while you create or edit any QR code in the QR code generator. You can choose a name for your preset so it is easier to use in the <a href="#about:api" title="QR code API">API</a>.</p>
+<p> <a href="#pro"> ScanMeFindMe PRO </a>を使用している場合は、QRコードでQRコードを作成または編集するときに、[新しいプリセットを作成]ボタンを使用してプリセットを作成できます発生器。 <a href="#about:api" title="QR code API">API</a>で使いやすいようにプリセットの名前を選択できます。</p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 1 - Presets.png"
-        alt="Creating a preset from the QR code editor">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_presets/files/img 1-Presets.png"
+        alt="QRコードエディタからプリセットを作成する">
+</ p>
 
-<p>Alternatively, you can duplicate an existing preset in the library and customize it. </p>
+<p>または、ライブラリ内の既存のプリセットを複製してカスタマイズすることもできます。 </ p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
-        alt="Creating a preset by copying a system one">
-</p>
+<p class = "imageholder">
+    <img src ="https://media.scanmefindme.com/blog/about_presets/files/img2-preset.pngをカスタマイズする"
+        alt="システムをコピーしてプリセットを作成する">
+</ p>
 
-<p>Once you're done, the customized preset will appear alongside other pre-installed presets on the selection panel. </p>
+<p>完了すると、カスタマイズされたプリセットが、選択パネルに他のプリインストールされたプリセットと一緒に表示されます。 </ p>
 
-<p>Selecting a preset will automatically regenerate the QR code with the selected style and design elements. If you're using our <a href="#static:url">QR code generator</a> from the API, you can invoke the presets by specifying their names.</p>
+<p>プリセットを選択すると、選択したスタイルとデザイン要素でQRコードが自動的に再生成されます。 APIの<ahref="#static:url">QRコードジェネレーター</a>を使用している場合は、名前を指定してプリセットを呼び出すことができます。</ p>
 
-<p>Stop re-styling your QR code each time you generate one. Try <a href="#pro">ScanMeFindMe PRO</a> and use presets instead. </p>
-
+<p> QRコードを生成するたびに、QRコードのスタイル変更を停止します。 <a href="#pro"> ScanMeFindMe PRO </a>を試して、代わりにプリセットを使用してください。 </ p>

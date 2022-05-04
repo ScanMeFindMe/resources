@@ -1,3 +1,3 @@
-<h1>[Wi-Fi] Create a QR code for a Wi-Fi connection</h1>
+<h1>[Wi-Fi] Wi-Fi接続用のQRコードを作成する</h1>
 
 ----------

@@ -1,37 +1,37 @@
-<h1>[URL] Create a QR code for a website or URL</h1>
+<h1>[URL] ウェブサイトまたはURLのQRコードを作成する</h1>
 
 ----------
 
-<h1>Effortless QR Code Solutions For Savvy Marketers</h1>
+<h1>精通したマーケターのための簡単なQRコードソリューション</h1>
 
-<p>Create, download, manage and track QR codes with a single platform. Work with different types of QR codes and personalization to suit your branding strategy.</p>
+<p>単一のプラットフォームでQRコードを作成、ダウンロード、管理、追跡します。さまざまな種類のQRコードとパーソナライズを使用して、ブランディング戦略に適合させます。</ p>
 
-<p><a href="#pro">Try For Free</a></p>
+<p> <ahref="#pro">無料でお試しください</a></p>
 
-<h2>Create</h2>
+<h2>作成</h2>
 
-<p>Generate QR codes for websites, contacts, phones, SMS, and more in simple steps. You don’t have to be a technical wizard.</p>
+<p>ウェブサイト、連絡先、電話、SMSなどのQRコードを簡単な手順で生成します。技術的なウィザードである必要はありません。</p>
 
-<h2>Customize</h2>
+<h2>カスタマイズ</h2>
 
-<p>Choose from existing designs or add a personal touch to the QR code. Upload your own logo, template and select a color that goes well with your brand. Save time by using presets.</p>
+<p>既存のデザインから選択するか、QRコードに個人的なタッチを追加します。独自のロゴ、テンプレートをアップロードし、ブランドに合った色を選択してください。プリセットを使用して時間を節約します。</p>
 
-<h2>Download</h2>
+<h2>ダウンロード</h2>
 
-<p>Download QR codes in high-resolution format. Set precise QR code location with advanced page settings.</p>
+<p>QRコードを高解像度形式でダウンロードします。詳細なページ設定で正確なQRコードの場所を設定します。</p>
 
-<h2>Manage</h2>
+<h2>管理</h2>
 
-<p>Store and manage all of your QR codes with one solution. Easily search and filter QR codes by tags. Stay organized as you create more QR codes.</p>
+<p>1つのソリューションですべてのQRコードを保存および管理します。タグでQRコードを簡単に検索してフィルタリングします。より多くのQRコードを作成しても、整理された状態を保ちます。</ p>
 
-<h2>Track</h2>
+<h2>追跡</h2>
 
-<p>Leverage real-time QR code analytics to track scans, locations, language, platform, and other key metrics. A must-have for data-driven marketing efforts.</p>
+<p>リアルタイムのQRコード分析を活用して、スキャン、場所、言語、プラットフォーム、およびその他の主要な指標を追跡します。データ主導のマーケティング活動に欠かせないものです。</p>
 
-<p><a href="#article:about_statistics">Learn More</a></p>
+<p> <ahref = "＃article：about_statistics">詳細</a> </ p>
 
-<h2>Unlock Dynamic QR Codes With ScanMeFindMe PRO</h2>
+<h2>ScanMeFindMePROで動的QRコードのロックを解除する</h2>
 
-<p>Dynamic QR codes live up to their name. You can dynamically change information after you have printed the QR code. Dynamic QR codes are only available in the ScanMeFindMe PRO</p>
+<p>動的QRコードはその名に恥じないものです。 QRコードを印刷した後、動的に情報を変更できます。動的QRコードは、ScanMeFindMePROでのみ使用できます</p>
 
-<p><a href="#article:about_static">Static vs dynamic QR codes (Learn More)</a></p>
+<p> <ahref = "＃article：about_static">静的QRコードと動的QRコード（詳細）</a> </ p>

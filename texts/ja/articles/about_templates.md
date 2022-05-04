@@ -1,72 +1,72 @@
-<h1>How to add borders and captions to the QR codes</h1>
+<h1>QRコードに境界線とキャプションを追加する方法</h1>
 
 --- Abstract / Meta description ---
 
-Learn how to add borders and captions that make your QR code unique. Style your QR code with a catchy call-to-actions to boost conversion.
+QRコードを一意にする境界線とキャプションを追加する方法を学びます。キャッチーな召喚状を使用してQRコードのスタイルを設定し、コンバージョンを促進します。
 
 --- Short content 1 ---
 
-Learn how to add catchy phrases with QR codes captions. Choose from pre-defined templates or create your own with a PRO account.
+QRコードのキャプションを使用してキャッチーなフレーズを追加する方法を学びます。事前定義されたテンプレートから選択するか、PROアカウントを使用して独自のテンプレートを作成します。
 
 ----------
 
-<p>For marketers, everything comes out to conversion. If you have a brilliant ad designed, it's for nothing if the audience doesn't reach out in one way or another.</p>
+<p>マーケターにとって、すべてはコンバージョンにつながります。優れた広告をデザインしている場合、視聴者が何らかの形で手を差し伸べなければ、それは何の役にも立ちません。</ p>
 
-<p><a href="#static:url">QR codes</a> are a useful marketing tool, but adding a plain-format QR code doesn't do justice to the creative works done on marketing materials.</p>
+<p> <a href="#static:url"> QRコード</a>は便利なマーケティングツールですが、プレーンフォーマットのQRコードを追加しても、マーケティング資料で行われるクリエイティブな作業を正当化することはできません。</ p>
 
-<p>Without a little nudge, the audience may skip over the QR code, even when it's in plain sight. Often, a call-to-action (CTA) and a unique presentation are what it takes to get users to scan the QR code.</p>
+<p>少し注意を払わなくても、視聴者はQRコードがはっきりと見えていてもスキップする可能性があります。多くの場合、ユーザーにQRコードをスキャンさせるには、召喚状（CTA）と独自のプレゼンテーションが必要です。</ p>
 
-<h2>Why Add Borders And Captions To QR Codes?</h2>
+<h2>QRコードに境界線とキャプションを追加する理由</h2>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - templates.png"
-        alt="QR code templates - ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_templates/files/img 1 --templates.png"
+        alt="QRコードテンプレート-ScanMeFindMe">
+</ p>
 
-<p>Instead of sticking with the default format, you'll want to add a 'Scan Me' text along with the QR code. People may have developed 'QR code blindness' when seeing so many of them in their daily lives. </p>
+<p>デフォルトの形式に固執する代わりに、QRコードと一緒に「スキャンミー」テキストを追加することをお勧めします。日常生活の中で多くの人を見ると、「QRコードの失明」が発生した可能性があります。 </ p>
 
-<p>However, a 'Scan Me' text and a unique border draw their attention to the QR code. The CTA leaves no doubt on what the audience should do next: scan the QR code. </p>
+<p>ただし、「スキャンミー」のテキストと固有の境界線がQRコードに注目を集めています。 CTAは、視聴者が次に何をすべきかについて疑いを残していません。QRコードをスキャンします。 </ p>
 
-<p>You can also add text that previews what's on the other side of the QR code. For example, an 'App Store' text tells the users that they're about to be redirected to your app on Apple App Store. Or a simple 'Menu' to get users to check out what's offered by your restaurant.</p>
+<p>QRコードの反対側にあるものをプレビューするテキストを追加することもできます。たとえば、「App Store」というテキストは、AppleAppStoreのアプリにリダイレクトされようとしていることをユーザーに通知します。または、シンプルな「メニュー」を使用して、レストランが提供するものをユーザーに確認してもらいます。</ p>
 
-<p>The idea is, you'll want to instill trust and remove any uncertainties with QR codes. Customers like to have an idea of what they're getting into before they scan the QR. With the right borders and captions, you can do precisely that and increase conversions.</p>
+<p>アイデアは、QRコードで信頼を植え付け、不確実性を取り除きたいということです。顧客は、QRをスキャンする前に、自分が何に取り組んでいるのかを知りたいと思っています。適切な境界線とキャプションを使用すると、それを正確に実行して、コンバージョンを増やすことができます。</ p>
 
-<p>Even in the <a href="#static:url">Free version of QR code generator</a> you can modify the captions on the templates. Change the default <strong>"Scan me"</strong> to <strong>"More info"</strong>, <strong>"Our menu"</strong>, your instagram handle or a phone number. If your text is too long or too short, you can descrease or increase the font size to make it look better.</p>
+<p> <ahref = "＃static：url">無料版のQRコードジェネレーター</a>でも、テンプレートのキャプションを変更できます。デフォルトの<strong>「スキャンミー」</strong>を<strong>「詳細」</strong>、<strong>「メニュー」</ strong>、Instagramハンドル、または電話番号に変更します。テキストが長すぎたり短すぎたりする場合は、フォントサイズを小さくしたり大きくしたりして、見栄えを良くすることができます。</ p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
-        alt="QR code for instagram handle - ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_templates/files/img 2-qr code instagram.png"
+        alt="InstagramハンドルのQRコード-ScanMeFindMe">
+</ p>
 
-<p>Personalizing your QR codes with templates not only helps with marketing but also prevents confusion when you're sorting them out. Imagine you're about to print dozens of QR codes in different materials, and you'll need to scan them for verification manually. By having captions and borders, you'll know what they are meant for just by their visual appearance.</p>
+<p>テンプレートを使用してQRコードをパーソナライズすると、マーケティングに役立つだけでなく、整理する際の混乱を防ぐことができます。数十のQRコードをさまざまな素材で印刷しようとしていて、手動で確認するためにそれらをスキャンする必要があるとします。キャプションと境界線を設定することで、視覚的な外観だけでそれらが何を意味するのかがわかります。</ p>
 
-<h2>How To Create Your Own Templates</h2>
+<h2>独自のテンプレートを作成する方法</h2>
 
-<p>When you're using <a href="#pro">ScanMeFindMe PRO</a>, you have access to a set of pre-designed templates. However, you can also design your own templates, upload them and personalize the <a href="#static:url">QR code generated on our platform</a>.</p>
+<p> <a href="#pro"> ScanMeFindMe PRO </a>を使用している場合は、事前に設計された一連のテンプレートにアクセスできます。ただし、独自のテンプレートをデザインしてアップロードし、<ahref = "＃static：url">プラットフォームで生成されたQRコード</a>をパーソナライズすることもできます。</ p>
 
-<p>Not only that, you can also <a href="#article:about_presets">create presets</a> that include your choice of templates to save time in the future. </p>
+<p>それだけでなく、将来の時間を節約するために、選択したテンプレートを含む<ahref = "＃article：about_presets">プリセットを作成</a>することもできます。 </ p>
 
-<p>Now, how do you create your own templates?</p>
+<p>では、どのようにして独自のテンプレートを作成しますか？</ p>
 
-<p>The templates are image files in the SVG format. An SVG image is an XML file containing tags representing different elements. Web browsers use the information from the file to render the image at any resolution. You can create an SVG file via graphic design software like Adobe Illustrator or use a JPEG/PNG to SVG converter.</p>
+<p>テンプレートはSVG形式の画像ファイルです。 SVG画像は、さまざまな要素を表すタグを含むXMLファイルです。 Webブラウザーは、ファイルからの情報を使用して、任意の解像度で画像をレンダリングします。 Adobe Illustratorなどのグラフィックデザインソフトウェアを介してSVGファイルを作成するか、JPEG/PNGからSVGへのコンバーターを使用できます。</p>
 
-<p>The quickest way to create a template is to duplicate one from the library and edit the SVG source.</p>
+<p>テンプレートを作成する最も簡単な方法は、ライブラリからテンプレートを複製してSVGソースを編集することです。</ p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
-        alt="Editing QR code template - ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src = "https://media.scanmefindme.com/blog/about_templates/files/img3-編集svgtemplate.png"
+        alt="QRコードテンプレートの編集-ScanMeFindMe">
+</ p>
 
-<p>For a template to work on ScanMeFindMe, it must have a <strong class="notranslate">&lt;rect&gt;</strong> element with <strong class="notranslate">id="qr"</strong>, which will be substituted with the QR code when it is generated.</p>
+<p> ScanMeFindMeでテンプレートを機能させるには、<strong class = "notranslate">＆lt; rect＆gt;</strong>要素と<strongclass= "notranslate"> id = "qr"</strong>要素が必要です。 、生成時にQRコードに置き換えられます。</ p>
 
-<p>You can also include <strong class="notranslate">&lt;text&gt;</strong> elements, if those elements have an <strong class="notranslate">id</strong> attribute, they will become captions that you can modify for each QR code that uses this template. Additionally, if such <span class="notranslate">&lt;text&gt;</span> elements contain the <strong class="notranslate">font-size</strong> attribute, you'll be able to change the font size for each QR code using the same template.</p>
+<p> <strong class = "notranslate">＆lt; text＆gt;</strong>要素を含めることもできます。これらの要素に<strongclass= "notranslate"> id </ strong>属性がある場合、それらは次のようなキャプションになります。このテンプレートを使用するQRコードごとに変更できます。さらに、そのような<span class = "notranslate">＆lt; text＆gt;</span>要素に<strongclass="notranslate"> font-size </ strong>属性が含まれている場合は、フォントサイズを変更できます。同じテンプレートを使用するQRコードごとに。</p>
 
-<p>Beware of some limitations! ScanMeFindMe uses the <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> library to convert generated QR codes to PNG, PDF and PS formats. Some complicated SVG elements may not be converted correctly. For security reasons @include directive is ignored during conversion, so you can not include any external URLs (with the exception of the fonts that we installed on our server).</p>
+<p>いくつかの制限に注意してください！ ScanMeFindMeは、<a href="https://cairosvg.org/" class="smfm-externallink"> CairoSVG </a>ライブラリを使用して、生成されたQRコードをPNG、PDF、およびPS形式に変換します。一部の複雑なSVG要素は正しく変換されない場合があります。セキュリティ上の理由から、@ includeディレクティブは変換中に無視されるため、外部URLを含めることはできません（サーバーにインストールしたフォントを除く）。</ p>
 
-<h2>What Fonts Are Supported? </h2>
+<h2>どのフォントがサポートされていますか？ </ h2>
 
-<p>Rather than going into an endless serif vs. san serif argument, we let you decide what's the best with several commonly-used fonts. You can find the fonts that are pre-installed on the server in our Github repository: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
+<p>無限のセリフ対サンセリフの議論に入るのではなく、いくつかの一般的に使用されるフォントで何が最良かを決定できるようにします。サーバーにプリインストールされているフォントは、Githubリポジトリにあります：<a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank"> https： //github.com/ScanMeFindMe/fonts </a> </ p>
 
-<p>If you feel we're missing out on an interesting font for fellow marketers, you can submit a pull request. Generally, we prefer fonts that support multiple languages.</p>
+<p>他のマーケターにとって興味深いフォントが不足していると思われる場合は、プルリクエストを送信できます。通常、複数の言語をサポートするフォントを使用します。</ p>
 
-<p>Start uploading your own templates with a <a href="#pro">ScanMeFindMe PRO account</a> now.</p>
+<p>今すぐ<ahref="#pro">ScanMeFindMePROアカウント</a>を使用して独自のテンプレートのアップロードを開始してください。</p>

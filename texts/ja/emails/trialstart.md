@@ -1,5 +1,5 @@
-Welcome to ScanMeFindMe
+ScanMeFindMeへようこそ
 
-<h1>Hello {{name}},</h1>
-<h2>Welcome to your trial at ScanMeFindMe.</h2>
-<p>Your trial period will expire on {{expires}}.</p>
+<h1>こんにちは{{name}}、</ h1>
+<h2>ScanMeFindMeでのトライアルへようこそ。</h2>
+<p>試用期間は{{expires}}に期限切れになります。</p>

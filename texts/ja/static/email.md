@@ -1,3 +1,3 @@
-<h1>[E-mail] Create a QR code for an E-mail address</h1>
+<h1>[Eメール] メールアドレスのQRコードを作成する</h1>
 
 ----------

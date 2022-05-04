@@ -1,73 +1,73 @@
-<h1>How QR codes can be used to share files</h1>
+<h1>QRコードを使用してファイルを共有する方法</h1>
 
 --- Abstract / Meta description ---
 
-Share files with QR codes to consolidate and simplify information access.  Allows users to download files with just a scan.
+QRコードを使用してファイルを共有し、情報アクセスを統合および簡素化します。ユーザーがスキャンするだけでファイルをダウンロードできるようにします。
 
 --- Short content 1 ---
 
-Upload menus, music, manuals, and other files onto a personalized webpage. Share the QR code with others and monitor how often it’s scanned.
+メニュー、音楽、マニュアル、およびその他のファイルをパーソナライズされたWebページにアップロードします。 QRコードを他の人と共有し、スキャンされる頻度を監視します。
 
 ----------
 
-<p>Do you receive numerous calls from customers because they have trouble finding the right product manuals? Or are you tired of emailing multiple attachments to your team members?  </p>
+<p>お客様が適切な製品マニュアルを見つけるのに苦労しているため、お客様から多くの電話がありますか？または、チームメンバーに複数の添付ファイルを電子メールで送信するのにうんざりしていませんか？ </ p>
 
-<p>Regardless of which business you're in, there's always room for improvement when it comes to information sharing. If the existing method proves to be a bottleneck, it's time to re-evaluate if you're using the right technology to share files. </p>
+<p>どのビジネスに携わっていても、情報共有に関しては常に改善の余地があります。既存の方法がボトルネックであることが判明した場合は、ファイルを共有するために適切なテクノロジーを使用しているかどうかを再評価するときが来ました。 </ p>
 
-<p>Cloud storage is one part of the solution, but the key to efficient file-sharing is enabling recipients access to the resources with minimum fuss. That's where <a href="#static:url">using QR codes</a>  for file-sharing kicks in.</p>
+<p>クラウドストレージはソリューションの一部ですが、効率的なファイル共有の鍵は、受信者が最小限の手間でリソースにアクセスできるようにすることです。そこで、<ahref = "＃static：url">ファイル共有にQRコードを使用</a>します。</ p>
 
-<h2>How Does File Sharing With QR Codes Work?</h2>
+<h2> QRコードを使用したファイル共有はどのように機能しますか？</ h2>
 
-<p>Unlike what most people imagine, you wouldn't be storing the files into a QR code. Most files are too large to be encoded into a QR code. </p>
+<p>ほとんどの人が想像していることとは異なり、ファイルをQRコードに保存することはありません。ほとんどのファイルは大きすぎてQRコードにエンコードできません。 </ p>
 
-<p>Instead, the files are uploaded to a webpage, and a shortened URL is generated and stored in the QR code. When users scan the code, they are redirected to the webpage where they can download the files. </p>
+<p>代わりに、ファイルはWebページにアップロードされ、短縮URLが生成されてQRコードに保存されます。ユーザーがコードをスキャンすると、ファイルをダウンロードできるWebページにリダイレクトされます。 </ p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - preview files.png"
-        alt="Preview of a page with files - ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src ="https://media.scanmefindme.com/blog/about_dynamic_page/files/img1-プレビューfiles.png"
+        alt="ファイルを含むページのプレビュー-ScanMeFindMe">
+</ p>
 
-<p>If you're using <a href="#pro">ScanMeFindMe PRO</a>, you can also include the title, description, and logo on the file-sharing page. It makes the page looks more professional and provides more information about the downloadable files to users.  </p>
+<p> <a href="#pro"> ScanMeFindMe PRO </a>を使用している場合は、ファイル共有ページにタイトル、説明、ロゴを含めることもできます。これにより、ページがよりプロフェッショナルに見え、ダウンロード可能なファイルに関する詳細情報がユーザーに提供されます。 </ p>
 
-<h2>Why Use QR Codes To Share Files?</h2>
+<h2>ファイルを共有するためにQRコードを使用する理由</h2>
 
-<p>There are various ways to access information, but QR codes offer multiple advantages over conventional ones. </p>
+<p>情報にアクセスするにはさまざまな方法がありますが、QRコードには従来のコードに比べて複数の利点があります。 </ p>
 
-<h3>It's Efficient</h3>
+<h3>効率的です</h3>
 
-<p>With QR Codes, you can consolidate different resources on a single webpage. It saves you the trouble of sorting out which files to be sent out and who are the right recipients.  </p>
+<p> QRコードを使用すると、さまざまなリソースを1つのWebページに統合できます。これにより、送信するファイルと適切な受信者を分類する手間が省けます。 </ p>
 
-<p>All you need to do is to upload the files once and send out the QR codes. It spares you the trouble of waiting for the uploads to complete. Also, there's a lesser chance of sending out the wrong files in an email.  </p>
+<p>必要なのは、ファイルを1回アップロードして、QRコードを送信することだけです。アップロードが完了するのを待つ手間が省けます。また、電子メールで間違ったファイルを送信する可能性が低くなります。 </ p>
 
-<h3>It's Economical</h3>
+<h3>経済的です</h3>
 
-<p>QR code file-sharing offers the best of two different digital technologies. You don't have to invest in printing out stacks of documents, which leads to tremendous savings in print expenses. </p>
+<p> QRコードファイル共有は、2つの異なるデジタルテクノロジーの最高のものを提供します。ドキュメントのスタックを印刷するために投資する必要がないため、印刷費用を大幅に節約できます。 </ p>
 
-<p>You can add the QR code with minimum cost onto; product packaging, leaflets, banners or emails, and have users be able to access the files digitally. </p>
+<p>最小コストでQRコードを追加できます。製品のパッケージ、リーフレット、バナー、または電子メールを使用して、ユーザーがファイルにデジタルでアクセスできるようにします。 </ p>
 
-<h3>It's Flexible</h3>
+<h3>柔軟性があります</h3>
 
-<p>Did you have an updated version of the user manuals? Or keen to offer new recipes along with packs of pasta? You don't have to scrap existing marketing materials printed with the QR code. </p>
+<p>ユーザーマニュアルの更新版はありましたか？または、パスタのパックと一緒に新しいレシピを提供したいですか？ QRコードで印刷された既存のマーケティング資料を廃棄する必要はありません。 </ p>
 
-<p>Being a <a href="#about:product">dynamic QR code</a>, you can remove and add new files on the webpage and retain the existing QR code.</p>
+<p> <ahref = "＃about：product">動的QRコード</a>であるため、ウェブページ上の新しいファイルを削除および追加して、既存のQRコードを保持できます。</ p>
 
-<h3>It's Trackable</h3>
+<h3>追跡可能</h3>
 
-<p>If you're just mailing out attachments, you can't trace how many of them are downloaded by the recipients. With a dynamic QR code, you can <a href="#article:about_statistics">track the number of scans</a> and where they originated.  </p>
+<p>添付ファイルをメールで送信するだけの場合、受信者がダウンロードした添付ファイルの数を追跡することはできません。動的QRコードを使用すると、<ahref = "＃article：about_statistics">スキャンの数</a>とその発生場所を追跡できます。 </ p>
 
-<p>These statistics are helpful when you're evaluating how customers are engaging with the product.  </p>
+<p>これらの統計は、顧客が製品にどのように関与しているかを評価するときに役立ちます。 </ p>
 
-<h2>How To Share Files With QR Codes</h2>
+<h2>QRコードとファイルを共有する方法</h2>
 
-<p>With <a href="#pro">ScanMeFineMe PRO</a> , you can upload files to a webpage and create a QR code quickly. There's no technical knowledge involved. </p>
+<p> <a href="#pro"> ScanMeFineMe PRO </a>を使用すると、ファイルをWebページにアップロードして、QRコードをすばやく作成できます。関係する技術的な知識はありません。 </ p>
 
-<p>Our file-sharing QR code generator has an intuitive interface that lets you personalize the webpage with the title, logo, and description. You can also choose how the files are displayed on the webpage. </p>
+<p>ファイル共有QRコードジェネレーターには、タイトル、ロゴ、説明を使用してWebページをパーソナライズできる直感的なインターフェイスがあります。また、ファイルをWebページに表示する方法を選択することもできます。 </ p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - how files are displayed.png"
-        alt="Preview of a generator for a page with files - ScanMeFindMe">
-</p>
+<p class = "imageholder">
+    <img src ="https://media.scanmefindme.com/blog/about_dynamic_page/files/img2-ファイルの表示方法.png"
+        alt="ファイルを含むページのジェネレーターのプレビュー-ScanMeFindMe">
+</ p>
 
-<p>A QR code that contains the short URL to the webpage with downloadable files is generated. Use the QR code in marketing material, product packaging, email, classroom, or other media to allow quick information access. </p>
+<p>ダウンロード可能なファイルを含むWebページへの短縮URLを含むQRコードが生成されます。マーケティング資料、製品パッケージ、電子メール、教室、またはその他のメディアでQRコードを使用して、情報にすばやくアクセスできるようにします。 </ p>
 
-<p><a href="#pro">Get started with ScanMeFindMe PRO now.</a></p>
+<p> <ahref = "＃pro">今すぐScanMeFindMePROを使い始めましょう。</a></ p>
