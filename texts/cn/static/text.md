@@ -1,3 +1,3 @@
-<h1>[Text] Create a QR code for any text content</h1>
+<h1>[文本] 为任何文本内容创建二维码</h1>
 
 ----------

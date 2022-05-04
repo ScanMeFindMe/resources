@@ -1,5 +1,5 @@
-Your trial period at ScanMeFindMe has ended
+您在 ScanMeFindMe 的试用期已结束
 
-<h1>Hello {{name}},</h1>
-<h2>Yor trial period on ScanMeFindMe has now ended.</h2>
-<p>You can still log in and upgrade to a plan, or otherwise your account and all your QR codes will be deleted after 30 days.</p>
+<h1>你好{{name}}，</h1>
+<h2>您在 ScanMeFindMe 上的试用期现已结束。</h2>
+<p>您仍然可以登录并升级到套餐，否则您的帐户和所有二维码将在 30 天后被删除。</p>

@@ -1,8 +1,8 @@
-<h1>[Create a short url] Create a QR code for a website or URL</h1>
+<h1>[创建一个短网址] 为网站或 URL 创建二维码</h1>
 
 --- Example header ---
 
-Short URL example
+短网址示例
 
 ----------
 
@@ -11,14 +11,14 @@ Short URL example
         <img src="https://media.scanmefindme.com/dynamic/url/url-popup-qr.svg" width="100%" height="auto"
             alt="QR">
     </div>
-    <p>This QR code points to the short url
+    <p>此二维码指向短网址
         <a href="http://qrs.re/example1" target="_blank" rel="noopener" class="smfm-externallink">http://qrs.re/example1</a>
     </p>
 </div>
 
-<p class="mb-7">It will take you to the google form. At any moment, the owner can change where the link redirects to without having to make a new QR code.</p>
+<p class="mb-7">它将带您进入 google 表单。所有者可以随时更改链接重定向到的位置，而无需制作新的二维码。</p>
 
 <p>
     <img src="https://media.scanmefindme.com/dynamic/url/url-popup-dahsboard.png" width="100%" height="auto"
-        alt="QR code scans statistics - ScanMeFindMe">
+        alt="二维码扫描统计 - ScanMeFindMe">
 </p>

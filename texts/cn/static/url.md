@@ -1,37 +1,37 @@
-<h1>[URL] Create a QR code for a website or URL</h1>
+<h1>[网址] 为网站或 URL 创建二维码</h1>
 
 ----------
 
-<h1>Effortless QR Code Solutions For Savvy Marketers</h1>
+<h1>为精明的营销人员提供轻松的二维码解决方案</h1>
 
-<p>Create, download, manage and track QR codes with a single platform. Work with different types of QR codes and personalization to suit your branding strategy.</p>
+<p>使用单一平台创建、下载、管理和跟踪二维码。使用不同类型的二维码和个性化设置以适应您的品牌战略。</p>
 
-<p><a href="#pro">Try For Free</a></p>
+<p><a href="#pro">免费试用</a></p>
 
-<h2>Create</h2>
+<h2>创建</h2>
 
-<p>Generate QR codes for websites, contacts, phones, SMS, and more in simple steps. You don’t have to be a technical wizard.</p>
+<p>通过简单的步骤为网站、联系人、电话、短信等生成二维码。您不必是技术向导。</p>
 
-<h2>Customize</h2>
+<h2>自定义</h2>
 
-<p>Choose from existing designs or add a personal touch to the QR code. Upload your own logo, template and select a color that goes well with your brand. Save time by using presets.</p>
+<p>从现有设计中进行选择或为 QR 码添加个人风格。上传您自己的徽标、模板并选择适合您品牌的颜色。使用预设节省时间。</p>
 
-<h2>Download</h2>
+<h2>下载</h2>
 
-<p>Download QR codes in high-resolution format. Set precise QR code location with advanced page settings.</p>
+<p>下载高分辨率格式的二维码。使用高级页面设置设置精确的 QR 码位置。</p>
 
-<h2>Manage</h2>
+<h2>管理</h2>
 
-<p>Store and manage all of your QR codes with one solution. Easily search and filter QR codes by tags. Stay organized as you create more QR codes.</p>
+<p>使用一种解决方案存储和管理您的所有二维码。通过标签轻松搜索和过滤二维码。创建更多二维码时保持井井有条。</p>
 
-<h2>Track</h2>
+<h2>跟踪</h2>
 
-<p>Leverage real-time QR code analytics to track scans, locations, language, platform, and other key metrics. A must-have for data-driven marketing efforts.</p>
+<p>利用实时二维码分析来跟踪扫描、位置、语言、平台和其他关键指标。数据驱动营销工作的必备工具。</p>
 
-<p><a href="#article:about_statistics">Learn More</a></p>
+<p><a href="#article:about_statistics">了解详情</a></p>
 
-<h2>Unlock Dynamic QR Codes With ScanMeFindMe PRO</h2>
+<h2>使用 ScanMeFindMe PRO 解锁动态二维码</h2>
 
-<p>Dynamic QR codes live up to their name. You can dynamically change information after you have printed the QR code. Dynamic QR codes are only available in the ScanMeFindMe PRO</p>
+<p>动态二维码名副其实。您可以在打印二维码后动态更改信息。动态二维码仅适用于 ScanMeFindMe PRO</p>
 
-<p><a href="#article:about_static">Static vs dynamic QR codes (Learn More)</a></p>
+<p><a href="#article:about_static">静态与动态二维码（了解更多）</a></p>

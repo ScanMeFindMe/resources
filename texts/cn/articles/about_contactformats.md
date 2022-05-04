@@ -1,99 +1,99 @@
-<h1>What are MeCard and vCard formats that are used for QR codes</h1>
+<h1>用于 QR 码的 MeCard 和 vCard 格式是什么</h1>
 
 --- Abstract / Meta description ---
 
-What are the differences between MeCard and Vcard? Which works best for QR codes? Find out more in this article.
+MeCard 和 Vcard 有什么区别？哪个最适合 QR 码？在本文中了解更多信息。
 
 --- Short content 1 ---
 
-Vcard stores more information and is commonly used for sharing contacts. MeCard is used exclusively for QR codes and is more compact.
+Vcard 存储更多信息，通常用于共享联系人。 MeCard 专用于二维码，更加小巧。
 
 ----------
 
-<p>You've heard that QR codes make social networking easier. You can do away with stacks of printed business cards and have all your contact information encoded in a QR code. </p>
+<p>您听说 QR 码让社交网络变得更容易。您可以摒弃成堆的印刷名片，并将所有联系信息编码在二维码中。 </p>
 
-<p>Yet, there's often a choice to be made when <a href="#static:contact">generating a QR code for contacts</a>. Should you choose the MeCard or the Vcard format? </p>
+<p>然而，当<a href="#static:contact">为联系人生成二维码</a>时，通常需要做出选择。您应该选择 MeCard 还是 Vcard 格式？ </p>
 
-<p>For most people, terms like MeCard and Vcard are intimidatingly unfamiliar. But knowing the fundamental difference between both formats helps in making the right choice when printing QR codes for contacts.</p>
+<p>对于大多数人来说，像 MeCard 和 Vcard 这样的术语非常陌生。但了解两种格式之间的根本区别有助于在打印联系人二维码时做出正确的选择。</p>
 
-<h2>MeCard vs Vcard</h2>
+<h2>MeCard 与 Vcard</h2>
 
-<p>Both MeCard and Vcard are established standards in how personal details are stored in a QR code. Vcard was created in the 1990s and is the more popular of the two standards. Meanwhile, MeCard was developed by Domoco, the largest mobile phone service provider in Japan.</p>
+<p>MeCard 和 Vcard 都是关于如何将个人详细信息存储在 QR 码中的既定标准。 Vcard 创建于 1990 年代，是两种标准中较为流行的一种。同时，MeCard 由日本最大的手机服务商 Domoco 开发。</p>
 
-<p>Vcard supports a wide range of applications, including mobile phones, QR codes, emails, websites, and SMS. However, MeCard is limited to QR codes and mobile phones. </p>
+<p>Vcard 支持广泛的应用程序，包括手机、二维码、电子邮件、网站和短信。但是，MeCard 仅限于二维码和手机。 </p>
 
-<p>Both formats support similar information, such as name, telephone, email, website, and address. The Vcard format supports organization and job title fields, which are not available in MeCard.</p>
+<p>两种格式都支持类似的信息，例如姓名、电话、电子邮件、网站和地址。 Vcard 格式支持 MeCard 中不提供的组织和职位字段。</p>
 
-<p>When rendered, you'll get a smaller, compact QR code with the MeCard format. This means that a MeCard contact QR code is more readable when printed on a smaller area compared to its Vcard counterpart.</p>
+<p>渲染后，您将获得一个更小、更紧凑的 MeCard 格式二维码。这意味着与 Vcard 对应物相比，MeCard 联系人 QR 码打印在更小的区域时更具可读性。</p>
 
-<p>vCard:</p>
+<p>电子名片：</p>
 
-<table>
+<表格>
     <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 1 - qr vcard.png" width="150" height="150"
-        alt="QR code for contact in vCard format - ScanMeFindMe">
+        alt="vCard 格式的联系人二维码 - ScanMeFindMe">
     </td>
         <td class="notranslate">
-<pre>BEGIN:VCARD
-VERSION:4.0
+<pre>开始：VCARD
+版本：4.0
 FN:ScanMeFindMe
 N:;;;;
-ORG:ScanMeFindMe
-URL:https://scanmefindme.com
-REV:2021-02-13T18:18:45.089Z
+组织：ScanMeFindMe
+网址：https://scanmefindme.com
+版本：2021-02-13T18：18：45.089Z
 END:VCARD</pre>
         </td>
     </tr></table>
 
 <p></p>
 
-<p>MeCard:</p>
+<p>MeCard：</p>
 
-<table>
+<表格>
     <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 2 - mecard.png" width="150" height="150"
-            alt="QR code for contact in MeCard format - ScanMeFindMe"></td>
+            alt="MeCard 格式的联系人二维码 - ScanMeFindMe"></td>
         <td class="notranslate">
             <pre>MECARD:N:,ScanMeFindMe;URL:https://scanmefindme.com;;</pre>
         </td>
     </tr>
 </table>
 
-<h2>Which Is The Better Choice?</h2>
+<h2>哪个是更好的选择？</h2>
 
-<p>It depends on how you intend to use the QR code. MeCard offers simplicity, and you can print it easily on a business card. You don't need an internet connection to scan and save the contact details into your phone book.</p>
+<p>这取决于您打算如何使用二维码。 MeCard 提供简单性，您可以轻松地将其打印在名片上。您无需连接互联网即可扫描联系人详细信息并将其保存到电话簿中。</p>
 
-<p>Vcard is used more extensively for sharing contacts and is superior in terms of the types of information stored. While Vcard can be stored as a static QR code, you'll get much more out of it by using it as a <a href="#article:about_dynamic_contact" title="Dynamic QR code for contact card">dynamic QR code</a>.</p>
+<p>Vcard 更广泛地用于共享联系人，并且在存储的信息类型方面更胜一筹。虽然 Vcard 可以存储为静态 QR 码，但您可以将其用作 <a href="#article:about_dynamic_contact" title="联系人卡片的动态 QR 码">动态 QR 码< /a>.</p>
 
-<p>A dynamic QR code stores a link that redirects users to a web page to view and download the contact details in VCF format. You can also include photos and social media links when you're using <a href="#pro">ScanMeFindMe PRO.</a></p>
+<p>动态 QR 码存储一个链接，该链接将用户重定向到网页以查看和下载 VCF 格式的联系人详细信息。您还可以在使用 <a href="#pro">ScanMeFindMe PRO 时添加照片和社交媒体链接。</a></p>
 
-<p>Also, a dynamic Vcard QR code is more compact because it stores the virtual card's URL instead of the actual contacts. It's also possible to <a href="#article:about_statistics" title="Track QR code scans">track</a> how many people have scanned and viewed your contacts with a dynamic Vcard.</p>
+<p>此外，动态 Vcard QR 码更紧凑，因为它存储的是虚拟卡的 URL，而不是实际的联系人。还可以<a href="#article:about_statistics" title="Track QR 码扫描">跟踪</a>有多少人使用动态 Vcard 扫描并查看了您的联系人。</p>
 
-<h2>How To Generate QR Codes with MeCard and VCard formats</h2>
+<h2>如何生成 MeCard 和 VCard 格式的二维码</h2>
 
-<p>ScanMeFindMe supports both MeCard and VCard formats. You can create static MeCard and VCard contacts with our <a href="#static:contact">free QR code generator.</a> </p>
-
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 3 - create a qr code for contact.png"
-        alt="Create a static QR code for contact - ScanMeFindMe">
-</p>
-
-<p>Just choose the desired format and fill in the fields accordingly. The corresponding QR code is automatically generated as you do so.</p>
-
-<p>As mentioned, you can do much more with a <a href="#article:about_dynamic_contact">dynamic Vcard contact</a>.</p>
+<p>ScanMeFindMe 支持 MeCard 和 VCard 格式。您可以使用我们的<a href="#static:contact">免费二维码生成器创建静态 MeCard 和 VCard 联系人。</a> </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 4 - contact card.png"
-        alt="Create a dynamic QR code for contact - ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 3 - 为contact.png创建一个二维码"
+        alt="为联系人创建静态二维码 - ScanMeFindMe">
 </p>
 
-<p>When you're using a dynamic VCard contact, you can:</p>
+<p>只需选择所需的格式并相应地填写字段。执行此操作时会自动生成相应的二维码。</p>
+
+<p>如前所述，您可以使用<a href="#article:about_dynamic_contact">动态 Vcard 联系人</a>做更多事情。</p>
+
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 4 - 联系人卡片.png"
+        alt="为联系人创建动态二维码 - ScanMeFindMe">
+</p>
+
+<p>当您使用动态 VCard 联系人时，您可以：</p>
 
 <ul>
-    <li>Modify the contact details anytime you wish.</li>
-    <li>Upload a photo or organisation logo.</li>
-    <li>Include social media handles or links.</li>
-    <li>Monitor who scans the contact QR code, when, and where.</li>
-    <li>Allow a preview of the contact information before saving to a smartphone.</li>
-    <li>Have a smaller-sized QR code while storing more information.</li>
+    <li>随时修改联系方式。</li>
+    <li>上传照片或组织徽标。</li>
+    <li>包括社交媒体句柄或链接。</li>
+    <li>监控扫描联系人二维码的时间和地点。</li>
+    <li>在保存到智能手机之前允许预览联系信息。</li>
+    <li>拥有更小尺寸的二维码，同时存储更多信息。</li>
 </ul>
 
-<p><a href="#pro">Create dynamic Vcard contacts with ScanMeFindMe PRO now.</a></p>
+<p><a href="#pro">立即使用 ScanMeFindMe PRO 创建动态 Vcard 联系人。</a></p>

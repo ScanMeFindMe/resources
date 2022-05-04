@@ -1,118 +1,118 @@
-<h1>How QR code scan statistics can be viewed and used</h1>
+<h1>如何查看和使用二维码扫描统计信息</h1>
 
 --- Abstract / Meta description ---
 
-Monitor your campaign with dynamic QR code tracking. Find out what scan statistics are available on ScanMeFindMe and why they are important for marketers
+使用动态二维码跟踪监控您的活动。了解 ScanMeFindMe 上可用的扫描统计信息以及它们为何对营销人员很重要
 
 --- Short content 1 ---
 
-The approximate location of the scanning device. It may not always be accurate as the location is derived from the IP address of the internet service provider
+扫描设备的大致位置。它可能并不总是准确的，因为位置来自互联网服务提供商的 IP 地址
 
 ----------
 
-<p>One of the reasons why marketers are turning to dynamic QR codes is their trackability. Unlike static QR codes, dynamic QR codes redirect users to a custom webpage when scanned. Therefore, it's possible to collect various metrics and compile them in visual formats. </p>
+<p>营销人员转向动态二维码的原因之一是其可追踪性。与静态二维码不同，动态二维码在扫描时将用户重定向到自定义网页。因此，可以收集各种指标并以可视格式编译它们。 </p>
 
-<h2>Why QR Code Scan Statistics Are Important</h2>
+<h2>为什么二维码扫描统计很重要</h2>
 
-<p>If you generate a dynamic QR code on <a href="#pro">ScanMeFindMe Pro</a>, you'll be able to track key metrics that can help with your marketing.</p>
+<p>如果您在 <a href="#pro">ScanMeFindMe Pro</a> 上生成动态二维码，您将能够跟踪有助于营销的关键指标。</p>
 
-<p>Rather than merely distributing marketing materials with QR codes, you'll want to monitor engagement indicators like how many people are accessing a landing page via QR code. Or if a particular campaign is reaching its audience in major cities. </p>
+<p>您需要监控参与度指标，例如有多少人通过 QR 码访问着陆页，而不仅仅是分发带有二维码的营销材料。或者，如果某个特定的活动正在覆盖主要城市的受众。 </p>
 
-<p>Without dynamic QR codes, you will have no idea if you're reaching the target audience or on the right track with conversion goals. You'll need to gather relevant statistics from <a href="#about:product">dynamic QR codes</a> and use them to improve the campaign.</p>
+<p>如果没有动态 QR 码，您将不知道自己是在触及目标受众，还是在实现转化目标的正确轨道上。您需要从<a href="#about:product">动态二维码</a>收集相关统计数据并使用它们来改进广告系列。</p>
 
-<p>QR code statistics show you what's working on your campaign and what's not. You'll know if you need a more intriguing design or a revamp in the overall strategy for better conversion from the numbers and charts. </p>
+<p>QR 码统计信息显示您的广告系列中哪些有效，哪些无效。您会知道您是否需要更有趣的设计或整体策略的改进，以便更好地从数字和图表中转换。 </p>
 
-<h2>Which Scan Statistics Are Available On ScanMeFindMe PRO?</h2>
+<h2>ScanMeFindMe PRO 上有哪些扫描统计数据？</h2>
 
-<p><a href="#static:url">ScanMeFindMe</a> is developed to track and store important scan metrics in real-time. You'll have access to the following statistics when you sign up for a PRO account.</p>
+<p><a href="#static:url">ScanMeFindMe</a> 旨在实时跟踪和存储重要的扫描指标。注册 PRO 帐户后，您将可以访问以下统计信息。</p>
 
-<h3>Total Scans</h3>
-
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - total scans.png"
-        alt="Total scans chart - QR code generator ScanMeFindMe">
-</p>
-
-<p>This chart shows the number of total and unique scans that you're getting everyday.</p>
-
-<p>Unique scans are the number of scans done from different devices. It does not include multiple scans from the same device. </p>
-
-<p>We use a special method where our server tags a device with a 'fingerprint' when it first scans a QR code. If the server detects a new scan with the same 'fingerprint', it is added to the total scans but not the unique scans.</p>
-
-<p>You'll find this chart helpful when you want to know how many people are actually responding to your campaign. The unique scans will paint a clearer picture of how your campaign is performing.</p>
-
-<h3>Scans By Months</h3>
+<h3>总扫描次数</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png"
-        alt="Scans by month chart - QR code generator ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - 总扫描数.png"
+        alt="总扫描图表 - 二维码生成器 ScanMeFindMe">
 </p>
 
-<p>If you're running a seasonal campaign, this chart will be helpful. The numbers of scans are plotted by month. It helps identify the months that bring your business the most QR code traffic. </p>
+<p>此图表显示您每天获得的总扫描次数和唯一扫描次数。</p>
 
-<h3>Scans By Hour Of The Day</h3>
+<p>唯一扫描是从不同设备完成的扫描次数。它不包括来自同一设备的多次扫描。 </p>
+
+<p>我们使用一种特殊方法，即我们的服务器在首次扫描二维码时使用“指纹”标记设备。如果服务器检测到具有相同“指纹”的新扫描，则将其添加到总扫描中，而不是唯一扫描中。</p>
+
+<p>当您想知道有多少人实际响应您的广告系列时，您会发现此图表很有帮助。独特的扫描将更清晰地描绘您的广告系列的效果。</p>
+
+<h3>按月扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png"
-        alt="Scans by hour of the day chart - QR code generator ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - 按月扫描.png"
+        alt="按月扫描 - 二维码生成器 ScanMeFindMe">
 </p>
 
-<p>You can also track QR scans by hours of the day. This is useful if you're running a restaurant or e-commerce where customers peak during different times. It helps to run a more targeted campaign during the peak hours.</p>
+<p>如果您正在投放季节性广告系列，此图表会很有帮助。扫描次数按月绘制。它有助于确定为您的企业带来最多二维码流量的月份。 </p>
 
-<h3>Scans By OS</h3>
+<h3>按小时扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png"
-        alt="Scans by OS chart - QR code generator ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - 按小时扫描.png"
+        alt="按小时扫描图表 - QR 码生成器 ScanMeFindMe">
 </p>
 
-<p>Our server can also pick up which operating system the users are using when scanning the QR code. Usually, iOS and Android tend to dominate the chart as most users scan QR codes from their mobile phones. The statistics help when you're getting users to download an app for a specific OS. </p>
+<p>您还可以按一天中的几个小时跟踪 QR 扫描。如果您经营的餐厅或电子商务的客户在不同时间达到高峰，这将非常有用。它有助于在高峰时段投放更有针对性的广告系列。</p>
 
-<h3>Scans By Language</h3>
+<h3>按操作系统扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - scans by lang.png"
-        alt="Scans by language chart - QR code generator ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - OS.png 扫描"
+        alt="按 OS 图表扫描 - QR 码生成器 ScanMeFindMe">
 </p>
 
-<p>This chart will show what is the primary language installed on your clients devices. This is usually the language they are most comfortable with. This can be useful as if you find that a lot of your clients prefer French, for example, you might offer some materials in French to increase sales and popularity.</p>
+<p>我们的服务器还可以在扫描二维码时获取用户正在使用的操作系统。通常，iOS 和 Android 往往会在图表中占据主导地位，因为大多数用户使用手机扫描二维码。当您让用户下载特定操作系统的应用程序时，这些统计数据会有所帮助。 </p>
 
-<h3>Scans By Country and City</h3>
+<h3>按语言扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - scans by country and city.png"
-        alt="Scans by country and city chart - QR code generator ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - 由 lang.png 扫描"
+        alt="按语言图表扫描 - 二维码生成器 ScanMeFindMe">
 </p>
 
-<p><a href="#pro">ScanMeFindMe PRO</a> also tracks scans by city and country. This is done from tracking the IP address of the mobile operator or internet service provider where the device is connected to. Do note that the geolocation chart only gives an approximate location of where the scans originated. </p>
+<p>此图表将显示您的客户端设备上安装的主要语言是什么。这通常是他们最熟悉的语言。如果您发现很多客户更喜欢法语，这可能很有用，例如，您可能会提供一些法语材料以提高销量和知名度。</p>
 
-<p>You may occasionally see scans from a different city or even country and it may seem surprising, especially if your QR code could not have possibly gotten there (for example, if it is a sticker on your office entrance). This usually means that somebody with a mobile phone from that country scanned your code while being on mobile data roaming.</p>
-
-<h3>Last Scans</h3>
+<h3>按国家和城市扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans.png"
-        alt="Last scans list - QR code generator ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - 按国家和城市扫描.png"
+        alt="按国家和城市扫描图表 - QR 码生成器 ScanMeFindMe">
 </p>
 
-<p>This table is populated with historical scan data. You'll find the finer details of each scan such as the date, time, country, language, OS and browser. </p>
+<p><a href="#pro">ScanMeFindMe PRO</a> 还可以按城市和国家/地区跟踪扫描。这是通过跟踪设备所连接的移动运营商或互联网服务提供商的 IP 地址来完成的。请注意，地理位置图仅提供了扫描起源的大致位置。 </p>
 
-<h2>How To View And Download The Scan Statistics?</h2>
+<p>您可能偶尔会看到来自不同城市甚至国家/地区的扫描，这可能看起来令人惊讶，尤其是如果您的 QR 码不可能到达那里（例如，如果它是您办公室入口的贴纸）。这通常意味着使用该国家/地区的手机的人在使用移动数据漫游时扫描了您的代码。</p>
 
-<p>All ScanMeFindMe PRO users have access to the statistics, which are displayed on the dashboard. You can also access the charts and tables via the 'Statistics' button on each of the dynamic codes.</p>
+<h3>上次扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - dynamic codes-statistic.png"
-        alt="Individual QR code statistics - ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - 最后一次扫描.png"
+        alt="上次扫描列表 - 二维码生成器 ScanMeFindMe">
 </p>
 
-<p>The Last Scans table can be downloaded in CSV (comma-separated values) format, which can be used for in-depth analysis.</p>
+<p>此表填充了历史扫描数据。您会发现每次扫描的详细信息，例如日期、时间、国家/地区、语言、操作系统和浏览器。 </p>
+
+<h2>如何查看和下载扫描统计数据？</h2>
+
+<p>所有 ScanMeFindMe PRO 用户都可以访问显示在仪表板上的统计信息。您还可以通过每个动态代码上的“统计”按钮访问图表和表格。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png"
-        alt="Download scans statistics - QR code generator ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - 动态代码-statistic.png"
+        alt="个人二维码统计-ScanMeFindMe">
 </p>
 
-<p>You don't want to miss out on the scan statistics that can drive your marketing campaign in the right direction.</p>
+<p>Last Scans 表可以 CSV（逗号分隔值）格式下载，可用于深入分析。</p>
 
-<p><a href="#pro">Sign up for a ScanMeFindMe PRO account now.</a></p>
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - 最后一次扫描 - 下载为 CSV.png"
+        alt="下载扫描统计信息 - 二维码生成器 ScanMeFindMe">
+</p>
+
+<p>您不想错过可以推动您的营销活动朝着正确方向发展的扫描统计数据。</p>
+
+<p><a href="#pro">立即注册 ScanMeFindMe PRO 帐户。</a></p>

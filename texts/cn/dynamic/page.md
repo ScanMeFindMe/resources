@@ -1,10 +1,10 @@
-<h1>[Create a page with files] Create a QR code for Page with files</h1>
+<h1>[创建包含文件的页面] 为包含文件的页面创建 QR 码</h1>
 
 --- Example header ---
 
-Page with files example
+带有文件示例的页面
 
 ----------
 
 <img src="https://media.scanmefindme.com/dynamic/page/page-with-files-popup.png" width="100%" height="auto"
-    alt="Page with files example - ScanMeFindMe">
+    alt="文件页示例 - ScanMeFindMe">

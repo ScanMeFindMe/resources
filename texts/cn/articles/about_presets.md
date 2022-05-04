@@ -1,54 +1,53 @@
-<h1>Save time by creating presets for your QR codes</h1>
+<h1>通过为您的 QR 码创建预设来节省时间</h1>
 
 --- Abstract / Meta description ---
 
-Maximize efficiency when personalizing your QR codes with presets. Save your choices and reuse them any time you want.
+使用预设个性化您的 QR 码时最大限度地提高效率。保存您的选择并随时重复使用。
 
 --- Short content 1 ---
 
-Choose a pre-designed preset or create one with selected style, colors, templates, and logo. Reuse them easily when generating QR codes.
+选择预先设计的预设或使用选定的样式、颜色、模板和徽标创建一个。在生成 QR 码时轻松重复使用它们。
 
 ----------
 
-<p>Having a personalized QR code that captures customer's attention helps in getting more engagement. With fun colors, a catchy caption, and a logo, you'll have a QR code that resonates with your brand value.</p>
+<p>拥有吸引客户注意力的个性化二维码有助于提高参与度。通过有趣的颜色、醒目的标题和徽标，您将拥有一个与您的品牌价值产生共鸣的二维码。</p>
 
-<p>Customizing QR codes can be a fun process, but it can be equally taxing if you do it every time you need to generate a QR code. </p>
+<p>自定义 QR 码可能是一个有趣的过程，但如果您每次需要生成 QR 码时都这样做，它可能同样繁重。 </p>
 
-<p>This is where you'll want to create presets, a feature exclusive to ScanMeFindMe PRO users.</p>
+<p>您可以在此处创建预设，这是 ScanMeFindMe PRO 用户独有的功能。</p>
 
-<h2>What Are Presets And Why Do You Need Them?</h2>
+<h2>什么是预设，为什么需要它们？</h2>
 
-<p>Presets are a memory of customization you've selected or created for a particular QR code. When you're using ScanMeFindMe PRO, you get to personalize the QR code with styles, colors, <a href="#article:about_templates">templates</a>, and <a href="#article:about_logos">logos</a>.</p>
+<p>预设是您为特定二维码选择或创建的自定义的记忆。使用 ScanMeFindMe PRO 时，您可以使用样式、颜色、<a href="#article:about_templates">模板</a>和<a href="#article:about_logos">徽标个性化二维码</a>.</p>
 
-<p>These selections can be saved as a preset where they can automatically be selected and applied to a new QR code. Technically, a preset contains information on the particular choices of styles, templates, logos, and colors. Presets are valid as long as the individual elements are not renamed or deleted. </p>
+<p>这些选择可以保存为预设，可以自动选择并应用于新的二维码。从技术上讲，预设包含有关样式、模板、徽标和颜色的特定选择的信息。只要各个元素未被重命名或删除，预设就有效。 </p>
 
-<p>Here's how you can use presets to save setup time when creating a QR code. </p>
+<p>以下是创建 QR 码时如何使用预设来节省设置时间的方法。 </p>
 
-<p>You're releasing a series of yoga tutorial videos, and you're <a href="#article:about_static">encoding the links in QR codes.</a> If you're going to personalize the QR code for each episode, you'll need to manually choose the colors, logo, templates, and style.</p>
+<p>您正在发布一系列瑜伽教程视频，并且您正在<a href="#article:about_static">对二维码中的链接进行编码。</a>如果您要个性化二维码对于每一集，您都需要手动选择颜色、徽标、模板和样式。</p>
 
-<p>It's easy to make a mistake, which results in some QR codes looking out of place. Also, you're wasting time repeating a process that can be automated. </p>
+<p>很容易出错，导致某些二维码看起来格格不入。此外，您正在浪费时间重复一个可以自动化的过程。 </p>
 
-<p>By saving your choices as a preset, you can reuse the style elements by just loading the same preset when generating the QR code for each episode. </p>
+<p>通过将您的选择保存为预设，您可以通过在为每集生成 QR 码时加载相同的预设来重复使用样式元素。 </p>
 
-<h2>How To Create And Save Presets for QR codes</h2>
+<h2>如何创建和保存二维码预设</h2>
 
-<p>If you're using <a href="#pro">ScanMeFindMe PRO</a>, you can create a preset with the 'Create a new preset' button while you create or edit any QR code in the QR code generator. You can choose a name for your preset so it is easier to use in the <a href="#about:api" title="QR code API">API</a>.</p>
+<p>如果您使用 <a href="#pro">ScanMeFindMe PRO</a>，您可以在创建或编辑 QR 码中的任何 QR 码时使用“创建新预设”按钮创建预设发电机。您可以为预设选择一个名称，以便在 <a href="#about:api" title="QR code API">API</a> 中使用它。</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 1 - Presets.png"
-        alt="Creating a preset from the QR code editor">
+        alt="从二维码编辑器创建预设">
 </p>
 
-<p>Alternatively, you can duplicate an existing preset in the library and customize it. </p>
+<p>或者，您可以复制库中的现有预设并对其进行自定义。 </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
-        alt="Creating a preset by copying a system one">
+    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - 自定义预设.png"
+        alt="通过复制系统创建预设">
 </p>
 
-<p>Once you're done, the customized preset will appear alongside other pre-installed presets on the selection panel. </p>
+<p>完成后，自定义预设将与选择面板上的其他预安装预设一起显示。 </p>
 
-<p>Selecting a preset will automatically regenerate the QR code with the selected style and design elements. If you're using our <a href="#static:url">QR code generator</a> from the API, you can invoke the presets by specifying their names.</p>
+<p>选择预设将自动重新生成带有所选样式和设计元素的二维码。如果您使用 API 中的 <a href="#static:url">QR 码生成器</a>，您可以通过指定名称来调用预设。</p>
 
-<p>Stop re-styling your QR code each time you generate one. Try <a href="#pro">ScanMeFindMe PRO</a> and use presets instead. </p>
-
+<p>不要在每次生成 QR 码时重新设置样式。尝试 <a href="#pro">ScanMeFindMe PRO</a> 并改用预设。 </p>

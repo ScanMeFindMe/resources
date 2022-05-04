@@ -1,73 +1,73 @@
-<h1>Adding logos to QR codes</h1>
+<h1>将徽标添加到 QR 码</h1>
 
 --- Abstract / Meta description ---
 
-Adding logos to QR codes helps in increasing brand awareness, trust, and scan-through rate. Learn how you can do so without compromising the QR code's integrity
+将徽标添加到 QR 码有助于提高品牌知名度、信任度和扫描率。了解如何在不影响 QR 码完整性的情况下做到这一点
 
 --- Short content 1 ---
 
-Upload and add a logo to the QR code. Personalize its size and positioning
+上传徽标并将其添加到 QR 码。个性化其尺寸和定位
 
 --- Short content 2 ---
 
-Higher error correction level allows for a bigger part of the QR code to be damaged but still be scannable. Choose higher error correction level if you plan to add a logo to the code. "Automatic" means that error correction level will be medium without logo and very high with a logo. The different error correction levels will change the appearance of your QR code.
+更高的纠错级别允许更大部分的 QR 码被损坏，但仍可扫描。如果您打算在代码中添加徽标，请选择更高的纠错级别。 “自动”意味着纠错级别将是中等（不带徽标）和非常高（带徽标）。不同的纠错级别会改变二维码的外观。
 
 ----------
 
-<p>The emergence of QR codes has transformed marketing. It encourages customer engagement, makes information more accessible, and adds flexibility to marketing. </p>
+<p>二维码的出现改变了营销方式。它鼓励客户参与，使信息更容易获得，并增加营销的灵活性。 </p>
 
-<p>However, a little bit of personalization can go a long way in increasing brand exposure and awareness. Adding a logo to a QR code is a step towards getting more scans, leads, and conversions.   </p>
+<p>但是，一点点个性化可以大大提高品牌曝光率和知名度。将徽标添加到 QR 码是获得更多扫描、潜在客户和转化的一步。 </p>
 
-<h2> Why Should You Add Logos To Your QR Codes?</h2>
+<h2> 为什么要在二维码中添加徽标？</h2>
 
-<p>Imagine printing plain QR codes onto leaflets, product packagings, banners, and other marketing materials. While the QR codes work perfectly, they do nothing to convey your brand identity.</p>
+<p>想象一下在传单、产品包装、横幅和其他营销材料上打印普通的二维码。虽然 QR 码可以完美运行，但它们无法传达您的品牌形象。</p>
 
-<p>In business, it's important to increase awareness and instill brand loyalty amongst your customers. Logos are the most identifiable element that customers associate with a brand. You'll want your QR code to stand out from those printed in the plain, default format.</p>
+<p>在企业中，提高知名度并在客户中灌输品牌忠诚度非常重要。徽标是客户与品牌相关联的最可识别的元素。你会希望你的二维码从那些以普通默认格式打印出来的二维码中脱颖而出。</p>
 
-<p>Customers associate logos with the company. By adding it to the QR code, you instill trust amongst the customers, and they'll have little hesitation about scanning it. If you're using a plain QR code, people may question if scanning the QR code is safe.</p>
+<p>客户将徽标与公司相关联。通过将其添加到二维码中，您可以在客户之间建立信任，他们会毫不犹豫地扫描它。如果您使用的是普通二维码，人们可能会质疑扫描二维码是否安全。</p>
 
-<h2>Does Adding A Logo Affect QR Code Scanability?</h2>
-
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr code with logo.png"
-        alt="QR code logo example - ScanMeFindMe">
-</p>
-
-<p>QR codes store information in segments of dots and spaces within the scannable area. When you add a logo, it occupies an area that's supposed to hold part of the encoded information.</p>
-
-<p>The question is, will it affect the QR code's integrity in any manner?</p>
-
-<p>If you're using  <a href="#static:url" title="QR code generator ScanMeFindMe">ScanMeFindMe</a>  to add the logo, there will not be any problem in scanning it. This is because QR codes are built with an error-correcting mechanism. Depending on the error correction level, a QR code is still readable even with up to 30% of its area covered up.</p>
-
-<p>The trade off is that the QR codes with bigger error correction levels have a bigger “matrix”. Here is the same URL encoded with four different error correction levels: low (L), medium (M), high (H) and very high (Q):</p>
+<h2>添加徽标会影响 QR 码的可扫描性吗？</h2>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 2 - diff matrix.png"
-        alt="QR code with different error correction levels - ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - 带有 logo.png 的二维码"
+        alt="二维码标志示例 - ScanMeFindMe">
 </p>
 
-<p>Of course, you shouldn't cover critical functional elements such as the QR markers and version identifier with the logo. It is, however, generally safe to add a logo in the middle of the QR code.</p>
+<p>二维码将信息存储在可扫描区域内的点和空间段中。添加徽标时，它会占据一个本应包含部分编码信息的区域。</p>
 
-<p>When you add a logo to a QR code, you need to set its error correction level to the maximum, which is 30%. Our <a href="#static:url">QR code generator</a>  automatically does that for you and determines the best logo placement based on factors like QR code size and information density.</p>
+<p>问题是，它会以任何方式影响二维码的完整性吗？</p>
 
-<h2> How To Add Logos To QR Codes?</h2>
+<p>如果您使用<a href="#static:url" title="二维码生成器ScanMeFindMe">ScanMeFindMe</a>添加标志，扫描不会有任何问题。这是因为 QR 码是使用纠错机制构建的。根据纠错级别，即使 QR 码被覆盖了 30% 的区域，它仍然可以读取。</p>
 
-<p>With <a href="#static:url" title="Add logos to QR codes">ScanMeFindMe</a>, adding logos to QR codes is a simple process. There's no complex calculation nor graphic design skills involved.</p>
-
-<p>Upload your business logo and select the thumbnail: it will automatically appear on the QR code. This applies when you're creating any <a href="#about:product">dynamic or static QR codes</a>  on  ScanMeFindMe .</p>
+<p>权衡是纠错级别更高的二维码具有更大的“矩阵”。这是用四种不同纠错级别编码的相同 URL：低 (L)、中 (M)、高 (H) 和非常高 (Q)：</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - adding logo.png" width="600"
-        alt="Adding logo to QR code - ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 2 - 差异矩阵.png"
+        alt="具有不同纠错级别的二维码 - ScanMeFindMe">
 </p>
 
-<p>You can also customize the positioning, size, and style of the logo. Don't worry about compromising the QR code's scannability, as our QR code generator will warn you if the logo is obscuring any of the critical elements.</p>
+<p>当然，您不应使用徽标覆盖关键功能元素，例如 QR 标记和版本标识符。但是，在 QR 码中间添加徽标通常是安全的。</p>
 
-<p>ScanMeFindMe <a href="#static:url">QR generator</a> not only allows you to place the logo in the middle of QR code, you can also make it look more accurate by removing or adding some blocks of the QR code matrix. Depending on the style of your QR code, you can pick the shape and style of your logo and choose different types of rendering blocks in the center of the QR code.</p>
+<p>为二维码添加标识时，需要将其纠错级别设置为最大值，即 30%。我们的<a href="#static:url">二维码生成器</a>会自动为您完成这项工作，并根据二维码大小和信息密度等因素确定最佳徽标位置。</p>
+
+<h2> 如何在二维码中添加标志？</h2>
+
+<p>使用<a href="#static:url" title="向二维码添加标识">ScanMeFindMe</a>，向二维码添加标识是一个简单的过程。不涉及复杂的计算或图形设计技能。</p>
+
+<p>上传您的企业徽标并选择缩略图：它将自动出现在二维码上。这适用于您在 ScanMeFindMe 上创建任何<a href="#about:product">动态或静态二维码</a>。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - center of qr.png"
-        alt="Example of logo placement on QR code - ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - 添加 logo.png" width="600"
+        alt="为 QR 码添加徽标 - ScanMeFindMe">
 </p>
 
-<p>Try adding your own logos to your QR code with <a href="#pro">ScanMeFindMe Pro</a> now.</p>
+<p>您还可以自定义徽标的位置、大小和样式。不要担心影响 QR 码的可扫描性，因为我们的 QR 码生成器会在徽标遮挡任何关键元素时向您发出警告。</p>
+
+<p>ScanMeFindMe <a href="#static:url">二维码生成器</a>不仅可以让你将logo放置在二维码的中间，你还可以通过删除或添加一些块使其看起来更准确的二维码矩阵。根据您的二维码样式，您可以选择您的标志的形状和样式，并在二维码中心选择不同类型的渲染块。</p>
+
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - qr.png 的中心"
+        alt="二维码上的标志放置示例 - ScanMeFindMe">
+</p>
+
+<p>现在尝试使用 <a href="#pro">ScanMeFindMe Pro</a> 将您自己的徽标添加到您的二维码中。</p>

@@ -1,11 +1,11 @@
-<h1>[File] Create a QR code for a file</h1>
+<h1>[文件] 为文件创建二维码</h1>
 
 --- Text above the form ---
 
-<p class="smfm-static-file-link">Is your file already in the Internet and you just want to create a static link to it?<br>
-<span class="hint">Go straight to <a href="#static:url">Create a QR code for a website or URL</a> and put the link to your file there</span></p>
+<p class="smfm-static-file-link">您的文件是否已经在 Internet 上，而您只想创建一个静态链接？<br>
+<span class="hint">直接去<a href="#static:url">为一个网站或URL创建一个二维码</a>并将你的文件的链接放在那里</span></p >
 
-<p class="smfm-static-file-upload">Would you like to upload your file (or maybe several files), be able to modify the file at any moment and monitor who has scanned your QR code?<br>
-<span class="hint">Sign up for a <a href="#pro">free trial of the PRO account</a> on ScanMeFindMe and try Dynamic QR codes</span></p>
+<p class="smfm-static-file-upload">您想上传您的文件（或多个文件），可以随时修改文件并监控谁扫描了您的二维码吗？<br>
+<span class="hint">在 ScanMeFindMe 上注册<a href="#pro">免费试用 PRO 帐户</a>并尝试动态二维码</span></p>
 
 ----------

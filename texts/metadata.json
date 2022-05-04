@@ -7,5 +7,6 @@
   "it": {"lang": "it-IT"},
   "ar": {"long": "ar-SA", "rtl": true},
   "hi": {"long": "hi-IN"},
-  "ko": {"long": "ko-KR"}
+  "ko": {"long": "ko-KR"},
+  "cn": {"long": "zh-CN"}
 }

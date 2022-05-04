@@ -1,3 +1,3 @@
-<h1>[Event] Create a QR code for a Calendar event</h1>
+<h1>[事件] 为日历活动创建 QR 码</h1>
 
 ----------

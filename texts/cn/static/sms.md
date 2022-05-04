@@ -1,3 +1,3 @@
-<h1>[SMS] Create a QR code for an SMS</h1>
+<h1>[短信] 为短信创建二维码</h1>
 
 ----------

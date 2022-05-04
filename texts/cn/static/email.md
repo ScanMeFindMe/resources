@@ -1,3 +1,3 @@
-<h1>[E-mail] Create a QR code for an E-mail address</h1>
+<h1>[电子邮件] 为电子邮件地址创建二维码</h1>
 
 ----------

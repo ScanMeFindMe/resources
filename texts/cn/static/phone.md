@@ -1,7 +1,7 @@
-<h1>[Phone] Create a QR code for a phone number</h1>
+<h1>[电话] 为电话号码创建二维码</h1>
 
 --- Text above the form ---
 
-<p class="hint smfm-hint">Enter a phone number in any format that a smartphone can recognise. It can be in a local format if you only expect people from your city/country to scan it, however international phone format works the best.</p>
+<p class="hint smfm-hint">输入智能手机可以识别的任何格式的电话号码。如果您只希望您所在城市/国家/地区的人扫描它，它可以是本地格式，但国际电话格式效果最好。</p>
 
 ----------

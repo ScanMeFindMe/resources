@@ -1,3 +1,3 @@
-<h1>[Contact] Create a QR code for contact information</h1>
+<h1>[接触] 为联系信息创建二维码</h1>
 
 ----------
