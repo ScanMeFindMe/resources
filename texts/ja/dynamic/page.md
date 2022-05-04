@@ -6,5 +6,5 @@
 
 ----------
 
-<img src = "https://media.scanmefindme.com/dynamic/page/page-with-files-popup.png" width = "100％" height = "auto"
+<img src="https://media.scanmefindme.com/dynamic/page/page-with-files-popup.png" width="100%" height="auto"
     alt="ファイルのあるページの例-ScanMeFindMe">

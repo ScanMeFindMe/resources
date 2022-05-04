@@ -6,5 +6,5 @@
 
 ----------
 
-<img src = "https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width = "100％" height = "auto"
+<img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width="100%" height="auto"
     alt="連絡先カードの例-ScanMeFindMe">
