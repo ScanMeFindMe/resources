@@ -1,3 +1,3 @@
-<h1>[Contact] Create a QR code for contact information</h1>
+<h1>[연락하다] 연락처 정보용 QR 코드 생성</h1>
 
 ----------

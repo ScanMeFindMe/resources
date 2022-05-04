@@ -1,7 +1,7 @@
-<h1>[Phone] Create a QR code for a phone number</h1>
+<h1>[핸드폰] 전화번호용 QR 코드 생성</h1>
 
 --- Text above the form ---
 
-<p class="hint smfm-hint">Enter a phone number in any format that a smartphone can recognise. It can be in a local format if you only expect people from your city/country to scan it, however international phone format works the best.</p>
+<p class="hint smfm-hint">스마트폰이 인식할 수 있는 형식으로 전화번호를 입력하십시오. 해당 도시/국가의 사람들만 스캔할 것으로 예상하는 경우 현지 형식일 수 있지만 국제 전화 형식이 가장 적합합니다.</p>
 
 ----------

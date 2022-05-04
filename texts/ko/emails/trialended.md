@@ -1,5 +1,5 @@
-Your trial period at ScanMeFindMe has ended
+ScanMeFindMe의 평가판 기간이 종료되었습니다.
 
-<h1>Hello {{name}},</h1>
-<h2>Yor trial period on ScanMeFindMe has now ended.</h2>
-<p>You can still log in and upgrade to a plan, or otherwise your account and all your QR codes will be deleted after 30 days.</p>
+<h1>안녕하세요 {{name}}님,</h1>
+<h2>ScanMeFindMe의 평가판 기간이 종료되었습니다.</h2>
+<p>계속 로그인하여 요금제를 업그레이드할 수 있습니다. 그렇지 않으면 계정과 모든 QR 코드가 30일 후에 삭제됩니다.</p>

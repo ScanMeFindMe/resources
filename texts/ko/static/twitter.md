@@ -1,7 +1,7 @@
-<h1>[Twitter] Create a QR code for a Twitter link</h1>
+<h1>[트위터] Twitter 링크용 QR 코드 만들기</h1>
 
 --- File name prefix for download ---
 
-Twitter
+트위터
 
 ----------

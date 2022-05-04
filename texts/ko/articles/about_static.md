@@ -1,159 +1,158 @@
-<h1>What information can be stored in QR codes</h1>
+<h1>QR 코드에 저장할 수 있는 정보</h1>
 
 --- Abstract / Meta description ---
 
-QR codes can not only be links to websites. They can "tell" your smartphone to start a call, connect to Wi-Fi, save contact cards or calendar events. They can even open specific apps on your phone
+QR 코드는 웹사이트에 대한 링크일 뿐만 아니라 그들은 스마트폰에 전화를 걸고, Wi-Fi에 연결하고, 연락처 카드나 일정 이벤트를 저장하도록 "알릴" 수 있습니다. 휴대전화에서 특정 앱을 열 수도 있습니다.
 
 --- Short content 1 ---
 
-Static QR codes contain non-editable, simple information such as a URL, WiFi credentials, a phone number, or an email address
+정적 QR 코드에는 URL, WiFi 자격 증명, 전화 번호 또는 이메일 주소와 같은 편집할 수 없는 간단한 정보가 포함되어 있습니다.
 
 ----------
 
-<p>QR codes are one of the most affordable, effective marketing tools that any business could ask for. It was underutilized for years since its introduction but has since gained momentum, thanks to the increase of smartphone availability and digitization.</p>
+<p>QR 코드는 모든 기업이 요구할 수 있는 가장 저렴하고 효과적인 마케팅 도구 중 하나입니다. 도입 이후 몇 년 동안 활용도가 낮았지만 스마트폰 가용성과 디지털화의 증가 덕분에 추진력을 얻었습니다.</p>
 
-<p>Whether you’re a marketer, startup founder, or seasoned entrepreneur, you’ll be surprised at how QR codes improve customer experience, increase conversion and simplify business operation. </p>
+<p>마케터, 스타트업 창업자 또는 노련한 기업가이든 상관없이 QR 코드가 고객 경험을 개선하고 전환율을 높이며 비즈니스 운영을 단순화하는 방법에 놀랄 것입니다. </p>
 
-<p>Of course, this depends on what information that you’re storing in QR codes and how you’re applying them in business.</p>
+<p>물론 QR 코드에 어떤 정보를 저장하고 비즈니스에 어떻게 적용하느냐에 따라 다릅니다.</p>
 
-<h2>What Are QR Codes?</h2>
+<h2>QR 코드란 무엇입니까?</h2>
 
-<p>The QR Code, which stands for Quick-Response Code, is the most popular standard amongst 2-Dimensional barcodes. Chances are, you’ve come across QR codes when purchasing tickets, browsing through brochures, or visiting trade events. </p>
+<p>QR Code는 Quick-Response Code의 약자로 2차원 바코드 중에서 가장 많이 사용되는 규격입니다. 티켓을 구매하거나 브로셔를 검색하거나 무역 행사를 방문할 때 QR 코드를 접했을 가능성이 있습니다. </p>
 
-<p>QR codes are squarish and bear three identical markers at the corners, that stick out from the rest of the pixels. These markers help the scanner to detect the edges of a QR code. Within the scannable area, the QR code is filled with smaller black and white spaces, which contain the encoded information.</p>
+<p>QR 코드는 정사각형이며 나머지 픽셀에서 튀어나온 모서리에 3개의 동일한 마커가 있습니다. 이 마커는 스캐너가 QR 코드의 가장자리를 감지하는 데 도움이 됩니다. 스캔 가능한 영역 내에서 QR 코드는 인코딩된 정보를 포함하는 더 작은 흑백 공간으로 채워집니다.</p>
 
-<p>Here’s an example of a QR code that has ScanMeFindMe’s URL encoded into it.</p>
+<p>다음은 ScanMeFindMe의 URL이 인코딩된 QR 코드의 예입니다.</p>
 
-<p class="imageholder">
+<p class="이미지홀더">
     <img src="https://media.scanmefindme.com/blog/about_static/files/img 1 - qr.png"
-        alt="QR code example, ScanMeFindMe">
+        alt="QR 코드 예, ScanMeFindMe">
 </p>
 
-<p>It’s also interesting to note that QR codes are built with an error-correction algorithm. Depending on the size and information stored, a QR code is still readable even if it has up to 30% of its area covered. </p>
+<p>QR 코드가 오류 수정 알고리즘으로 만들어졌다는 점도 흥미롭습니다. QR 코드는 크기와 저장된 정보에 따라 최대 30%의 면적을 차지하더라도 여전히 읽을 수 있습니다. </p>
 
-<p>For marketers, QR Code’s robustness is a branding opportunity. It opens up the possibility of placing a <a href="#article:about_logos" title="QR codes with a logo">logo</a> or icon in the middle of the QR code, without compromising its integrity. </p>
+<p>마케터에게 QR 코드의 견고함은 브랜딩 기회입니다. 무결성을 손상시키지 않으면서 QR 코드 중간에 <a href="#article:about_logos" title="로고가 있는 QR 코드">로고</a> 또는 아이콘을 배치할 수 있는 가능성을 열어줍니다. </p>
 
-<p>It’s recommended to use a professional QR generator to insert a logo into the code. It reduces the risk of making mistakes that make the QR code unreadable. </p>
+<p>코드에 로고를 삽입하려면 전문 QR 생성기를 사용하는 것이 좋습니다. QR 코드를 읽을 수 없게 만드는 실수의 위험을 줄입니다. </p>
 
-<h2>How Much Information Can They Store? </h2>
+<h2>얼마나 많은 정보를 저장할 수 있습니까? </h2>
 
-<p>QR codes are a revolutionary improvement from the single-dimensional barcode, particularly in terms of storage size. A QR code stores up to 4,296 alphanumeric characters or 7,089 numbers, while most 1D barcodes can only manage up to 20 numeric characters. QR codes are also capable of encoding non-Latin symbols like Kanji and hieroglyphs, but this decreases its data capacity. </p>
+<p>QR 코드는 특히 저장 크기 면에서 1차원 바코드의 혁신적인 개선 사항입니다. QR 코드는 최대 4,296개의 영숫자 또는 7,089개의 숫자를 저장하는 반면, 대부분의 1D 바코드는 최대 20개의 숫자만 관리할 수 있습니다. QR 코드는 간지 및 상형 문자와 같은 비라틴어 기호도 인코딩할 수 있지만 이는 데이터 용량을 감소시킵니다. </p>
 
-<p>For a better comparison, it is possible to fit in all the basic details (name, email, address, phone number) of a customer in a QR code. This is not possible if you’re still using the age-old 1D barcode. </p>
+<p>더 나은 비교를 위해 QR 코드에 고객의 모든 기본 세부 정보(이름, 이메일, 주소, 전화번호)를 넣을 수 있습니다. 오래된 1D 바코드를 여전히 사용 중인 경우에는 불가능합니다. </p>
 
-<p>However, stretching the QR code to its capacity means it will have tinier and denser pixels. This means that you’ll need a larger print area, or low-resolution cameras may have trouble decoding the QR code. </p>
+<p>그러나 QR 코드를 용량까지 늘리면 더 작고 밀도가 높은 픽셀을 갖게 됩니다. 즉, 더 큰 인쇄 영역이 필요하거나 저해상도 카메라에서 QR 코드를 디코딩하는 데 문제가 있을 수 있습니다. </p>
 
-<H2>What Happens When You Scan A QR Code?</h2>
+<H2>QR 코드를 스캔하면 어떻게 됩니까?</h2>
 
-<p>There’s no better time to make QR codes part of your marketing plan. That’s because almost everyone seems to own a personal QR code scanner, i.e. their smartphone. </p>
+<p>QR 코드를 마케팅 계획의 일부로 만들기에 이보다 좋은 시기는 없습니다. 거의 모든 사람이 개인용 QR 코드 스캐너, 즉 스마트폰을 소유하고 있는 것처럼 보이기 때문입니다. </p>
 
-<p>You don’t need a special, dedicated barcode scanner to decode a QR code. If you’re using an iPhone, the camera is built-in with a QR code scanner. Meanwhile, Android users are required to download a QR scanner app, if their smartphone models do not have an intergrated QR scanner.</p>
+<p>QR 코드를 해독하기 위해 특별한 전용 바코드 스캐너가 필요하지 않습니다. iPhone을 사용하는 경우 카메라에 QR 코드 스캐너가 내장되어 있습니다. 한편, 안드로이드 사용자는 스마트폰 모델에 통합 QR 스캐너가 없는 경우 QR 스캐너 앱을 다운로드해야 합니다.</p>
 
-<p>To scan a QR code, launch the QR scanner app and align the QR code to the designated scanning area. The camera will automatically capture the QR code and retrieve the encoded information, which usually contains texts and numbers.</p>
+<p>QR 코드를 스캔하려면 QR 스캐너 앱을 실행하고 QR 코드를 지정된 스캔 영역에 맞춥니다. 카메라는 자동으로 QR 코드를 캡처하고 일반적으로 텍스트와 숫자가 포함된 인코딩된 정보를 검색합니다.</p>
 
-<p>Now, it’s hard to imagine how plain text and numbers can do wonder in marketing but it does when your audience own a smartphone. It allows QR codes to be used interactively and creatively by making the smartphone respond uniquely to different types of information.
+<p>이제, 일반 텍스트와 숫자가 마케팅에서 얼마나 놀라운 효과를 낼 수 있는지 상상하기 어렵지만 청중이 스마트폰을 소유할 때 놀라운 일을 합니다. 스마트폰이 다양한 유형의 정보에 고유하게 반응하도록 하여 QR 코드를 대화식으로 창의적으로 사용할 수 있습니다.
 
-<p>This is done by including formatted text like ‘mailto:’ or ‘tel:’, which instruct the phone to send an email or dial a number respectively, into the QR code. Of course, neither of the actions are carried out automatically without your confirmation.</p>
+<p>이는 'mailto:' 또는 'tel:'과 같은 형식화된 텍스트를 포함하여 수행됩니다. 이 텍스트는 전화가 각각 이메일을 보내거나 번호를 다이얼하도록 지시하는 QR 코드에 포함됩니다. 물론 확인 없이는 어떤 작업도 자동으로 수행되지 않습니다.</p>
 
-<h2>Static vs. Dynamic QR Codes</h2>
+<h2>정적 QR 코드와 동적 QR 코드</h2>
 
-<p>Generally, there are two types of QR codes.</p>
+<p>일반적으로 QR 코드에는 두 가지 유형이 있습니다.</p>
 
-<p>Static QR codes imply that the information encoded within is fixed. You can’t edit what is eventually shown to the users.</p>
+<p>고정 QR 코드는 내부에 인코딩된 정보가 고정되어 있음을 의미합니다. 사용자에게 최종적으로 표시되는 내용은 수정할 수 없습니다.</p>
 
-<p>For example, you can encode WIFI credentials into a QR code. When the users scan the QR Code, it will automatically connect to the WIFI. However, if you’ve changed the WIFI password, you’ll need to generate a new QR code.</p>
+<p>예를 들어 WIFI 자격 증명을 QR 코드로 인코딩할 수 있습니다. 사용자가 QR 코드를 스캔하면 자동으로 WIFI에 연결됩니다. 그러나 WIFI 비밀번호를 변경한 경우 새 QR 코드를 생성해야 합니다.</p>
 
-<p>Meanwhile, dynamic QR codes contain a short URL that redirects to a website or webpage. While the link is fixed, the information that is displayed on the browser is not. You can make changes to the landing page as you deem fit without a new QR code.</p>
+<p>한편, 동적 QR 코드에는 웹사이트나 웹페이지로 리디렉션되는 짧은 URL이 포함되어 있습니다. 링크가 고정되어 있는 동안 브라우저에 표시되는 정보는 고정되어 있지 않습니다. 새로운 QR 코드 없이도 필요에 따라 방문 페이지를 변경할 수 있습니다.</p>
 
-<p>Furthermore, you can incorporate analytics with dynamic QR codes. By doing so, you can track stats like the <a href="#article:about_statistics" title="Scans analytics for QR codes">number of scans</a>, and originating locations. These numbers are helpful in measuring and finetuning your marketing campaign. </p>
+<p>또한 분석을 동적 QR 코드와 통합할 수 있습니다. 이렇게 하면 <a href="#article:about_statistics" title="Scans analytics for QR code">스캔 횟수</a> 및 원래 위치와 같은 통계를 추적할 수 있습니다. 이 수치는 마케팅 캠페인을 측정하고 미세 조정하는 데 도움이 됩니다. </p>
 
-<H2>Common Types Of Information Stored In QR Codes</h2>
+<H2>QR 코드에 저장되는 일반적인 정보 유형</h2>
 
-<p>Here’s a list of what you can store in a QR code if you’re using our <a href="#static:url">QR code generator</a>. </p>
+<p>다음은 <a href="#static:url">QR 코드 생성기</a>를 사용하는 경우 QR 코드에 저장할 수 있는 목록입니다. </p>
 
-<ul>
-    <li><strong>URL</strong> - The QR code contains a link to your webpage which can be launched in a browser.</li>
-    <li><strong>Phone</strong> - A phone number is encoded into the QR code. When scanned, it brings up the phone app and automatically pre-fills the phone number.</li>
-    <li><strong>SMS/ Whatsapp</strong> - Stores the recipient’s phone number in the QR code. Opens up the respective text messaging app with the pre-filled number when scanned.</li>
-    <li><strong>Facebook/Twitter</strong> - The QR code contains the link to the social media page. Scanning the QR code opens the page in a browser or the respective app if it’s installed.</li>
-    <li><strong>WiFi</strong> - Stores your WiFi credential. Comes in handy if you’re running a cafe. No more handing tiny slips of your WiFi password.</li>
-    <li><strong>Email</strong> - Contains an email address and automatically triggers an email app with prefilled recipient’s address when scanned.  </li>
-    <li><strong>Crypto</strong> - Stores your cryptocurrency wallet address in the QR code.</li>
-    <li><strong>Contact</strong> - The QR code contains your personal information, encoded in <a href="article:about_contactformats">Vcard or MeCard format</a>. </li>
-    <li><strong>Events</strong> - Contains information about an event that will be saved in your calendar. </li>
+<울>
+    <li><strong>URL</strong> - QR 코드에는 브라우저에서 실행할 수 있는 웹페이지 링크가 포함되어 있습니다.</li>
+    <li><strong>전화</strong> - 전화번호가 QR 코드로 인코딩됩니다. 스캔하면 전화 앱이 실행되고 전화번호가 자동으로 미리 채워집니다.</li>
+    <li><strong>SMS/ Whatsapp</strong> - QR 코드에 수신자의 전화번호를 저장합니다. 스캔 시 번호가 미리 채워져 있는 해당 문자 메시지 앱을 엽니다.</li>
+    <li><strong>Facebook/Twitter</strong> - QR 코드에는 소셜 미디어 페이지 링크가 포함되어 있습니다. QR 코드를 스캔하면 브라우저에서 페이지가 열리거나 설치된 경우 해당 앱에서 페이지가 열립니다.</li>
+    <li><strong>WiFi</strong> - WiFi 자격 증명을 저장합니다. 카페를 운영할 때 유용합니다. 더 이상 Wi-Fi 비밀번호의 작은 쪽지를 건네주지 않아도 됩니다.</li>
+    <li><strong>이메일</strong> - 이메일 주소를 포함하고 스캔 시 수신자 주소가 미리 채워진 이메일 앱을 자동으로 실행합니다. </li>
+    <li><strong>Crypto</strong> - 암호화폐 지갑 주소를 QR 코드에 저장합니다.</li>
+    <li><strong>연락처</strong> - QR 코드에는 <a href="article:about_contactformats">Vcard 또는 MeCard 형식</a>으로 인코딩된 개인 정보가 포함되어 있습니다. </li>
+    <li><strong>이벤트</strong> - 캘린더에 저장될 이벤트에 대한 정보를 포함합니다. </li>
 </ul>
 
-<H2>Storing Information With Dynamic QR Codes</h2>
+<H2>동적 QR 코드로 정보 저장</h2>
 
-<p>Scanning a QR code is easy, but how do you create one that holds different types of information? </p>
+<p>QR 코드를 스캔하는 것은 쉽지만 다양한 유형의 정보를 담고 있는 QR 코드는 어떻게 만드나요? </p>
 
-<p>No, you don’t have to be a programming wizard to generating QR codes. Not when you have access to our QR code generator.</p>
+<p>아니요, QR 코드를 생성하기 위해 프로그래밍 마법사가 될 필요는 없습니다. QR 코드 생성기에 액세스할 수 있는 경우가 아닙니다.</p>
 
-<p>Here are the different types of information that can be stored with QR Codes when you’re using ScanMeFindMe Pro</p>
+<p>다음은 ScanMeFindMe Pro를 사용할 때 QR 코드로 저장할 수 있는 다양한 유형의 정보입니다.</p>
 
-<h3>Short URL With Dynamic QR codes</h3>
+<h3>동적 QR 코드가 있는 짧은 URL</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Short URL With Dynamic QR.png"
-        alt="Generate QR for short url - ScanMeFindMe">
+<p class="이미지홀더">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - 동적 QR.png가 있는 짧은 URL"
+        alt="짧은 URL에 대한 QR 생성 - ScanMeFindMe">
 </p>
 
-<p>You can create a short URL and encode it into a dynamic QR code. The URL redirects users to the destination link. The destination link, often a website or webpage, can be changed without altering the original QR code.</p>
+<p>짧은 URL을 만들어 동적 QR 코드로 인코딩할 수 있습니다. URL은 사용자를 대상 링크로 리디렉션합니다. 대상 링크(종종 웹사이트 또는 웹페이지)는 원본 QR 코드를 변경하지 않고 변경할 수 있습니다.</p>
 
-<H3> Contact Card With Dynamic QR codes</h3>
+<H3> 동적 QR 코드가 있는 연락처 카드</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - Contact Card With Dynamic QR.png"
-        alt="Contact Card With Dynamic QR code - ScanMeFindMe">
+<p class="이미지홀더">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - 동적 QR.png가 있는 연락처 카드"
+        alt="동적 QR 코드가 있는 연락처 카드 - ScanMeFindMe">
 </p>
 
-<p>ScanMeFindMe allows you to store personal information, an uploaded photo and social network links with a dynamic QR.  It encodes the short URL into the QR, which opens up a webpage displaying the contact information when scanned. This contact information can then be saved directly into users contacts.</p>
+<p>ScanMeFindMe를 사용하면 동적 QR을 사용하여 개인 정보, 업로드된 사진 및 소셜 네트워크 링크를 저장할 수 있습니다. 짧은 URL을 QR로 인코딩하면 스캔할 때 연락처 정보를 표시하는 웹페이지가 열립니다. 그런 다음 이 연락처 정보를 사용자 연락처에 직접 저장할 수 있습니다.</p>
 
-<h3>Files With Dynamic QR codes</h3>
+<h3>동적 QR 코드가 있는 파일</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - A Page With Files With Dynamic QR.png"
-        alt="Generate QR code for a page with files - ScanMeFindMe">
+<p class="이미지홀더">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - 동적 QR.png가 있는 파일이 있는 페이지"
+        alt="파일이 있는 페이지에 대한 QR 코드 생성 - ScanMeFindMe">
 </p>
 
-<p>Dynamic QR codes also allow you to share downloadable resources on a webpage. You can upload files and create a QR code that points to the resource page. When users scan the QR code, they will be redirected to the page containing the files.</p>
+<p>동적 QR 코드를 사용하면 웹페이지에서 다운로드 가능한 리소스를 공유할 수도 있습니다. 파일을 업로드하고 리소스 페이지를 가리키는 QR 코드를 만들 수 있습니다. 사용자가 QR 코드를 스캔하면 파일이 포함된 페이지로 리디렉션됩니다.</p>
 
-<H2> Managing Dynamic QR Codes With ScanMeFindMe Pro</h2>
+<H2> ScanMeFindMe Pro로 동적 QR 코드 관리</h2>
 
-<p>Once you’ve created a dynamic QR code, you can manage it with ease on the dashboard. </p>
+<p>동적 QR 코드를 생성하면 대시보드에서 쉽게 관리할 수 있습니다. </p>
 
-<p>If you need to download the QR code, just click on the Download QR button and you’ll be presented with several image options and advanced page settings.</p>
+<p>QR 코드를 다운로드해야 하는 경우 QR 다운로드 버튼을 클릭하면 여러 이미지 옵션과 고급 페이지 설정이 표시됩니다.</p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - download qr code.png"
-        alt="Download generated QR code - ScanMeFindMe">
+<p class="이미지홀더">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - qr code.png 다운로드"
+        alt="생성된 QR 코드 다운로드 - ScanMeFindMe">
 </p>
 
-<p>You can view, sort, tag, filter and search dynamic codes that you’ve created on the dashboard.</p>
+<p>대시보드에서 생성한 동적 코드를 보고, 정렬하고, 태그를 지정하고, 필터링하고, 검색할 수 있습니다.</p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - dynamic code.png"
-        alt="Managing generated QR codes - ScanMeFindMe">
+<p class="이미지홀더">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - 동적 코드.png"
+        alt="생성된 QR 코드 관리 - ScanMeFindMe">
 </p>
 
-<p>One of the reasons why dynamic QR code is an effective marketing tool, is its ability to track who scanned the QR, when and where. You’ll have access to statistics, charts and reports that will help you improve your targetting strategies and reach more potential clients.</p>
+<p>동적 QR 코드가 효과적인 마케팅 도구인 이유 중 하나는 QR 코드를 누가 언제 어디서 스캔했는지 추적하는 기능입니다. 타겟팅 전략을 개선하고 더 많은 잠재 고객에게 도달하는 데 도움이 되는 통계, 차트 및 보고서에 액세스할 수 있습니다.</p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - all statistics.gif"
-        alt="QR code scans statistics - ScanMeFindMe">
+<p class="이미지홀더">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - 모든 통계.gif"
+        alt="QR 코드 스캔 통계 - ScanMeFindMe">
 </p>
 
-<p>The bottom line is, ScanMeFindMe Pro gives you exclusive access to features like</p>
+<p>결론은 ScanMeFindMe Pro가 다음과 같은 기능에 대한 독점적인 액세스를 제공한다는 것입니다.</p>
 
-<ul>
-    <li>Generate dynamic QR codes.</li>
-    <li>Use your own templates.</li>
-    <li>View who scans your QR codes, when and where.</li>
-    <li>More download formats and advanced settings.</li>
-    <li>Save personalized QR code presets.</li>
-    <li>Use our QR Code generator API from your application.</li>
-    <li>Save and manage generated QR codes.</li>
+<울>
+    <li>동적 QR 코드를 생성합니다.</li>
+    <li>자신만의 템플릿을 사용하세요.</li>
+    <li>누가 언제 어디서 QR 코드를 스캔하는지 확인합니다.</li>
+    <li>더 많은 다운로드 형식 및 고급 설정</li>
+    <li>개인화된 QR 코드 사전 설정을 저장합니다.</li>
+    <li>애플리케이션에서 QR 코드 생성기 API를 사용하세요.</li>
+    <li>생성된 QR 코드를 저장하고 관리합니다.</li>
 </ul>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for FREE here.</a></p>
-
+<p><a href="#pro">여기에서 ScanMeFindMe PRO를 무료로 사용해 보세요.</a></p>

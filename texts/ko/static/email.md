@@ -1,3 +1,3 @@
-<h1>[E-mail] Create a QR code for an E-mail address</h1>
+<h1>[이메일] 이메일 주소용 QR 코드 생성</h1>
 
 ----------
