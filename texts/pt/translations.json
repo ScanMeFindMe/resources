@@ -8,7 +8,7 @@
     },
     "apierror": "Algo deu errado. O código QR não pôde ser gerado",
     "cancel": "Cancelar",
-    "close": "Fechar",
+    "close": "Perto",
     "contact": {
       "contact": "Se você tiver dúvidas ou sugestões ou gostaria de uma solução personalizada - entre em contato conosco",
       "contactinfo": "Informações de Contato",
@@ -22,7 +22,7 @@
       "smthwrong": "Alguma coisa deu errado. Por favor tente outra vez",
       "sorry": "Desculpe...",
       "submit": "Enviar",
-      "thankyou": "Obrigado!",
+      "thankyou": "Obrigada!",
       "youremail": "Seu email",
       "yourmessage": "Sua mensagem",
       "yourname": "Seu nome"
@@ -39,7 +39,7 @@
     },
     "forms": {
       "address": "Endereço",
-      "amount": "Montante",
+      "amount": "Resultar",
       "contactlogo": "Foto ou logotipo",
       "cryptoaddress": "Endereço",
       "cryptocurrency": "Criptomoeda",
@@ -64,7 +64,7 @@
       "mobilephone": "Celular",
       "notes": "Notas",
       "organisation": "Organização",
-      "other": "De outros",
+      "other": "Outro",
       "otherphone": "Outro telefone",
       "startdatetime": "Data e hora de início",
       "subject": "Sujeito",
@@ -88,7 +88,7 @@
     "loading": "Carregando",
     "menu": "Cardápio",
     "metadesc": "Crie códigos QR atraentes, escolha seu estilo, baixe como SVG, PNG, PDF ou PS. API de código QR, analisa análises. Gerador de código QR online fácil de usar",
-    "metatitle": "QR Code Generator - códigos QR gratuitos com logotipos e texto",
+    "metatitle": "Gerador de código QR - códigos QR gratuitos com logotipos e texto",
     "poorcontrast": "Este código QR pode não ser reconhecido por alguns dispositivos, tente alterar as configurações de estilo ou cor",
     "pricing": {
       "additionaluser": "usuário adicional",
@@ -103,7 +103,7 @@
       "featurelogos": "Escolha entre mais de 30 logotipos diferentes",
       "featuretemplates": "Adicione molduras e legendas",
       "metadesc": "Códigos QR estáticos sempre gratuitos. Avaliação gratuita de 14 dias para códigos QR dinâmicos. Acompanhe digitalizações de seus códigos QR, use a API de código QR, faça upload de seu conteúdo",
-      "metatitle": "Gerador de código QR - Planos e Preços",
+      "metatitle": "Gerador de código QR - Planos e preços",
       "pmonth": "mês",
       "pricing": "Preços",
       "starttrial": "Iniciar teste de 14 dias",
@@ -146,7 +146,7 @@
         }
       },
       "gotopro": "Ir para a conta PRO",
-      "metatitle": "QR Code Generator - Códigos estáticos e dinâmicos, análises e muito mais",
+      "metatitle": "Gerador de código QR - Códigos estáticos e dinâmicos, análises e muito mais",
       "static": {
         "freefeatures": {
           "colors": "Mude as cores",
@@ -211,10 +211,10 @@
     "basic": "Básico",
     "expert": "Especialista",
     "free": "Livre",
-    "trial": "Tentativas"
+    "trial": "Julgamento"
   },
   "pro": {
-    "all": "Todo",
+    "all": "Tudo",
     "api": {
       "addcomment": "Adicionar comentário",
       "addfiles": "Adicionar arquivos",
@@ -229,7 +229,7 @@
       "createnewkey": "Criar nova chave de API",
       "delete": "Excluir",
       "deletekey": "Excluir chave",
-      "descriptionapikeys": "Você pode criar quantas chaves de API forem necessárias. Normalmente é recomendado criar chaves de API separadas para cada pessoa que as utiliza e também chaves separadas para cada sistema automatizado. Nesse caso, você sempre pode excluir apenas uma chave se ela estiver comprometida e outras pessoas não serão afetadas. Adicione os comentários às chaves para lembrar para que servem.",
+      "descriptionapikeys": "Você pode criar quantas chaves de API forem necessárias. Normalmente é recomendado criar uma chave de API separada para cada pessoa que as utiliza e também uma chave separada para cada sistema automatizado. Nesse caso, você sempre pode excluir apenas uma chave se ela estiver comprometida e outras pessoas não serão afetadas. Adicione os comentários às chaves para lembrar para que servem.",
       "descriptiontempfiles": "<p>Os arquivos temporários só podem ser usados nas chamadas da API e são excluídos automaticamente após dois dias.</p><p>Chame a API para adicionar mais arquivos ou faça upload deles diretamente aqui:</p>",
       "documentation": "Documentação",
       "endpoint": "Ponto final",
@@ -275,7 +275,7 @@
     "createnewstaticcode": "Criar código QR estático",
     "dashboard": {
       "alltime": "Tempo todo",
-      "create": "Crio",
+      "create": "Criar",
       "dashboard": "Painel",
       "deleted": "deletado",
       "downloadascsv": "Baixar como CSV",
@@ -288,7 +288,7 @@
       "nodata": "Nenhum dado disponível",
       "nodynamic": "Você ainda não tem códigos dinâmicos",
       "nostatic": "Você ainda não tem códigos estáticos",
-      "other": "De outros",
+      "other": "Outro",
       "scansbycity": "Varreduras por cidade",
       "scansbycountry": "Verificações por país",
       "scansbyhour": "Varreduras por hora do dia",
@@ -311,7 +311,7 @@
       "custompagesize": "Personalizado",
       "dpilabel": "DPI (pontos por polegada)",
       "dpisuffix": "dpi",
-      "landscape": "Paisagem",
+      "landscape": "Panorama",
       "marginbottom": "Margem inferior",
       "marginleft": "Margem esquerda",
       "marginright": "Margem direita",
@@ -398,7 +398,7 @@
       },
       "upload": "Carregar"
     },
-    "of": "do",
+    "of": "de",
     "previewpage": "Visualizar a página",
     "profile": {
       "accountclosed": "Sua conta foi desativada",
@@ -420,7 +420,7 @@
       "name": "Nome",
       "newpassword": "Nova Senha",
       "notavailable": "Não disponível neste plano",
-      "password": "Alterar senha",
+      "password": "Mudar senha",
       "passwordsuccess": "A senha foi alterada com sucesso",
       "planusage": "Uso do plano",
       "prefdateformat": "Formato de data",
@@ -429,9 +429,9 @@
       "preftimeformat": "Formato de hora",
       "prefzoneinfo": "Fuso horário",
       "returntodemo": "Voltar para ScanMeFindMe",
-      "settings": "Configurações",
+      "settings": "Definições",
       "subscription": "Gerenciar assinatura",
-      "support": "Apoiar",
+      "support": "Apoio, suporte",
       "uploadedfiles": "Arquivos enviados",
       "usageleft": "{n}% restantes",
       "usageof": "{used} de {total}"
@@ -471,7 +471,7 @@
     "searchqr": "Pesquisar código qr",
     "shorturl": {
       "available": "Disponível",
-      "changebtn": "Alterar",
+      "changebtn": "Mudar",
       "changeshorturl": "Alterar URL curto",
       "description": "Certifique-se de não alterar o URL depois de imprimir o código QR, caso contrário, não funcionará",
       "domain": "Domínio",
@@ -500,12 +500,12 @@
     "errorlevelquad": "Alto",
     "eyeballcolor": "Cor interna",
     "eyeoutlinecolor": "Cor do contorno",
-    "fill": "Preencher",
+    "fill": "Encher",
     "fontsize": "Tamanho da fonte",
     "gap": "Personalize como os blocos no meio são renderizados",
     "gapheight": "Altura do intervalo",
     "gapwidth": "Largura do intervalo",
-    "inside": "Lado de dentro",
+    "inside": "Dentro",
     "logo": "Logotipo",
     "logobehind": "Por trás do código QR",
     "logocolor": "Cor do logotipo",
