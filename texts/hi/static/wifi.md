@@ -1,3 +1,3 @@
-<h1>[Wi-Fi] Create a QR code for a Wi-Fi connection</h1>
+<h1>[वाई - फाई] वाई-फ़ाई कनेक्शन के लिए क्यूआर कोड बनाएं</h1>
 
 ----------

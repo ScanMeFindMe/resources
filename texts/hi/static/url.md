@@ -1,37 +1,37 @@
-<h1>[URL] Create a QR code for a website or URL</h1>
+<h1>[यूआरएल] वेबसाइट या यूआरएल के लिए क्यूआर कोड बनाएं</h1>
 
 ----------
 
-<h1>Effortless QR Code Solutions For Savvy Marketers</h1>
+<h1>सेवी मार्केटर्स के लिए सहज क्यूआर कोड समाधान</h1>
 
-<p>Create, download, manage and track QR codes with a single platform. Work with different types of QR codes and personalization to suit your branding strategy.</p>
+<p>एक ही प्लेटफॉर्म से क्यूआर कोड बनाएं, डाउनलोड करें, प्रबंधित करें और ट्रैक करें। अपनी ब्रांडिंग रणनीति के अनुरूप विभिन्न प्रकार के क्यूआर कोड और वैयक्तिकरण के साथ काम करें।</p>
 
-<p><a href="#pro">Try For Free</a></p>
+<p><a href="#pro">निःशुल्क प्रयास करें</a></p>
 
-<h2>Create</h2>
+<h2>बनाएं</h2>
 
-<p>Generate QR codes for websites, contacts, phones, SMS, and more in simple steps. You don’t have to be a technical wizard.</p>
+<p>वेबसाइटों, संपर्कों, फोन, एसएमएस आदि के लिए आसान चरणों में क्यूआर कोड जेनरेट करें। आपको तकनीकी जादूगर होने की आवश्यकता नहीं है।</p>
 
-<h2>Customize</h2>
+<h2>कस्टमाइज़ करें</h2>
 
-<p>Choose from existing designs or add a personal touch to the QR code. Upload your own logo, template and select a color that goes well with your brand. Save time by using presets.</p>
+<p>मौजूदा डिज़ाइनों में से चुनें या क्यूआर कोड में व्यक्तिगत स्पर्श जोड़ें। अपना खुद का लोगो, टेम्प्लेट अपलोड करें और ऐसा रंग चुनें जो आपके ब्रांड के साथ अच्छा लगे। प्रीसेट का उपयोग करके समय बचाएं।</p>
 
-<h2>Download</h2>
+<h2>डाउनलोड करें</h2>
 
-<p>Download QR codes in high-resolution format. Set precise QR code location with advanced page settings.</p>
+<p>उच्च-रिज़ॉल्यूशन प्रारूप में क्यूआर कोड डाउनलोड करें। उन्नत पृष्ठ सेटिंग के साथ सटीक क्यूआर कोड स्थान सेट करें।</p>
 
-<h2>Manage</h2>
+<h2>प्रबंधित करें</h2>
 
-<p>Store and manage all of your QR codes with one solution. Easily search and filter QR codes by tags. Stay organized as you create more QR codes.</p>
+<p>एक समाधान के साथ अपने सभी क्यूआर कोड स्टोर और प्रबंधित करें। आसानी से टैग द्वारा क्यूआर कोड खोजें और फ़िल्टर करें। अधिक क्यूआर कोड बनाते समय व्यवस्थित रहें।</p>
 
-<h2>Track</h2>
+<h2>ट्रैक करें</h2>
 
-<p>Leverage real-time QR code analytics to track scans, locations, language, platform, and other key metrics. A must-have for data-driven marketing efforts.</p>
+<p>स्कैन, लोकेशन, भाषा, प्लेटफॉर्म और अन्य प्रमुख मेट्रिक्स को ट्रैक करने के लिए रीयल-टाइम क्यूआर कोड एनालिटिक्स का लाभ उठाएं। डेटा-संचालित मार्केटिंग प्रयासों के लिए आवश्यक है।</p>
 
-<p><a href="#article:about_statistics">Learn More</a></p>
+<p><a href="#article:about_statistics">अधिक जानें</a></p>
 
-<h2>Unlock Dynamic QR Codes With ScanMeFindMe PRO</h2>
+<h2>ScanMeFindMe PRO के साथ डायनामिक क्यूआर कोड अनलॉक करें</h2>
 
-<p>Dynamic QR codes live up to their name. You can dynamically change information after you have printed the QR code. Dynamic QR codes are only available in the ScanMeFindMe PRO</p>
+<p>डायनामिक क्यूआर कोड उनके नाम के अनुरूप हैं। क्यूआर कोड प्रिंट करने के बाद आप जानकारी को गतिशील रूप से बदल सकते हैं। डायनेमिक क्यूआर कोड केवल स्कैनमीफाइंडमी प्रो में उपलब्ध हैं</p>
 
-<p><a href="#article:about_static">Static vs dynamic QR codes (Learn More)</a></p>
+<p><a href="#article:about_static">स्थिर बनाम गतिशील QR कोड (अधिक जानें)</a></p>

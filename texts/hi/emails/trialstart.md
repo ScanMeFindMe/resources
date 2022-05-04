@@ -1,5 +1,5 @@
-Welcome to ScanMeFindMe
+ScanMeFindMe में आपका स्वागत है
 
-<h1>Hello {{name}},</h1>
-<h2>Welcome to your trial at ScanMeFindMe.</h2>
-<p>Your trial period will expire on {{expires}}.</p>
+<h1>नमस्कार {{name}},</h1>
+<h2>ScanMeFindMe पर आपके परीक्षण में आपका स्वागत है।</h2>
+<p>आपकी परीक्षण अवधि {{expires}} को समाप्त होगी।</p>

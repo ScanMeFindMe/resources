@@ -1,159 +1,158 @@
-<h1>What information can be stored in QR codes</h1>
+<h1>क्यूआर कोड में कौन सी जानकारी स्टोर की जा सकती है</h1>
 
 --- Abstract / Meta description ---
 
-QR codes can not only be links to websites. They can "tell" your smartphone to start a call, connect to Wi-Fi, save contact cards or calendar events. They can even open specific apps on your phone
+क्यूआर कोड न केवल वेबसाइटों के लिंक हो सकते हैं। वे आपके स्मार्टफोन को कॉल शुरू करने, वाई-फाई से कनेक्ट करने, संपर्क कार्ड या कैलेंडर ईवेंट सहेजने के लिए "बता" सकते हैं। वे आपके फ़ोन पर विशिष्ट ऐप्स भी खोल सकते हैं
 
 --- Short content 1 ---
 
-Static QR codes contain non-editable, simple information such as a URL, WiFi credentials, a phone number, or an email address
+स्टेटिक क्यूआर कोड में गैर-संपादन योग्य, सरल जानकारी जैसे यूआरएल, वाईफाई क्रेडेंशियल, फोन नंबर या ईमेल पता होता है
 
 ----------
 
-<p>QR codes are one of the most affordable, effective marketing tools that any business could ask for. It was underutilized for years since its introduction but has since gained momentum, thanks to the increase of smartphone availability and digitization.</p>
+<p>क्यूआर कोड सबसे किफायती, प्रभावी मार्केटिंग टूल में से एक है जिसे कोई भी व्यवसाय मांग सकता है। इसकी शुरुआत के बाद से वर्षों तक इसका कम उपयोग किया गया था, लेकिन स्मार्टफोन की उपलब्धता और डिजिटलीकरण में वृद्धि के कारण इसे गति मिली है।</p>
 
-<p>Whether you’re a marketer, startup founder, or seasoned entrepreneur, you’ll be surprised at how QR codes improve customer experience, increase conversion and simplify business operation. </p>
+<p>चाहे आप एक बाज़ारिया हों, स्टार्टअप संस्थापक हों, या अनुभवी उद्यमी हों, आपको आश्चर्य होगा कि कैसे QR कोड ग्राहक अनुभव में सुधार करते हैं, रूपांतरण बढ़ाते हैं और व्यवसाय संचालन को सरल बनाते हैं। </p>
 
-<p>Of course, this depends on what information that you’re storing in QR codes and how you’re applying them in business.</p>
+<p>बेशक, यह इस बात पर निर्भर करता है कि आप क्यूआर कोड में कौन सी जानकारी संग्रहीत कर रहे हैं और आप उन्हें व्यवसाय में कैसे लागू कर रहे हैं।</p>
 
-<h2>What Are QR Codes?</h2>
+<h2>क्यूआर कोड क्या हैं?</h2>
 
-<p>The QR Code, which stands for Quick-Response Code, is the most popular standard amongst 2-Dimensional barcodes. Chances are, you’ve come across QR codes when purchasing tickets, browsing through brochures, or visiting trade events. </p>
+<p>क्यूआर कोड, जो क्विक-रिस्पांस कोड के लिए खड़ा है, 2-आयामी बारकोड में सबसे लोकप्रिय मानक है। संभावना है, टिकट खरीदते समय, ब्रोशर के माध्यम से ब्राउज़ करते समय, या व्यापार कार्यक्रमों में जाने पर आपको क्यूआर कोड मिल गए होंगे। </p>
 
-<p>QR codes are squarish and bear three identical markers at the corners, that stick out from the rest of the pixels. These markers help the scanner to detect the edges of a QR code. Within the scannable area, the QR code is filled with smaller black and white spaces, which contain the encoded information.</p>
+<p>QR कोड स्क्वैरिश होते हैं और कोनों पर तीन समान मार्कर होते हैं, जो बाकी पिक्सल से अलग रहते हैं। ये मार्कर स्कैनर को क्यूआर कोड के किनारों का पता लगाने में मदद करते हैं। स्कैन करने योग्य क्षेत्र के भीतर, क्यूआर कोड छोटे काले और सफेद रिक्त स्थान से भरा होता है, जिसमें एन्कोडेड जानकारी होती है।</p>
 
-<p>Here’s an example of a QR code that has ScanMeFindMe’s URL encoded into it.</p>
+<p>यहां एक QR कोड का उदाहरण दिया गया है जिसमें ScanMeFindMe का URL एन्कोड किया गया है।</p>
 
-<p class="imageholder">
+<p वर्ग = "छवि धारक">
     <img src="https://media.scanmefindme.com/blog/about_static/files/img 1 - qr.png"
-        alt="QR code example, ScanMeFindMe">
+        alt="QR कोड उदाहरण, ScanMeFindMe">
 </p>
 
-<p>It’s also interesting to note that QR codes are built with an error-correction algorithm. Depending on the size and information stored, a QR code is still readable even if it has up to 30% of its area covered. </p>
+<p>यह ध्यान रखना भी दिलचस्प है कि क्यूआर कोड एक त्रुटि-सुधार एल्गोरिदम के साथ बनाए गए हैं। संग्रहीत आकार और जानकारी के आधार पर, एक क्यूआर कोड अभी भी पठनीय है, भले ही उसके क्षेत्र का 30% तक कवर हो। </p>
 
-<p>For marketers, QR Code’s robustness is a branding opportunity. It opens up the possibility of placing a <a href="#article:about_logos" title="QR codes with a logo">logo</a> or icon in the middle of the QR code, without compromising its integrity. </p>
+<p>विपणक के लिए, क्यूआर कोड की मजबूती एक ब्रांडिंग अवसर है। यह एक <a href="#article:about_logos" title="एक लोगो के साथ QR कोड">लोगो</a> या आइकन को QR कोड के बीच में रखने की संभावना को खोलता है, इसकी अखंडता से समझौता किए बिना। </p>
 
-<p>It’s recommended to use a professional QR generator to insert a logo into the code. It reduces the risk of making mistakes that make the QR code unreadable. </p>
+<p>कोड में लोगो डालने के लिए पेशेवर क्यूआर जनरेटर का उपयोग करने की अनुशंसा की जाती है। यह गलतियाँ करने के जोखिम को कम करता है जो क्यूआर कोड को अपठनीय बनाते हैं। </p>
 
-<h2>How Much Information Can They Store? </h2>
+<h2>वे कितनी जानकारी स्टोर कर सकते हैं? </h2>
 
-<p>QR codes are a revolutionary improvement from the single-dimensional barcode, particularly in terms of storage size. A QR code stores up to 4,296 alphanumeric characters or 7,089 numbers, while most 1D barcodes can only manage up to 20 numeric characters. QR codes are also capable of encoding non-Latin symbols like Kanji and hieroglyphs, but this decreases its data capacity. </p>
+<p>क्यूआर कोड एकल-आयामी बारकोड से एक क्रांतिकारी सुधार हैं, विशेष रूप से भंडारण आकार के संदर्भ में। एक क्यूआर कोड 4,296 अल्फ़ान्यूमेरिक वर्णों या 7,089 संख्याओं को संग्रहीत करता है, जबकि अधिकांश 1D बारकोड केवल 20 संख्यात्मक वर्णों तक ही प्रबंधित कर सकते हैं। क्यूआर कोड गैर-लैटिन प्रतीकों जैसे कांजी और चित्रलिपि को एन्कोड करने में भी सक्षम हैं, लेकिन इससे इसकी डेटा क्षमता कम हो जाती है। </p>
 
-<p>For a better comparison, it is possible to fit in all the basic details (name, email, address, phone number) of a customer in a QR code. This is not possible if you’re still using the age-old 1D barcode. </p>
+<p>बेहतर तुलना के लिए, क्यूआर कोड में ग्राहक के सभी बुनियादी विवरण (नाम, ईमेल, पता, फोन नंबर) में फिट होना संभव है। यदि आप अभी भी पुराने 1D बारकोड का उपयोग कर रहे हैं तो यह संभव नहीं है। </p>
 
-<p>However, stretching the QR code to its capacity means it will have tinier and denser pixels. This means that you’ll need a larger print area, or low-resolution cameras may have trouble decoding the QR code. </p>
+<p>हालांकि, क्यूआर कोड को उसकी क्षमता तक बढ़ाने का मतलब है कि इसमें छोटे और सघन पिक्सेल होंगे। इसका मतलब है कि आपको एक बड़े प्रिंट क्षेत्र की आवश्यकता होगी, या कम-रिज़ॉल्यूशन वाले कैमरों को क्यूआर कोड को डीकोड करने में समस्या हो सकती है। </p>
 
-<H2>What Happens When You Scan A QR Code?</h2>
+<H2>क्यूआर कोड स्कैन करने पर क्या होता है?</h2>
 
-<p>There’s no better time to make QR codes part of your marketing plan. That’s because almost everyone seems to own a personal QR code scanner, i.e. their smartphone. </p>
+<p>क्यूआर कोड को अपनी मार्केटिंग योजना का हिस्सा बनाने के लिए इससे बेहतर समय और कोई नहीं हो सकता। ऐसा इसलिए है क्योंकि लगभग सभी के पास एक व्यक्तिगत क्यूआर कोड स्कैनर, यानी उनका स्मार्टफोन है। </p>
 
-<p>You don’t need a special, dedicated barcode scanner to decode a QR code. If you’re using an iPhone, the camera is built-in with a QR code scanner. Meanwhile, Android users are required to download a QR scanner app, if their smartphone models do not have an intergrated QR scanner.</p>
+<p>QR कोड को डीकोड करने के लिए आपको एक विशेष, समर्पित बारकोड स्कैनर की आवश्यकता नहीं है। यदि आप iPhone का उपयोग कर रहे हैं, तो कैमरा QR कोड स्कैनर के साथ अंतर्निहित है। इस बीच, एंड्रॉइड उपयोगकर्ताओं को एक क्यूआर स्कैनर ऐप डाउनलोड करना आवश्यक है, अगर उनके स्मार्टफोन मॉडल में एक एकीकृत क्यूआर स्कैनर नहीं है।</p>
 
-<p>To scan a QR code, launch the QR scanner app and align the QR code to the designated scanning area. The camera will automatically capture the QR code and retrieve the encoded information, which usually contains texts and numbers.</p>
+<p>क्यूआर कोड को स्कैन करने के लिए, क्यूआर स्कैनर ऐप लॉन्च करें और क्यूआर कोड को निर्दिष्ट स्कैनिंग क्षेत्र में संरेखित करें। कैमरा स्वचालित रूप से क्यूआर कोड को कैप्चर करेगा और एन्कोडेड जानकारी को पुनः प्राप्त करेगा, जिसमें आमतौर पर टेक्स्ट और नंबर होते हैं।</p>
 
-<p>Now, it’s hard to imagine how plain text and numbers can do wonder in marketing but it does when your audience own a smartphone. It allows QR codes to be used interactively and creatively by making the smartphone respond uniquely to different types of information.
+<p>अब, यह कल्पना करना कठिन है कि कैसे सादा पाठ और संख्याएं मार्केटिंग में कमाल कर सकती हैं, लेकिन ऐसा तब होता है जब आपके दर्शकों के पास स्मार्टफोन हो। यह स्मार्टफोन को विभिन्न प्रकार की सूचनाओं के लिए विशिष्ट रूप से प्रतिक्रिया देकर क्यूआर कोड को अंतःक्रियात्मक और रचनात्मक रूप से उपयोग करने की अनुमति देता है।
 
-<p>This is done by including formatted text like ‘mailto:’ or ‘tel:’, which instruct the phone to send an email or dial a number respectively, into the QR code. Of course, neither of the actions are carried out automatically without your confirmation.</p>
+<p>यह 'mailto:' या 'tel:' जैसे फ़ॉर्मेट किए गए टेक्स्ट को शामिल करके किया जाता है, जो फ़ोन को क्यूआर कोड में क्रमशः ईमेल भेजने या नंबर डायल करने का निर्देश देता है। बेशक, आपकी पुष्टि के बिना कोई भी कार्य स्वचालित रूप से नहीं किया जाता है।</p>
 
-<h2>Static vs. Dynamic QR Codes</h2>
+<h2>स्थिर बनाम गतिशील QR कोड</h2>
 
-<p>Generally, there are two types of QR codes.</p>
+<p>आम तौर पर, दो तरह के क्यूआर कोड होते हैं।</p>
 
-<p>Static QR codes imply that the information encoded within is fixed. You can’t edit what is eventually shown to the users.</p>
+<p>स्टेटिक क्यूआर कोड का मतलब है कि इसमें एन्कोड की गई जानकारी स्थिर है। आप अंततः उपयोगकर्ताओं को जो दिखाया जाता है उसे संपादित नहीं कर सकते।</p>
 
-<p>For example, you can encode WIFI credentials into a QR code. When the users scan the QR Code, it will automatically connect to the WIFI. However, if you’ve changed the WIFI password, you’ll need to generate a new QR code.</p>
+<p>उदाहरण के लिए, आप वाईफ़ाई क्रेडेंशियल को क्यूआर कोड में एन्कोड कर सकते हैं। जब उपयोगकर्ता क्यूआर कोड को स्कैन करते हैं, तो यह स्वचालित रूप से वाईफ़ाई से जुड़ जाएगा। हालांकि, अगर आपने वाईफ़ाई पासवर्ड बदल दिया है, तो आपको एक नया क्यूआर कोड जेनरेट करना होगा।</p>
 
-<p>Meanwhile, dynamic QR codes contain a short URL that redirects to a website or webpage. While the link is fixed, the information that is displayed on the browser is not. You can make changes to the landing page as you deem fit without a new QR code.</p>
+<p>इस बीच, डायनेमिक क्यूआर कोड में एक छोटा यूआरएल होता है जो किसी वेबसाइट या वेबपेज पर रीडायरेक्ट करता है। जबकि लिंक ठीक है, ब्राउज़र पर प्रदर्शित होने वाली जानकारी नहीं है। आप नए क्यूआर कोड के बिना लैंडिंग पृष्ठ में परिवर्तन कर सकते हैं, जैसा कि आप उपयुक्त समझते हैं।</p>
 
-<p>Furthermore, you can incorporate analytics with dynamic QR codes. By doing so, you can track stats like the <a href="#article:about_statistics" title="Scans analytics for QR codes">number of scans</a>, and originating locations. These numbers are helpful in measuring and finetuning your marketing campaign. </p>
+<p>इसके अलावा, आप डायनामिक क्यूआर कोड के साथ एनालिटिक्स को शामिल कर सकते हैं। ऐसा करने से, आप <a href="#article:about_statistics" title="Scan analytics for QR codes">स्कैन की संख्या</a>, और आरंभिक स्थानों जैसे आँकड़ों को ट्रैक कर सकते हैं। ये नंबर आपके मार्केटिंग अभियान को मापने और उसे बेहतर बनाने में सहायक होते हैं। </p>
 
-<H2>Common Types Of Information Stored In QR Codes</h2>
+<H2>QR कोड में संग्रहीत सामान्य प्रकार की जानकारी</h2>
 
-<p>Here’s a list of what you can store in a QR code if you’re using our <a href="#static:url">QR code generator</a>. </p>
+<p>यदि आप हमारे <a href="#static:url">QR कोड जेनरेटर</a> का उपयोग कर रहे हैं, तो आप एक क्यूआर कोड में क्या स्टोर कर सकते हैं, इसकी एक सूची यहां दी गई है। </p>
 
-<ul>
-    <li><strong>URL</strong> - The QR code contains a link to your webpage which can be launched in a browser.</li>
-    <li><strong>Phone</strong> - A phone number is encoded into the QR code. When scanned, it brings up the phone app and automatically pre-fills the phone number.</li>
-    <li><strong>SMS/ Whatsapp</strong> - Stores the recipient’s phone number in the QR code. Opens up the respective text messaging app with the pre-filled number when scanned.</li>
-    <li><strong>Facebook/Twitter</strong> - The QR code contains the link to the social media page. Scanning the QR code opens the page in a browser or the respective app if it’s installed.</li>
-    <li><strong>WiFi</strong> - Stores your WiFi credential. Comes in handy if you’re running a cafe. No more handing tiny slips of your WiFi password.</li>
-    <li><strong>Email</strong> - Contains an email address and automatically triggers an email app with prefilled recipient’s address when scanned.  </li>
-    <li><strong>Crypto</strong> - Stores your cryptocurrency wallet address in the QR code.</li>
-    <li><strong>Contact</strong> - The QR code contains your personal information, encoded in <a href="article:about_contactformats">Vcard or MeCard format</a>. </li>
-    <li><strong>Events</strong> - Contains information about an event that will be saved in your calendar. </li>
+<उल>
+    <li><strong>URL</strong> - QR कोड में आपके वेबपेज का एक लिंक होता है जिसे एक ब्राउज़र में लॉन्च किया जा सकता है।</li>
+    <li><strong>फ़ोन</strong> - एक फ़ोन नंबर QR कोड में एन्कोड किया जाता है। स्कैन किए जाने पर, यह फ़ोन ऐप लाता है और फ़ोन नंबर अपने आप पहले से भरता है।</li>
+    <li><strong>एसएमएस/व्हाट्सएप</strong> - प्राप्तकर्ता के फोन नंबर को क्यूआर कोड में स्टोर करता है। स्कैन किए जाने पर पहले से भरे हुए नंबर के साथ संबंधित टेक्स्ट मैसेजिंग ऐप को खोलता है।</li>
+    <li><strong>Facebook/Twitter</strong> - QR कोड में सोशल मीडिया पेज का लिंक होता है। क्यूआर कोड को स्कैन करने पर पेज ब्राउज़र या संबंधित ऐप में खुल जाता है, अगर यह इंस्टॉल है।</li>
+    <li><strong>वाईफाई</strong> - आपके वाईफाई क्रेडेंशियल को स्टोर करता है। यदि आप एक कैफे चला रहे हैं तो यह काम आता है। अब आपके वाईफाई पासवर्ड की छोटी-छोटी पर्चियां नहीं सौंपना।</li>
+    <li><strong>ईमेल</strong> - इसमें एक ईमेल पता होता है और स्कैन किए जाने पर पहले से भरे हुए प्राप्तकर्ता के पते के साथ एक ईमेल ऐप को स्वचालित रूप से ट्रिगर करता है। </li>
+    <li><strong>Crypto</strong> - आपके क्रिप्टोक्यूरेंसी वॉलेट पते को क्यूआर कोड में संग्रहीत करता है।</li>
+    <li><strong>संपर्क करें</strong> - QR कोड में आपकी व्यक्तिगत जानकारी होती है, जो <a href="article:about_contactformats">Vcard या MeCard प्रारूप</a> में एन्कोडेड होती है। </li>
+    <li><strong>ईवेंट</strong> - इसमें उस ईवेंट के बारे में जानकारी होती है जिसे आपके कैलेंडर में सहेजा जाएगा। </li>
 </ul>
 
-<H2>Storing Information With Dynamic QR Codes</h2>
+<H2>डायनामिक क्यूआर कोड के साथ जानकारी संग्रहीत करना</h2>
 
-<p>Scanning a QR code is easy, but how do you create one that holds different types of information? </p>
+<p>एक क्यूआर कोड को स्कैन करना आसान है, लेकिन आप एक ऐसा क्यूआर कोड कैसे बनाते हैं जिसमें विभिन्न प्रकार की जानकारी होती है? </p>
 
-<p>No, you don’t have to be a programming wizard to generating QR codes. Not when you have access to our QR code generator.</p>
+<p>नहीं, आपको क्यूआर कोड जनरेट करने के लिए प्रोग्रामिंग विज़ार्ड होने की आवश्यकता नहीं है। तब नहीं जब आपके पास हमारे क्यूआर कोड जनरेटर तक पहुंच हो।</p>
 
-<p>Here are the different types of information that can be stored with QR Codes when you’re using ScanMeFindMe Pro</p>
+<p>यहां विभिन्न प्रकार की जानकारी दी गई है जिसे स्कैनमेफाइंडमी प्रो का उपयोग करते समय क्यूआर कोड के साथ संग्रहीत किया जा सकता है</p>
 
-<h3>Short URL With Dynamic QR codes</h3>
+<h3>डायनेमिक क्यूआर कोड के साथ छोटा यूआरएल</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Short URL With Dynamic QR.png"
-        alt="Generate QR for short url - ScanMeFindMe">
+<p वर्ग = "छवि धारक">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - डायनामिक QR.png के साथ छोटा URL"
+        alt="लघु url के लिए QR जनरेट करें - ScanMeFindMe">
 </p>
 
-<p>You can create a short URL and encode it into a dynamic QR code. The URL redirects users to the destination link. The destination link, often a website or webpage, can be changed without altering the original QR code.</p>
+<p>आप एक छोटा यूआरएल बना सकते हैं और इसे एक डायनेमिक क्यूआर कोड में एन्कोड कर सकते हैं। URL उपयोगकर्ताओं को गंतव्य लिंक पर पुनर्निर्देशित करता है। गंतव्य लिंक, अक्सर एक वेबसाइट या वेबपेज, मूल क्यूआर कोड को बदले बिना बदला जा सकता है।</p>
 
-<H3> Contact Card With Dynamic QR codes</h3>
+<H3> डायनामिक क्यूआर कोड के साथ संपर्क कार्ड</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - Contact Card With Dynamic QR.png"
-        alt="Contact Card With Dynamic QR code - ScanMeFindMe">
+<p वर्ग = "छवि धारक">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - डायनेमिक QR.png के साथ संपर्क कार्ड"
+        alt="डायनेमिक क्यूआर कोड के साथ कार्ड से संपर्क करें - ScanMeFindMe">
 </p>
 
-<p>ScanMeFindMe allows you to store personal information, an uploaded photo and social network links with a dynamic QR.  It encodes the short URL into the QR, which opens up a webpage displaying the contact information when scanned. This contact information can then be saved directly into users contacts.</p>
+<p>ScanMeFindMe आपको व्यक्तिगत जानकारी, एक अपलोड की गई तस्वीर और एक गतिशील क्यूआर के साथ सामाजिक नेटवर्क लिंक संग्रहीत करने की अनुमति देता है। यह छोटे URL को QR में एन्कोड करता है, जो स्कैन किए जाने पर संपर्क जानकारी प्रदर्शित करने वाला एक वेबपेज खोलता है। यह संपर्क जानकारी तब सीधे उपयोगकर्ता संपर्कों में सहेजी जा सकती है।</p>
 
-<h3>Files With Dynamic QR codes</h3>
+<h3>डायनेमिक क्यूआर कोड वाली फ़ाइलें</h3>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - A Page With Files With Dynamic QR.png"
-        alt="Generate QR code for a page with files - ScanMeFindMe">
+<p वर्ग = "छवि धारक">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - गतिशील QR.png वाली फाइलों वाला एक पेज"
+        alt="फ़ाइलों वाले पेज के लिए QR कोड जेनरेट करें - ScanMeFindMe">
 </p>
 
-<p>Dynamic QR codes also allow you to share downloadable resources on a webpage. You can upload files and create a QR code that points to the resource page. When users scan the QR code, they will be redirected to the page containing the files.</p>
+<p>डायनामिक क्यूआर कोड आपको वेबपेज पर डाउनलोड करने योग्य संसाधनों को साझा करने की अनुमति भी देते हैं। आप फ़ाइलें अपलोड कर सकते हैं और एक क्यूआर कोड बना सकते हैं जो संसाधन पृष्ठ की ओर इशारा करता है। जब उपयोगकर्ता क्यूआर कोड को स्कैन करते हैं, तो उन्हें फाइलों वाले पेज पर रीडायरेक्ट कर दिया जाएगा।</p>
 
-<H2> Managing Dynamic QR Codes With ScanMeFindMe Pro</h2>
+<H2> ScanMeFindMe Pro के साथ डायनेमिक क्यूआर कोड प्रबंधित करना</h2>
 
-<p>Once you’ve created a dynamic QR code, you can manage it with ease on the dashboard. </p>
+<p>एक बार जब आप एक डायनामिक क्यूआर कोड बना लेते हैं, तो आप इसे डैशबोर्ड पर आसानी से प्रबंधित कर सकते हैं। </p>
 
-<p>If you need to download the QR code, just click on the Download QR button and you’ll be presented with several image options and advanced page settings.</p>
+<p>यदि आपको क्यूआर कोड डाउनलोड करने की आवश्यकता है, तो बस क्यूआर डाउनलोड करें बटन पर क्लिक करें और आपको कई छवि विकल्प और उन्नत पृष्ठ सेटिंग्स के साथ प्रस्तुत किया जाएगा।</p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - download qr code.png"
-        alt="Download generated QR code - ScanMeFindMe">
+<p वर्ग = "छवि धारक">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - qr code.png डाउनलोड करें"
+        alt="जनरेट किया गया QR कोड डाउनलोड करें - ScanMeFindMe">
 </p>
 
-<p>You can view, sort, tag, filter and search dynamic codes that you’ve created on the dashboard.</p>
+<p>आप डैशबोर्ड पर अपने द्वारा बनाए गए डायनामिक कोड देख सकते हैं, सॉर्ट कर सकते हैं, टैग कर सकते हैं, फ़िल्टर कर सकते हैं और खोज सकते हैं।</p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - dynamic code.png"
-        alt="Managing generated QR codes - ScanMeFindMe">
+<p वर्ग = "छवि धारक">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - डायनामिक कोड.png"
+        alt="जेनरेट किए गए QR कोड प्रबंधित करना - ScanMeFindMe">
 </p>
 
-<p>One of the reasons why dynamic QR code is an effective marketing tool, is its ability to track who scanned the QR, when and where. You’ll have access to statistics, charts and reports that will help you improve your targetting strategies and reach more potential clients.</p>
+<p>डायनेमिक क्यूआर कोड एक प्रभावी मार्केटिंग टूल क्यों है, इसका एक कारण यह ट्रैक करने की क्षमता है कि क्यूआर स्कैन किसने, कब और कहां किया। आपके पास आंकड़े, चार्ट और रिपोर्ट तक पहुंच होगी जो आपकी लक्ष्यीकरण रणनीतियों को बेहतर बनाने और अधिक संभावित ग्राहकों तक पहुंचने में आपकी सहायता करेगी।</p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - all statistics.gif"
-        alt="QR code scans statistics - ScanMeFindMe">
+<p वर्ग = "छवि धारक">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - सभी आँकड़े.gif"
+        alt="QR कोड स्कैन आँकड़े - ScanMeFindMe">
 </p>
 
-<p>The bottom line is, ScanMeFindMe Pro gives you exclusive access to features like</p>
+<p>सबसे महत्वपूर्ण बात यह है कि, ScanMeFindMe Pro आपको इस तरह की सुविधाओं तक विशेष पहुंच प्रदान करता है</p>
 
-<ul>
-    <li>Generate dynamic QR codes.</li>
-    <li>Use your own templates.</li>
-    <li>View who scans your QR codes, when and where.</li>
-    <li>More download formats and advanced settings.</li>
-    <li>Save personalized QR code presets.</li>
-    <li>Use our QR Code generator API from your application.</li>
-    <li>Save and manage generated QR codes.</li>
+<उल>
+    <li>डायनेमिक क्यूआर कोड जेनरेट करें।</li>
+    <li>अपने स्वयं के टेम्प्लेट का उपयोग करें।</li>
+    <li>देखें कि आपके क्यूआर कोड को कौन स्कैन करता है, कब और कहां।</li>
+    <li>अधिक डाउनलोड प्रारूप और उन्नत सेटिंग्स।</li>
+    <li>व्यक्तिगत क्यूआर कोड प्रीसेट सहेजें।</li>
+    <li>अपने आवेदन से हमारे क्यूआर कोड जनरेटर एपीआई का उपयोग करें।</li>
+    <li>जनरेट किए गए क्यूआर कोड सहेजें और प्रबंधित करें।</li>
 </ul>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for FREE here.</a></p>
-
+<p><a href="#pro">ScanMeFindMe PRO को यहां निःशुल्क आज़माएं।</a></p>

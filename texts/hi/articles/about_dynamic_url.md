@@ -1,74 +1,74 @@
-<h1>Using QR codes to create short URLs and track views</h1>
+<h1>छोटे URL बनाने और दृश्यों को ट्रैक करने के लिए QR कोड का उपयोग करना</h1>
 
 --- Abstract / Meta description ---
 
-Creating short URLs with QR codes enables view tracking. It's a useful feature that helps in monitoring marketing campaigns.
+क्यूआर कोड के साथ छोटे यूआरएल बनाने से व्यू ट्रैकिंग सक्षम होती है। यह एक उपयोगी विशेषता है जो मार्केटिंग अभियानों की निगरानी में मदद करती है।
 
 --- Short content 1 ---
 
-Generate a shortened alias of your webpage URL and track who, where, and how users are scanning it.
+अपने वेबपेज URL का संक्षिप्त उपनाम बनाएं और ट्रैक करें कि उपयोगकर्ता इसे कौन, कहां और कैसे स्कैन कर रहे हैं।
 
 ----------
 
-<p><span class="font-italic">'If you can't measure it, you can't improve it'</span>  -- Peter Drucker</p>
+<p><span class="font-italic">'यदि आप इसे माप नहीं सकते, तो आप इसे सुधार नहीं सकते'</span> -- पीटर ड्रकर</p>
 
-<p>The oft-repeated saying applies when you're making QR codes part of your marketing campaign.</p>
+<p>जब आप क्यूआर कोड को अपने मार्केटिंग अभियान का हिस्सा बना रहे होते हैं तो यह कहावत लागू होती है।</p>
 
-<p>If you're clueless about how many scans your QR Code generated over the past week, or which cities generated the most hits, you won't know if the campaign is on track for success.</p>
+<p>यदि आप इस बारे में नहीं जानते हैं कि पिछले सप्ताह में आपके क्यूआर कोड ने कितने स्कैन किए, या किन शहरों ने सबसे अधिक हिट प्राप्त किए, तो आपको पता नहीं चलेगा कि अभियान सफलता की राह पर है या नहीं।</p>
 
-<p>Now, not all QR codes are trackable. You need to create the right QR codes and ensure that they are linked to a tracking module. Creating QR codes with ScanMeFindMe makes this very easy. </p>
+<p>अब, सभी क्यूआर कोड ट्रैक करने योग्य नहीं हैं। आपको सही क्यूआर कोड बनाने और यह सुनिश्चित करने की आवश्यकता है कि वे एक ट्रैकिंग मॉड्यूल से जुड़े हुए हैं। ScanMeFindMe के साथ QR कोड बनाना इसे बहुत आसान बनाता है। </p>
 
-<h2>Why Create Short URLs with QR Codes?</h2>
+<h2>QR कोड के साथ छोटे URL क्यों बनाएं?</h2>
 
-<p>A short URL is a shortened link address that redirects the user to the intended webpage. </p>
+<p>एक छोटा यूआरएल एक छोटा लिंक पता है जो उपयोगकर्ता को इच्छित वेबपेज पर रीडायरेक्ट करता है। </p>
 
-<p>For example, here's a short URL: <span class="font-italic">http://qrs.re/resources</span></p>
+<p>उदाहरण के लिए, यहां एक छोटा यूआरएल है: <span class="font-italic">http://qrs.re/resources</span></p>
 
-<p class="imageholder">
+<p वर्ग = "छवि धारक">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 1 - qr.png"
-        alt="Example of QR code for short URL - ScanMeFindMe">
+        alt="लघु URL के लिए QR कोड का उदाहरण - ScanMeFindMe">
 </p>
 
-<p>It points to our resource page, which has the full URL: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
+<p>यह हमारे संसाधन पृष्ठ की ओर इशारा करता है, जिसमें पूरा URL है: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
 
-<p>If you encode the full URL into the QR code, it will still direct users to the respective webpage. However, you wouldn't be able to tap into the full benefits that QR codes have to offer. </p>
+<p>यदि आप पूरे URL को QR कोड में एन्कोड करते हैं, तब भी यह उपयोगकर्ताओं को संबंधित वेबपेज पर निर्देशित करेगा। हालाँकि, आप उन पूर्ण लाभों का लाभ नहीं उठा पाएंगे जो QR कोड प्रदान करने हैं। </p>
 
-<p><strong>QR codes that encode short URLs</strong> are also known as dynamic QR codes. With a dynamic QR code, you have more flexibility in editing the destination content and also in tracking users that scan the QR code.</p>
+<p><strong>छोटे URL को एन्कोड करने वाले QR कोड</strong> को डायनेमिक QR कोड भी कहा जाता है। डायनामिक क्यूआर कोड के साथ, आपके पास गंतव्य सामग्री को संपादित करने और क्यूआर कोड को स्कैन करने वाले उपयोगकर्ताओं को ट्रैक करने में अधिक लचीलापन है।</p>
 
-<h2>How To Track Views With QR Code</h2>
+<h2>क्यूआर कोड से दृश्य कैसे ट्रैक करें</h2>
 
-<p>When you generate a dynamic QR code with our <a href="#pro">PRO QR generator</a>, it is automatically linked to our tracking tools.</p>
+<p>जब आप हमारे <a href="#pro">PRO QR जनरेटर</a> के साथ एक गतिशील क्यूआर कोड जनरेट करते हैं, तो यह स्वचालित रूप से हमारे ट्रैकिंग टूल से जुड़ जाता है।</p>
 
-<p>When a user scans the QR code and is redirected to the destination webpage, <a href="#static:url">ScanMeFindMe</a> traces key metrics from the device and saves them on the dashboard.</p>
+<p>जब कोई उपयोगकर्ता क्यूआर कोड को स्कैन करता है और गंतव्य वेबपेज पर पुनर्निर्देशित किया जाता है, तो <a href="#static:url">ScanMeFindMe</a> डिवाइस से मुख्य मीट्रिक का पता लगाता है और उन्हें डैशबोर्ड पर सहेजता है।</p >
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - total scans.png"
-        alt="Example of QR code scans statistics - ScanMeFindMe">
+<p वर्ग = "छवि धारक">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - कुल स्कैन.png"
+        alt="QR कोड स्कैन के आँकड़ों का उदाहरण - ScanMeFindMe">
 </p>
 
-<p>From the <a href="#article:about_statistics" title="Scans statistics for dynamic QR codes">statistics</a>, you will discover how many scans are generated by a particular QR code and how many of them are unique hits. Unique hits are scans generated from different devices. Often, it means different individuals are scanning the QR code. </p>
+<p><a href="#article:about_statistics" title="डायनेमिक क्यूआर कोड के लिए स्कैन आंकड़े">आंकड़े</a> से, आप पाएंगे कि किसी विशेष क्यूआर कोड द्वारा कितने स्कैन जेनरेट किए जाते हैं और उनमें से कितने स्कैन होते हैं अद्वितीय हिट हैं। अद्वितीय हिट विभिन्न उपकरणों से उत्पन्न स्कैन होते हैं। अक्सर, इसका मतलब है कि अलग-अलग व्यक्ति क्यूआर कोड को स्कैन कर रहे हैं। </p>
 
-<p>Also, you'll get a monthly and daily breakdown of the scans, which helps in determining the peak hours or any distinct patterns where users frequent your website. </p>
+<p>साथ ही, आपको स्कैन का मासिक और दैनिक ब्रेकडाउन मिलेगा, जो पीक आवर्स या किसी भी विशिष्ट पैटर्न को निर्धारित करने में मदद करता है जहां उपयोगकर्ता आपकी वेबसाइट पर आते हैं। </p>
 
-<p>The charts help marketers to fine-tune their campaigns to increase conversion and sales. For example, an online retailer can run targeted promotions during the hours when it's anticipating peak traffic.</p>
+<p>चार्ट विपणक को रूपांतरण और बिक्री बढ़ाने के लिए अपने अभियानों को बेहतर बनाने में मदद करते हैं। उदाहरण के लिए, एक ऑनलाइन खुदरा विक्रेता उन घंटों के दौरान लक्षित प्रचार चला सकता है, जब वह अत्यधिक ट्रैफ़िक की आशंका कर रहा होता है।</p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - scans by.png"
-        alt="Example of QR code scans statistics - ScanMeFindMe">
+<p वर्ग = "छवि धारक">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - स्कैन by.png"
+        alt="QR कोड स्कैन के आँकड़ों का उदाहरण - ScanMeFindMe">
 </p>
 
-<p>There's more to getting the number of total hits with our QR code tracker. You'll get access to details like the number of scans by OS, language, city, and country. </p>
+<p>हमारे क्यूआर कोड ट्रैकर के साथ कुल हिट की संख्या प्राप्त करने के लिए और भी बहुत कुछ है। आपको OS, भाषा, शहर और देश द्वारा स्कैन की संख्या जैसे विवरणों तक पहुंच प्राप्त होगी। </p>
 
-<p>These metrics provide insights into how your campaign is faring at a deeper level. For example, if you're promoting an app developed for Android users, you'll want scans originating from the Android platform. </p>
+<p>ये मीट्रिक इस बात की जानकारी प्रदान करते हैं कि आपका अभियान गहरे स्तर पर कैसा प्रदर्शन कर रहा है। उदाहरण के लिए, यदि आप Android उपयोगकर्ताओं के लिए विकसित किसी ऐप का प्रचार कर रहे हैं, तो आपको Android प्लेटफ़ॉर्म से आने वाले स्कैन की आवश्यकता होगी। </p>
 
-<p>Marketers targeting the global audience can personalize their campaigns based on how users in the respective cities or countries are responding. </p>
+<p>वैश्विक दर्शकों को लक्षित करने वाले विपणक अपने अभियानों को इस आधार पर वैयक्तिकृत कर सकते हैं कि संबंधित शहरों या देशों के उपयोगकर्ता कैसे प्रतिक्रिया दे रहे हैं। </p>
 
-<p>The figures help with other marketing strategies and serve as an early indicator of which region is more likely to generate an impactful engagement. </p>
+<p>आंकड़े अन्य मार्केटिंग रणनीतियों में मदद करते हैं और शुरुआती संकेतक के रूप में काम करते हैं कि किस क्षेत्र में प्रभावशाली जुड़ाव उत्पन्न होने की अधिक संभावना है। </p>
 
-<h2>Bottom Line</h2>
+<h2>नीचे की रेखा</h2>
 
-<p>If you wanted to set up a data-driven QR code campaign, you'll need dynamic QR codes and a reliable, hassle-free tracking module. You don't want to spend hours setting up the analytics or generating the reports.</p>
+<p>यदि आप एक डेटा-संचालित क्यूआर कोड अभियान स्थापित करना चाहते हैं, तो आपको गतिशील क्यूआर कोड और एक विश्वसनीय, परेशानी मुक्त ट्रैकिंग मॉड्यूल की आवश्यकता होगी। आप विश्लेषण सेट अप करने या रिपोर्ट तैयार करने में घंटों खर्च नहीं करना चाहते हैं।</p>
 
-<p>ScanMeFindMe PRO takes care of the technical stuff, which means you can start generating QR codes that automatically track views in no time.</p>
+<p>ScanMeFindMe PRO तकनीकी सामग्री का ध्यान रखता है, जिसका अर्थ है कि आप ऐसे QR कोड जनरेट करना शुरू कर सकते हैं जो कुछ ही समय में दृश्यों को स्वचालित रूप से ट्रैक करते हैं।</p>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for free now.</a></p>
+<p><a href="#pro">ScanMeFindMe PRO को अभी निःशुल्क आज़माएं।</a></p>

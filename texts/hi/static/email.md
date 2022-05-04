@@ -1,3 +1,3 @@
-<h1>[E-mail] Create a QR code for an E-mail address</h1>
+<h1>[ईमेल] ई-मेल पते के लिए एक क्यूआर कोड बनाएं</h1>
 
 ----------

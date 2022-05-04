@@ -1,73 +1,73 @@
-<h1>How QR codes can be used to share files</h1>
+<h1>फ़ाइलों को साझा करने के लिए क्यूआर कोड का उपयोग कैसे किया जा सकता है</h1>
 
 --- Abstract / Meta description ---
 
-Share files with QR codes to consolidate and simplify information access.  Allows users to download files with just a scan.
+सूचना पहुंच को समेकित और सरल बनाने के लिए क्यूआर कोड के साथ फ़ाइलें साझा करें। उपयोगकर्ताओं को केवल एक स्कैन के साथ फ़ाइलें डाउनलोड करने की अनुमति देता है।
 
 --- Short content 1 ---
 
-Upload menus, music, manuals, and other files onto a personalized webpage. Share the QR code with others and monitor how often it’s scanned.
+एक व्यक्तिगत वेबपेज पर मेनू, संगीत, मैनुअल और अन्य फाइलें अपलोड करें। क्यूआर कोड दूसरों के साथ साझा करें और निगरानी करें कि यह कितनी बार स्कैन किया गया है।
 
 ----------
 
-<p>Do you receive numerous calls from customers because they have trouble finding the right product manuals? Or are you tired of emailing multiple attachments to your team members?  </p>
+<p>क्या आपको ग्राहकों से कई कॉल प्राप्त होते हैं क्योंकि उन्हें सही उत्पाद मैनुअल खोजने में परेशानी होती है? या आप अपनी टीम के सदस्यों को कई अटैचमेंट ईमेल करते-करते थक गए हैं? </p>
 
-<p>Regardless of which business you're in, there's always room for improvement when it comes to information sharing. If the existing method proves to be a bottleneck, it's time to re-evaluate if you're using the right technology to share files. </p>
+<p>चाहे आप किसी भी व्यवसाय में हों, जानकारी साझा करने के मामले में हमेशा सुधार की गुंजाइश रहती है। यदि मौजूदा पद्धति एक अड़चन साबित होती है, तो यह पुनर्मूल्यांकन करने का समय है कि क्या आप फ़ाइलों को साझा करने के लिए सही तकनीक का उपयोग कर रहे हैं। </p>
 
-<p>Cloud storage is one part of the solution, but the key to efficient file-sharing is enabling recipients access to the resources with minimum fuss. That's where <a href="#static:url">using QR codes</a>  for file-sharing kicks in.</p>
+<p>क्लाउड स्टोरेज समाधान का एक हिस्सा है, लेकिन कुशल फ़ाइल-साझाकरण की कुंजी प्राप्तकर्ताओं को न्यूनतम उपद्रव के साथ संसाधनों तक पहुंच को सक्षम करना है। यहीं से फ़ाइल-साझाकरण के लिए <a href="#static:url">QR कोड का उपयोग</a> शुरू होता है।</p>
 
-<h2>How Does File Sharing With QR Codes Work?</h2>
+<h2>क्यूआर कोड के साथ फाइल शेयरिंग कैसे काम करती है?</h2>
 
-<p>Unlike what most people imagine, you wouldn't be storing the files into a QR code. Most files are too large to be encoded into a QR code. </p>
+<p>ज्यादातर लोग जो कल्पना करते हैं उसके विपरीत, आप फ़ाइलों को एक क्यूआर कोड में संग्रहीत नहीं कर रहे होंगे। क्यूआर कोड में एन्कोड किए जाने के लिए अधिकांश फ़ाइलें बहुत बड़ी हैं। </p>
 
-<p>Instead, the files are uploaded to a webpage, and a shortened URL is generated and stored in the QR code. When users scan the code, they are redirected to the webpage where they can download the files. </p>
+<p>इसके बजाय, फ़ाइलों को एक वेबपेज पर अपलोड किया जाता है, और एक छोटा URL जनरेट किया जाता है और क्यूआर कोड में संग्रहीत किया जाता है। जब उपयोगकर्ता कोड को स्कैन करते हैं, तो उन्हें वेबपेज पर रीडायरेक्ट कर दिया जाता है जहां वे फाइलें डाउनलोड कर सकते हैं। </p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - preview files.png"
-        alt="Preview of a page with files - ScanMeFindMe">
+<p वर्ग = "छवि धारक">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - files.png का पूर्वावलोकन करें"
+        alt="फ़ाइलों वाले पृष्ठ का पूर्वावलोकन - ScanMeFindMe">
 </p>
 
-<p>If you're using <a href="#pro">ScanMeFindMe PRO</a>, you can also include the title, description, and logo on the file-sharing page. It makes the page looks more professional and provides more information about the downloadable files to users.  </p>
+<p>यदि आप <a href="#pro">ScanMeFindMe PRO</a> का उपयोग कर रहे हैं, तो आप फ़ाइल-साझाकरण पृष्ठ पर शीर्षक, विवरण और लोगो भी शामिल कर सकते हैं। यह पृष्ठ को अधिक पेशेवर बनाता है और उपयोगकर्ताओं को डाउनलोड करने योग्य फ़ाइलों के बारे में अधिक जानकारी प्रदान करता है। </p>
 
-<h2>Why Use QR Codes To Share Files?</h2>
+<h2>फ़ाइलें साझा करने के लिए QR कोड का उपयोग क्यों करें?</h2>
 
-<p>There are various ways to access information, but QR codes offer multiple advantages over conventional ones. </p>
+<p>जानकारी तक पहुंचने के कई तरीके हैं, लेकिन क्यूआर कोड पारंपरिक लोगों की तुलना में कई फायदे प्रदान करते हैं। </p>
 
-<h3>It's Efficient</h3>
+<h3>यह कुशल है</h3>
 
-<p>With QR Codes, you can consolidate different resources on a single webpage. It saves you the trouble of sorting out which files to be sent out and who are the right recipients.  </p>
+<p>क्यूआर कोड के साथ, आप एक ही वेबपेज पर विभिन्न संसाधनों को समेकित कर सकते हैं। यह आपको यह तय करने की परेशानी से बचाता है कि कौन सी फाइलें भेजी जानी हैं और कौन सही प्राप्तकर्ता हैं। </p>
 
-<p>All you need to do is to upload the files once and send out the QR codes. It spares you the trouble of waiting for the uploads to complete. Also, there's a lesser chance of sending out the wrong files in an email.  </p>
+<p>आपको केवल फाइलों को एक बार अपलोड करना है और क्यूआर कोड भेजना है। यह आपको अपलोड के पूरा होने की प्रतीक्षा करने की परेशानी से बचाता है। साथ ही, ईमेल में गलत फ़ाइलें भेजने की संभावना कम होती है। </p>
 
-<h3>It's Economical</h3>
+<h3>यह किफायती है</h3>
 
-<p>QR code file-sharing offers the best of two different digital technologies. You don't have to invest in printing out stacks of documents, which leads to tremendous savings in print expenses. </p>
+<p>QR कोड फ़ाइल-साझाकरण दो अलग-अलग डिजिटल तकनीकों में से सर्वश्रेष्ठ प्रदान करता है। आपको दस्तावेजों के ढेर को प्रिंट करने में निवेश करने की आवश्यकता नहीं है, जिससे प्रिंट खर्च में जबरदस्त बचत होती है। </p>
 
-<p>You can add the QR code with minimum cost onto; product packaging, leaflets, banners or emails, and have users be able to access the files digitally. </p>
+<p>आप न्यूनतम लागत पर क्यूआर कोड जोड़ सकते हैं; उत्पाद पैकेजिंग, पत्रक, बैनर या ईमेल, और उपयोगकर्ता फ़ाइलों को डिजिटल रूप से एक्सेस करने में सक्षम हैं। </p>
 
-<h3>It's Flexible</h3>
+<h3>यह लचीला है</h3>
 
-<p>Did you have an updated version of the user manuals? Or keen to offer new recipes along with packs of pasta? You don't have to scrap existing marketing materials printed with the QR code. </p>
+<p>क्या आपके पास उपयोगकर्ता नियमावली का अद्यतन संस्करण है? या पास्ता के पैक के साथ नए व्यंजनों की पेशकश करने के इच्छुक हैं? आपको क्यूआर कोड के साथ मुद्रित मौजूदा मार्केटिंग सामग्री को स्क्रैप करने की आवश्यकता नहीं है। </p>
 
-<p>Being a <a href="#about:product">dynamic QR code</a>, you can remove and add new files on the webpage and retain the existing QR code.</p>
+<p>एक <a href="#about:product">डायनेमिक क्यूआर कोड</a> होने के नाते, आप वेबपेज पर नई फाइलों को हटा सकते हैं और जोड़ सकते हैं और मौजूदा क्यूआर कोड को बरकरार रख सकते हैं।</p>
 
-<h3>It's Trackable</h3>
+<h3>यह ट्रैक करने योग्य है</h3>
 
-<p>If you're just mailing out attachments, you can't trace how many of them are downloaded by the recipients. With a dynamic QR code, you can <a href="#article:about_statistics">track the number of scans</a> and where they originated.  </p>
+<p>यदि आप केवल अटैचमेंट मेल कर रहे हैं, तो आप पता नहीं लगा सकते कि उनमें से कितने प्राप्तकर्ताओं द्वारा डाउनलोड किए गए हैं। डायनामिक क्यूआर कोड के साथ, आप <a href="#article:about_statistics">स्कैन की संख्या ट्रैक कर सकते हैं</a> और वे कहां से शुरू हुए। </p>
 
-<p>These statistics are helpful when you're evaluating how customers are engaging with the product.  </p>
+<p>ये आंकड़े तब मददगार होते हैं जब आप मूल्यांकन कर रहे होते हैं कि ग्राहक उत्पाद के साथ कैसे जुड़ रहे हैं। </p>
 
-<h2>How To Share Files With QR Codes</h2>
+<h2>क्यूआर कोड के साथ फ़ाइलें कैसे साझा करें</h2>
 
-<p>With <a href="#pro">ScanMeFineMe PRO</a> , you can upload files to a webpage and create a QR code quickly. There's no technical knowledge involved. </p>
+<p><a href="#pro">ScanMeFineMe PRO</a> के साथ, आप वेबपेज पर फ़ाइलें अपलोड कर सकते हैं और जल्दी से एक क्यूआर कोड बना सकते हैं। इसमें कोई तकनीकी ज्ञान शामिल नहीं है। </p>
 
-<p>Our file-sharing QR code generator has an intuitive interface that lets you personalize the webpage with the title, logo, and description. You can also choose how the files are displayed on the webpage. </p>
+<p>हमारे फ़ाइल-साझाकरण क्यूआर कोड जनरेटर में एक सहज ज्ञान युक्त इंटरफ़ेस है जो आपको शीर्षक, लोगो और विवरण के साथ वेबपेज को वैयक्तिकृत करने देता है। आप यह भी चुन सकते हैं कि वेबपेज पर फाइलें कैसे प्रदर्शित होती हैं। </p>
 
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - how files are displayed.png"
-        alt="Preview of a generator for a page with files - ScanMeFindMe">
+<p वर्ग = "छवि धारक">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - फ़ाइलें कैसे प्रदर्शित होती हैं.png"
+        alt="फ़ाइलों वाले पृष्ठ के लिए जनरेटर का पूर्वावलोकन - ScanMeFindMe">
 </p>
 
-<p>A QR code that contains the short URL to the webpage with downloadable files is generated. Use the QR code in marketing material, product packaging, email, classroom, or other media to allow quick information access. </p>
+<p>एक क्यूआर कोड जनरेट होता है जिसमें डाउनलोड करने योग्य फाइलों के साथ वेबपेज का छोटा यूआरएल होता है। विपणन सामग्री, उत्पाद पैकेजिंग, ईमेल, कक्षा, या अन्य मीडिया में त्वरित सूचना पहुंच की अनुमति देने के लिए क्यूआर कोड का उपयोग करें। </p>
 
-<p><a href="#pro">Get started with ScanMeFindMe PRO now.</a></p>
+<p><a href="#pro">ScanMeFindMe PRO के साथ अभी शुरुआत करें।</a></p>
