@@ -1,72 +1,72 @@
-<h1>How to add borders and captions to the QR codes</h1>
+<h1>Hvordan legge til kantlinjer og bildetekster til QR-kodene</h1>
 
 --- Abstract / Meta description ---
 
-Learn how to add borders and captions that make your QR code unique. Style your QR code with a catchy call-to-actions to boost conversion.
+Lær hvordan du legger til rammer og bildetekster som gjør QR-koden din unik. Stil QR-koden din med en fengende handlingsfremmende oppfordring for å øke konverteringen.
 
 --- Short content 1 ---
 
-Learn how to add catchy phrases with QR codes captions. Choose from pre-defined templates or create your own with a PRO account.
+Lær hvordan du legger til fengende fraser med QR-kodetekster. Velg mellom forhåndsdefinerte maler eller lag dine egne med en PRO-konto.
 
 ----------
 
-<p>For marketers, everything comes out to conversion. If you have a brilliant ad designed, it's for nothing if the audience doesn't reach out in one way or another.</p>
+<p>For markedsførere kommer alt ut til konvertering. Hvis du har en strålende annonse designet, er det for ingenting hvis publikum ikke når ut på en eller annen måte.</p>
 
-<p><a href="#static:url">QR codes</a> are a useful marketing tool, but adding a plain-format QR code doesn't do justice to the creative works done on marketing materials.</p>
+<p><a href="#static:url">QR-koder</a> er et nyttig markedsføringsverktøy, men å legge til en QR-kode i vanlig format yter ikke rettferdighet til det kreative arbeidet med markedsføringsmateriell.</ p>
 
-<p>Without a little nudge, the audience may skip over the QR code, even when it's in plain sight. Often, a call-to-action (CTA) and a unique presentation are what it takes to get users to scan the QR code.</p>
+<p>Uten et lite dytt kan publikum hoppe over QR-koden, selv når den er synlig. Ofte er en oppfordring til handling (CTA) og en unik presentasjon det som skal til for å få brukere til å skanne QR-koden.</p>
 
-<h2>Why Add Borders And Captions To QR Codes?</h2>
+<h2>Hvorfor legge til kantlinjer og bildetekster til QR-koder?</h2>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - templates.png"
-        alt="QR code templates - ScanMeFindMe">
+        alt="QR-kodemaler - ScanMeFindMe">
 </p>
 
-<p>Instead of sticking with the default format, you'll want to add a 'Scan Me' text along with the QR code. People may have developed 'QR code blindness' when seeing so many of them in their daily lives. </p>
+<p>I stedet for å holde deg til standardformatet, vil du legge til en «Skann meg»-tekst sammen med QR-koden. Folk kan ha utviklet 'QR-kodeblindhet' når de så så mange av dem i hverdagen. </p>
 
-<p>However, a 'Scan Me' text and a unique border draw their attention to the QR code. The CTA leaves no doubt on what the audience should do next: scan the QR code. </p>
+<p>Men en «Skann meg»-tekst og en unik kant trekker oppmerksomheten mot QR-koden. CTA etterlater ingen tvil om hva publikum bør gjøre videre: skann QR-koden. </p>
 
-<p>You can also add text that previews what's on the other side of the QR code. For example, an 'App Store' text tells the users that they're about to be redirected to your app on Apple App Store. Or a simple 'Menu' to get users to check out what's offered by your restaurant.</p>
+<p>Du kan også legge til tekst som forhåndsviser hva som er på den andre siden av QR-koden. For eksempel, en "App Store"-tekst forteller brukerne at de er i ferd med å bli omdirigert til appen din på Apple App Store. Eller en enkel "Meny" for å få brukere til å sjekke ut hva som tilbys av restauranten din.</p>
 
-<p>The idea is, you'll want to instill trust and remove any uncertainties with QR codes. Customers like to have an idea of what they're getting into before they scan the QR. With the right borders and captions, you can do precisely that and increase conversions.</p>
+<p>Ideen er at du vil innpode tillit og fjerne enhver usikkerhet med QR-koder. Kunder liker å ha en ide om hva de går inn på før de skanner QR-en. Med de riktige rammene og bildetekstene kan du gjøre nettopp det og øke antallet konverteringer.</p>
 
-<p>Even in the <a href="#static:url">Free version of QR code generator</a> you can modify the captions on the templates. Change the default <strong>"Scan me"</strong> to <strong>"More info"</strong>, <strong>"Our menu"</strong>, your instagram handle or a phone number. If your text is too long or too short, you can descrease or increase the font size to make it look better.</p>
+<p>Selv i <a href="#static:url">gratisversjonen av QR-kodegeneratoren</a> kan du endre bildetekstene på malene. Endre standard <strong>"Skann meg"</strong> til <strong>"Mer info"</strong>, <strong>"Vår meny"</strong>, instagramhåndtaket ditt eller et telefonnummer. Hvis teksten din er for lang eller for kort, kan du redusere eller øke skriftstørrelsen for å få den til å se bedre ut.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
-        alt="QR code for instagram handle - ScanMeFindMe">
+        alt="QR-kode for instagram-håndtak - ScanMeFindMe">
 </p>
 
-<p>Personalizing your QR codes with templates not only helps with marketing but also prevents confusion when you're sorting them out. Imagine you're about to print dozens of QR codes in different materials, and you'll need to scan them for verification manually. By having captions and borders, you'll know what they are meant for just by their visual appearance.</p>
+<p>Å tilpasse QR-kodene dine med maler hjelper ikke bare med markedsføringen, men forhindrer også forvirring når du skal sortere dem. Tenk deg at du er i ferd med å skrive ut dusinvis av QR-koder i forskjellige materialer, og du må skanne dem for bekreftelse manuelt. Ved å ha bildetekster og rammer, vet du hva de er ment for bare ved det visuelle utseendet.</p>
 
-<h2>How To Create Your Own Templates</h2>
+<h2>Hvordan lage dine egne maler</h2>
 
-<p>When you're using <a href="#pro">ScanMeFindMe PRO</a>, you have access to a set of pre-designed templates. However, you can also design your own templates, upload them and personalize the <a href="#static:url">QR code generated on our platform</a>.</p>
+<p>Når du bruker <a href="#pro">ScanMeFindMe PRO</a>, har du tilgang til et sett med forhåndsdesignede maler. Du kan imidlertid også designe dine egne maler, laste dem opp og tilpasse <a href="#static:url">QR-koden generert på plattformen vår</a>.</p>
 
-<p>Not only that, you can also <a href="#article:about_presets">create presets</a> that include your choice of templates to save time in the future. </p>
+<p>Ikke nok med det, du kan også <a href="#article:about_presets">opprette forhåndsinnstillinger</a> som inkluderer maler du velger for å spare tid i fremtiden. </p>
 
-<p>Now, how do you create your own templates?</p>
+<p>Nå, hvordan lager du dine egne maler?</p>
 
-<p>The templates are image files in the SVG format. An SVG image is an XML file containing tags representing different elements. Web browsers use the information from the file to render the image at any resolution. You can create an SVG file via graphic design software like Adobe Illustrator or use a JPEG/PNG to SVG converter.</p>
+<p>Malene er bildefiler i SVG-format. Et SVG-bilde er en XML-fil som inneholder tagger som representerer forskjellige elementer. Nettlesere bruker informasjonen fra filen til å gjengi bildet i en hvilken som helst oppløsning. Du kan lage en SVG-fil via grafisk designprogramvare som Adobe Illustrator eller bruke en JPEG/PNG til SVG-konverterer.</p>
 
-<p>The quickest way to create a template is to duplicate one from the library and edit the SVG source.</p>
+<p>Den raskeste måten å lage en mal på er å duplisere en fra biblioteket og redigere SVG-kilden.</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
-        alt="Editing QR code template - ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - rediger svg template.png"
+        alt="Redigering av QR-kodemal - ScanMeFindMe">
 </p>
 
-<p>For a template to work on ScanMeFindMe, it must have a <strong class="notranslate">&lt;rect&gt;</strong> element with <strong class="notranslate">id="qr"</strong>, which will be substituted with the QR code when it is generated.</p>
+<p>For at en mal skal fungere på ScanMeFindMe, må den ha et <strong class="notranslate">&lt;rect&gt;</strong>-element med <strong class="notranslate">id="qr"</strong> , som vil bli erstattet med QR-koden når den genereres.</p>
 
-<p>You can also include <strong class="notranslate">&lt;text&gt;</strong> elements, if those elements have an <strong class="notranslate">id</strong> attribute, they will become captions that you can modify for each QR code that uses this template. Additionally, if such <span class="notranslate">&lt;text&gt;</span> elements contain the <strong class="notranslate">font-size</strong> attribute, you'll be able to change the font size for each QR code using the same template.</p>
+<p>Du kan også inkludere <strong class="notranslate">&lt;text&gt;</strong>-elementer. Hvis disse elementene har et <strong class="notranslate">id</strong>-attributt, blir de bildetekster som du kan endre for hver QR-kode som bruker denne malen. I tillegg, hvis slike <span class="notranslate">&lt;text&gt;</span>-elementer inneholder <strong class="notranslate">font-size</strong>-attributtet, vil du kunne endre skriftstørrelsen for hver QR-kode med samme mal.</p>
 
-<p>Beware of some limitations! ScanMeFindMe uses the <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> library to convert generated QR codes to PNG, PDF and PS formats. Some complicated SVG elements may not be converted correctly. For security reasons @include directive is ignored during conversion, so you can not include any external URLs (with the exception of the fonts that we installed on our server).</p>
+<p>Vær oppmerksom på noen begrensninger! ScanMeFindMe bruker <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a>-biblioteket til å konvertere genererte QR-koder til PNG-, PDF- og PS-formater. Noen kompliserte SVG-elementer kan ikke konverteres riktig. Av sikkerhetsgrunner ignoreres @include-direktivet under konvertering, så du kan ikke inkludere eksterne URL-er (med unntak av skriftene som vi installerte på serveren vår).</p>
 
-<h2>What Fonts Are Supported? </h2>
+<h2>Hvilke fonter støttes? </h2>
 
-<p>Rather than going into an endless serif vs. san serif argument, we let you decide what's the best with several commonly-used fonts. You can find the fonts that are pre-installed on the server in our Github repository: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
+<p>I stedet for å gå inn i et uendelig serif vs. san serif-argument, lar vi deg bestemme hva som er best med flere ofte brukte fonter. Du kan finne skriftene som er forhåndsinstallert på serveren i vårt Github-lager: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https: //github.com/ScanMeFindMe/fonts</a></p>
 
-<p>If you feel we're missing out on an interesting font for fellow marketers, you can submit a pull request. Generally, we prefer fonts that support multiple languages.</p>
+<p>Hvis du føler at vi går glipp av en interessant skrifttype for andre markedsførere, kan du sende inn en pull-forespørsel. Generelt foretrekker vi fonter som støtter flere språk.</p>
 
-<p>Start uploading your own templates with a <a href="#pro">ScanMeFindMe PRO account</a> now.</p>
+<p>Begynn å laste opp dine egne maler med en <a href="#pro">ScanMeFindMe PRO-konto</a> nå.</p>

@@ -1,63 +1,63 @@
-<h1>Using QR codes to share contact details</h1>
+<h1>Bruke QR-koder for å dele kontaktdetaljer</h1>
 
 --- Abstract / Meta description ---
 
-Sharing contact details with QR codes is a greener and more efficient branding strategy. Learn how you could easily create and share digital contacts with QR codes.
+Å dele kontaktdetaljer med QR-koder er en grønnere og mer effektiv merkevarestrategi. Lær hvordan du enkelt kan opprette og dele digitale kontakter med QR-koder.
 
 --- Short content 1 ---
 
-Store personal contact information, social media handles, and photo/logo with a sharable QR code. Track how often it is scanned.
+Lagre personlig kontaktinformasjon, sosiale medier-håndtak og bilde/logo med en QR-kode som kan deles. Spor hvor ofte den skannes.
 
 ----------
 
-<p>If you expect customers to manually store your information from business cards, you need to rethink your branding strategy. Most people find having to save the contact details from a paper business card onto a mobile phone annoying and repetitive.</p>
+<p>Hvis du forventer at kunder manuelt lagrer informasjonen din fra visittkort, må du revurdere merkevarestrategien din. De fleste synes det er irriterende og repeterende å måtte lagre kontaktdetaljene fra et papirvisitkort på en mobiltelefon.</p>
 
-<p>Besides, did you know that <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% of business cards</a> are thrown off within a week after they are handed out?</p>
+<p>Visste du dessuten at <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you- rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88 % av visittkortene</a> blir kastet innen en uke etter at de er delt ut ?</p>
 
-<p>That's a staggering number of business cards gone to waste. Not only does it go against many companies' environmental commitment, but it also explains why some clients never reach out to you even when they promised to. </p>
+<p>Det er et svimlende antall visittkort som er gått til spille. Ikke bare strider det mot mange bedrifters miljøforpliktelse, men det forklarer også hvorfor noen kunder aldri når ut til deg selv når de lovet det. </p>
 
-<p>Nowadays, more and more business cards have a QR code printed on them, allowing people to easily save the contacts onto smartphones. This should be part of your strategy. </p>
+<p>I dag har flere og flere visittkort en QR-kode trykket på, slik at folk enkelt kan lagre kontaktene på smarttelefoner. Dette bør være en del av strategien din. </p>
 
-<h3> Why Use QR Codes For Sharing Contact Details? </h3>
+<h3> Hvorfor bruke QR-koder for å dele kontaktdetaljer? </h3>
 
-<p>You need to make it easier for clients to save your contacts on their phones, but unfortunately, physical business cards aren't optimized for that.  </p>
+<p>Du må gjøre det enklere for kunder å lagre kontaktene dine på telefonene sine, men dessverre er ikke fysiske visittkort optimalisert for det. </p>
 
-<p>Busy professionals find it a hassle to browse through stacks of business cards to find the right contact unless they invest in a business card scanner. Still, there's a chance that some cards are misplaced or are already disposed of. </p>
+<p>Travle fagfolk synes det er vanskelig å bla gjennom stabler med visittkort for å finne den rette kontakten med mindre de investerer i en visittkortskanner. Likevel er det en sjanse for at noen kort er feilplassert eller allerede er kastet. </p>
 
-<p><a href="#static:contact">Digitizing your contact details with QR codes</a>   addresses many of the disadvantages of using physical business cards.</p>
+<p><a href="#static:contact">Digitalisering av kontaktdetaljene dine med QR-koder</a> løser mange av ulempene ved å bruke fysiske visittkort.</p>
 
-<p>All your clients have to do is scan the QR code and have all the contact information displayed on the screen.  </p>
+<p>Alt kundene dine trenger å gjøre er å skanne QR-koden og få all kontaktinformasjon vist på skjermen. </p>
 
-<p>With a single button, the user can contact you straight away or save the contact information onto their device. It puts an end to instances where clients misplace or forget your emails or phone numbers. </p>
+<p>Med en enkelt knapp kan brukeren kontakte deg umiddelbart eller lagre kontaktinformasjonen på enheten sin. Det setter en stopper for tilfeller der klienter mister eller glemmer e-postene eller telefonnumrene dine. </p>
 
-<h2> What Contact Information Can Be Stored In A QR Code </h2>
+<h2> Hvilken kontaktinformasjon kan lagres i en QR-kode </h2>
 
-<p>This depends on which type of QR code you are using.</p>
+<p>Dette avhenger av hvilken type QR-kode du bruker.</p>
 
-<p>If you're using a static QR code, you can store basic details (such as name, phone, email, website, and address) on the QR code in <a href="#article:about_contactformats">Vcard or MeCard format</a>. When you scan a static QR code, you get to save the contact information onto your smartphone. </p>
+<p>Hvis du bruker en statisk QR-kode, kan du lagre grunnleggende detaljer (som navn, telefon, e-post, nettside og adresse) på QR-koden i <a href="#article:about_contactformats">Vcard eller MeCard-format</a>. Når du skanner en statisk QR-kode, kan du lagre kontaktinformasjonen på smarttelefonen din. </p>
 
-<p><a href="#article:about_static">Static QR codes</a> encode the information directly, limiting how much information you can store. You'll need to use a dynamic QR code to include additional information like a photo/logo or social media handles.  </p>
+<p><a href="#article:about_static">Statiske QR-koder</a> koder informasjonen direkte, noe som begrenser hvor mye informasjon du kan lagre. Du må bruke en dynamisk QR-kode for å inkludere tilleggsinformasjon som et bilde/logo eller sosiale medier-håndtak. </p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png"
-        alt="Contact card fields - ScanMeFindMe">
+        alt="Kontaktkortfelt - ScanMeFindMe">
 </p>
 
-<p>Dynamic QR codes work differently from their static counterpart. Instead of encoding the contact details, it stores the information on a webpage and embeds a shortened URL in the QR Code.  </p>
+<p>Dynamiske QR-koder fungerer annerledes enn deres statiske motstykke. I stedet for å kode kontaktdetaljene, lagrer den informasjonen på en nettside og legger inn en forkortet URL i QR-koden. </p>
 
-<p>When users scan the code, they are redirected to the webpage that acts as a digital business card. The displayed contact details can be downloaded and saved into a smartphone's contacts. </p>
+<p>Når brukere skanner koden, blir de omdirigert til nettsiden som fungerer som et digitalt visittkort. De viste kontaktdetaljene kan lastes ned og lagres i en smarttelefons kontakter. </p>
 
-<h2> How To Share Contact Details With QR Codes? </h2>
+<h2> Hvordan dele kontaktdetaljer med QR-koder? </h2>
 
-<p>To start sharing your contact details with a QR code, you need to generate one. With a <a href="#pro">ScanMeFIndMe PRO account</a>, you can generate a QR code that contains all your personal information with ease.</p>
+<p>For å begynne å dele kontaktinformasjonen din med en QR-kode, må du generere en. Med en <a href="#pro">ScanMeFIndMe PRO-konto</a> kan du enkelt generere en QR-kode som inneholder all din personlige informasjon.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - floyd miles - qr.png"
-        alt="Generating QR code for contact card - ScanMeFindMe">
+        alt="Genererer QR-kode for kontaktkort - ScanMeFindMe">
 </p>
 
-<p>A QR code is automatically created after you have filled in the related fields.</p>
+<p>En QR-kode opprettes automatisk etter at du har fylt ut de relaterte feltene.</p>
 
-<p>Once you're done, you can download the QR code, print it out, or share it digitally. With a dynamic QR code, you can also view how many people have scanned the QR code. We automatically track and record <a href="#article:about_statistics">key metrics</a>   whenever a user scans the QR code to view your contact information, this can help you personalize and improve your marketing strategies.</p>
+<p>Når du er ferdig, kan du laste ned QR-koden, skrive den ut eller dele den digitalt. Med en dynamisk QR-kode kan du også se hvor mange som har skannet QR-koden. Vi sporer og registrerer automatisk <a href="#article:about_statistics">nøkkelberegninger</a> hver gang en bruker skanner QR-koden for å se kontaktinformasjonen din, dette kan hjelpe deg med å tilpasse og forbedre markedsføringsstrategiene dine.</p>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for free now.</a></p>
+<p><a href="#pro">Prøv ScanMeFindMe PRO gratis nå.</a></p>

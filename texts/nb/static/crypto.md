@@ -1,3 +1,3 @@
-<h1>[Crypto] Create a QR code for Cryptocurrencies</h1>
+<h1>[Krypto] Lag en QR-kode for kryptovalutaer</h1>
 
 ----------
