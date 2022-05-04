@@ -28,8 +28,8 @@
 
 <h2>क्या लोगो जोड़ने से QR कोड स्कैन करने की क्षमता प्रभावित होती है?</h2>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - logo.png के साथ qr कोड"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr code with logo.png"
         alt="QR कोड लोगो उदाहरण - ScanMeFindMe">
 </p>
 
@@ -41,7 +41,7 @@
 
 <p>व्यापार बंद यह है कि बड़े त्रुटि सुधार स्तरों वाले क्यूआर कोड में एक बड़ा "मैट्रिक्स" होता है। यहां चार अलग-अलग त्रुटि सुधार स्तरों के साथ एक ही URL एन्कोड किया गया है: निम्न (L), मध्यम (M), उच्च (H) और बहुत अधिक (Q):</p>
 
-<p वर्ग = "छवि धारक">
+<p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 2 - diff matrix.png"
         alt="विभिन्न त्रुटि सुधार स्तरों के साथ QR कोड - ScanMeFindMe">
 </p>
@@ -56,8 +56,8 @@
 
 <p>अपना व्यावसायिक लोगो अपलोड करें और थंबनेल चुनें: यह स्वचालित रूप से क्यूआर कोड पर दिखाई देगा। यह तब लागू होता है जब आप ScanMeFindMe पर कोई भी <a href="#about:product">डायनेमिक या स्टेटिक क्यूआर कोड</a> बना रहे हों।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - logo.png जोड़ना" width="600"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - adding logo.png" width="600"
         alt="QR कोड में लोगो जोड़ना - ScanMeFindMe">
 </p>
 
@@ -65,8 +65,8 @@
 
 <p>ScanMeFindMe <a href="#static:url">QR जनरेटर</a> न केवल आपको लोगो को QR कोड के बीच में रखने की अनुमति देता है, आप कुछ ब्लॉकों को हटाकर या जोड़कर इसे और अधिक सटीक बना सकते हैं क्यूआर कोड मैट्रिक्स का। अपने क्यूआर कोड की शैली के आधार पर, आप अपने लोगो का आकार और शैली चुन सकते हैं और क्यूआर कोड के केंद्र में विभिन्न प्रकार के रेंडरिंग ब्लॉक चुन सकते हैं।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - qr.png का केंद्र"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - center of qr.png"
         alt="QR कोड पर लोगो लगाने का उदाहरण - ScanMeFindMe">
 </p>
 

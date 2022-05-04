@@ -24,7 +24,7 @@
 
 <p>उदाहरण के लिए, यहां एक छोटा यूआरएल है: <span class="font-italic">http://qrs.re/resources</span></p>
 
-<p वर्ग = "छवि धारक">
+<p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 1 - qr.png"
         alt="लघु URL के लिए QR कोड का उदाहरण - ScanMeFindMe">
 </p>
@@ -39,10 +39,10 @@
 
 <p>जब आप हमारे <a href="#pro">PRO QR जनरेटर</a> के साथ एक गतिशील क्यूआर कोड जनरेट करते हैं, तो यह स्वचालित रूप से हमारे ट्रैकिंग टूल से जुड़ जाता है।</p>
 
-<p>जब कोई उपयोगकर्ता क्यूआर कोड को स्कैन करता है और गंतव्य वेबपेज पर पुनर्निर्देशित किया जाता है, तो <a href="#static:url">ScanMeFindMe</a> डिवाइस से मुख्य मीट्रिक का पता लगाता है और उन्हें डैशबोर्ड पर सहेजता है।</p >
+<p>जब कोई उपयोगकर्ता क्यूआर कोड को स्कैन करता है और गंतव्य वेबपेज पर पुनर्निर्देशित किया जाता है, तो <a href="#static:url">ScanMeFindMe</a> डिवाइस से मुख्य मीट्रिक का पता लगाता है और उन्हें डैशबोर्ड पर सहेजता है।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - कुल स्कैन.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - total scans.png"
         alt="QR कोड स्कैन के आँकड़ों का उदाहरण - ScanMeFindMe">
 </p>
 
@@ -52,8 +52,8 @@
 
 <p>चार्ट विपणक को रूपांतरण और बिक्री बढ़ाने के लिए अपने अभियानों को बेहतर बनाने में मदद करते हैं। उदाहरण के लिए, एक ऑनलाइन खुदरा विक्रेता उन घंटों के दौरान लक्षित प्रचार चला सकता है, जब वह अत्यधिक ट्रैफ़िक की आशंका कर रहा होता है।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - स्कैन by.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - scans by.png"
         alt="QR कोड स्कैन के आँकड़ों का उदाहरण - ScanMeFindMe">
 </p>
 

@@ -12,13 +12,13 @@
 
 <p>विपणक के लिए, सब कुछ रूपांतरण के लिए आता है। यदि आपके पास एक शानदार विज्ञापन डिज़ाइन किया गया है, तो यह व्यर्थ है यदि ऑडियंस किसी न किसी तरह से नहीं पहुंचती है।</p>
 
-<p><a href="#static:url">QR कोड</a> एक उपयोगी मार्केटिंग टूल हैं, लेकिन एक सादे-प्रारूप वाले QR कोड को जोड़ने से मार्केटिंग सामग्री पर किए गए रचनात्मक कार्यों के साथ न्याय नहीं होता है।</a> पी>
+<p><a href="#static:url">QR कोड</a> एक उपयोगी मार्केटिंग टूल हैं, लेकिन एक सादे-प्रारूप वाले QR कोड को जोड़ने से मार्केटिंग सामग्री पर किए गए रचनात्मक कार्यों के साथ न्याय नहीं होता है। </p>
 
 <p>थोड़ी सी भी झिझक के बिना, दर्शक क्यूआर कोड को छोड़ सकते हैं, भले ही वह सादे दृष्टि में हो। अक्सर, एक कॉल-टू-एक्शन (सीटीए) और एक अनूठी प्रस्तुति वह होती है जो उपयोगकर्ताओं को क्यूआर कोड स्कैन करने में मदद करती है।</p>
 
 <h2>QR कोड में बॉर्डर और कैप्शन क्यों जोड़ें?</h2>
 
-<p वर्ग = "छवि धारक">
+<p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - templates.png"
         alt="QR कोड टेम्प्लेट - ScanMeFindMe">
 </p>
@@ -33,8 +33,8 @@
 
 <p>यहां तक कि <a href="#static:url">QR कोड जनरेटर के निःशुल्क संस्करण</a> में भी आप टेम्प्लेट पर कैप्शन को संशोधित कर सकते हैं। डिफ़ॉल्ट <strong>"मुझे स्कैन करें"</strong> को <strong>"अधिक जानकारी"</strong>, <strong>"हमारा मेनू"</strong>, अपने Instagram हैंडल या फ़ोन नंबर में बदलें। अगर आपका टेक्स्ट बहुत लंबा या बहुत छोटा है, तो आप इसे बेहतर दिखाने के लिए फ़ॉन्ट का आकार घटा या बढ़ा सकते हैं।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr कोड instagram.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
         alt="इंस्टाग्राम हैंडल के लिए QR कोड - ScanMeFindMe">
 </p>
 
@@ -52,8 +52,8 @@
 
 <p>टेम्पलेट बनाने का सबसे तेज़ तरीका लाइब्रेरी से किसी एक को डुप्लिकेट करना और एसवीजी स्रोत को संपादित करना है।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - svg template.png संपादित करें"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
         alt="QR कोड टेम्प्लेट संपादित करना - ScanMeFindMe">
 </p>
 

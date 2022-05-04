@@ -28,8 +28,8 @@
 
 <h3>कुल स्कैन</h3>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - कुल स्कैन.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - total scans.png"
         alt="कुल स्कैन चार्ट - QR कोड जेनरेटर ScanMeFindMe">
 </p>
 
@@ -43,8 +43,8 @@
 
 <h3>महीनों के अनुसार स्कैन करें</h3>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - month.png द्वारा स्कैन"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png"
         alt="महीने के चार्ट के अनुसार स्कैन - क्यूआर कोड जनरेटर स्कैनमेफाइंडमी">
 </p>
 
@@ -52,8 +52,8 @@
 
 <h3>दिन के घंटे के अनुसार स्कैन करें</h3>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - दिन के घंटे के हिसाब से स्कैन करता है।png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png"
         alt="दिन के चार्ट के घंटे के अनुसार स्कैन - क्यूआर कोड जेनरेटर स्कैनमेफाइंडमी">
 </p>
 
@@ -61,8 +61,8 @@
 
 <h3>OS द्वारा स्कैन</h3>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - OS.png द्वारा स्कैन"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png"
         alt="OS चार्ट द्वारा स्कैन - QR कोड जेनरेटर ScanMeFindMe">
 </p>
 
@@ -70,8 +70,8 @@
 
 <h3>भाषा के अनुसार स्कैन करें</h3>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - lang.png द्वारा स्कैन"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - scans by lang.png"
         alt="भाषा चार्ट द्वारा स्कैन - QR कोड जेनरेटर ScanMeFindMe">
 </p>
 
@@ -79,8 +79,8 @@
 
 <h3>देश और शहर के अनुसार स्कैन करें</h3>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - देश और शहर द्वारा स्कैन।png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - scans by country and city.png"
         alt="देश और शहर के चार्ट के अनुसार स्कैन - QR कोड जेनरेटर ScanMeFindMe">
 </p>
 
@@ -90,8 +90,8 @@
 
 <h3>अंतिम स्कैन</h3>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scan.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans.png"
         alt="अंतिम स्कैन सूची - QR कोड जनरेटर ScanMeFindMe">
 </p>
 
@@ -101,15 +101,15 @@
 
 <p>सभी ScanMeFindMe PRO उपयोगकर्ताओं के पास उन आंकड़ों तक पहुंच है, जो डैशबोर्ड पर प्रदर्शित होते हैं। आप प्रत्येक डायनामिक कोड पर 'सांख्यिकी' बटन के माध्यम से चार्ट और तालिकाओं तक भी पहुंच सकते हैं।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - गतिशील कोड-statistic.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - dynamic codes-statistic.png"
         alt="व्यक्तिगत QR कोड आँकड़े - ScanMeFindMe">
 </p>
 
 <p>अंतिम स्कैन तालिका को CSV (अल्पविराम से अलग किए गए मान) प्रारूप में डाउनलोड किया जा सकता है, जिसका उपयोग गहन विश्लेषण के लिए किया जा सकता है।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - अंतिम स्कैन - CSV.png के रूप में डाउनलोड करें"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png"
         alt="डाउनलोड स्कैन आँकड़े - QR कोड जनरेटर ScanMeFindMe">
 </p>
 

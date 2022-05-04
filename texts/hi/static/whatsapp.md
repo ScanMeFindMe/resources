@@ -2,7 +2,7 @@
 
 --- Text below the form ---
 
-<p class="font-italic संकेत smfm-hint">कोड को स्कैन करने से WhatsApp में एक वार्तालाप खुल जाएगा!</p>
+<p class="font-italic hint smfm-hint">कोड को स्कैन करने से WhatsApp में एक वार्तालाप खुल जाएगा!</p>
 
 --- Text above the form ---
 

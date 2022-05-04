@@ -34,15 +34,15 @@
 
 <p>यदि आप <a href="#pro">ScanMeFindMe PRO</a> का उपयोग कर रहे हैं, तो आप क्यूआर कोड में कोई भी क्यूआर कोड बनाते या संपादित करते समय 'नया प्रीसेट बनाएं' बटन के साथ एक प्रीसेट बना सकते हैं। जनरेटर। आप अपने प्रीसेट के लिए एक नाम चुन सकते हैं ताकि <a href="#about:api" title="QR code API">API</a> में उपयोग करना आसान हो।</p>
 
-<p वर्ग = "छवि धारक">
+<p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 1 - Presets.png"
         alt="क्यूआर कोड संपादक से प्रीसेट बनाना">
 </p>
 
 <p>वैकल्पिक रूप से, आप लाइब्रेरी में किसी मौजूदा प्रीसेट को डुप्लिकेट कर सकते हैं और उसे कस्टमाइज़ कर सकते हैं। </p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - preset.png को अनुकूलित करें"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
         alt="एक सिस्टम को कॉपी करके प्रीसेट बनाना">
 </p>
 

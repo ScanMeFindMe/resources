@@ -6,10 +6,10 @@
 
 ----------
 
-<div class="d-flex Justify-start align-center mb-4">
+<div class="d-flex justify-start align-center mb-4">
     <div class="me-5">
         <img src="https://media.scanmefindme.com/dynamic/url/url-popup-qr.svg" width="100%" height="auto"
-            ऑल्ट = "क्यूआर">
+            alt="QR">
     </div>
     <p>यह क्यूआर कोड छोटे यूआरएल की ओर इशारा करता है
         <a href="http://qrs.re/example1" target="_blank" rel="noopener" class="smfm-externallink">http://qrs.re/example1</a>

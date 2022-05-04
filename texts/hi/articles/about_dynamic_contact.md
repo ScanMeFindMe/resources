@@ -12,7 +12,7 @@
 
 <p>यदि आप ग्राहकों से व्यवसाय कार्ड से आपकी जानकारी को मैन्युअल रूप से संग्रहीत करने की अपेक्षा करते हैं, तो आपको अपनी ब्रांडिंग रणनीति पर पुनर्विचार करने की आवश्यकता है। अधिकांश लोगों को एक कागजी व्यवसाय कार्ड से संपर्क विवरण को मोबाइल फोन पर सहेजना कष्टप्रद और दोहराव वाला लगता है।</p>
 
-<p>इसके अलावा, क्या आप जानते हैं कि <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you- rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% बिजनेस कार्ड </a> सौंपे जाने के एक सप्ताह के भीतर फेंक दिए जाते हैं ?</p>
+<p>इसके अलावा, क्या आप जानते हैं कि <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% बिजनेस कार्ड </a> सौंपे जाने के एक सप्ताह के भीतर फेंक दिए जाते हैं ?</p>
 
 <p>व्यवसाय कार्डों की यह एक चौंका देने वाली संख्या है जो बेकार हो गए हैं। यह न केवल कई कंपनियों की पर्यावरणीय प्रतिबद्धता के खिलाफ जाता है, बल्कि यह भी बताता है कि क्यों कुछ ग्राहक वादा करने के बाद भी आपके पास कभी नहीं पहुंचते हैं। </p>
 
@@ -38,8 +38,8 @@
 
 <p><a href="#article:about_static">स्थिर क्यूआर कोड</a> जानकारी को सीधे एन्कोड करते हैं, यह सीमित करते हुए कि आप कितनी जानकारी स्टोर कर सकते हैं। फ़ोटो/लोगो या सोशल मीडिया हैंडल जैसी अतिरिक्त जानकारी शामिल करने के लिए आपको एक डायनामिक क्यूआर कोड का उपयोग करना होगा। </p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contactfields.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png"
         alt="संपर्क कार्ड फ़ील्ड - ScanMeFindMe">
 </p>
 
@@ -51,8 +51,8 @@
 
 <p>QR कोड के साथ अपना संपर्क विवरण साझा करना शुरू करने के लिए, आपको एक जनरेट करना होगा। <a href="#pro">ScanMeFIndMe PRO खाते</a> के साथ, आप एक ऐसा क्यूआर कोड जेनरेट कर सकते हैं जिसमें आपकी सभी व्यक्तिगत जानकारी आसानी से हो।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - फ़्लॉइड मील - qr.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - floyd miles - qr.png"
         alt="संपर्क कार्ड के लिए QR कोड जनरेट कर रहा है - ScanMeFindMe">
 </p>
 

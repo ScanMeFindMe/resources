@@ -22,8 +22,8 @@
 
 <p>इसके बजाय, फ़ाइलों को एक वेबपेज पर अपलोड किया जाता है, और एक छोटा URL जनरेट किया जाता है और क्यूआर कोड में संग्रहीत किया जाता है। जब उपयोगकर्ता कोड को स्कैन करते हैं, तो उन्हें वेबपेज पर रीडायरेक्ट कर दिया जाता है जहां वे फाइलें डाउनलोड कर सकते हैं। </p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - files.png का पूर्वावलोकन करें"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - preview files.png"
         alt="फ़ाइलों वाले पृष्ठ का पूर्वावलोकन - ScanMeFindMe">
 </p>
 
@@ -63,8 +63,8 @@
 
 <p>हमारे फ़ाइल-साझाकरण क्यूआर कोड जनरेटर में एक सहज ज्ञान युक्त इंटरफ़ेस है जो आपको शीर्षक, लोगो और विवरण के साथ वेबपेज को वैयक्तिकृत करने देता है। आप यह भी चुन सकते हैं कि वेबपेज पर फाइलें कैसे प्रदर्शित होती हैं। </p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - फ़ाइलें कैसे प्रदर्शित होती हैं.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - how files are displayed.png"
         alt="फ़ाइलों वाले पृष्ठ के लिए जनरेटर का पूर्वावलोकन - ScanMeFindMe">
 </p>
 

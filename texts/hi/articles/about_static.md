@@ -24,7 +24,7 @@
 
 <p>यहां एक QR कोड का उदाहरण दिया गया है जिसमें ScanMeFindMe का URL एन्कोड किया गया है।</p>
 
-<p वर्ग = "छवि धारक">
+<p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_static/files/img 1 - qr.png"
         alt="QR कोड उदाहरण, ScanMeFindMe">
 </p>
@@ -71,7 +71,7 @@
 
 <p>यदि आप हमारे <a href="#static:url">QR कोड जेनरेटर</a> का उपयोग कर रहे हैं, तो आप एक क्यूआर कोड में क्या स्टोर कर सकते हैं, इसकी एक सूची यहां दी गई है। </p>
 
-<उल>
+<ul>
     <li><strong>URL</strong> - QR कोड में आपके वेबपेज का एक लिंक होता है जिसे एक ब्राउज़र में लॉन्च किया जा सकता है।</li>
     <li><strong>फ़ोन</strong> - एक फ़ोन नंबर QR कोड में एन्कोड किया जाता है। स्कैन किए जाने पर, यह फ़ोन ऐप लाता है और फ़ोन नंबर अपने आप पहले से भरता है।</li>
     <li><strong>एसएमएस/व्हाट्सएप</strong> - प्राप्तकर्ता के फोन नंबर को क्यूआर कोड में स्टोर करता है। स्कैन किए जाने पर पहले से भरे हुए नंबर के साथ संबंधित टेक्स्ट मैसेजिंग ऐप को खोलता है।</li>
@@ -93,8 +93,8 @@
 
 <h3>डायनेमिक क्यूआर कोड के साथ छोटा यूआरएल</h3>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - डायनामिक QR.png के साथ छोटा URL"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Short URL With Dynamic QR.png"
         alt="लघु url के लिए QR जनरेट करें - ScanMeFindMe">
 </p>
 
@@ -102,8 +102,8 @@
 
 <H3> डायनामिक क्यूआर कोड के साथ संपर्क कार्ड</h3>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - डायनेमिक QR.png के साथ संपर्क कार्ड"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - Contact Card With Dynamic QR.png"
         alt="डायनेमिक क्यूआर कोड के साथ कार्ड से संपर्क करें - ScanMeFindMe">
 </p>
 
@@ -111,8 +111,8 @@
 
 <h3>डायनेमिक क्यूआर कोड वाली फ़ाइलें</h3>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - गतिशील QR.png वाली फाइलों वाला एक पेज"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - A Page With Files With Dynamic QR.png"
         alt="फ़ाइलों वाले पेज के लिए QR कोड जेनरेट करें - ScanMeFindMe">
 </p>
 
@@ -124,28 +124,28 @@
 
 <p>यदि आपको क्यूआर कोड डाउनलोड करने की आवश्यकता है, तो बस क्यूआर डाउनलोड करें बटन पर क्लिक करें और आपको कई छवि विकल्प और उन्नत पृष्ठ सेटिंग्स के साथ प्रस्तुत किया जाएगा।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - qr code.png डाउनलोड करें"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - download qr code.png"
         alt="जनरेट किया गया QR कोड डाउनलोड करें - ScanMeFindMe">
 </p>
 
 <p>आप डैशबोर्ड पर अपने द्वारा बनाए गए डायनामिक कोड देख सकते हैं, सॉर्ट कर सकते हैं, टैग कर सकते हैं, फ़िल्टर कर सकते हैं और खोज सकते हैं।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - डायनामिक कोड.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - dynamic code.png"
         alt="जेनरेट किए गए QR कोड प्रबंधित करना - ScanMeFindMe">
 </p>
 
 <p>डायनेमिक क्यूआर कोड एक प्रभावी मार्केटिंग टूल क्यों है, इसका एक कारण यह ट्रैक करने की क्षमता है कि क्यूआर स्कैन किसने, कब और कहां किया। आपके पास आंकड़े, चार्ट और रिपोर्ट तक पहुंच होगी जो आपकी लक्ष्यीकरण रणनीतियों को बेहतर बनाने और अधिक संभावित ग्राहकों तक पहुंचने में आपकी सहायता करेगी।</p>
 
-<p वर्ग = "छवि धारक">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - सभी आँकड़े.gif"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - all statistics.gif"
         alt="QR कोड स्कैन आँकड़े - ScanMeFindMe">
 </p>
 
 <p>सबसे महत्वपूर्ण बात यह है कि, ScanMeFindMe Pro आपको इस तरह की सुविधाओं तक विशेष पहुंच प्रदान करता है</p>
 
-<उल>
+<ul>
     <li>डायनेमिक क्यूआर कोड जेनरेट करें।</li>
     <li>अपने स्वयं के टेम्प्लेट का उपयोग करें।</li>
     <li>देखें कि आपके क्यूआर कोड को कौन स्कैन करता है, कब और कहां।</li>
