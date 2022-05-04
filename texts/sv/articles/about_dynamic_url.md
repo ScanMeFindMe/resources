@@ -1,74 +1,74 @@
-<h1>Using QR codes to create short URLs and track views</h1>
+<h1>Använda QR-koder för att skapa korta webbadresser och spårvisningar</h1>
 
 --- Abstract / Meta description ---
 
-Creating short URLs with QR codes enables view tracking. It's a useful feature that helps in monitoring marketing campaigns.
+Att skapa korta webbadresser med QR-koder möjliggör visningsspårning. Det är en användbar funktion som hjälper till att övervaka marknadsföringskampanjer.
 
 --- Short content 1 ---
 
-Generate a shortened alias of your webpage URL and track who, where, and how users are scanning it.
+Skapa ett förkortat alias för din webbadress och spåra vem, var och hur användarna skannar den.
 
 ----------
 
-<p><span class="font-italic">'If you can't measure it, you can't improve it'</span>  -- Peter Drucker</p>
+<p><span class="font-italic">'Om du inte kan mäta det kan du inte förbättra det'</span> -- Peter Drucker</p>
 
-<p>The oft-repeated saying applies when you're making QR codes part of your marketing campaign.</p>
+<p>Det ofta upprepade talesättet gäller när du gör QR-koder till en del av din marknadsföringskampanj.</p>
 
-<p>If you're clueless about how many scans your QR Code generated over the past week, or which cities generated the most hits, you won't know if the campaign is on track for success.</p>
+<p>Om du har aning om hur många skanningar din QR-kod genererade under den senaste veckan, eller vilka städer som genererade flest träffar, vet du inte om kampanjen är på väg att bli framgångsrik.</p>
 
-<p>Now, not all QR codes are trackable. You need to create the right QR codes and ensure that they are linked to a tracking module. Creating QR codes with ScanMeFindMe makes this very easy. </p>
+<p>Nu är inte alla QR-koder spårbara. Du måste skapa rätt QR-koder och se till att de är kopplade till en spårningsmodul. Att skapa QR-koder med ScanMeFindMe gör detta mycket enkelt. </p>
 
-<h2>Why Create Short URLs with QR Codes?</h2>
+<h2>Varför skapa korta webbadresser med QR-koder?</h2>
 
-<p>A short URL is a shortened link address that redirects the user to the intended webpage. </p>
+<p>En kort URL är en förkortad länkadress som omdirigerar användaren till den avsedda webbsidan. </p>
 
-<p>For example, here's a short URL: <span class="font-italic">http://qrs.re/resources</span></p>
+<p>Här är till exempel en kort webbadress: <span class="font-italic">http://qrs.re/resources</span></p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 1 - qr.png"
-        alt="Example of QR code for short URL - ScanMeFindMe">
+        alt="Exempel på QR-kod för kort URL - ScanMeFindMe">
 </p>
 
-<p>It points to our resource page, which has the full URL: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
+<p>Den pekar på vår resurssida, som har den fullständiga webbadressen: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
 
-<p>If you encode the full URL into the QR code, it will still direct users to the respective webpage. However, you wouldn't be able to tap into the full benefits that QR codes have to offer. </p>
+<p>Om du kodar hela webbadressen i QR-koden kommer den fortfarande att leda användarna till respektive webbsida. Du skulle dock inte kunna utnyttja alla fördelar som QR-koder har att erbjuda. </p>
 
-<p><strong>QR codes that encode short URLs</strong> are also known as dynamic QR codes. With a dynamic QR code, you have more flexibility in editing the destination content and also in tracking users that scan the QR code.</p>
+<p><strong>QR-koder som kodar korta webbadresser</strong> är också kända som dynamiska QR-koder. Med en dynamisk QR-kod har du mer flexibilitet när det gäller att redigera destinationsinnehållet och även att spåra användare som skannar QR-koden.</p>
 
-<h2>How To Track Views With QR Code</h2>
+<h2>Så här spårar du vyer med QR-kod</h2>
 
-<p>When you generate a dynamic QR code with our <a href="#pro">PRO QR generator</a>, it is automatically linked to our tracking tools.</p>
+<p>När du genererar en dynamisk QR-kod med vår <a href="#pro">PRO QR-generator</a>, länkas den automatiskt till våra spårningsverktyg.</p>
 
-<p>When a user scans the QR code and is redirected to the destination webpage, <a href="#static:url">ScanMeFindMe</a> traces key metrics from the device and saves them on the dashboard.</p>
+<p>När en användare skannar QR-koden och omdirigeras till destinationswebbsidan spårar <a href="#static:url">ScanMeFindMe</a> nyckelmått från enheten och sparar dem på instrumentpanelen.</p >
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - total scans.png"
-        alt="Example of QR code scans statistics - ScanMeFindMe">
+        alt="Exempel på QR-kod skannar statistik - ScanMeFindMe">
 </p>
 
-<p>From the <a href="#article:about_statistics" title="Scans statistics for dynamic QR codes">statistics</a>, you will discover how many scans are generated by a particular QR code and how many of them are unique hits. Unique hits are scans generated from different devices. Often, it means different individuals are scanning the QR code. </p>
+<p>Från <a href="#article:about_statistics" title="Skanna statistik för dynamiska QR-koder">statistik</a> kommer du att upptäcka hur många skanningar som genereras av en viss QR-kod och hur många av dem är unika hits. Unika träffar är skanningar som genereras från olika enheter. Ofta betyder det att olika individer skannar QR-koden. </p>
 
-<p>Also, you'll get a monthly and daily breakdown of the scans, which helps in determining the peak hours or any distinct patterns where users frequent your website. </p>
+<p>Du kommer också att få en månatlig och daglig uppdelning av skanningarna, vilket hjälper dig att fastställa rusningstid eller andra distinkta mönster där användare besöker din webbplats. </p>
 
-<p>The charts help marketers to fine-tune their campaigns to increase conversion and sales. For example, an online retailer can run targeted promotions during the hours when it's anticipating peak traffic.</p>
+<p>Diagrammen hjälper marknadsförare att finjustera sina kampanjer för att öka konverteringen och försäljningen. Till exempel kan en onlineåterförsäljare köra riktade kampanjer under de timmar den förväntar sig högtrafik.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - scans by.png"
-        alt="Example of QR code scans statistics - ScanMeFindMe">
+        alt="Exempel på QR-kod skannar statistik - ScanMeFindMe">
 </p>
 
-<p>There's more to getting the number of total hits with our QR code tracker. You'll get access to details like the number of scans by OS, language, city, and country. </p>
+<p>Det finns mer att få det totala antalet träffar med vår QR-kodspårare. Du får tillgång till detaljer som antalet skanningar efter OS, språk, stad och land. </p>
 
-<p>These metrics provide insights into how your campaign is faring at a deeper level. For example, if you're promoting an app developed for Android users, you'll want scans originating from the Android platform. </p>
+<p>De här mätvärdena ger insikter om hur din kampanj går på en djupare nivå. Om du till exempel marknadsför en app utvecklad för Android-användare, vill du ha skanningar som kommer från Android-plattformen. </p>
 
-<p>Marketers targeting the global audience can personalize their campaigns based on how users in the respective cities or countries are responding. </p>
+<p>Marknadsförare som riktar sig till den globala publiken kan anpassa sina kampanjer baserat på hur användare i respektive städer eller länder reagerar. </p>
 
-<p>The figures help with other marketing strategies and serve as an early indicator of which region is more likely to generate an impactful engagement. </p>
+<p>Siffrorna hjälper till med andra marknadsföringsstrategier och fungerar som en tidig indikator på vilken region som är mer sannolikt att generera ett effektfullt engagemang. </p>
 
 <h2>Bottom Line</h2>
 
-<p>If you wanted to set up a data-driven QR code campaign, you'll need dynamic QR codes and a reliable, hassle-free tracking module. You don't want to spend hours setting up the analytics or generating the reports.</p>
+<p>Om du vill skapa en datadriven QR-kodkampanj behöver du dynamiska QR-koder och en pålitlig, problemfri spårningsmodul. Du vill inte lägga timmar på att ställa in analyserna eller generera rapporterna.</p>
 
-<p>ScanMeFindMe PRO takes care of the technical stuff, which means you can start generating QR codes that automatically track views in no time.</p>
+<p>ScanMeFindMe PRO tar hand om det tekniska, vilket innebär att du kan börja generera QR-koder som automatiskt spårar visningar på nolltid.</p>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for free now.</a></p>
+<p><a href="#pro">Prova ScanMeFindMe PRO gratis nu.</a></p>

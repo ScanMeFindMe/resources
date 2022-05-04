@@ -1,118 +1,118 @@
-<h1>How QR code scan statistics can be viewed and used</h1>
+<h1>Hur QR-kodskanningsstatistik kan ses och användas</h1>
 
 --- Abstract / Meta description ---
 
-Monitor your campaign with dynamic QR code tracking. Find out what scan statistics are available on ScanMeFindMe and why they are important for marketers
+Övervaka din kampanj med dynamisk QR-kodspårning. Ta reda på vilken skanningsstatistik som finns tillgänglig på ScanMeFindMe och varför den är viktig för marknadsförare
 
 --- Short content 1 ---
 
-The approximate location of the scanning device. It may not always be accurate as the location is derived from the IP address of the internet service provider
+Den ungefärliga platsen för skanningsenheten. Det kanske inte alltid är korrekt eftersom platsen härleds från internetleverantörens IP-adress
 
 ----------
 
-<p>One of the reasons why marketers are turning to dynamic QR codes is their trackability. Unlike static QR codes, dynamic QR codes redirect users to a custom webpage when scanned. Therefore, it's possible to collect various metrics and compile them in visual formats. </p>
+<p>En av anledningarna till att marknadsförare vänder sig till dynamiska QR-koder är deras spårbarhet. Till skillnad från statiska QR-koder omdirigerar dynamiska QR-koder användare till en anpassad webbsida när de skannas. Därför är det möjligt att samla in olika mått och kompilera dem i visuella format. </p>
 
-<h2>Why QR Code Scan Statistics Are Important</h2>
+<h2>Varför QR-kodskanningsstatistik är viktig</h2>
 
-<p>If you generate a dynamic QR code on <a href="#pro">ScanMeFindMe Pro</a>, you'll be able to track key metrics that can help with your marketing.</p>
+<p>Om du genererar en dynamisk QR-kod på <a href="#pro">ScanMeFindMe Pro</a> kommer du att kunna spåra nyckeltal som kan hjälpa dig med din marknadsföring.</p>
 
-<p>Rather than merely distributing marketing materials with QR codes, you'll want to monitor engagement indicators like how many people are accessing a landing page via QR code. Or if a particular campaign is reaching its audience in major cities. </p>
+<p>Istället för att bara distribuera marknadsföringsmaterial med QR-koder vill du övervaka engagemangsindikatorer som hur många personer som kommer åt en målsida via QR-kod. Eller om en viss kampanj når sin målgrupp i större städer. </p>
 
-<p>Without dynamic QR codes, you will have no idea if you're reaching the target audience or on the right track with conversion goals. You'll need to gather relevant statistics from <a href="#about:product">dynamic QR codes</a> and use them to improve the campaign.</p>
+<p>Utan dynamiska QR-koder har du ingen aning om du når målgruppen eller är på rätt väg med konverteringsmål. Du måste samla in relevant statistik från <a href="#about:product">dynamiska QR-koder</a> och använda dem för att förbättra kampanjen.</p>
 
-<p>QR code statistics show you what's working on your campaign and what's not. You'll know if you need a more intriguing design or a revamp in the overall strategy for better conversion from the numbers and charts. </p>
+<p>QR-kodstatistik visar dig vad som fungerar med din kampanj och vad som inte fungerar. Du vet om du behöver en mer spännande design eller en förnyelse av den övergripande strategin för bättre konvertering från siffror och diagram. </p>
 
-<h2>Which Scan Statistics Are Available On ScanMeFindMe PRO?</h2>
+<h2>Vilken skanningsstatistik är tillgänglig på ScanMeFindMe PRO?</h2>
 
-<p><a href="#static:url">ScanMeFindMe</a> is developed to track and store important scan metrics in real-time. You'll have access to the following statistics when you sign up for a PRO account.</p>
+<p><a href="#static:url">ScanMeFindMe</a> är utvecklad för att spåra och lagra viktiga skanningsmått i realtid. Du får tillgång till följande statistik när du registrerar dig för ett PRO-konto.</p>
 
-<h3>Total Scans</h3>
+<h3>Totalt antal skanningar</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - total scans.png"
-        alt="Total scans chart - QR code generator ScanMeFindMe">
+        alt="Totalt scanningsdiagram - QR-kodgenerator ScanMeFindMe">
 </p>
 
-<p>This chart shows the number of total and unique scans that you're getting everyday.</p>
+<p>Det här diagrammet visar antalet totala och unika skanningar som du får varje dag.</p>
 
-<p>Unique scans are the number of scans done from different devices. It does not include multiple scans from the same device. </p>
+<p>Unika skanningar är antalet skanningar som görs från olika enheter. Det inkluderar inte flera skanningar från samma enhet. </p>
 
-<p>We use a special method where our server tags a device with a 'fingerprint' when it first scans a QR code. If the server detects a new scan with the same 'fingerprint', it is added to the total scans but not the unique scans.</p>
+<p>Vi använder en speciell metod där vår server taggar en enhet med ett "fingeravtryck" när den först skannar en QR-kod. Om servern upptäcker en ny skanning med samma "fingeravtryck" läggs den till det totala antalet skanningar men inte de unika skanningarna.</p>
 
-<p>You'll find this chart helpful when you want to know how many people are actually responding to your campaign. The unique scans will paint a clearer picture of how your campaign is performing.</p>
+<p>Det här diagrammet är användbart när du vill veta hur många personer som faktiskt svarar på din kampanj. De unika skanningarna ger en tydligare bild av hur din kampanj presterar.</p>
 
-<h3>Scans By Months</h3>
+<h3>Skannas efter månader</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - skannar efter månad.png"
         alt="Scans by month chart - QR code generator ScanMeFindMe">
 </p>
 
-<p>If you're running a seasonal campaign, this chart will be helpful. The numbers of scans are plotted by month. It helps identify the months that bring your business the most QR code traffic. </p>
+<p>Om du kör en säsongskampanj är det här diagrammet användbart. Antalet skanningar plottas per månad. Det hjälper till att identifiera de månader som ger ditt företag mest QR-kodtrafik. </p>
 
-<h3>Scans By Hour Of The Day</h3>
+<h3>Skanningar efter timme på dygnet</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png"
-        alt="Scans by hour of the day chart - QR code generator ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - skannar efter timmar på dygnet.png"
+        alt="Skanna per timme på dygnet diagram - QR-kodgenerator ScanMeFindMe">
 </p>
 
-<p>You can also track QR scans by hours of the day. This is useful if you're running a restaurant or e-commerce where customers peak during different times. It helps to run a more targeted campaign during the peak hours.</p>
+<p>Du kan också spåra QR-skanningar efter timmar på dygnet. Detta är användbart om du driver en restaurang eller e-handel där kunderna toppar under olika tider. Det hjälper till att köra en mer riktad kampanj under rusningstid.</p>
 
-<h3>Scans By OS</h3>
+<h3>Skannar efter OS</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - skanningar av OS.png"
         alt="Scans by OS chart - QR code generator ScanMeFindMe">
 </p>
 
-<p>Our server can also pick up which operating system the users are using when scanning the QR code. Usually, iOS and Android tend to dominate the chart as most users scan QR codes from their mobile phones. The statistics help when you're getting users to download an app for a specific OS. </p>
+<p>Vår server kan också ta reda på vilket operativsystem användarna använder när de skannar QR-koden. Vanligtvis tenderar iOS och Android att dominera diagrammet eftersom de flesta användare skannar QR-koder från sina mobiltelefoner. Statistiken hjälper när du får användare att ladda ner en app för ett specifikt operativsystem. </p>
 
-<h3>Scans By Language</h3>
+<h3>Sökar efter språk</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - scans by lang.png"
         alt="Scans by language chart - QR code generator ScanMeFindMe">
 </p>
 
-<p>This chart will show what is the primary language installed on your clients devices. This is usually the language they are most comfortable with. This can be useful as if you find that a lot of your clients prefer French, for example, you might offer some materials in French to increase sales and popularity.</p>
+<p>Det här diagrammet visar vilket som är det primära språket som är installerat på dina klienters enheter. Detta är vanligtvis det språk de är mest bekväma med. Detta kan vara användbart som om du upptäcker att många av dina kunder föredrar franska, till exempel kan du erbjuda material på franska för att öka försäljningen och populariteten.</p>
 
-<h3>Scans By Country and City</h3>
+<h3>Skanna efter land och stad</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - scans by country and city.png"
-        alt="Scans by country and city chart - QR code generator ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - skannar efter land och stad.png"
+        alt="Skanna efter land och stad diagram - QR-kodgenerator ScanMeFindMe">
 </p>
 
-<p><a href="#pro">ScanMeFindMe PRO</a> also tracks scans by city and country. This is done from tracking the IP address of the mobile operator or internet service provider where the device is connected to. Do note that the geolocation chart only gives an approximate location of where the scans originated. </p>
+<p><a href="#pro">ScanMeFindMe PRO</a> spårar även skanningar efter stad och land. Detta görs från att spåra IP-adressen till mobiloperatören eller internetleverantören som enheten är ansluten till. Observera att geolokaliseringsdiagrammet endast ger en ungefärlig plats för var skanningarna kommer från. </p>
 
-<p>You may occasionally see scans from a different city or even country and it may seem surprising, especially if your QR code could not have possibly gotten there (for example, if it is a sticker on your office entrance). This usually means that somebody with a mobile phone from that country scanned your code while being on mobile data roaming.</p>
+<p>Du kan ibland se skanningar från en annan stad eller till och med land och det kan verka förvånande, särskilt om din QR-kod omöjligt kunde ha kommit dit (till exempel om det är ett klistermärke på din kontorsingång). Det betyder vanligtvis att någon med en mobiltelefon från det landet skannade din kod medan han var på mobil dataroaming.</p>
 
-<h3>Last Scans</h3>
+<h3>Senaste skanningarna</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans.png"
-        alt="Last scans list - QR code generator ScanMeFindMe">
+        alt="Lista över senaste skanningar - QR-kodgenerator ScanMeFindMe">
 </p>
 
-<p>This table is populated with historical scan data. You'll find the finer details of each scan such as the date, time, country, language, OS and browser. </p>
+<p>Den här tabellen är fylld med historiska skanningsdata. Du hittar de finare detaljerna för varje skanning som datum, tid, land, språk, OS och webbläsare. </p>
 
-<h2>How To View And Download The Scan Statistics?</h2>
+<h2>Hur visar och laddar man ned skanningsstatistiken?</h2>
 
-<p>All ScanMeFindMe PRO users have access to the statistics, which are displayed on the dashboard. You can also access the charts and tables via the 'Statistics' button on each of the dynamic codes.</p>
+<p>Alla ScanMeFindMe PRO-användare har tillgång till statistiken som visas på instrumentpanelen. Du kan också komma åt diagrammen och tabellerna via knappen "Statistik" på var och en av de dynamiska koderna.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - dynamic codes-statistic.png"
-        alt="Individual QR code statistics - ScanMeFindMe">
+        alt="Individuell QR-kodstatistik - ScanMeFindMe">
 </p>
 
-<p>The Last Scans table can be downloaded in CSV (comma-separated values) format, which can be used for in-depth analysis.</p>
+<p>Tabellen Senaste skanningar kan laddas ner i CSV-format (kommaseparerade värden), som kan användas för djupgående analys.</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png"
-        alt="Download scans statistics - QR code generator ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - senaste skanningar - ladda ner som CSV.png"
+        alt="Ladda ner skanningsstatistik - QR-kodgenerator ScanMeFindMe">
 </p>
 
-<p>You don't want to miss out on the scan statistics that can drive your marketing campaign in the right direction.</p>
+<p>Du vill inte gå miste om skanningsstatistiken som kan driva din marknadsföringskampanj i rätt riktning.</p>
 
-<p><a href="#pro">Sign up for a ScanMeFindMe PRO account now.</a></p>
+<p><a href="#pro">Registrera dig för ett ScanMeFindMe PRO-konto nu.</a></p>

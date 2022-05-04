@@ -1,159 +1,158 @@
-<h1>What information can be stored in QR codes</h1>
+<h1>Vilken information kan lagras i QR-koder</h1>
 
 --- Abstract / Meta description ---
 
-QR codes can not only be links to websites. They can "tell" your smartphone to start a call, connect to Wi-Fi, save contact cards or calendar events. They can even open specific apps on your phone
+QR-koder kan inte bara vara länkar till webbplatser. De kan "berätta" din smartphone att starta ett samtal, ansluta till Wi-Fi, spara kontaktkort eller kalenderhändelser. De kan till och med öppna specifika appar på din telefon
 
 --- Short content 1 ---
 
-Static QR codes contain non-editable, simple information such as a URL, WiFi credentials, a phone number, or an email address
+Statiska QR-koder innehåller icke-redigerbar, enkel information som en URL, WiFi-uppgifter, ett telefonnummer eller en e-postadress
 
 ----------
 
-<p>QR codes are one of the most affordable, effective marketing tools that any business could ask for. It was underutilized for years since its introduction but has since gained momentum, thanks to the increase of smartphone availability and digitization.</p>
+<p>QR-koder är ett av de mest prisvärda, effektiva marknadsföringsverktygen som alla företag kan begära. Den har varit underutnyttjad i flera år sedan den introducerades men har sedan dess tagit fart tack vare ökad tillgänglighet och digitalisering av smartphones.</p>
 
-<p>Whether you’re a marketer, startup founder, or seasoned entrepreneur, you’ll be surprised at how QR codes improve customer experience, increase conversion and simplify business operation. </p>
+<p>Oavsett om du är en marknadsförare, startup-grundare eller erfaren entreprenör kommer du att bli förvånad över hur QR-koder förbättrar kundupplevelsen, ökar konverteringen och förenklar verksamheten. </p>
 
-<p>Of course, this depends on what information that you’re storing in QR codes and how you’re applying them in business.</p>
+<p>Detta beror givetvis på vilken information du lagrar i QR-koder och hur du använder dem i verksamheten.</p>
 
-<h2>What Are QR Codes?</h2>
+<h2>Vad är QR-koder?</h2>
 
-<p>The QR Code, which stands for Quick-Response Code, is the most popular standard amongst 2-Dimensional barcodes. Chances are, you’ve come across QR codes when purchasing tickets, browsing through brochures, or visiting trade events. </p>
+<p>QR-koden, som står för Quick-Response Code, är den mest populära standarden bland 2-dimensionella streckkoder. Chansen är stor att du har stött på QR-koder när du köper biljetter, bläddrar i broschyrer eller besöker handelsevenemang. </p>
 
-<p>QR codes are squarish and bear three identical markers at the corners, that stick out from the rest of the pixels. These markers help the scanner to detect the edges of a QR code. Within the scannable area, the QR code is filled with smaller black and white spaces, which contain the encoded information.</p>
+<p>QR-koder är fyrkantiga och har tre identiska markörer i hörnen, som sticker ut från resten av pixlarna. Dessa markörer hjälper skannern att upptäcka kanterna på en QR-kod. Inom det skanningsbara området är QR-koden fylld med mindre svarta och vita utrymmen, som innehåller den kodade informationen.</p>
 
-<p>Here’s an example of a QR code that has ScanMeFindMe’s URL encoded into it.</p>
+<p>Här är ett exempel på en QR-kod som har ScanMeFindMes URL inkodad.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_static/files/img 1 - qr.png"
-        alt="QR code example, ScanMeFindMe">
+        alt="QR-kodexempel, ScanMeFindMe">
 </p>
 
-<p>It’s also interesting to note that QR codes are built with an error-correction algorithm. Depending on the size and information stored, a QR code is still readable even if it has up to 30% of its area covered. </p>
+<p>Det är också intressant att notera att QR-koder är byggda med en felkorrigeringsalgoritm. Beroende på storleken och den lagrade informationen är en QR-kod fortfarande läsbar även om den täcker upp till 30 % av sin yta. </p>
 
-<p>For marketers, QR Code’s robustness is a branding opportunity. It opens up the possibility of placing a <a href="#article:about_logos" title="QR codes with a logo">logo</a> or icon in the middle of the QR code, without compromising its integrity. </p>
+<p>För marknadsförare är QR Codes robusthet en varumärkesmöjlighet. Det öppnar upp för möjligheten att placera en <a href="#article:about_logos" title="QR-koder med en logotyp">logotyp</a> eller ikon i mitten av QR-koden, utan att kompromissa med dess integritet. </p>
 
-<p>It’s recommended to use a professional QR generator to insert a logo into the code. It reduces the risk of making mistakes that make the QR code unreadable. </p>
+<p>Det rekommenderas att använda en professionell QR-generator för att infoga en logotyp i koden. Det minskar risken att göra misstag som gör QR-koden oläslig. </p>
 
-<h2>How Much Information Can They Store? </h2>
+<h2>Hur mycket information kan de lagra? </h2>
 
-<p>QR codes are a revolutionary improvement from the single-dimensional barcode, particularly in terms of storage size. A QR code stores up to 4,296 alphanumeric characters or 7,089 numbers, while most 1D barcodes can only manage up to 20 numeric characters. QR codes are also capable of encoding non-Latin symbols like Kanji and hieroglyphs, but this decreases its data capacity. </p>
+<p>QR-koder är en revolutionerande förbättring från den endimensionella streckkoden, särskilt när det gäller lagringsstorlek. En QR-kod lagrar upp till 4 296 alfanumeriska tecken eller 7 089 siffror, medan de flesta 1D-streckkoder bara kan hantera upp till 20 numeriska tecken. QR-koder kan också koda icke-latinska symboler som Kanji och hieroglyfer, men detta minskar dess datakapacitet. </p>
 
-<p>For a better comparison, it is possible to fit in all the basic details (name, email, address, phone number) of a customer in a QR code. This is not possible if you’re still using the age-old 1D barcode. </p>
+<p>För en bättre jämförelse är det möjligt att få in alla grundläggande detaljer (namn, e-post, adress, telefonnummer) för en kund i en QR-kod. Detta är inte möjligt om du fortfarande använder den urgamla 1D-streckkoden. </p>
 
-<p>However, stretching the QR code to its capacity means it will have tinier and denser pixels. This means that you’ll need a larger print area, or low-resolution cameras may have trouble decoding the QR code. </p>
+<p>Om QR-koden sträcks till dess kapacitet innebär det dock att den får mindre och tätare pixlar. Det betyder att du behöver ett större utskriftsområde, annars kan lågupplösta kameror ha problem med att avkoda QR-koden. </p>
 
-<H2>What Happens When You Scan A QR Code?</h2>
+<H2>Vad händer när du skannar en QR-kod?</h2>
 
-<p>There’s no better time to make QR codes part of your marketing plan. That’s because almost everyone seems to own a personal QR code scanner, i.e. their smartphone. </p>
+<p>Det finns ingen bättre tid att göra QR-koder till en del av din marknadsföringsplan. Det beror på att nästan alla verkar äga en personlig QR-kodskanner, det vill säga sin smartphone. </p>
 
-<p>You don’t need a special, dedicated barcode scanner to decode a QR code. If you’re using an iPhone, the camera is built-in with a QR code scanner. Meanwhile, Android users are required to download a QR scanner app, if their smartphone models do not have an intergrated QR scanner.</p>
+<p>Du behöver ingen speciell, dedikerad streckkodsläsare för att avkoda en QR-kod. Om du använder en iPhone är kameran inbyggd med en QR-kodskanner. Samtidigt måste Android-användare ladda ner en QR-skannerapp om deras smartphonemodeller inte har en integrerad QR-skanner.</p>
 
-<p>To scan a QR code, launch the QR scanner app and align the QR code to the designated scanning area. The camera will automatically capture the QR code and retrieve the encoded information, which usually contains texts and numbers.</p>
+<p>För att skanna en QR-kod startar du QR-skannerappen och riktar in QR-koden mot det avsedda skanningsområdet. Kameran kommer automatiskt att fånga QR-koden och hämta den kodade informationen, som vanligtvis innehåller texter och siffror.</p>
 
-<p>Now, it’s hard to imagine how plain text and numbers can do wonder in marketing but it does when your audience own a smartphone. It allows QR codes to be used interactively and creatively by making the smartphone respond uniquely to different types of information.
+<p>Nu är det svårt att föreställa sig hur vanlig text och siffror kan göra underverk i marknadsföring, men det gör det när din publik äger en smartphone. Det gör att QR-koder kan användas interaktivt och kreativt genom att få smarttelefonen att reagera unikt på olika typer av information.
 
-<p>This is done by including formatted text like ‘mailto:’ or ‘tel:’, which instruct the phone to send an email or dial a number respectively, into the QR code. Of course, neither of the actions are carried out automatically without your confirmation.</p>
+<p>Detta görs genom att inkludera formaterad text som "mailto:" eller "tel:", som instruerar telefonen att skicka ett e-postmeddelande respektive slå ett nummer, i QR-koden. Naturligtvis utförs ingen av åtgärderna automatiskt utan din bekräftelse.</p>
 
-<h2>Static vs. Dynamic QR Codes</h2>
+<h2>Statiska kontra dynamiska QR-koder</h2>
 
-<p>Generally, there are two types of QR codes.</p>
+<p>I allmänhet finns det två typer av QR-koder.</p>
 
-<p>Static QR codes imply that the information encoded within is fixed. You can’t edit what is eventually shown to the users.</p>
+<p>Statiska QR-koder innebär att informationen som kodas i är fixerad. Du kan inte redigera vad som så småningom visas för användarna.</p>
 
-<p>For example, you can encode WIFI credentials into a QR code. When the users scan the QR Code, it will automatically connect to the WIFI. However, if you’ve changed the WIFI password, you’ll need to generate a new QR code.</p>
+<p>Du kan till exempel koda WIFI-uppgifter till en QR-kod. När användarna skannar QR-koden kommer den automatiskt att ansluta till WIFI. Men om du har ändrat WIFI-lösenordet måste du skapa en ny QR-kod.</p>
 
-<p>Meanwhile, dynamic QR codes contain a short URL that redirects to a website or webpage. While the link is fixed, the information that is displayed on the browser is not. You can make changes to the landing page as you deem fit without a new QR code.</p>
+<p>Under tiden innehåller dynamiska QR-koder en kort URL som omdirigerar till en webbplats eller webbsida. Medan länken är fixad är det inte informationen som visas i webbläsaren. Du kan göra ändringar på målsidan som du tycker passar utan en ny QR-kod.</p>
 
-<p>Furthermore, you can incorporate analytics with dynamic QR codes. By doing so, you can track stats like the <a href="#article:about_statistics" title="Scans analytics for QR codes">number of scans</a>, and originating locations. These numbers are helpful in measuring and finetuning your marketing campaign. </p>
+<p>Dessutom kan du integrera analyser med dynamiska QR-koder. Genom att göra det kan du spåra statistik som <a href="#article:about_statistics" title="Scans analytics for QR-koder">antal skanningar</a> och ursprungsplatser. Dessa siffror är användbara för att mäta och finjustera din marknadsföringskampanj. </p>
 
-<H2>Common Types Of Information Stored In QR Codes</h2>
+<H2>Vanliga typer av information som lagras i QR-koder</h2>
 
-<p>Here’s a list of what you can store in a QR code if you’re using our <a href="#static:url">QR code generator</a>. </p>
+<p>Här är en lista över vad du kan lagra i en QR-kod om du använder vår <a href="#static:url">QR-kodgenerator</a>. </p>
 
 <ul>
-    <li><strong>URL</strong> - The QR code contains a link to your webpage which can be launched in a browser.</li>
-    <li><strong>Phone</strong> - A phone number is encoded into the QR code. When scanned, it brings up the phone app and automatically pre-fills the phone number.</li>
-    <li><strong>SMS/ Whatsapp</strong> - Stores the recipient’s phone number in the QR code. Opens up the respective text messaging app with the pre-filled number when scanned.</li>
-    <li><strong>Facebook/Twitter</strong> - The QR code contains the link to the social media page. Scanning the QR code opens the page in a browser or the respective app if it’s installed.</li>
-    <li><strong>WiFi</strong> - Stores your WiFi credential. Comes in handy if you’re running a cafe. No more handing tiny slips of your WiFi password.</li>
-    <li><strong>Email</strong> - Contains an email address and automatically triggers an email app with prefilled recipient’s address when scanned.  </li>
-    <li><strong>Crypto</strong> - Stores your cryptocurrency wallet address in the QR code.</li>
-    <li><strong>Contact</strong> - The QR code contains your personal information, encoded in <a href="article:about_contactformats">Vcard or MeCard format</a>. </li>
-    <li><strong>Events</strong> - Contains information about an event that will be saved in your calendar. </li>
+    <li><strong>URL</strong> – QR-koden innehåller en länk till din webbsida som kan startas i en webbläsare.</li>
+    <li><strong>Telefon</strong> – Ett telefonnummer är kodat i QR-koden. När den skannas tar den upp telefonappen och fyller automatiskt i telefonnumret.</li>
+    <li><strong>SMS/Whatsapp</strong> - Lagrar mottagarens telefonnummer i QR-koden. Öppnar respektive textmeddelandeapp med det förifyllda numret när den skannas.</li>
+    <li><strong>Facebook/Twitter</strong> – QR-koden innehåller länken till sidan för sociala medier. Genom att skanna QR-koden öppnas sidan i en webbläsare eller respektive app om den är installerad.</li>
+    <li><strong>WiFi</strong> – Lagrar dina WiFi-uppgifter. Kommer väl till pass om du driver ett kafé. Du behöver inte längre lämna ut små lappar av ditt WiFi-lösenord.</li>
+    <li><strong>E-post</strong> – Innehåller en e-postadress och startar automatiskt en e-postapp med förifylld mottagaradress när den skannas. </li>
+    <li><strong>Crypto</strong> – lagrar din kryptovaluta-plånboksadress i QR-koden.</li>
+    <li><strong>Kontakt</strong> – QR-koden innehåller din personliga information, kodad i <a href="article:about_contactformats">Vcard- eller MeCard-format</a>. </li>
+    <li><strong>Händelser</strong> – Innehåller information om en händelse som kommer att sparas i din kalender. </li>
 </ul>
 
-<H2>Storing Information With Dynamic QR Codes</h2>
+<H2>Lagra information med dynamiska QR-koder</h2>
 
-<p>Scanning a QR code is easy, but how do you create one that holds different types of information? </p>
+<p>Det är enkelt att skanna en QR-kod, men hur skapar du en som innehåller olika typer av information? </p>
 
-<p>No, you don’t have to be a programming wizard to generating QR codes. Not when you have access to our QR code generator.</p>
+<p>Nej, du behöver inte vara en programmeringsguide för att generera QR-koder. Inte när du har tillgång till vår QR-kodgenerator.</p>
 
-<p>Here are the different types of information that can be stored with QR Codes when you’re using ScanMeFindMe Pro</p>
+<p>Här är de olika typerna av information som kan lagras med QR-koder när du använder ScanMeFindMe Pro</p>
 
-<h3>Short URL With Dynamic QR codes</h3>
-
-<p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Short URL With Dynamic QR.png"
-        alt="Generate QR for short url - ScanMeFindMe">
-</p>
-
-<p>You can create a short URL and encode it into a dynamic QR code. The URL redirects users to the destination link. The destination link, often a website or webpage, can be changed without altering the original QR code.</p>
-
-<H3> Contact Card With Dynamic QR codes</h3>
+<h3>Kort URL med dynamiska QR-koder</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - Contact Card With Dynamic QR.png"
-        alt="Contact Card With Dynamic QR code - ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Kort webbadress med dynamisk QR.png"
+        alt="Generera QR för kort url - ScanMeFindMe">
 </p>
 
-<p>ScanMeFindMe allows you to store personal information, an uploaded photo and social network links with a dynamic QR.  It encodes the short URL into the QR, which opens up a webpage displaying the contact information when scanned. This contact information can then be saved directly into users contacts.</p>
+<p>Du kan skapa en kort URL och koda den till en dynamisk QR-kod. URL:en omdirigerar användare till mållänken. Mållänken, ofta en webbplats eller webbsida, kan ändras utan att ändra den ursprungliga QR-koden.</p>
 
-<h3>Files With Dynamic QR codes</h3>
+<H3> Kontaktkort med dynamiska QR-koder</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - A Page With Files With Dynamic QR.png"
-        alt="Generate QR code for a page with files - ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - Kontaktkort med dynamisk QR.png"
+        alt="Kontaktkort med dynamisk QR-kod - ScanMeFindMe">
 </p>
 
-<p>Dynamic QR codes also allow you to share downloadable resources on a webpage. You can upload files and create a QR code that points to the resource page. When users scan the QR code, they will be redirected to the page containing the files.</p>
+<p>ScanMeFindMe låter dig lagra personlig information, ett uppladdat foto och länkar till sociala nätverk med en dynamisk QR. Den kodar den korta webbadressen till QR, som öppnar en webbsida som visar kontaktinformationen när den skannas. Denna kontaktinformation kan sedan sparas direkt i användarnas kontakter.</p>
 
-<H2> Managing Dynamic QR Codes With ScanMeFindMe Pro</h2>
-
-<p>Once you’ve created a dynamic QR code, you can manage it with ease on the dashboard. </p>
-
-<p>If you need to download the QR code, just click on the Download QR button and you’ll be presented with several image options and advanced page settings.</p>
+<h3>Filer med dynamiska QR-koder</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - download qr code.png"
-        alt="Download generated QR code - ScanMeFindMe">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - En sida med filer med dynamisk QR.png"
+        alt="Generera QR-kod för en sida med filer - ScanMeFindMe">
 </p>
 
-<p>You can view, sort, tag, filter and search dynamic codes that you’ve created on the dashboard.</p>
+<p>Dynamiska QR-koder låter dig också dela nedladdningsbara resurser på en webbsida. Du kan ladda upp filer och skapa en QR-kod som pekar till resurssidan. När användare skannar QR-koden omdirigeras de till sidan som innehåller filerna.</p>
+
+<H2> Hantera dynamiska QR-koder med ScanMeFindMe Pro</h2>
+
+<p>När du har skapat en dynamisk QR-kod kan du enkelt hantera den på instrumentpanelen. </p>
+
+<p>Om du behöver ladda ner QR-koden klickar du bara på knappen Ladda ner QR så kommer du att presenteras med flera bildalternativ och avancerade sidinställningar.</p>
+
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - ladda ner qr code.png"
+        alt="Ladda ner genererad QR-kod - ScanMeFindMe">
+</p>
+
+<p>Du kan visa, sortera, tagga, filtrera och söka efter dynamiska koder som du har skapat på instrumentpanelen.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - dynamic code.png"
-        alt="Managing generated QR codes - ScanMeFindMe">
+        alt="Hantera genererade QR-koder - ScanMeFindMe">
 </p>
 
-<p>One of the reasons why dynamic QR code is an effective marketing tool, is its ability to track who scanned the QR, when and where. You’ll have access to statistics, charts and reports that will help you improve your targetting strategies and reach more potential clients.</p>
+<p>En av anledningarna till att dynamisk QR-kod är ett effektivt marknadsföringsverktyg är dess förmåga att spåra vem som skannade QR-koden, när och var. Du får tillgång till statistik, diagram och rapporter som hjälper dig att förbättra dina inriktningsstrategier och nå fler potentiella kunder.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - all statistics.gif"
-        alt="QR code scans statistics - ScanMeFindMe">
+        alt="QR-kod skannar statistik - ScanMeFindMe">
 </p>
 
-<p>The bottom line is, ScanMeFindMe Pro gives you exclusive access to features like</p>
+<p>Samlet är att ScanMeFindMe Pro ger dig exklusiv tillgång till funktioner som</p>
 
 <ul>
-    <li>Generate dynamic QR codes.</li>
-    <li>Use your own templates.</li>
-    <li>View who scans your QR codes, when and where.</li>
-    <li>More download formats and advanced settings.</li>
-    <li>Save personalized QR code presets.</li>
-    <li>Use our QR Code generator API from your application.</li>
-    <li>Save and manage generated QR codes.</li>
+    <li>Generera dynamiska QR-koder.</li>
+    <li>Använd dina egna mallar.</li>
+    <li>Se vem som skannar dina QR-koder, när och var.</li>
+    <li>Fler nedladdningsformat och avancerade inställningar.</li>
+    <li>Spara personliga QR-kodförinställningar.</li>
+    <li>Använd vår QR-kodgenerator API från din applikation.</li>
+    <li>Spara och hantera genererade QR-koder.</li>
 </ul>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for FREE here.</a></p>
-
+<p><a href="#pro">Prova ScanMeFindMe PRO GRATIS här.</a></p>

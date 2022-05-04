@@ -1,8 +1,8 @@
-<h1>[Create a short url] Create a QR code for a website or URL</h1>
+<h1>[Skapa en kort url] Skapa en QR-kod för en webbplats eller URL</h1>
 
 --- Example header ---
 
-Short URL example
+Exempel på kort URL
 
 ----------
 
@@ -11,14 +11,14 @@ Short URL example
         <img src="https://media.scanmefindme.com/dynamic/url/url-popup-qr.svg" width="100%" height="auto"
             alt="QR">
     </div>
-    <p>This QR code points to the short url
+    <p>Den här QR-koden pekar på den korta webbadressen
         <a href="http://qrs.re/example1" target="_blank" rel="noopener" class="smfm-externallink">http://qrs.re/example1</a>
     </p>
 </div>
 
-<p class="mb-7">It will take you to the google form. At any moment, the owner can change where the link redirects to without having to make a new QR code.</p>
+<p class="mb-7">Det tar dig till Google-formuläret. När som helst kan ägaren ändra var länken omdirigeras till utan att behöva skapa en ny QR-kod.</p>
 
 <p>
     <img src="https://media.scanmefindme.com/dynamic/url/url-popup-dahsboard.png" width="100%" height="auto"
-        alt="QR code scans statistics - ScanMeFindMe">
+        alt="QR-kod skannar statistik - ScanMeFindMe">
 </p>

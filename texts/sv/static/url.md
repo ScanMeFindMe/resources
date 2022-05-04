@@ -1,37 +1,37 @@
-<h1>[URL] Create a QR code for a website or URL</h1>
+<h1>[URL] Skapa en QR-kod för en webbplats eller URL</h1>
 
 ----------
 
-<h1>Effortless QR Code Solutions For Savvy Marketers</h1>
+<h1>Besvärliga QR-kodlösningar för smarta marknadsförare</h1>
 
-<p>Create, download, manage and track QR codes with a single platform. Work with different types of QR codes and personalization to suit your branding strategy.</p>
+<p>Skapa, ladda ner, hantera och spåra QR-koder med en enda plattform. Arbeta med olika typer av QR-koder och personalisering för att passa din varumärkesstrategi.</p>
 
-<p><a href="#pro">Try For Free</a></p>
+<p><a href="#pro">Prova gratis</a></p>
 
-<h2>Create</h2>
+<h2>Skapa</h2>
 
-<p>Generate QR codes for websites, contacts, phones, SMS, and more in simple steps. You don’t have to be a technical wizard.</p>
+<p>Generera QR-koder för webbplatser, kontakter, telefoner, SMS och mer i enkla steg. Du behöver inte vara en teknisk guide.</p>
 
-<h2>Customize</h2>
+<h2>Anpassa</h2>
 
-<p>Choose from existing designs or add a personal touch to the QR code. Upload your own logo, template and select a color that goes well with your brand. Save time by using presets.</p>
+<p>Välj bland befintliga mönster eller lägg till en personlig touch till QR-koden. Ladda upp din egen logotyp, mall och välj en färg som passar ditt varumärke. Spara tid genom att använda förinställningar.</p>
 
-<h2>Download</h2>
+<h2>Ladda ner</h2>
 
-<p>Download QR codes in high-resolution format. Set precise QR code location with advanced page settings.</p>
+<p>Ladda ner QR-koder i högupplöst format. Ställ in exakt QR-kodsplats med avancerade sidinställningar.</p>
 
-<h2>Manage</h2>
+<h2>Hantera</h2>
 
-<p>Store and manage all of your QR codes with one solution. Easily search and filter QR codes by tags. Stay organized as you create more QR codes.</p>
+<p>Lagra och hantera alla dina QR-koder med en lösning. Sök och filtrera enkelt QR-koder efter taggar. Håll dig organiserad när du skapar fler QR-koder.</p>
 
-<h2>Track</h2>
+<h2>Spår</h2>
 
-<p>Leverage real-time QR code analytics to track scans, locations, language, platform, and other key metrics. A must-have for data-driven marketing efforts.</p>
+<p>Utnyttja QR-kodanalys i realtid för att spåra skanningar, platser, språk, plattform och andra nyckeltal. Ett måste för datadrivna marknadsföringsinsatser.</p>
 
-<p><a href="#article:about_statistics">Learn More</a></p>
+<p><a href="#article:about_statistics">Läs mer</a></p>
 
-<h2>Unlock Dynamic QR Codes With ScanMeFindMe PRO</h2>
+<h2>Lås upp dynamiska QR-koder med ScanMeFindMe PRO</h2>
 
-<p>Dynamic QR codes live up to their name. You can dynamically change information after you have printed the QR code. Dynamic QR codes are only available in the ScanMeFindMe PRO</p>
+<p>Dynamiska QR-koder lever upp till sitt namn. Du kan dynamiskt ändra information efter att du har skrivit ut QR-koden. Dynamiska QR-koder är endast tillgängliga i ScanMeFindMe PRO</p>
 
-<p><a href="#article:about_static">Static vs dynamic QR codes (Learn More)</a></p>
+<p><a href="#article:about_static">Statiska kontra dynamiska QR-koder (läs mer)</a></p>

@@ -1,5 +1,5 @@
-Your trial period at ScanMeFindMe has ended
+Din provperiod på ScanMeFindMe har avslutats
 
-<h1>Hello {{name}},</h1>
-<h2>Yor trial period on ScanMeFindMe has now ended.</h2>
-<p>You can still log in and upgrade to a plan, or otherwise your account and all your QR codes will be deleted after 30 days.</p>
+<h1>Hej {{name}},</h1>
+<h2>Din provperiod på ScanMeFindMe har nu avslutats.</h2>
+<p>Du kan fortfarande logga in och uppgradera till en plan, annars kommer ditt konto och alla dina QR-koder att raderas efter 30 dagar.</p>
