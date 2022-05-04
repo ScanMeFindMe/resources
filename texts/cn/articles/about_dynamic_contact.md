@@ -12,7 +12,7 @@
 
 <p>如果您希望客户手动存储您名片中的信息，则需要重新考虑您的品牌战略。大多数人发现必须将纸质名片中的联系方式保存到手机上，这既烦人又重复。</p>
 
-<p>此外，您是否知道 <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you- rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% 的名片</a>在发出后一周内被丢弃?</p>
+<p>此外，您是否知道 <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% 的名片</a>在发出后一周内被丢弃?</p>
 
 <p>浪费掉的名片数量惊人。这不仅违背了许多公司的环保承诺，而且还解释了为什么有些客户即使承诺了也不会联系您。 </p>
 
@@ -39,7 +39,7 @@
 <p><a href="#article:about_static">静态二维码</a>直接对信息进行编码，限制了您可以存储的信息量。您需要使用动态 QR 码来包含其他信息，例如照片/徽标或社交媒体句柄。 </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - 联系人字段.png"
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png"
         alt="联系人卡片字段 - ScanMeFindMe">
 </p>
 
@@ -52,7 +52,7 @@
 <p>要开始使用二维码分享您的联系方式，您需要生成一个。使用 <a href="#pro">ScanMeFIndMe PRO 帐户</a>，您可以轻松生成包含您所有个人信息的二维码。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - 弗洛伊德英里 - qr.png"
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - floyd miles - qr.png"
         alt="为名片生成二维码 - ScanMeFindMe">
 </p>
 

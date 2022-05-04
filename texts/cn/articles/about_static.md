@@ -94,7 +94,7 @@
 <h3>带有动态二维码的短网址</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - 带有动态 QR.png 的短 URL"
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Short URL With Dynamic QR.png"
         alt="为短网址生成 QR - ScanMeFindMe">
 </p>
 
@@ -103,7 +103,7 @@
 <H3> 带有动态二维码的名片</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - 带有动态 QR.png 的联系人卡片"
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - Contact Card With Dynamic QR.png"
         alt="带有动态二维码的联系卡 - ScanMeFindMe">
 </p>
 
@@ -112,7 +112,7 @@
 <h3>带有动态二维码的文件</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - 带有动态 QR.png 文件的页面"
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - A Page With Files With Dynamic QR.png"
         alt="为包含文件的页面生成二维码 - ScanMeFindMe">
 </p>
 
@@ -125,21 +125,21 @@
 <p>如果您需要下载 QR 码，只需单击“下载 QR”按钮，您就会看到几个图像选项和高级页面设置。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - 下载二维码.png"
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - download qr code.png"
         alt="下载生成的二维码 - ScanMeFindMe">
 </p>
 
 <p>您可以查看、排序、标记、过滤和搜索您在仪表板上创建的动态代码。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - 动态代码.png"
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - dynamic code.png"
         alt="管理生成的二维码 - ScanMeFindMe">
 </p>
 
 <p>动态二维码是一种有效的营销工具的原因之一是它能够跟踪谁在何时何地扫描了二维码。您可以访问统计数据、图表和报告，帮助您改进定位策略并吸引更多潜在客户。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - 所有统计信息.gif"
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - all statistics.gif"
         alt="二维码扫描统计 - ScanMeFindMe">
 </p>
 

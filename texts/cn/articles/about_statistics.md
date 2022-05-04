@@ -29,7 +29,7 @@
 <h3>总扫描次数</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - 总扫描数.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - total scans.png"
         alt="总扫描图表 - 二维码生成器 ScanMeFindMe">
 </p>
 
@@ -44,7 +44,7 @@
 <h3>按月扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - 按月扫描.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png"
         alt="按月扫描 - 二维码生成器 ScanMeFindMe">
 </p>
 
@@ -53,7 +53,7 @@
 <h3>按小时扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - 按小时扫描.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png"
         alt="按小时扫描图表 - QR 码生成器 ScanMeFindMe">
 </p>
 
@@ -62,7 +62,7 @@
 <h3>按操作系统扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - OS.png 扫描"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png"
         alt="按 OS 图表扫描 - QR 码生成器 ScanMeFindMe">
 </p>
 
@@ -71,7 +71,7 @@
 <h3>按语言扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - 由 lang.png 扫描"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - scans by lang.png"
         alt="按语言图表扫描 - 二维码生成器 ScanMeFindMe">
 </p>
 
@@ -80,7 +80,7 @@
 <h3>按国家和城市扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - 按国家和城市扫描.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - scans by country and city.png"
         alt="按国家和城市扫描图表 - QR 码生成器 ScanMeFindMe">
 </p>
 
@@ -91,7 +91,7 @@
 <h3>上次扫描</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - 最后一次扫描.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans.png"
         alt="上次扫描列表 - 二维码生成器 ScanMeFindMe">
 </p>
 
@@ -102,14 +102,14 @@
 <p>所有 ScanMeFindMe PRO 用户都可以访问显示在仪表板上的统计信息。您还可以通过每个动态代码上的“统计”按钮访问图表和表格。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - 动态代码-statistic.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - dynamic codes-statistic.png"
         alt="个人二维码统计-ScanMeFindMe">
 </p>
 
 <p>Last Scans 表可以 CSV（逗号分隔值）格式下载，可用于深入分析。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - 最后一次扫描 - 下载为 CSV.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png"
         alt="下载扫描统计信息 - 二维码生成器 ScanMeFindMe">
 </p>
 

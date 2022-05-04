@@ -12,14 +12,14 @@
 
 <p>对于营销人员来说，一切都是为了转化。如果您设计了出色的广告，那么如果受众不以某种方式伸出援手，那将是徒劳的。</p>
 
-<p><a href="#static:url">QR 码</a> 是一种有用的营销工具，但添加纯格式的 QR 码对营销材料上的创意作品并不公平。</a> p>
+<p><a href="#static:url">QR 码</a> 是一种有用的营销工具，但添加纯格式的 QR 码对营销材料上的创意作品并不公平。</p>
 
 <p>观众可能会跳过二维码，即使它在视线范围内也是如此。通常，需要通过号召性用语 (CTA) 和独特的演示来让用户扫描 QR 码。</p>
 
 <h2>为什么要为二维码添加边框和标题？</h2>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1-templates.png"
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - templates.png"
         alt="二维码模板 - ScanMeFindMe">
 </p>
 
@@ -34,7 +34,7 @@
 <p>即使在<a href="#static:url">免费版二维码生成器</a>中，您也可以修改模板上的标题。将默认的<strong>“扫描我”</strong>更改为<strong>“更多信息”</strong>、<strong>“我们的菜单”</strong>、您的 Instagram 用户名或电话号码。如果您的文本太长或太短，您可以减小或增大字体大小以使其看起来更好。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - 二维码instagram.png"
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
         alt="instagram 句柄的二维码 - ScanMeFindMe">
 </p>
 
@@ -53,7 +53,7 @@
 <p>创建模板的最快方法是从库中复制一个模板并编辑 SVG 源代码。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - 编辑 svg template.png"
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
         alt="编辑二维码模板 - ScanMeFindMe">
 </p>
 

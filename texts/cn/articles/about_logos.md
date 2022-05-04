@@ -29,7 +29,7 @@
 <h2>添加徽标会影响 QR 码的可扫描性吗？</h2>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - 带有 logo.png 的二维码"
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr code with logo.png"
         alt="二维码标志示例 - ScanMeFindMe">
 </p>
 
@@ -42,7 +42,7 @@
 <p>权衡是纠错级别更高的二维码具有更大的“矩阵”。这是用四种不同纠错级别编码的相同 URL：低 (L)、中 (M)、高 (H) 和非常高 (Q)：</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 2 - 差异矩阵.png"
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 2 - diff matrix.png"
         alt="具有不同纠错级别的二维码 - ScanMeFindMe">
 </p>
 
@@ -57,7 +57,7 @@
 <p>上传您的企业徽标并选择缩略图：它将自动出现在二维码上。这适用于您在 ScanMeFindMe 上创建任何<a href="#about:product">动态或静态二维码</a>。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - 添加 logo.png" width="600"
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - adding logo.png" width="600"
         alt="为 QR 码添加徽标 - ScanMeFindMe">
 </p>
 
@@ -66,7 +66,7 @@
 <p>ScanMeFindMe <a href="#static:url">二维码生成器</a>不仅可以让你将logo放置在二维码的中间，你还可以通过删除或添加一些块使其看起来更准确的二维码矩阵。根据您的二维码样式，您可以选择您的标志的形状和样式，并在二维码中心选择不同类型的渲染块。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - qr.png 的中心"
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - center of qr.png"
         alt="二维码上的标志放置示例 - ScanMeFindMe">
 </p>
 

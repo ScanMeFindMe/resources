@@ -42,7 +42,7 @@
 <p>或者，您可以复制库中的现有预设并对其进行自定义。 </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - 自定义预设.png"
+    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
         alt="通过复制系统创建预设">
 </p>
 

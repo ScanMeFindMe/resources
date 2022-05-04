@@ -23,7 +23,7 @@
 <p>而是将文件上传到网页，并生成缩短的 URL 并将其存储在 QR 码中。当用户扫描代码时，他们会被重定向到可以下载文件的网页。 </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - 预览文件.png"
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - preview files.png"
         alt="预览包含文件的页面 - ScanMeFindMe">
 </p>
 
@@ -64,7 +64,7 @@
 <p>我们的文件共享二维码生成器具有直观的界面，可让您使用标题、徽标和描述来个性化网页。您还可以选择文件在网页上的显示方式。 </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - 文件如何显示.png"
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - how files are displayed.png"
         alt="带有文件的页面的生成器预览 - ScanMeFindMe">
 </p>
 

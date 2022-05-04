@@ -26,29 +26,29 @@ Vcard 存储更多信息，通常用于共享联系人。 MeCard 专用于二维
 
 <p>渲染后，您将获得一个更小、更紧凑的 MeCard 格式二维码。这意味着与 Vcard 对应物相比，MeCard 联系人 QR 码打印在更小的区域时更具可读性。</p>
 
-<p>电子名片：</p>
+<p>vCard:</p>
 
-<表格>
+<table>
     <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 1 - qr vcard.png" width="150" height="150"
         alt="vCard 格式的联系人二维码 - ScanMeFindMe">
     </td>
         <td class="notranslate">
-<pre>开始：VCARD
-版本：4.0
+<pre>BEGIN:VCARD
+VERSION:4.0
 FN:ScanMeFindMe
 N:;;;;
-组织：ScanMeFindMe
-网址：https://scanmefindme.com
-版本：2021-02-13T18：18：45.089Z
+ORG:ScanMeFindMe
+URL:https://scanmefindme.com
+REV:2021-02-13T18:18:45.089Z
 END:VCARD</pre>
         </td>
     </tr></table>
 
 <p></p>
 
-<p>MeCard：</p>
+<p>MeCard:</p>
 
-<表格>
+<table>
     <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 2 - mecard.png" width="150" height="150"
             alt="MeCard 格式的联系人二维码 - ScanMeFindMe"></td>
         <td class="notranslate">
@@ -61,7 +61,7 @@ END:VCARD</pre>
 
 <p>这取决于您打算如何使用二维码。 MeCard 提供简单性，您可以轻松地将其打印在名片上。您无需连接互联网即可扫描联系人详细信息并将其保存到电话簿中。</p>
 
-<p>Vcard 更广泛地用于共享联系人，并且在存储的信息类型方面更胜一筹。虽然 Vcard 可以存储为静态 QR 码，但您可以将其用作 <a href="#article:about_dynamic_contact" title="联系人卡片的动态 QR 码">动态 QR 码< /a>.</p>
+<p>Vcard 更广泛地用于共享联系人，并且在存储的信息类型方面更胜一筹。虽然 Vcard 可以存储为静态 QR 码，但您可以将其用作 <a href="#article:about_dynamic_contact" title="联系人卡片的动态 QR 码">动态 QR 码</a>.</p>
 
 <p>动态 QR 码存储一个链接，该链接将用户重定向到网页以查看和下载 VCF 格式的联系人详细信息。您还可以在使用 <a href="#pro">ScanMeFindMe PRO 时添加照片和社交媒体链接。</a></p>
 
@@ -72,7 +72,7 @@ END:VCARD</pre>
 <p>ScanMeFindMe 支持 MeCard 和 VCard 格式。您可以使用我们的<a href="#static:contact">免费二维码生成器创建静态 MeCard 和 VCard 联系人。</a> </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 3 - 为contact.png创建一个二维码"
+    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 3 - create a qr code for contact.png"
         alt="为联系人创建静态二维码 - ScanMeFindMe">
 </p>
 
@@ -81,7 +81,7 @@ END:VCARD</pre>
 <p>如前所述，您可以使用<a href="#article:about_dynamic_contact">动态 Vcard 联系人</a>做更多事情。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 4 - 联系人卡片.png"
+    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 4 - contact card.png"
         alt="为联系人创建动态二维码 - ScanMeFindMe">
 </p>
 

@@ -84,7 +84,7 @@
     "generatedqr": "二维码",
     "hideadditional": "隐藏附加参数",
     "info": "信息",
-    "launchpro": "<p>在几秒钟内创建一个 PRO 帐户并开始享受 14 天的完全免费试用。</p><p>在继续使用 PRO 之前，请确保您阅读 <a href=\"#about:privacy\">隐私政策< /a> 和 <a href=\"#about:tos\">服务条款</a></p>",
+    "launchpro": "<p>在几秒钟内创建一个 PRO 帐户并开始享受 14 天的完全免费试用。</p><p>在继续使用 PRO 之前，请确保您阅读 <a href=\"#about:privacy\">隐私政策</a> 和 <a href=\"#about:tos\">服务条款</a></p>",
     "loading": "正在加载",
     "menu": "菜单",
     "metadesc": "创建有吸引力的二维码，选择您的风格，下载为 SVG、PNG、PDF 或 PS。 QR 码 API，扫描分析。易于使用的在线二维码生成器",
@@ -353,7 +353,7 @@
       "delete": "删除",
       "duplicate": "复制",
       "edit": "编辑",
-      "editfile": "编辑{文件}",
+      "editfile": "编辑{file}",
       "editname": "编辑名称",
       "editsvg": "编辑 SVG 源",
       "filenametoolong": "文件名太长",
@@ -434,7 +434,7 @@
       "support": "支持",
       "uploadedfiles": "上传的文件",
       "usageleft": "还剩 {n}%",
-      "usageof": "{使用} 个，共 {total} 个"
+      "usageof": "{used} 个，共 {total} 个"
     },
     "qrlist": {
       "addingto": "为以下二维码添加标签：",

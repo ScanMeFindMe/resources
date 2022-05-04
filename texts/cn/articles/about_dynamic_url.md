@@ -39,10 +39,10 @@
 
 <p>当您使用我们的 <a href="#pro">PRO 二维码生成器</a>生成动态二维码时，它会自动链接到我们的跟踪工具。</p>
 
-<p>当用户扫描二维码并被重定向到目标网页时，<a href="#static:url">ScanMeFindMe</a> 会跟踪设备中的关键指标并将其保存在仪表板上。</p >
+<p>当用户扫描二维码并被重定向到目标网页时，<a href="#static:url">ScanMeFindMe</a> 会跟踪设备中的关键指标并将其保存在仪表板上。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - 总扫描数.png"
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - total scans.png"
         alt="二维码扫描统计示例 - ScanMeFindMe">
 </p>
 
@@ -53,7 +53,7 @@
 <p>这些图表可帮助营销人员微调他们的广告系列，以提高转化率和销售额。例如，在线零售商可以在预计流量高峰期开展有针对性的促销活动。</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - 扫描 by.png"
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - scans by.png"
         alt="二维码扫描统计示例 - ScanMeFindMe">
 </p>
 
