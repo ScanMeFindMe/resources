@@ -12,7 +12,7 @@ Lær hvordan du legger til fengende fraser med QR-kodetekster. Velg mellom forh�
 
 <p>For markedsførere kommer alt ut til konvertering. Hvis du har en strålende annonse designet, er det for ingenting hvis publikum ikke når ut på en eller annen måte.</p>
 
-<p><a href="#static:url">QR-koder</a> er et nyttig markedsføringsverktøy, men å legge til en QR-kode i vanlig format yter ikke rettferdighet til det kreative arbeidet med markedsføringsmateriell.</ p>
+<p><a href="#static:url">QR-koder</a> er et nyttig markedsføringsverktøy, men å legge til en QR-kode i vanlig format yter ikke rettferdighet til det kreative arbeidet med markedsføringsmateriell.</p>
 
 <p>Uten et lite dytt kan publikum hoppe over QR-koden, selv når den er synlig. Ofte er en oppfordring til handling (CTA) og en unik presentasjon det som skal til for å få brukere til å skanne QR-koden.</p>
 
@@ -53,7 +53,7 @@ Lær hvordan du legger til fengende fraser med QR-kodetekster. Velg mellom forh�
 <p>Den raskeste måten å lage en mal på er å duplisere en fra biblioteket og redigere SVG-kilden.</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - rediger svg template.png"
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
         alt="Redigering av QR-kodemal - ScanMeFindMe">
 </p>
 

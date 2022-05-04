@@ -28,19 +28,19 @@ Vcard lagrer mer informasjon og brukes ofte til å dele kontakter. MeCard brukes
 
 <p>vCard:</p>
 
-<tabell>
+<table>
     <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 1 - qr vcard.png" width="150" height="150"
         alt="QR-kode for kontakt i vCard-format - ScanMeFindMe">
     </td>
         <td class="notranslate">
 <pre>BEGIN:VCARD
-VERSJON:4.0
+VERSION:4.0
 FN:ScanMeFindMe
 N:;;;;
 ORG:ScanMeFindMe
-URL: https://scanmefindme.com
+URL:https://scanmefindme.com
 REV:2021-02-13T18:18:45.089Z
-SLUTT:VCARD</pre>
+END:VCARD</pre>
         </td>
     </tr></table>
 
@@ -48,7 +48,7 @@ SLUTT:VCARD</pre>
 
 <p>MeCard:</p>
 
-<tabell>
+<table>
     <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 2 - mecard.png" width="150" height="150"
             alt="QR-kode for kontakt i MeCard-format - ScanMeFindMe"></td>
         <td class="notranslate">
@@ -61,7 +61,7 @@ SLUTT:VCARD</pre>
 
 <p>Det avhenger av hvordan du har tenkt å bruke QR-koden. MeCard tilbyr enkelhet, og du kan enkelt skrive det ut på et visittkort. Du trenger ikke en internettforbindelse for å skanne og lagre kontaktdetaljene i telefonboken din.</p>
 
-<p>Vcard brukes mer utstrakt for å dele kontakter og er overlegen når det gjelder typene informasjon som lagres. Mens Vcard kan lagres som en statisk QR-kode, vil du få mye mer ut av det ved å bruke det som en <a href="#article:about_dynamic_contact" title="Dynamisk QR-kode for kontaktkort">dynamisk QR-kode< /a>.</p>
+<p>Vcard brukes mer utstrakt for å dele kontakter og er overlegen når det gjelder typene informasjon som lagres. Mens Vcard kan lagres som en statisk QR-kode, vil du få mye mer ut av det ved å bruke det som en <a href="#article:about_dynamic_contact" title="Dynamisk QR-kode for kontaktkort">dynamisk QR-kode</a>.</p>
 
 <p>En dynamisk QR-kode lagrer en lenke som omdirigerer brukere til en nettside for å se og laste ned kontaktdetaljene i VCF-format. Du kan også inkludere bilder og sosiale medier når du bruker <a href="#pro">ScanMeFindMe PRO.</a></p>
 
@@ -72,7 +72,7 @@ SLUTT:VCARD</pre>
 <p>ScanMeFindMe støtter både MeCard- og VCard-formater. Du kan opprette statiske MeCard- og VCard-kontakter med vår <a href="#static:contact">gratis QR-kodegenerator.</a> </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 3 - lag en qr-kode for contact.png"
+    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 3 - create a qr code for contact.png"
         alt="Lag en statisk QR-kode for kontakt - ScanMeFindMe">
 </p>
 
@@ -81,7 +81,7 @@ SLUTT:VCARD</pre>
 <p>Som nevnt kan du gjøre mye mer med en <a href="#article:about_dynamic_contact">dynamisk Vcard-kontakt</a>.</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 4 - kontaktkort.png"
+    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 4 - contact card.png"
         alt="Lag en dynamisk QR-kode for kontakt - ScanMeFindMe">
 </p>
 

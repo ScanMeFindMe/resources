@@ -44,7 +44,7 @@ Den omtrentlige plasseringen av skanneenheten. Det er kanskje ikke alltid nøyak
 <h3>Skanner etter måneder</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - skanner etter måned.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png"
         alt="Skanner etter månedsdiagram - QR-kodegenerator ScanMeFindMe">
 </p>
 
@@ -53,7 +53,7 @@ Den omtrentlige plasseringen av skanneenheten. Det er kanskje ikke alltid nøyak
 <h3>Skanninger etter time på dagen</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - skanner etter time på dagen.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png"
         alt="Skanninger etter time på døgnet - QR-kodegenerator ScanMeFindMe">
 </p>
 
@@ -62,7 +62,7 @@ Den omtrentlige plasseringen av skanneenheten. Det er kanskje ikke alltid nøyak
 <h3>Skanner etter OS</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - skanner etter OS.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png"
         alt="Skanner etter OS-diagram - QR-kodegenerator ScanMeFindMe">
 </p>
 
@@ -80,7 +80,7 @@ Den omtrentlige plasseringen av skanneenheten. Det er kanskje ikke alltid nøyak
 <h3>Skanner etter land og by</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - skanner etter land og by.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - scans by country and city.png"
         alt="Skannner etter land- og bykart - QR-kodegenerator ScanMeFindMe">
 </p>
 
@@ -109,7 +109,7 @@ Den omtrentlige plasseringen av skanneenheten. Det er kanskje ikke alltid nøyak
 <p>Siste skanninger-tabellen kan lastes ned i CSV-format (kommaseparerte verdier), som kan brukes til dybdeanalyse.</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - siste skanninger - last ned som CSV.png"
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png"
         alt="Last ned skannestatistikk - QR-kodegenerator ScanMeFindMe">
 </p>
 

@@ -42,7 +42,7 @@ Velg en forhåndsdesignet forhåndsinnstilling eller lag en med valgt stil, farg
 <p>Alternativt kan du duplisere en eksisterende forhåndsinnstilling i biblioteket og tilpasse den. </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - tilpasse preset.png"
+    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
         alt="Opprette en forhåndsinnstilling ved å kopiere et system">
 </p>
 

@@ -84,7 +84,7 @@
     "generatedqr": "QR kode",
     "hideadditional": "Skjul flere parametere",
     "info": "Info",
-    "launchpro": "<p>Opprett en PRO-konto på sekunder og begynn å nyte 14 dagers prøveperiode helt gratis.</p><p>Før du fortsetter til PRO, sørg for at du leser <a href=\"#about:privacy\">Personvernreglene< /a> og <a href=\"#about:tos\">vilkår for bruk</a></p>",
+    "launchpro": "<p>Opprett en PRO-konto på sekunder og begynn å nyte 14 dagers prøveperiode helt gratis.</p><p>Før du fortsetter til PRO, sørg for at du leser <a href=\"#about:privacy\">Personvernreglene</a> og <a href=\"#about:tos\">vilkår for bruk</a></p>",
     "loading": "Laster",
     "menu": "Meny",
     "metadesc": "Lag attraktive QR-koder, velg stilen din, last ned som SVG, PNG, PDF eller PS. QR-kode API, skanner analyser. Enkel å bruke online QR-kodegenerator",
@@ -264,7 +264,7 @@
       "subscriptionwithoutrenewal": "Du har abonnement uten fornyelse!",
       "trialended": "Prøveperioden din er over",
       "yourplan": "Din nåværende plan:",
-      "yourplanended": "Hvis du bestemmer deg for ikke å kjøpe en plan, slettes kontoen din automatisk {dato}"
+      "yourplanended": "Hvis du bestemmer deg for ikke å kjøpe en plan, slettes kontoen din automatisk {date}"
     },
     "codenotfound": "Oops! Noe gikk galt. Er dette en gyldig kode? Prøv å oppdatere siden",
     "confirm": "Bekrefte",
@@ -353,7 +353,7 @@
       "delete": "Slett",
       "duplicate": "Duplisere",
       "edit": "Redigere",
-      "editfile": "Rediger {fil}",
+      "editfile": "Rediger {file}",
       "editname": "Rediger navn",
       "editsvg": "Rediger SVG-kilde",
       "filenametoolong": "Filnavnet er for langt",

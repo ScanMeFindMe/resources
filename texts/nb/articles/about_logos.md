@@ -29,7 +29,7 @@ Høyere feilrettingsnivå gjør at en større del av QR-koden kan skades, men fo
 <h2>Påvirker det å legge til en logo QR-kodeskanning?</h2>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr-kode med logo.png"
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr code with logo.png"
         alt="QR-kode-logoeksempel - ScanMeFindMe">
 </p>
 

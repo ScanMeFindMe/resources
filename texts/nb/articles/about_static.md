@@ -94,7 +94,7 @@ Statiske QR-koder inneholder ikke-redigerbar, enkel informasjon som en URL, WiFi
 <h3>Kort URL med dynamiske QR-koder</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Kort URL med dynamisk QR.png"
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Short URL With Dynamic QR.png"
         alt="Generer QR for kort url - ScanMeFindMe">
 </p>
 
@@ -103,7 +103,7 @@ Statiske QR-koder inneholder ikke-redigerbar, enkel informasjon som en URL, WiFi
 <H3> Kontaktkort med dynamiske QR-koder</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - kontaktkort med dynamisk QR.png"
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - Contact Card With Dynamic QR.png"
         alt="Kontaktkort med dynamisk QR-kode - ScanMeFindMe">
 </p>
 
@@ -112,7 +112,7 @@ Statiske QR-koder inneholder ikke-redigerbar, enkel informasjon som en URL, WiFi
 <h3>Filer med dynamiske QR-koder</h3>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - En side med filer med dynamisk QR.png"
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - A Page With Files With Dynamic QR.png"
         alt="Generer QR-kode for en side med filer - ScanMeFindMe">
 </p>
 
@@ -125,7 +125,7 @@ Statiske QR-koder inneholder ikke-redigerbar, enkel informasjon som en URL, WiFi
 <p>Hvis du trenger å laste ned QR-koden, klikker du bare på Last ned QR-knappen, og du vil bli presentert med flere bildealternativer og avanserte sideinnstillinger.</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - last ned qr code.png"
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - download qr code.png"
         alt="Last ned generert QR-kode - ScanMeFindMe">
 </p>
 

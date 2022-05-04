@@ -64,7 +64,7 @@ Last opp menyer, musikk, manualer og andre filer til en personlig tilpasset nett
 <p>Vår fildelings-QR-kodegenerator har et intuitivt grensesnitt som lar deg tilpasse nettsiden med tittel, logo og beskrivelse. Du kan også velge hvordan filene skal vises på nettsiden. </p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - hvordan filer vises.png"
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - how files are displayed.png"
         alt="Forhåndsvisning av en generator for en side med filer - ScanMeFindMe">
 </p>
 
