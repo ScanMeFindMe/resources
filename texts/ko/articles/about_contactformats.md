@@ -28,40 +28,40 @@ Vcard는 더 많은 정보를 저장하고 일반적으로 연락처 공유에 �
 
 <p>vCard:</p>
 
-<표>
-    <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 1 - qr vcard.png" 너비="150" 높이="150"
+<table>
+    <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 1 - qr vcard.png" width="150" height="150"
         alt="vCard 형식의 연락처 QR 코드 - ScanMeFindMe">
     </td>
         <td class="notranslate">
-<사전>BEGIN:VCARD
-버전:4.0
-FN:스캔미찾기
+<pre>BEGIN:VCARD
+VERSION:4.0
+FN:ScanMeFindMe
 N:;;;;
-ORG:ScanMe찾기
+ORG:ScanMeFindMe
 URL:https://scanmefindme.com
 REV:2021-02-13T18:18:45.089Z
-끝:VCARD</pre>
+END:VCARD</pre>
         </td>
     </tr></table>
 
 <p></p>
 
-<p>메카드:</p>
+<p>MeCard:</p>
 
-<표>
-    <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 2 - mecard.png" 너비="150" 높이="150"
+<table>
+    <tr><td><img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 2 - mecard.png" width="150" height="150"
             alt="MeCard 형식의 연락처 QR 코드 - ScanMeFindMe"></td>
         <td class="notranslate">
             <pre>MECARD:N:,ScanMeFindMe;URL:https://scanmefindme.com;;</pre>
         </td>
     </tr>
-</표>
+</table>
 
 <h2>어느 것이 더 나은 선택입니까?</h2>
 
 <p>QR 코드를 어떻게 사용할 것인지에 따라 다릅니다. MeCard는 단순함을 제공하며 명함에 쉽게 인쇄할 수 있습니다. 연락처 정보를 스캔하고 전화번호부에 저장하기 위해 인터넷 연결이 필요하지 않습니다.</p>
 
-<p>Vcard는 연락처 공유에 더 광범위하게 사용되며 저장되는 정보 유형 측면에서 우수합니다. Vcard를 정적 QR 코드로 저장할 수 있지만 <a href="#article:about_dynamic_contact" title="Dynamic QR code for contact card">동적 QR 코드<로 사용하면 Vcard를 훨씬 더 많이 활용할 수 있습니다. /a>.</p>
+<p>Vcard는 연락처 공유에 더 광범위하게 사용되며 저장되는 정보 유형 측면에서 우수합니다. Vcard를 정적 QR 코드로 저장할 수 있지만 <a href="#article:about_dynamic_contact" title="Dynamic QR code for contact card">동적 QR 코드</a> 사용하면 Vcard를 훨씬 더 많이 활용할 수 있습니다.</p>
 
 <p>동적 QR 코드는 VCF 형식의 연락처 세부 정보를 보고 다운로드할 수 있는 웹 페이지로 사용자를 리디렉션하는 링크를 저장합니다. <a href="#pro">ScanMeFindMe PRO</a></p>를 사용할 때 사진과 소셜 미디어 링크를 포함할 수도 있습니다.
 
@@ -71,8 +71,8 @@ REV:2021-02-13T18:18:45.089Z
 
 <p>ScanMeFindMe는 MeCard 및 VCard 형식을 모두 지원합니다. <a href="#static:contact">무료 QR 코드 생성기</a> </p>를 사용하여 정적 MeCard 및 VCard 연락처를 만들 수 있습니다.
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 3 - contact.png에 대한 qr 코드 생성"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 3 - create a qr code for contact.png"
         alt="연락처용 정적 QR 코드 생성 - ScanMeFindMe">
 </p>
 
@@ -80,14 +80,14 @@ REV:2021-02-13T18:18:45.089Z
 
 <p>언급한 바와 같이 <a href="#article:about_dynamic_contact">동적 Vcard 연락처</a>를 사용하면 훨씬 더 많은 작업을 수행할 수 있습니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 4 - 연락처 card.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_contactformats/files/img 4 - contact card.png"
         alt="연락처용 동적 QR 코드 생성 - ScanMeFindMe">
 </p>
 
 <p>동적 VCard 연락처를 사용하는 경우 다음을 수행할 수 있습니다.</p>
 
-<울>
+<ul>
     <li>언제든지 연락처 세부정보를 수정하세요.</li>
     <li>사진 또는 조직 로고를 업로드하세요.</li>
     <li>소셜 미디어 핸들 또는 링크를 포함합니다.</li>

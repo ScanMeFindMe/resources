@@ -6,5 +6,5 @@
 
 ----------
 
-<img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png" 너비="100%" 높이="자동"
+<img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width="100%" height="auto"
     alt="연락처 카드 예 - ScanMeFindMe">

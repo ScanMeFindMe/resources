@@ -12,14 +12,14 @@ QR 코드 캡션으로 눈에 띄는 문구를 추가하는 방법을 알아보�
 
 <p>마케터에게 모든 것은 전환으로 이어집니다. 멋진 광고를 디자인했다고 해도 청중이 어떤 식으로든 연락하지 않으면 아무 소용이 없습니다.</p>
 
-<p><a href="#static:url">QR 코드</a>는 유용한 마케팅 도구이지만 일반 형식의 QR 코드를 추가하는 것은 마케팅 자료에 대한 창의적인 작업을 제대로 수행하지 못합니다.</a> 피>
+<p><a href="#static:url">QR 코드</a>는 유용한 마케팅 도구이지만 일반 형식의 QR 코드를 추가하는 것은 마케팅 자료에 대한 창의적인 작업을 제대로 수행하지 못합니다. 피</p>>
 
 <p>조금 움직이지 않으면 청중이 QR 코드가 잘 보이더라도 건너뛸 수 있습니다. 사용자가 QR 코드를 스캔하도록 하려면 클릭 유도문안(CTA)과 고유한 프레젠테이션이 필요한 경우가 많습니다.</p>
 
 <h2>QR 코드에 테두리와 캡션을 추가하는 이유는 무엇입니까?</h2>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - 템플릿.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - templates.png"
         alt="QR 코드 템플릿 - ScanMeFindMe">
 </p>
 
@@ -33,8 +33,8 @@ QR 코드 캡션으로 눈에 띄는 문구를 추가하는 방법을 알아보�
 
 <p><a href="#static:url">QR 코드 생성기의 무료 버전</a>에서도 템플릿의 캡션을 수정할 수 있습니다. 기본 <strong>"Scan me"</strong>를 <strong>"추가 정보"</strong>, <strong>"저희 메뉴"</strong>, Instagram 핸들 또는 전화번호로 변경합니다. 텍스트가 너무 길거나 너무 짧으면 글꼴 크기를 줄이거나 늘려서 보기 좋게 만들 수 있습니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr 코드 instagram.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
         alt="인스타그램 핸들용 QR 코드 - ScanMeFindMe">
 </p>
 
@@ -52,8 +52,8 @@ QR 코드 캡션으로 눈에 띄는 문구를 추가하는 방법을 알아보�
 
 <p>템플릿을 만드는 가장 빠른 방법은 라이브러리에서 템플릿을 복제하고 SVG 소스를 편집하는 것입니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - svg template.png 편집"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
         alt="QR 코드 템플릿 편집 - ScanMeFindMe">
 </p>
 

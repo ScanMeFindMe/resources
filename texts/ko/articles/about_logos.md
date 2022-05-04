@@ -28,8 +28,8 @@ QR 코드에 로고를 업로드하고 추가하십시오. 크기 및 위치 맞
 
 <h2>로고를 추가하면 QR 코드 스캔 가능성에 영향을 미칩니까?</h2>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - logo.png가 있는 qr 코드"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr code with logo.png"
         alt="QR 코드 로고 예시 - ScanMeFindMe">
 </p>
 
@@ -41,8 +41,8 @@ QR 코드에 로고를 업로드하고 추가하십시오. 크기 및 위치 맞
 
 <p>오류 수정 수준이 더 큰 QR 코드는 "매트릭스"가 더 큽니다. 다음은 낮음(L), 중간(M), 높음(H) 및 매우 높음(Q)의 네 가지 오류 수정 수준으로 인코딩된 동일한 URL입니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 2 - diff 매트릭스.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 2 - diff matrix.png"
         alt="오류 수정 수준이 다른 QR 코드 - ScanMeFindMe">
 </p>
 
@@ -56,8 +56,8 @@ QR 코드에 로고를 업로드하고 추가하십시오. 크기 및 위치 맞
 
 <p>비즈니스 로고를 업로드하고 미리보기 이미지를 선택하면 QR 코드에 자동으로 표시됩니다. 이것은 ScanMeFindMe에서 <a href="#about:product">동적 또는 정적 QR 코드</a>를 생성할 때 적용됩니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - logo.png 추가" width="600"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - adding logo.png" width="600"
         alt="QR 코드에 로고 추가 - ScanMeFindMe">
 </p>
 
@@ -65,8 +65,8 @@ QR 코드에 로고를 업로드하고 추가하십시오. 크기 및 위치 맞
 
 <p>ScanMeFindMe <a href="#static:url">QR 생성기</a>를 사용하면 QR 코드 중간에 로고를 배치할 수 있을 뿐만 아니라 일부 블록을 제거하거나 추가하여 로고를 더 정확하게 만들 수도 있습니다. QR 코드 매트릭스의 QR 코드의 스타일에 따라 로고의 모양과 스타일을 선택하고 QR 코드 중앙에서 다양한 유형의 렌더링 블록을 선택할 수 있습니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - qr.png의 중심"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - center of qr.png"
         alt="QR 코드의 로고 배치 예 - ScanMeFindMe">
 </p>
 

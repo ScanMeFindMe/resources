@@ -28,8 +28,8 @@
 
 <h3>총 스캔 수</h3>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - 총 스캔 수.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - total scans.png"
         alt="총 스캔 차트 - QR 코드 생성기 ScanMeFindMe">
 </p>
 
@@ -43,8 +43,8 @@
 
 <h3>월별 스캔</h3>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - 월별 스캔.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png"
         alt="월별 차트 스캔 - QR 코드 생성기 ScanMeFindMe">
 </p>
 
@@ -52,8 +52,8 @@
 
 <h3>시간별 스캔</h3>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - 시간별 스캔.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png"
         alt="시간별 차트 스캔 - QR 코드 생성기 ScanMeFindMe">
 </p>
 
@@ -61,8 +61,8 @@
 
 <h3>OS별 스캔</h3>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - OS.png로 스캔"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png"
         alt="OS 차트로 스캔 - QR 코드 생성기 ScanMeFindMe">
 </p>
 
@@ -70,8 +70,8 @@
 
 <h3>언어별 스캔</h3>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - lang.png로 스캔"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - scans by lang.png"
         alt="언어 차트로 스캔 - QR 코드 생성기 ScanMeFindMe">
 </p>
 
@@ -79,8 +79,8 @@
 
 <h3>국가 및 도시별 스캔</h3>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - 국가 및 도시별 스캔.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - scans by country and city.png"
         alt="국가 및 도시별 스캔 - QR 코드 생성기 ScanMeFindMe">
 </p>
 
@@ -90,8 +90,8 @@
 
 <h3>마지막 스캔</h3>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - 마지막 scans.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans.png"
         alt="마지막 스캔 목록 - QR 코드 생성기 ScanMeFindMe">
 </p>
 
@@ -101,15 +101,15 @@
 
 <p>모든 ScanMeFindMe PRO 사용자는 대시보드에 표시되는 통계에 액세스할 수 있습니다. 또한 각 동적 코드의 '통계' 버튼을 통해 차트와 표에 액세스할 수도 있습니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - 동적 코드-statistic.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - dynamic codes-statistic.png"
         alt="개별 QR 코드 통계 - ScanMeFindMe">
 </p>
 
 <p>마지막 스캔 테이블은 심층 분석에 사용할 수 있는 CSV(쉼표로 구분된 값) 형식으로 다운로드할 수 있습니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - 마지막 스캔 - CSV.png로 다운로드"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png"
         alt="스캔 통계 다운로드 - QR 코드 생성기 ScanMeFindMe">
 </p>
 

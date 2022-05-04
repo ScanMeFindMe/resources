@@ -84,7 +84,7 @@
     "generatedqr": "QR 코드",
     "hideadditional": "추가 매개변수 숨기기",
     "info": "정보",
-    "launchpro": "<p>PRO 계정을 만들고 14일 무료 체험을 시작하세요.</p><p>PRO를 시작하기 전에 <a href=\"#about:privacy\">개인정보 보호정책<을 읽어보십시오. /a> 및 <a href=\"#about:tos\">서비스 약관</a></p>",
+    "launchpro": "<p>PRO 계정을 만들고 14일 무료 체험을 시작하세요.</p><p>PRO를 시작하기 전에 <a href=\"#about:privacy\">개인정보 보호정책 을 읽어보십시오. </a> 및 <a href=\"#about:tos\">서비스 약관</a></p>",
     "loading": "로딩 중",
     "menu": "메뉴",
     "metadesc": "매력적인 QR 코드를 만들고 스타일을 선택하고 SVG, PNG, PDF 또는 PS로 다운로드하십시오. QR 코드 API, 분석을 스캔합니다. 사용하기 쉬운 온라인 QR 코드 생성기",
@@ -353,7 +353,7 @@
       "delete": "삭제",
       "duplicate": "복제하다",
       "edit": "편집하다",
-      "editfile": "{파일} 수정",
+      "editfile": "{file} 수정",
       "editname": "이름 수정",
       "editsvg": "SVG 소스 편집",
       "filenametoolong": "파일 이름이 너무 깁니다.",
@@ -434,7 +434,7 @@
       "support": "지원하다",
       "uploadedfiles": "업로드된 파일",
       "usageleft": "{n}% 남음",
-      "usageof": "{전체} 중 {중고}"
+      "usageof": "{used} 중 {total}"
     },
     "qrlist": {
       "addingto": "다음 QR 코드에 태그 추가:",

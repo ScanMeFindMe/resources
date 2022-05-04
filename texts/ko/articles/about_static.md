@@ -24,7 +24,7 @@ QR 코드는 웹사이트에 대한 링크일 뿐만 아니라 그들은 스마�
 
 <p>다음은 ScanMeFindMe의 URL이 인코딩된 QR 코드의 예입니다.</p>
 
-<p class="이미지홀더">
+<p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_static/files/img 1 - qr.png"
         alt="QR 코드 예, ScanMeFindMe">
 </p>
@@ -71,7 +71,7 @@ QR 코드는 웹사이트에 대한 링크일 뿐만 아니라 그들은 스마�
 
 <p>다음은 <a href="#static:url">QR 코드 생성기</a>를 사용하는 경우 QR 코드에 저장할 수 있는 목록입니다. </p>
 
-<울>
+<ul>
     <li><strong>URL</strong> - QR 코드에는 브라우저에서 실행할 수 있는 웹페이지 링크가 포함되어 있습니다.</li>
     <li><strong>전화</strong> - 전화번호가 QR 코드로 인코딩됩니다. 스캔하면 전화 앱이 실행되고 전화번호가 자동으로 미리 채워집니다.</li>
     <li><strong>SMS/ Whatsapp</strong> - QR 코드에 수신자의 전화번호를 저장합니다. 스캔 시 번호가 미리 채워져 있는 해당 문자 메시지 앱을 엽니다.</li>
@@ -93,8 +93,8 @@ QR 코드는 웹사이트에 대한 링크일 뿐만 아니라 그들은 스마�
 
 <h3>동적 QR 코드가 있는 짧은 URL</h3>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - 동적 QR.png가 있는 짧은 URL"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 2 - Short URL With Dynamic QR.png"
         alt="짧은 URL에 대한 QR 생성 - ScanMeFindMe">
 </p>
 
@@ -102,8 +102,8 @@ QR 코드는 웹사이트에 대한 링크일 뿐만 아니라 그들은 스마�
 
 <H3> 동적 QR 코드가 있는 연락처 카드</h3>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - 동적 QR.png가 있는 연락처 카드"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 3 - Contact Card With Dynamic QR.png"
         alt="동적 QR 코드가 있는 연락처 카드 - ScanMeFindMe">
 </p>
 
@@ -111,8 +111,8 @@ QR 코드는 웹사이트에 대한 링크일 뿐만 아니라 그들은 스마�
 
 <h3>동적 QR 코드가 있는 파일</h3>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - 동적 QR.png가 있는 파일이 있는 페이지"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 4 - A Page With Files With Dynamic QR.png"
         alt="파일이 있는 페이지에 대한 QR 코드 생성 - ScanMeFindMe">
 </p>
 
@@ -124,28 +124,28 @@ QR 코드는 웹사이트에 대한 링크일 뿐만 아니라 그들은 스마�
 
 <p>QR 코드를 다운로드해야 하는 경우 QR 다운로드 버튼을 클릭하면 여러 이미지 옵션과 고급 페이지 설정이 표시됩니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - qr code.png 다운로드"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 5 - download qr code.png"
         alt="생성된 QR 코드 다운로드 - ScanMeFindMe">
 </p>
 
 <p>대시보드에서 생성한 동적 코드를 보고, 정렬하고, 태그를 지정하고, 필터링하고, 검색할 수 있습니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - 동적 코드.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 6 - dynamic code.png"
         alt="생성된 QR 코드 관리 - ScanMeFindMe">
 </p>
 
 <p>동적 QR 코드가 효과적인 마케팅 도구인 이유 중 하나는 QR 코드를 누가 언제 어디서 스캔했는지 추적하는 기능입니다. 타겟팅 전략을 개선하고 더 많은 잠재 고객에게 도달하는 데 도움이 되는 통계, 차트 및 보고서에 액세스할 수 있습니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - 모든 통계.gif"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_static/files/img 7 - all statistics.gif"
         alt="QR 코드 스캔 통계 - ScanMeFindMe">
 </p>
 
 <p>결론은 ScanMeFindMe Pro가 다음과 같은 기능에 대한 독점적인 액세스를 제공한다는 것입니다.</p>
 
-<울>
+<ul>
     <li>동적 QR 코드를 생성합니다.</li>
     <li>자신만의 템플릿을 사용하세요.</li>
     <li>누가 언제 어디서 QR 코드를 스캔하는지 확인합니다.</li>

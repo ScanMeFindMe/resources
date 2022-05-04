@@ -12,7 +12,7 @@ QR 코드로 연락처 정보를 공유하는 것은 보다 친환경적이고 �
 
 <p>고객이 명함의 정보를 수동으로 저장하기를 기대한다면 브랜딩 전략을 재고해야 합니다. 대부분의 사람들은 종이 명함의 연락처 세부정보를 휴대폰에 저장해야 하는 번거롭고 반복적인 작업을 찾습니다.</p>
 
-<p>게다가 <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you- rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">명함의 88%</a>는 배포 후 일주일 이내에 버려집니다. ?</p>
+<p>게다가 <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">명함의 88%</a>는 배포 후 일주일 이내에 버려집니다. ?</p>
 
 <p>정말 어마어마한 수의 명함이 낭비되었습니다. 이는 많은 기업의 환경적 약속에 어긋날 뿐만 아니라 일부 고객이 약속했음에도 고객에게 연락하지 않는 이유를 설명합니다. </p>
 
@@ -38,8 +38,8 @@ QR 코드로 연락처 정보를 공유하는 것은 보다 친환경적이고 �
 
 <p><a href="#article:about_static">정적 QR 코드</a>는 정보를 직접 인코딩하여 저장할 수 있는 정보의 양을 제한합니다. 사진/로고 또는 소셜 미디어 핸들과 같은 추가 정보를 포함하려면 동적 QR 코드를 사용해야 합니다. </p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - 연락처 필드.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png"
         alt="연락처 카드 필드 - ScanMeFindMe">
 </p>
 
@@ -51,8 +51,8 @@ QR 코드로 연락처 정보를 공유하는 것은 보다 친환경적이고 �
 
 <p>연락처 세부정보를 QR 코드로 공유하려면 QR 코드를 생성해야 합니다. <a href="#pro">ScanMeFIndMe PRO 계정</a>을 사용하면 모든 개인 정보가 포함된 QR 코드를 쉽게 생성할 수 있습니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - 플로이드 마일 - qr.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - floyd miles - qr.png"
         alt="연락처 카드용 QR 코드 생성 - ScanMeFindMe">
 </p>
 

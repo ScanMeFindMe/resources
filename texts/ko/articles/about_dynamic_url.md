@@ -24,7 +24,7 @@ QR 코드로 짧은 URL을 생성하면 조회수 추적이 가능합니다. 마
 
 <p>예를 들어 다음은 짧은 URL입니다. <span class="font-italic">http://qrs.re/resources</span></p>
 
-<p class="이미지홀더">
+<p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 1 - qr.png"
         alt="짧은 URL용 QR 코드의 예 - ScanMeFindMe">
 </p>
@@ -39,10 +39,10 @@ QR 코드로 짧은 URL을 생성하면 조회수 추적이 가능합니다. 마
 
 <p><a href="#pro">PRO QR 생성기</a>로 동적 QR 코드를 생성하면 추적 도구에 자동으로 연결됩니다.</p>
 
-<p>사용자가 QR 코드를 스캔하고 대상 웹페이지로 리디렉션되면 <a href="#static:url">ScanMeFindMe</a>가 기기에서 주요 측정항목을 추적하여 대시보드에 저장합니다.</p >
+<p>사용자가 QR 코드를 스캔하고 대상 웹페이지로 리디렉션되면 <a href="#static:url">ScanMeFindMe</a>가 기기에서 주요 측정항목을 추적하여 대시보드에 저장합니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - 총 스캔 수.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - total scans.png"
         alt="QR 코드 스캔 통계의 예 - ScanMeFindMe">
 </p>
 
@@ -52,8 +52,8 @@ QR 코드로 짧은 URL을 생성하면 조회수 추적이 가능합니다. 마
 
 <p>차트는 마케터가 캠페인을 미세 조정하여 전환 및 판매를 늘리는 데 도움이 됩니다. 예를 들어, 온라인 소매업체는 최대 트래픽이 예상되는 시간에 타겟 프로모션을 실행할 수 있습니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - .png로 스캔"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - scans by.png"
         alt="QR 코드 스캔 통계의 예 - ScanMeFindMe">
 </p>
 

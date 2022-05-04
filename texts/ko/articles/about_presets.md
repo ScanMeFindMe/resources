@@ -34,15 +34,15 @@
 
 <p><a href="#pro">ScanMeFindMe PRO</a>를 사용하는 경우 QR 코드에서 QR 코드를 만들거나 편집하는 동안 '새 사전 설정 만들기' 버튼을 사용하여 사전 설정을 만들 수 있습니다. 발전기. <a href="#about:api" title="QR code API">API</a>에서 더 쉽게 사용할 수 있도록 사전 설정의 이름을 선택할 수 있습니다.</p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 1 - 사전 설정.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 1 - Presets.png"
         alt="QR 코드 편집기에서 사전 설정 만들기">
 </p>
 
 <p>또는 라이브러리에 있는 기존 사전 설정을 복제하고 사용자 정의할 수 있습니다. </p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - 사전 설정.png 사용자 정의"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
         alt="시스템을 복사하여 사전 설정 만들기">
 </p>
 

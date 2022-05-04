@@ -22,8 +22,8 @@ QR 코드로 파일을 공유하여 정보 액세스를 통합하고 단순화�
 
 <p>대신 파일이 웹 페이지에 업로드되고 단축 URL이 생성되어 QR 코드에 저장됩니다. 사용자가 코드를 스캔하면 파일을 다운로드할 수 있는 웹페이지로 리디렉션됩니다. </p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - 미리보기 파일.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 1 - preview files.png"
         alt="파일이 있는 페이지 미리보기 - ScanMeFindMe">
 </p>
 
@@ -63,8 +63,8 @@ QR 코드로 파일을 공유하여 정보 액세스를 통합하고 단순화�
 
 <p>우리의 파일 공유 QR 코드 생성기는 제목, 로고 및 설명으로 웹페이지를 개인화할 수 있는 직관적인 인터페이스를 가지고 있습니다. 파일이 웹 페이지에 표시되는 방식을 선택할 수도 있습니다. </p>
 
-<p class="이미지홀더">
-    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - 파일이 표시되는 방식.png"
+<p class="imageholder">
+    <img src="https://media.scanmefindme.com/blog/about_dynamic_page/files/img 2 - how files are displayed.png"
         alt="파일이 있는 페이지 생성기 미리보기 - ScanMeFindMe">
 </p>
 
