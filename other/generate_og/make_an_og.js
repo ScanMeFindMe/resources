@@ -7,6 +7,7 @@ const getTextX = () => {
     if (isArticle() || isStatic()) return (isArticle() ? 673 : 380) + (isRTL() ? getMaxTextWidth() : 0)
     return 340 + 770/2
 }
+const getQRTextX = () => /*(isRTL() && isArticle()) ? 968+68 : */getTextX()
 const baseImage = () => document.getElementById((isArticle() ? "articlebase" : (isStatic() ? "staticbase" : "mainbase")) + (isRTL() ? "rtl" : ""))
 const getCtx = () =>  document.getElementById("maincanvas").getContext("2d")
 const setTextFont = (fontsize, weight = 500, fill = "#000000", align = "start") => {
@@ -15,7 +16,7 @@ const setTextFont = (fontsize, weight = 500, fill = "#000000", align = "start") 
     getCtx().textAlign = align;
 }
 const setQRTextFont = () => {
-    if (isArticle() || isStatic()) setTextFont(isArticle() ? 25 : 32, 700, "#03949A")
+    if (isArticle() || isStatic()) setTextFont(isArticle() ? 25 : 32, 700, "#03949A", /*isRTL() ? "center" :*/ "start")
     else {
         for (var fz = 80; fz >= 40; fz--) {
             setTextFont(fz, 600, "#000000", "center")
@@ -45,7 +46,7 @@ function draw() {
       (document.getElementById('caption').value).split(/\r?\n/).map((line, i) => ctx.fillText(line, getTextX(), positions[i]))
   }
   setQRTextFont()
-  ctx.fillText(document.getElementById('qrcodegenerator').value, getTextX(), getQRTextY());
+  ctx.fillText(document.getElementById('qrcodegenerator').value, getQRTextX(), getQRTextY());
   if (isArticle()) {
       addImage(ctx, document.getElementById('logoimage').src)
   }
