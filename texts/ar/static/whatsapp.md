@@ -1,4 +1,4 @@
-<h1>[ال WhatsApp] قم بإنشاء رمز QR لبدء محادثة WhatsApp</h1>
+<h1>[WhatsApp] قم بإنشاء رمز QR لبدء محادثة WhatsApp</h1>
 
 --- Text below the form ---
 
@@ -6,6 +6,6 @@
 
 --- Text above the form ---
 
-<p class="hint smfm-hint"> أدخل رقم هاتف بالتنسيق الدولي ، مع "+" ورمز البلد. </p>
+<p class="hint smfm-hint"> أدخل رقم هاتف بالتنسيق الدولي ، مع "+" و رمز البلد. </p>
 
 ----------
