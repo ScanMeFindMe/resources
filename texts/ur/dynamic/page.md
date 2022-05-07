@@ -1,10 +1,10 @@
-<h1>[Create a page with files] Create a QR code for Page with files</h1>
+<h1>[فائلوں کے ساتھ ایک صفحہ بنائیں] فائلوں کے ساتھ صفحہ کے لیے ایک QR کوڈ بنائیں</h1>
 
 --- Example header ---
 
-Page with files example
+فائلوں کی مثال کے ساتھ صفحہ
 
 ----------
 
 <img src="https://media.scanmefindme.com/dynamic/page/page-with-files-popup.png" width="100%" height="auto"
-    alt="Page with files example - ScanMeFindMe">
+    alt="فائلوں کی مثال کے ساتھ صفحہ - ScanMeFindMe">

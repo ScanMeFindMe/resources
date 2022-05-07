@@ -1,10 +1,10 @@
-<h1>[Create a contact card] Create a QR code for a Contact card</h1>
+<h1>[رابطہ کارڈ بنائیں] رابطہ کارڈ کے لیے ایک QR کوڈ بنائیں</h1>
 
 --- Example header ---
 
-Contact card example
+رابطہ کارڈ کی مثال
 
 ----------
 
 <img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width="100%" height="auto"
-    alt="Contact card example - ScanMeFindMe">
+    alt="رابطہ کارڈ کی مثال - ScanMeFindMe">

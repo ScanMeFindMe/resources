@@ -1,54 +1,53 @@
-<h1>Save time by creating presets for your QR codes</h1>
+<h1>اپنے QR کوڈز کے لیے presets بنا کر وقت کی بچت کریں۔</h1>
 
 --- Abstract / Meta description ---
 
-Maximize efficiency when personalizing your QR codes with presets. Save your choices and reuse them any time you want.
+اپنے QR کوڈز کو پیش سیٹ کے ساتھ ذاتی بناتے وقت کارکردگی کو زیادہ سے زیادہ کریں۔ اپنی پسند کو محفوظ کریں اور جب چاہیں دوبارہ استعمال کریں۔
 
 --- Short content 1 ---
 
-Choose a pre-designed preset or create one with selected style, colors, templates, and logo. Reuse them easily when generating QR codes.
+پہلے سے ڈیزائن کردہ پیش سیٹ کا انتخاب کریں یا منتخب طرز، رنگ، ٹیمپلیٹس اور لوگو کے ساتھ ایک بنائیں۔ QR کوڈز تیار کرتے وقت انہیں آسانی سے دوبارہ استعمال کریں۔
 
 ----------
 
-<p>Having a personalized QR code that captures customer's attention helps in getting more engagement. With fun colors, a catchy caption, and a logo, you'll have a QR code that resonates with your brand value.</p>
+<p>ایک ذاتی نوعیت کا QR کوڈ ہونا جو گاہک کی توجہ حاصل کرتا ہے زیادہ مشغولیت حاصل کرنے میں مدد کرتا ہے۔ تفریحی رنگوں، ایک دلکش کیپشن اور لوگو کے ساتھ، آپ کے پاس ایک QR کوڈ ہوگا جو آپ کی برانڈ ویلیو کے مطابق ہوگا۔</p>
 
-<p>Customizing QR codes can be a fun process, but it can be equally taxing if you do it every time you need to generate a QR code. </p>
+<p>کیو آر کوڈز کو حسب ضرورت بنانا ایک پرلطف عمل ہو سکتا ہے، لیکن اگر آپ اسے ہر بار جب آپ کو ایک QR کوڈ بنانے کی ضرورت ہو تو یہ اتنا ہی ٹیکس لگ سکتا ہے۔</p>
 
-<p>This is where you'll want to create presets, a feature exclusive to ScanMeFindMe PRO users.</p>
+<p>یہ وہ جگہ ہے جہاں آپ presets بنانا چاہیں گے، ایک خصوصیت ScanMeFindMe PRO صارفین کے لیے خصوصی ہے۔</p>
 
-<h2>What Are Presets And Why Do You Need Them?</h2>
+<h2>presets کیا ہیں اور آپ کو ان کی ضرورت کیوں ہے؟</h2>
 
-<p>Presets are a memory of customization you've selected or created for a particular QR code. When you're using ScanMeFindMe PRO, you get to personalize the QR code with styles, colors, <a href="#article:about_templates">templates</a>, and <a href="#article:about_logos">logos</a>.</p>
+<p>پیش سیٹ حسب ضرورت کی ایک یادداشت ہے جسے آپ نے کسی مخصوص QR کوڈ کے لیے منتخب یا تخلیق کیا ہے۔ جب آپ ScanMeFindMe PRO استعمال کر رہے ہوتے ہیں، تو آپ کو QR کوڈ کو سٹائل، رنگوں، <a href="#article:about_templates">ٹیمپلیٹس</a> اور <a href="#article:about_logos">لوگو</a> کے ساتھ ذاتی بنانا ہوتا ہے۔</p>
 
-<p>These selections can be saved as a preset where they can automatically be selected and applied to a new QR code. Technically, a preset contains information on the particular choices of styles, templates, logos, and colors. Presets are valid as long as the individual elements are not renamed or deleted. </p>
+<p>ان انتخابوں کو ایک پیش سیٹ کے طور پر محفوظ کیا جا سکتا ہے جہاں انہیں خود بخود منتخب کیا جا سکتا ہے اور نئے QR کوڈ پر لاگو کیا جا سکتا ہے۔ تکنیکی طور پر، ایک پیش سیٹ میں شیلیوں، ٹیمپلیٹس، لوگو اور رنگوں کے مخصوص انتخاب کے بارے میں معلومات ہوتی ہیں۔ پیش سیٹ اس وقت تک درست ہیں جب تک کہ انفرادی عناصر کا نام تبدیل یا حذف نہ کیا جائے۔</p>
 
-<p>Here's how you can use presets to save setup time when creating a QR code. </p>
+<p>یہ ہے کہ آپ QR کوڈ بناتے وقت سیٹ اپ کا وقت بچانے کے لیے کس طرح presets کا استعمال کر سکتے ہیں۔</p>
 
-<p>You're releasing a series of yoga tutorial videos, and you're <a href="#article:about_static">encoding the links in QR codes.</a> If you're going to personalize the QR code for each episode, you'll need to manually choose the colors, logo, templates, and style.</p>
+<p>آپ یوگا ٹیوٹوریل ویڈیوز کی ایک سیریز جاری کر رہے ہیں، اور آپ <a href="#article:about_static">QR کوڈز میں لنکس کو انکوڈنگ کر رہے ہیں۔</a> اگر آپ ہر ایپی سوڈ کے لیے QR کوڈ کو ذاتی بنانے جا رہے ہیں، تو آپ کو دستی طور پر رنگ، لوگو، ٹیمپلیٹس اور طرز کا انتخاب کرنا ہوگا۔</p>
 
-<p>It's easy to make a mistake, which results in some QR codes looking out of place. Also, you're wasting time repeating a process that can be automated. </p>
+<p>غلطی کرنا آسان ہے، جس کے نتیجے میں کچھ QR کوڈز جگہ سے باہر نظر آتے ہیں۔ اس کے علاوہ، آپ ایک ایسے عمل کو دہرانے میں وقت ضائع کر رہے ہیں جو خودکار ہو سکتا ہے۔</p>
 
-<p>By saving your choices as a preset, you can reuse the style elements by just loading the same preset when generating the QR code for each episode. </p>
+<p>اپنے انتخاب کو پیش سیٹ کے طور پر محفوظ کر کے، آپ ہر ایپی سوڈ کے لیے QR کوڈ تیار کرتے وقت صرف وہی پیش سیٹ لوڈ کر کے طرز کے عناصر کو دوبارہ استعمال کر سکتے ہیں۔</p>
 
-<h2>How To Create And Save Presets for QR codes</h2>
+<h2>کیو آر کوڈز کے لیے پیش سیٹ کیسے بنائیں اور محفوظ کریں۔</h2>
 
-<p>If you're using <a href="#pro">ScanMeFindMe PRO</a>, you can create a preset with the 'Create a new preset' button while you create or edit any QR code in the QR code generator. You can choose a name for your preset so it is easier to use in the <a href="#about:api" title="QR code API">API</a>.</p>
+<p>اگر آپ <a href="#pro">ScanMeFindMe PRO</a> استعمال کر رہے ہیں، تو آپ QR کوڈ جنریٹر میں کسی بھی QR کوڈ کو تخلیق یا ترمیم کرتے وقت &#39;ایک نیا پیش سیٹ بنائیں&#39; بٹن کے ساتھ ایک پیش سیٹ بنا سکتے ہیں۔ آپ اپنے پیش سیٹ کے لیے ایک نام منتخب کر سکتے ہیں تاکہ <a href="#about:api" title="QR کوڈ API">API</a> میں استعمال کرنا آسان ہو۔</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 1 - Presets.png"
-        alt="Creating a preset from the QR code editor">
+        alt="QR کوڈ ایڈیٹر سے ایک پیش سیٹ بنانا">
 </p>
 
-<p>Alternatively, you can duplicate an existing preset in the library and customize it. </p>
+<p>متبادل طور پر، آپ لائبریری میں موجودہ پیش سیٹ کو نقل کر سکتے ہیں اور اسے اپنی مرضی کے مطابق بنا سکتے ہیں۔</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
-        alt="Creating a preset by copying a system one">
+        alt="ایک سسٹم کو کاپی کرکے ایک پیش سیٹ بنانا">
 </p>
 
-<p>Once you're done, the customized preset will appear alongside other pre-installed presets on the selection panel. </p>
+<p>ایک بار جب آپ کام کر لیں گے، حسب ضرورت پیش سیٹ انتخابی پینل پر پہلے سے نصب کردہ دیگر سیٹوں کے ساتھ ظاہر ہوگا۔</p>
 
-<p>Selecting a preset will automatically regenerate the QR code with the selected style and design elements. If you're using our <a href="#static:url">QR code generator</a> from the API, you can invoke the presets by specifying their names.</p>
+<p>ایک پیش سیٹ کو منتخب کرنے سے QR کوڈ خود بخود منتخب طرز اور ڈیزائن عناصر کے ساتھ دوبارہ تیار ہو جائے گا۔ اگر آپ API سے ہمارا <a href="#static:url">QR کوڈ جنریٹر</a> استعمال کر رہے ہیں، تو آپ presets کو ان کے نام بتا کر استعمال کر سکتے ہیں۔</p>
 
-<p>Stop re-styling your QR code each time you generate one. Try <a href="#pro">ScanMeFindMe PRO</a> and use presets instead. </p>
-
+<p>ہر بار جب آپ اپنا QR کوڈ بنائیں تو دوبارہ اسٹائل کرنا بند کریں۔ <a href="#pro">ScanMeFindMe PRO</a> کو آزمائیں اور اس کے بجائے پری سیٹ استعمال کریں۔</p>

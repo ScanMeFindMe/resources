@@ -1,72 +1,72 @@
-<h1>How to add borders and captions to the QR codes</h1>
+<h1>کیو آر کوڈز میں بارڈرز اور کیپشنز کیسے شامل کریں۔</h1>
 
 --- Abstract / Meta description ---
 
-Learn how to add borders and captions that make your QR code unique. Style your QR code with a catchy call-to-actions to boost conversion.
+آپ کے QR کوڈ کو منفرد بنانے والے بارڈرز اور کیپشنز شامل کرنے کا طریقہ سیکھیں۔ تبادلوں کو فروغ دینے کے لیے اپنے QR کوڈ کو دلکش کال ٹو ایکشن کے ساتھ اسٹائل کریں۔
 
 --- Short content 1 ---
 
-Learn how to add catchy phrases with QR codes captions. Choose from pre-defined templates or create your own with a PRO account.
+QR کوڈ کیپشن کے ساتھ دلکش جملے شامل کرنے کا طریقہ سیکھیں۔ پہلے سے طے شدہ ٹیمپلیٹس میں سے انتخاب کریں یا پی آر او اکاؤنٹ کے ساتھ اپنا بنائیں۔
 
 ----------
 
-<p>For marketers, everything comes out to conversion. If you have a brilliant ad designed, it's for nothing if the audience doesn't reach out in one way or another.</p>
+<p>مارکیٹرز کے لیے، ہر چیز تبادلوں کے لیے سامنے آتی ہے۔ اگر آپ کے پاس ایک شاندار اشتہار ڈیزائن کیا گیا ہے، تو یہ بے کار ہے اگر سامعین کسی نہ کسی طریقے سے ان تک نہیں پہنچتے ہیں۔</p>
 
-<p><a href="#static:url">QR codes</a> are a useful marketing tool, but adding a plain-format QR code doesn't do justice to the creative works done on marketing materials.</p>
+<p><a href="#static:url">QR کوڈز</a> ایک کارآمد مارکیٹنگ ٹول ہیں، لیکن سادہ فارمیٹ والے QR کوڈ کا اضافہ مارکیٹنگ کے مواد پر کیے گئے تخلیقی کاموں کے ساتھ انصاف نہیں کرتا۔</p>
 
-<p>Without a little nudge, the audience may skip over the QR code, even when it's in plain sight. Often, a call-to-action (CTA) and a unique presentation are what it takes to get users to scan the QR code.</p>
+<p>تھوڑا سا جھٹکے کے بغیر، سامعین QR کوڈ کو چھوڑ سکتے ہیں، یہاں تک کہ جب یہ صاف نظر میں ہو۔ اکثر، ایک کال ٹو ایکشن (CTA) اور ایک منفرد پیشکش وہی ہوتی ہے جو صارفین کو QR کوڈ اسکین کرنے کے لیے لیتی ہے۔</p>
 
-<h2>Why Add Borders And Captions To QR Codes?</h2>
+<h2>کیو آر کوڈز میں بارڈرز اور کیپشن کیوں شامل کریں؟</h2>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - templates.png"
-        alt="QR code templates - ScanMeFindMe">
+        alt="QR کوڈ ٹیمپلیٹس - ScanMeFindMe">
 </p>
 
-<p>Instead of sticking with the default format, you'll want to add a 'Scan Me' text along with the QR code. People may have developed 'QR code blindness' when seeing so many of them in their daily lives. </p>
+<p>پہلے سے طے شدہ فارمیٹ پر قائم رہنے کے بجائے، آپ QR کوڈ کے ساتھ ایک &#39;Scan Me&#39; متن شامل کرنا چاہیں گے۔ لوگوں نے اپنی روزمرہ کی زندگی میں ان میں سے بہت سے لوگوں کو دیکھ کر &#39;QR کوڈ اندھا پن&#39; پیدا کیا ہو گا۔</p>
 
-<p>However, a 'Scan Me' text and a unique border draw their attention to the QR code. The CTA leaves no doubt on what the audience should do next: scan the QR code. </p>
+<p>تاہم، ایک &#39;Scan Me&#39; متن اور ایک منفرد بارڈر ان کی توجہ QR کوڈ کی طرف مبذول کراتے ہیں۔ CTA اس میں کوئی شک نہیں چھوڑتا کہ سامعین کو آگے کیا کرنا چاہیے: QR کوڈ اسکین کریں۔</p>
 
-<p>You can also add text that previews what's on the other side of the QR code. For example, an 'App Store' text tells the users that they're about to be redirected to your app on Apple App Store. Or a simple 'Menu' to get users to check out what's offered by your restaurant.</p>
+<p>آپ متن بھی شامل کر سکتے ہیں جو QR کوڈ کے دوسری طرف موجود چیزوں کا پیش نظارہ کرتا ہے۔ مثال کے طور پر، ایک &#39;App Store&#39; متن صارفین کو بتاتا ہے کہ وہ Apple App Store پر آپ کی ایپ پر ری ڈائریکٹ ہونے والے ہیں۔ یا ایک سادہ &#39;مینو&#39; استعمال کرنے والوں کو یہ معلوم کرنے کے لیے کہ آپ کے ریستوراں کی طرف سے کیا پیش کیا جاتا ہے۔</p>
 
-<p>The idea is, you'll want to instill trust and remove any uncertainties with QR codes. Customers like to have an idea of what they're getting into before they scan the QR. With the right borders and captions, you can do precisely that and increase conversions.</p>
+<p>خیال یہ ہے کہ، آپ QR کوڈز کے ساتھ اعتماد پیدا کرنا اور کسی بھی غیر یقینی صورتحال کو دور کرنا چاہیں گے۔ صارفین QR اسکین کرنے سے پہلے اس بات کا اندازہ لگانا چاہتے ہیں کہ وہ کیا حاصل کر رہے ہیں۔ صحیح بارڈرز اور کیپشنز کے ساتھ، آپ ٹھیک ٹھیک ایسا کر سکتے ہیں اور تبادلوں کو بڑھا سکتے ہیں۔</p>
 
-<p>Even in the <a href="#static:url">Free version of QR code generator</a> you can modify the captions on the templates. Change the default <strong>"Scan me"</strong> to <strong>"More info"</strong>, <strong>"Our menu"</strong>, your instagram handle or a phone number. If your text is too long or too short, you can descrease or increase the font size to make it look better.</p>
+<p><a href="#static:url">QR کوڈ جنریٹر کے مفت ورژن</a> میں بھی آپ ٹیمپلیٹس پر کیپشنز میں ترمیم کر سکتے ہیں۔ پہلے سے طے شدہ <strong>&quot;مجھے اسکین کریں&quot;</strong> کو <strong>&quot;مزید معلومات&quot;</strong> ، <strong>&quot;ہمارا مینو&quot;</strong> ، اپنے انسٹاگرام ہینڈل یا فون نمبر میں تبدیل کریں۔ اگر آپ کا متن بہت لمبا یا بہت چھوٹا ہے، تو آپ اسے بہتر بنانے کے لیے فونٹ کا سائز کم یا بڑھا سکتے ہیں۔</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
-        alt="QR code for instagram handle - ScanMeFindMe">
+        alt="انسٹاگرام ہینڈل کے لیے QR کوڈ - ScanMeFindMe">
 </p>
 
-<p>Personalizing your QR codes with templates not only helps with marketing but also prevents confusion when you're sorting them out. Imagine you're about to print dozens of QR codes in different materials, and you'll need to scan them for verification manually. By having captions and borders, you'll know what they are meant for just by their visual appearance.</p>
+<p>ٹیمپلیٹس کے ساتھ اپنے QR کوڈز کو ذاتی بنانے سے نہ صرف مارکیٹنگ میں مدد ملتی ہے بلکہ جب آپ انہیں ترتیب دے رہے ہوتے ہیں تو الجھن کو بھی روکتا ہے۔ تصور کریں کہ آپ درجنوں QR کوڈز کو مختلف مواد میں پرنٹ کرنے والے ہیں، اور آپ کو تصدیق کے لیے انہیں دستی طور پر اسکین کرنے کی ضرورت ہوگی۔ کیپشنز اور بارڈرز رکھنے سے، آپ کو معلوم ہو جائے گا کہ وہ صرف ان کی بصری ظاہری شکل سے کیا مراد ہیں۔</p>
 
-<h2>How To Create Your Own Templates</h2>
+<h2>اپنے ٹیمپلیٹس کیسے بنائیں</h2>
 
-<p>When you're using <a href="#pro">ScanMeFindMe PRO</a>, you have access to a set of pre-designed templates. However, you can also design your own templates, upload them and personalize the <a href="#static:url">QR code generated on our platform</a>.</p>
+<p>جب آپ <a href="#pro">ScanMeFindMe PRO</a> استعمال کر رہے ہوتے ہیں، تو آپ کو پہلے سے ڈیزائن کردہ ٹیمپلیٹس کے سیٹ تک رسائی حاصل ہوتی ہے۔ تاہم، آپ اپنی ٹیمپلیٹس خود بھی ڈیزائن کر سکتے ہیں، انہیں اپ لوڈ کر سکتے ہیں اور <a href="#static:url">ہمارے پلیٹ فارم پر تیار کردہ QR کوڈ</a> کو ذاتی بنا سکتے ہیں۔</p>
 
-<p>Not only that, you can also <a href="#article:about_presets">create presets</a> that include your choice of templates to save time in the future. </p>
+<p>صرف یہی نہیں، آپ ایسے <a href="#article:about_presets">پیش سیٹ بھی بنا</a> سکتے ہیں جن میں آپ کی پسند کی ٹیمپلیٹس شامل ہوں تاکہ مستقبل میں وقت بچ سکے۔</p>
 
-<p>Now, how do you create your own templates?</p>
+<p>اب، آپ اپنی ٹیمپلیٹس کیسے بناتے ہیں؟</p>
 
-<p>The templates are image files in the SVG format. An SVG image is an XML file containing tags representing different elements. Web browsers use the information from the file to render the image at any resolution. You can create an SVG file via graphic design software like Adobe Illustrator or use a JPEG/PNG to SVG converter.</p>
+<p>ٹیمپلیٹس SVG فارمیٹ میں تصویری فائلیں ہیں۔ ایک SVG تصویر ایک XML فائل ہے جس میں مختلف عناصر کی نمائندگی کرنے والے ٹیگ ہوتے ہیں۔ ویب براؤزر کسی بھی ریزولوشن میں تصویر کو رینڈر کرنے کے لیے فائل سے معلومات کا استعمال کرتے ہیں۔ آپ Adobe Illustrator جیسے گرافک ڈیزائن سافٹ ویئر کے ذریعے SVG فائل بنا سکتے ہیں یا JPEG/PNG سے SVG کنورٹر استعمال کر سکتے ہیں۔</p>
 
-<p>The quickest way to create a template is to duplicate one from the library and edit the SVG source.</p>
+<p>ٹیمپلیٹ بنانے کا تیز ترین طریقہ یہ ہے کہ لائبریری سے ایک کو ڈپلیکیٹ کریں اور SVG سورس میں ترمیم کریں۔</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
-        alt="Editing QR code template - ScanMeFindMe">
+        alt="QR کوڈ ٹیمپلیٹ میں ترمیم کرنا - ScanMeFindMe">
 </p>
 
-<p>For a template to work on ScanMeFindMe, it must have a <strong class="notranslate">&lt;rect&gt;</strong> element with <strong class="notranslate">id="qr"</strong>, which will be substituted with the QR code when it is generated.</p>
+<p>ScanMeFindMe پر کسی ٹیمپلیٹ کے کام کرنے کے لیے، اس میں <strong class="notranslate">id=&quot;qr&quot;</strong> کے ساتھ ایک <strong class="notranslate">&lt;rect&gt;</strong> عنصر ہونا ضروری ہے، جسے تیار ہونے پر QR کوڈ کے ساتھ بدل دیا جائے گا۔</p>
 
-<p>You can also include <strong class="notranslate">&lt;text&gt;</strong> elements, if those elements have an <strong class="notranslate">id</strong> attribute, they will become captions that you can modify for each QR code that uses this template. Additionally, if such <span class="notranslate">&lt;text&gt;</span> elements contain the <strong class="notranslate">font-size</strong> attribute, you'll be able to change the font size for each QR code using the same template.</p>
+<p>آپ <strong class="notranslate">&lt;text&gt;</strong> عناصر کو بھی شامل کر سکتے ہیں، اگر ان عناصر میں <strong class="notranslate">id</strong> انتساب ہے، تو وہ سرخیاں بن جائیں گے جنہیں آپ اس ٹیمپلیٹ کو استعمال کرنے والے ہر QR کوڈ کے لیے ترمیم کر سکتے ہیں۔ مزید برآں، اگر ایسے <span class="notranslate">&lt;text&gt;</span> عناصر میں <strong class="notranslate">font-size</strong> وصف ہے، تو آپ ایک ہی ٹیمپلیٹ کا استعمال کرتے ہوئے ہر QR کوڈ کے لیے فونٹ کا سائز تبدیل کر سکیں گے۔</p>
 
-<p>Beware of some limitations! ScanMeFindMe uses the <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> library to convert generated QR codes to PNG, PDF and PS formats. Some complicated SVG elements may not be converted correctly. For security reasons @include directive is ignored during conversion, so you can not include any external URLs (with the exception of the fonts that we installed on our server).</p>
+<p>کچھ حدود سے بچو! ScanMeFindMe تیار کردہ QR کوڈز کو PNG، PDF اور PS فارمیٹس میں تبدیل کرنے کے لیے <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> لائبریری کا استعمال کرتا ہے۔ کچھ پیچیدہ SVG عناصر درست طریقے سے تبدیل نہیں ہوسکتے ہیں۔ حفاظتی وجوہات کی بنا پر تبادلوں کے دوران @include ہدایت کو نظر انداز کر دیا جاتا ہے، اس لیے آپ کوئی بھی بیرونی URLs شامل نہیں کر سکتے (ان فونٹس کے استثناء کے ساتھ جو ہم نے اپنے سرور پر انسٹال کیے ہیں)۔</p>
 
-<h2>What Fonts Are Supported? </h2>
+<h2>کن فونٹس کی حمایت کی جاتی ہے؟</h2>
 
-<p>Rather than going into an endless serif vs. san serif argument, we let you decide what's the best with several commonly-used fonts. You can find the fonts that are pre-installed on the server in our Github repository: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
+<p>لامتناہی سیرف بمقابلہ سان سیرف دلیل میں جانے کے بجائے، ہم آپ کو یہ فیصلہ کرنے دیتے ہیں کہ عام طور پر استعمال ہونے والے فونٹس کے ساتھ سب سے بہتر کیا ہے۔ آپ ہمارے گیتھب ریپوزٹری میں سرور پر پہلے سے انسٹال کردہ فونٹس تلاش کر سکتے ہیں: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
 
-<p>If you feel we're missing out on an interesting font for fellow marketers, you can submit a pull request. Generally, we prefer fonts that support multiple languages.</p>
+<p>اگر آپ محسوس کرتے ہیں کہ ہم ساتھی مارکیٹرز کے لیے ایک دلچسپ فونٹ سے محروم ہیں، تو آپ پل کی درخواست جمع کر سکتے ہیں۔ عام طور پر، ہم ایسے فونٹس کو ترجیح دیتے ہیں جو متعدد زبانوں کو سپورٹ کرتے ہوں۔</p>
 
-<p>Start uploading your own templates with a <a href="#pro">ScanMeFindMe PRO account</a> now.</p>
+<p>ابھی <a href="#pro">ScanMeFindMe PRO اکاؤنٹ</a> کے ساتھ اپنی ٹیمپلیٹس اپ لوڈ کرنا شروع کریں۔</p>

@@ -1,63 +1,63 @@
-<h1>Using QR codes to share contact details</h1>
+<h1>رابطے کی تفصیلات کا اشتراک کرنے کے لیے QR کوڈز کا استعمال</h1>
 
 --- Abstract / Meta description ---
 
-Sharing contact details with QR codes is a greener and more efficient branding strategy. Learn how you could easily create and share digital contacts with QR codes.
+QR کوڈز کے ساتھ رابطے کی تفصیلات کا اشتراک ایک سبز اور زیادہ موثر برانڈنگ حکمت عملی ہے۔ جانیں کہ آپ QR کوڈز کے ساتھ آسانی سے ڈیجیٹل رابطے کیسے بنا سکتے ہیں اور ان کا اشتراک کر سکتے ہیں۔
 
 --- Short content 1 ---
 
-Store personal contact information, social media handles, and photo/logo with a sharable QR code. Track how often it is scanned.
+ذاتی رابطہ کی معلومات، سوشل میڈیا ہینڈلز، اور تصویر/لوگو کو قابل اشتراک QR کوڈ کے ساتھ اسٹور کریں۔ ٹریک کریں کہ اسے کتنی بار اسکین کیا جاتا ہے۔
 
 ----------
 
-<p>If you expect customers to manually store your information from business cards, you need to rethink your branding strategy. Most people find having to save the contact details from a paper business card onto a mobile phone annoying and repetitive.</p>
+<p>اگر آپ توقع کرتے ہیں کہ کسٹمرز آپ کی معلومات کو بزنس کارڈز سے دستی طور پر اسٹور کریں گے، تو آپ کو اپنی برانڈنگ کی حکمت عملی پر دوبارہ غور کرنے کی ضرورت ہے۔ زیادہ تر لوگوں کو لگتا ہے کہ رابطے کی تفصیلات کاغذی بزنس کارڈ سے موبائل فون پر محفوظ کرنا پریشان کن اور بار بار ہوتا ہے۔</p>
 
-<p>Besides, did you know that <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% of business cards</a> are thrown off within a week after they are handed out?</p>
+<p>اس کے علاوہ، کیا آپ جانتے ہیں کہ <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% بزنس کارڈز</a> ان کے حوالے کیے جانے کے ایک ہفتے کے اندر اندر پھینک دیے جاتے ہیں؟</p>
 
-<p>That's a staggering number of business cards gone to waste. Not only does it go against many companies' environmental commitment, but it also explains why some clients never reach out to you even when they promised to. </p>
+<p>بزنس کارڈز کی یہ ایک حیران کن تعداد ہے جو ضائع ہو گئی۔ یہ نہ صرف بہت سی کمپنیوں کی ماحولیاتی وابستگی کے خلاف ہے، بلکہ یہ یہ بھی بتاتا ہے کہ کیوں کچھ کلائنٹس آپ تک کبھی نہیں پہنچتے یہاں تک کہ وہ وعدہ کرتے ہیں۔</p>
 
-<p>Nowadays, more and more business cards have a QR code printed on them, allowing people to easily save the contacts onto smartphones. This should be part of your strategy. </p>
+<p>آج کل، زیادہ سے زیادہ بزنس کارڈز پر QR کوڈ پرنٹ ہوتا ہے، جس سے لوگ آسانی سے رابطوں کو سمارٹ فونز پر محفوظ کر سکتے ہیں۔ یہ آپ کی حکمت عملی کا حصہ ہونا چاہیے۔</p>
 
-<h3> Why Use QR Codes For Sharing Contact Details? </h3>
+<h3>رابطہ کی تفصیلات شیئر کرنے کے لیے QR کوڈز کیوں استعمال کریں؟</h3>
 
-<p>You need to make it easier for clients to save your contacts on their phones, but unfortunately, physical business cards aren't optimized for that.  </p>
+<p>آپ کو کلائنٹس کے لیے اپنے رابطوں کو اپنے فون پر محفوظ کرنا آسان بنانے کی ضرورت ہے، لیکن بدقسمتی سے، فزیکل بزنس کارڈ اس کے لیے بہتر نہیں ہیں۔</p>
 
-<p>Busy professionals find it a hassle to browse through stacks of business cards to find the right contact unless they invest in a business card scanner. Still, there's a chance that some cards are misplaced or are already disposed of. </p>
+<p>مصروف پیشہ ور افراد کو صحیح رابطہ تلاش کرنے کے لیے بزنس کارڈز کے ڈھیروں کو براؤز کرنے میں پریشانی محسوس ہوتی ہے جب تک کہ وہ بزنس کارڈ اسکینر میں سرمایہ کاری نہ کریں۔ پھر بھی، اس بات کا امکان موجود ہے کہ کچھ کارڈز غلط جگہ پر ہیں یا پہلے ہی ضائع کر دیے گئے ہیں۔</p>
 
-<p><a href="#static:contact">Digitizing your contact details with QR codes</a>   addresses many of the disadvantages of using physical business cards.</p>
+<p><a href="#static:contact">QR کوڈز کے ساتھ اپنے رابطے کی تفصیلات کو ڈیجیٹائز</a> کرنا فزیکل بزنس کارڈز کے استعمال کے بہت سے نقصانات کو دور کرتا ہے۔</p>
 
-<p>All your clients have to do is scan the QR code and have all the contact information displayed on the screen.  </p>
+<p>آپ کے تمام کلائنٹس کو یہ کرنا ہے کہ وہ QR کوڈ کو اسکین کریں اور رابطہ کی تمام معلومات اسکرین پر ظاہر کریں۔</p>
 
-<p>With a single button, the user can contact you straight away or save the contact information onto their device. It puts an end to instances where clients misplace or forget your emails or phone numbers. </p>
+<p>ایک بٹن کے ساتھ، صارف آپ سے فوراً رابطہ کر سکتا ہے یا رابطے کی معلومات کو اپنے آلے پر محفوظ کر سکتا ہے۔ یہ ان مثالوں کو ختم کرتا ہے جہاں کلائنٹ آپ کے ای میلز یا فون نمبرز کو غلط جگہ دیتے ہیں یا بھول جاتے ہیں۔</p>
 
-<h2> What Contact Information Can Be Stored In A QR Code </h2>
+<h2>رابطہ کی کونسی معلومات QR کوڈ میں محفوظ کی جا سکتی ہیں۔</h2>
 
-<p>This depends on which type of QR code you are using.</p>
+<p>یہ اس بات پر منحصر ہے کہ آپ کس قسم کا QR کوڈ استعمال کر رہے ہیں۔</p>
 
-<p>If you're using a static QR code, you can store basic details (such as name, phone, email, website, and address) on the QR code in <a href="#article:about_contactformats">Vcard or MeCard format</a>. When you scan a static QR code, you get to save the contact information onto your smartphone. </p>
+<p>اگر آپ جامد QR کوڈ استعمال کر رہے ہیں، تو آپ <a href="#article:about_contactformats">Vcard یا MeCard فارمیٹ</a> میں QR کوڈ پر بنیادی تفصیلات (جیسے نام، فون، ای میل، ویب سائٹ، اور پتہ) محفوظ کر سکتے ہیں۔ جب آپ جامد QR کوڈ اسکین کرتے ہیں، تو آپ کو رابطہ کی معلومات اپنے سمارٹ فون میں محفوظ کرنے کا موقع ملتا ہے۔</p>
 
-<p><a href="#article:about_static">Static QR codes</a> encode the information directly, limiting how much information you can store. You'll need to use a dynamic QR code to include additional information like a photo/logo or social media handles.  </p>
+<p><a href="#article:about_static">جامد QR کوڈ</a> معلومات کو براہ راست انکوڈ کرتے ہیں، یہ محدود کرتے ہوئے کہ آپ کتنی معلومات کو محفوظ کر سکتے ہیں۔ تصویر/لوگو یا سوشل میڈیا ہینڈلز جیسی اضافی معلومات شامل کرنے کے لیے آپ کو ایک متحرک QR کوڈ استعمال کرنے کی ضرورت ہوگی۔</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png"
-        alt="Contact card fields - ScanMeFindMe">
+        alt="رابطہ کارڈ فیلڈز - ScanMeFindMe">
 </p>
 
-<p>Dynamic QR codes work differently from their static counterpart. Instead of encoding the contact details, it stores the information on a webpage and embeds a shortened URL in the QR Code.  </p>
+<p>متحرک QR کوڈز اپنے جامد ہم منصب سے مختلف طریقے سے کام کرتے ہیں۔ رابطے کی تفصیلات کو انکوڈنگ کرنے کے بجائے، یہ معلومات کو ویب پیج پر اسٹور کرتا ہے اور QR کوڈ میں ایک مختصر URL کو سرایت کرتا ہے۔</p>
 
-<p>When users scan the code, they are redirected to the webpage that acts as a digital business card. The displayed contact details can be downloaded and saved into a smartphone's contacts. </p>
+<p>جب صارفین کوڈ کو اسکین کرتے ہیں، تو انہیں ویب پیج پر بھیج دیا جاتا ہے جو ڈیجیٹل بزنس کارڈ کے طور پر کام کرتا ہے۔ ظاہر کردہ رابطے کی تفصیلات کو ڈاؤن لوڈ اور اسمارٹ فون کے رابطوں میں محفوظ کیا جاسکتا ہے۔</p>
 
-<h2> How To Share Contact Details With QR Codes? </h2>
+<h2>کیو آر کوڈز کے ساتھ رابطے کی تفصیلات کیسے شیئر کریں؟</h2>
 
-<p>To start sharing your contact details with a QR code, you need to generate one. With a <a href="#pro">ScanMeFIndMe PRO account</a>, you can generate a QR code that contains all your personal information with ease.</p>
+<p>QR کوڈ کے ساتھ اپنے رابطے کی تفصیلات کا اشتراک شروع کرنے کے لیے، آپ کو ایک بنانا ہوگا۔ <a href="#pro">ScanMeFIndMe PRO اکاؤنٹ</a> کے ساتھ، آپ ایک QR کوڈ بنا سکتے ہیں جس میں آپ کی تمام ذاتی معلومات آسانی کے ساتھ موجود ہوں۔</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - floyd miles - qr.png"
-        alt="Generating QR code for contact card - ScanMeFindMe">
+        alt="رابطہ کارڈ کے لیے QR کوڈ تیار کرنا - ScanMeFindMe">
 </p>
 
-<p>A QR code is automatically created after you have filled in the related fields.</p>
+<p>آپ کے متعلقہ فیلڈز کو بھرنے کے بعد ایک QR کوڈ خود بخود بن جاتا ہے۔</p>
 
-<p>Once you're done, you can download the QR code, print it out, or share it digitally. With a dynamic QR code, you can also view how many people have scanned the QR code. We automatically track and record <a href="#article:about_statistics">key metrics</a>   whenever a user scans the QR code to view your contact information, this can help you personalize and improve your marketing strategies.</p>
+<p>ایک بار جب آپ کام کر لیں، تو آپ QR کوڈ ڈاؤن لوڈ کر سکتے ہیں، اسے پرنٹ کر سکتے ہیں، یا اسے ڈیجیٹل طور پر شیئر کر سکتے ہیں۔ متحرک QR کوڈ کے ساتھ، آپ یہ بھی دیکھ سکتے ہیں کہ کتنے لوگوں نے QR کوڈ کو اسکین کیا ہے۔ جب بھی کوئی صارف آپ کے رابطے کی معلومات دیکھنے کے لیے QR کوڈ کو اسکین کرتا ہے تو ہم <a href="#article:about_statistics">کلیدی میٹرکس</a> کو خود بخود ٹریک اور ریکارڈ کرتے ہیں، اس سے آپ کو اپنی مارکیٹنگ کی حکمت عملیوں کو ذاتی بنانے اور بہتر بنانے میں مدد مل سکتی ہے۔</p>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for free now.</a></p>
+<p><a href="#pro">ScanMeFindMe PRO کو ابھی مفت میں آزمائیں۔</a></p>

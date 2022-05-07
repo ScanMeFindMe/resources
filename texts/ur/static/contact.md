@@ -1,3 +1,3 @@
-<h1>[Contact] Create a QR code for contact information</h1>
+<h1>[رابطہ کریں۔] رابطہ کی معلومات کے لیے ایک QR کوڈ بنائیں</h1>
 
 ----------

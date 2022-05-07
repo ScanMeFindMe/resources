@@ -1,3 +1,3 @@
-<h1>[E-mail] Create a QR code for an E-mail address</h1>
+<h1>[ای میل] ای میل ایڈریس کے لیے ایک QR کوڈ بنائیں</h1>
 
 ----------

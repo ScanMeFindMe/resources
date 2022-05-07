@@ -1,7 +1,7 @@
-<h1>[Twitter] Create a QR code for a Twitter link</h1>
+<h1>[ٹویٹر] ٹویٹر لنک کے لیے ایک QR کوڈ بنائیں</h1>
 
 --- File name prefix for download ---
 
-Twitter
+ٹویٹر
 
 ----------

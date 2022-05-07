@@ -13,6 +13,7 @@
   "ar": {"long": "ar-SA", "rtl": true},
   "hi": {"long": "hi-IN"},
   "ko": {"long": "ko-KR"},
+  "ur": {"long": "ur-PK", "rtl": true},
   "ms": {"long": "ms-MY"},
   "bn": {"long": "bn-BD"},
   "cn": {"long": "zh-CN"}

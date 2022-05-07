@@ -1,73 +1,73 @@
-<h1>Adding logos to QR codes</h1>
+<h1>QR کوڈز میں لوگو شامل کرنا</h1>
 
 --- Abstract / Meta description ---
 
-Adding logos to QR codes helps in increasing brand awareness, trust, and scan-through rate. Learn how you can do so without compromising the QR code's integrity
+QR کوڈز میں لوگو شامل کرنے سے برانڈ بیداری، اعتماد اور اسکین کے ذریعے شرح بڑھانے میں مدد ملتی ہے۔ جانیں کہ آپ QR کوڈ کی سالمیت پر سمجھوتہ کیے بغیر ایسا کیسے کر سکتے ہیں۔
 
 --- Short content 1 ---
 
-Upload and add a logo to the QR code. Personalize its size and positioning
+اپ لوڈ کریں اور QR کوڈ میں لوگو شامل کریں۔ اس کے سائز اور پوزیشننگ کو ذاتی بنائیں
 
 --- Short content 2 ---
 
-Higher error correction level allows for a bigger part of the QR code to be damaged but still be scannable. Choose higher error correction level if you plan to add a logo to the code. "Automatic" means that error correction level will be medium without logo and very high with a logo. The different error correction levels will change the appearance of your QR code.
+اعلی غلطی کی اصلاح کی سطح QR کوڈ کے ایک بڑے حصے کو نقصان پہنچانے کی اجازت دیتی ہے لیکن پھر بھی اسکین کی جاسکتی ہے۔ اگر آپ کوڈ میں لوگو شامل کرنے کا ارادہ رکھتے ہیں تو غلطی کی اصلاح کی اعلی سطح کا انتخاب کریں۔ &quot;خودکار&quot; کا مطلب ہے کہ خرابی کی اصلاح کی سطح لوگو کے بغیر درمیانی اور لوگو کے ساتھ بہت زیادہ ہوگی۔ خرابی کی اصلاح کی مختلف سطحیں آپ کے QR کوڈ کی ظاہری شکل کو تبدیل کر دیں گی۔
 
 ----------
 
-<p>The emergence of QR codes has transformed marketing. It encourages customer engagement, makes information more accessible, and adds flexibility to marketing. </p>
+<p>QR کوڈز کے ظہور نے مارکیٹنگ کو تبدیل کر دیا ہے۔ یہ گاہک کی مشغولیت کی حوصلہ افزائی کرتا ہے، معلومات کو مزید قابل رسائی بناتا ہے، اور مارکیٹنگ میں لچک کا اضافہ کرتا ہے۔</p>
 
-<p>However, a little bit of personalization can go a long way in increasing brand exposure and awareness. Adding a logo to a QR code is a step towards getting more scans, leads, and conversions.   </p>
+<p>تاہم، تھوڑا سا پرسنلائزیشن برانڈ کی نمائش اور بیداری کو بڑھانے میں بہت آگے جا سکتا ہے۔ QR کوڈ میں لوگو شامل کرنا مزید اسکینز، لیڈز اور تبدیلیاں حاصل کرنے کی جانب ایک قدم ہے۔</p>
 
-<h2> Why Should You Add Logos To Your QR Codes?</h2>
+<h2>آپ کو اپنے QR کوڈز میں لوگو کیوں شامل کرنا چاہئے؟</h2>
 
-<p>Imagine printing plain QR codes onto leaflets, product packagings, banners, and other marketing materials. While the QR codes work perfectly, they do nothing to convey your brand identity.</p>
+<p>سادہ QR کوڈز کو کتابچے، مصنوعات کی پیکیجنگ، بینرز اور دیگر مارکیٹنگ مواد پر پرنٹ کرنے کا تصور کریں۔ اگرچہ QR کوڈز بالکل کام کرتے ہیں، لیکن وہ آپ کے برانڈ کی شناخت بتانے کے لیے کچھ نہیں کرتے۔</p>
 
-<p>In business, it's important to increase awareness and instill brand loyalty amongst your customers. Logos are the most identifiable element that customers associate with a brand. You'll want your QR code to stand out from those printed in the plain, default format.</p>
+<p>کاروبار میں، بیداری کو بڑھانا اور اپنے صارفین میں برانڈ کی وفاداری پیدا کرنا ضروری ہے۔ لوگوز سب سے زیادہ قابل شناخت عنصر ہیں جسے گاہک کسی برانڈ کے ساتھ منسلک کرتے ہیں۔ آپ چاہیں گے کہ آپ کا QR کوڈ سادہ، ڈیفالٹ فارمیٹ میں پرنٹ کردہ سے الگ ہو۔</p>
 
-<p>Customers associate logos with the company. By adding it to the QR code, you instill trust amongst the customers, and they'll have little hesitation about scanning it. If you're using a plain QR code, people may question if scanning the QR code is safe.</p>
+<p>صارفین لوگو کو کمپنی کے ساتھ منسلک کرتے ہیں۔ اسے کیو آر کوڈ میں شامل کرنے سے، آپ صارفین کے درمیان اعتماد پیدا کرتے ہیں، اور انہیں اسے اسکین کرنے میں کوئی ہچکچاہٹ نہیں ہوگی۔ اگر آپ سادہ QR کوڈ استعمال کر رہے ہیں، تو لوگ سوال کر سکتے ہیں کہ کیا QR کوڈ سکین کرنا محفوظ ہے۔</p>
 
-<h2>Does Adding A Logo Affect QR Code Scanability?</h2>
+<h2>کیا لوگو شامل کرنے سے QR کوڈ اسکین ایبلٹی متاثر ہوتی ہے؟</h2>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr code with logo.png"
-        alt="QR code logo example - ScanMeFindMe">
+        alt="QR کوڈ لوگو کی مثال - ScanMeFindMe">
 </p>
 
-<p>QR codes store information in segments of dots and spaces within the scannable area. When you add a logo, it occupies an area that's supposed to hold part of the encoded information.</p>
+<p>QR کوڈ اسکین ایبل ایریا کے اندر ڈاٹس اور اسپیس کے حصوں میں معلومات کو اسٹور کرتے ہیں۔ جب آپ لوگو شامل کرتے ہیں، تو یہ ایک ایسے علاقے پر قبضہ کر لیتا ہے جس کے بارے میں سمجھا جاتا ہے کہ ان کوڈ شدہ معلومات کا کچھ حصہ ہونا چاہیے۔</p>
 
-<p>The question is, will it affect the QR code's integrity in any manner?</p>
+<p>سوال یہ ہے کہ کیا یہ QR کوڈ کی سالمیت کو کسی بھی طرح متاثر کرے گا؟</p>
 
-<p>If you're using  <a href="#static:url" title="QR code generator ScanMeFindMe">ScanMeFindMe</a>  to add the logo, there will not be any problem in scanning it. This is because QR codes are built with an error-correcting mechanism. Depending on the error correction level, a QR code is still readable even with up to 30% of its area covered up.</p>
+<p>اگر آپ لوگو کو شامل کرنے کے لیے <a href="#static:url" title="QR کوڈ جنریٹر ScanMeFindMe">ScanMeFindMe</a> استعمال کر رہے ہیں، تو اسے سکین کرنے میں کوئی مسئلہ نہیں ہوگا۔ اس کی وجہ یہ ہے کہ QR کوڈز غلطی کو درست کرنے کے طریقہ کار کے ساتھ بنائے گئے ہیں۔ غلطی کی تصحیح کی سطح پر منحصر ہے، QR کوڈ اب بھی پڑھنے کے قابل ہے یہاں تک کہ اس کے 30% حصے تک کا احاطہ کیا گیا ہے۔</p>
 
-<p>The trade off is that the QR codes with bigger error correction levels have a bigger “matrix”. Here is the same URL encoded with four different error correction levels: low (L), medium (M), high (H) and very high (Q):</p>
+<p>ٹریڈ آف یہ ہے کہ غلطی کی اصلاح کی بڑی سطحوں والے QR کوڈز میں بڑا &quot;میٹرکس&quot; ہوتا ہے۔ یہاں ایک ہی URL کو چار مختلف خرابی کی اصلاح کی سطحوں کے ساتھ انکوڈ کیا گیا ہے: کم (L)، درمیانہ (M)، ہائی (H) اور بہت زیادہ (Q):</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 2 - diff matrix.png"
-        alt="QR code with different error correction levels - ScanMeFindMe">
+        alt="کیو آر کوڈ جس میں خرابی کی مختلف سطحیں ہیں - ScanMeFindMe">
 </p>
 
-<p>Of course, you shouldn't cover critical functional elements such as the QR markers and version identifier with the logo. It is, however, generally safe to add a logo in the middle of the QR code.</p>
+<p>بلاشبہ، آپ کو لوگو کے ساتھ اہم فعال عناصر جیسے QR مارکر اور ورژن شناخت کنندہ کا احاطہ نہیں کرنا چاہیے۔ تاہم، عام طور پر QR کوڈ کے بیچ میں لوگو شامل کرنا محفوظ ہے۔</p>
 
-<p>When you add a logo to a QR code, you need to set its error correction level to the maximum, which is 30%. Our <a href="#static:url">QR code generator</a>  automatically does that for you and determines the best logo placement based on factors like QR code size and information density.</p>
+<p>جب آپ QR کوڈ میں لوگو شامل کرتے ہیں، تو آپ کو اس کی غلطی کی اصلاح کی سطح کو زیادہ سے زیادہ پر سیٹ کرنا ہوگا، جو کہ 30% ہے۔ ہمارا <a href="#static:url">QR کوڈ جنریٹر</a> خود بخود آپ کے لیے کرتا ہے اور QR کوڈ کے سائز اور معلومات کی کثافت جیسے عوامل کی بنیاد پر بہترین لوگو کی جگہ کا تعین کرتا ہے۔</p>
 
-<h2> How To Add Logos To QR Codes?</h2>
+<h2>کیو آر کوڈز میں لوگو کیسے شامل کریں؟</h2>
 
-<p>With <a href="#static:url" title="Add logos to QR codes">ScanMeFindMe</a>, adding logos to QR codes is a simple process. There's no complex calculation nor graphic design skills involved.</p>
+<p><a href="#static:url" title="QR کوڈز میں لوگو شامل کریں۔">ScanMeFindMe</a> کے ساتھ، QR کوڈز میں لوگو شامل کرنا ایک آسان عمل ہے۔ اس میں کوئی پیچیدہ حساب کتاب نہیں ہے اور نہ ہی گرافک ڈیزائن کی مہارتیں شامل ہیں۔</p>
 
-<p>Upload your business logo and select the thumbnail: it will automatically appear on the QR code. This applies when you're creating any <a href="#about:product">dynamic or static QR codes</a>  on  ScanMeFindMe .</p>
+<p>اپنے کاروباری لوگو کو اپ لوڈ کریں اور تھمب نیل کو منتخب کریں: یہ خود بخود QR کوڈ پر ظاہر ہو جائے گا۔ یہ اس وقت لاگو ہوتا ہے جب آپ ScanMeFindMe پر کوئی <a href="#about:product">متحرک یا جامد QR کوڈز</a> بنا رہے ہوتے ہیں۔</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - adding logo.png" width="600"
-        alt="Adding logo to QR code - ScanMeFindMe">
+        alt="QR کوڈ میں لوگو شامل کرنا - ScanMeFindMe">
 </p>
 
-<p>You can also customize the positioning, size, and style of the logo. Don't worry about compromising the QR code's scannability, as our QR code generator will warn you if the logo is obscuring any of the critical elements.</p>
+<p>آپ لوگو کی پوزیشننگ، سائز اور انداز کو بھی اپنی مرضی کے مطابق بنا سکتے ہیں۔ QR کوڈ کی سکین ایبلٹی سے سمجھوتہ کرنے کی فکر نہ کریں، کیونکہ ہمارا QR کوڈ جنریٹر آپ کو خبردار کرے گا اگر لوگو کسی بھی اہم عناصر کو دھندلا رہا ہے۔</p>
 
-<p>ScanMeFindMe <a href="#static:url">QR generator</a> not only allows you to place the logo in the middle of QR code, you can also make it look more accurate by removing or adding some blocks of the QR code matrix. Depending on the style of your QR code, you can pick the shape and style of your logo and choose different types of rendering blocks in the center of the QR code.</p>
+<p>ScanMeFindMe <a href="#static:url">QR جنریٹر</a> نہ صرف آپ کو لوگو کو QR کوڈ کے بیچ میں رکھنے کی اجازت دیتا ہے، بلکہ آپ QR کوڈ میٹرکس کے کچھ بلاکس کو ہٹا کر یا شامل کر کے اسے مزید درست بھی بنا سکتے ہیں۔ آپ کے QR کوڈ کے انداز پر منحصر ہے، آپ اپنے لوگو کی شکل اور طرز منتخب کر سکتے ہیں اور QR کوڈ کے بیچ میں مختلف قسم کے رینڈرنگ بلاکس کا انتخاب کر سکتے ہیں۔</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - center of qr.png"
-        alt="Example of logo placement on QR code - ScanMeFindMe">
+        alt="QR کوڈ پر لوگو پلیسمنٹ کی مثال - ScanMeFindMe">
 </p>
 
-<p>Try adding your own logos to your QR code with <a href="#pro">ScanMeFindMe Pro</a> now.</p>
+<p>ابھی <a href="#pro">ScanMeFindMe Pro</a> کے ساتھ اپنے QR کوڈ میں اپنے لوگوز شامل کرنے کی کوشش کریں۔</p>
