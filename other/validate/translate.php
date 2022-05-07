@@ -5,7 +5,8 @@ include __DIR__."/config.php";
 include __DIR__."/helper.php";
 include __DIR__."/translate_helper.php";
 
-//var_dump(translate(['first' => 'hello', 'second' => 'goodbye'], 'ru'));
+// Add here the keys of the elements that need fixing, for example: ['articles' => ['about_contactformats.main.6']]
+$fixups = [];
 
 if (count($argv) < 2) {
     echo "Usage: php ".basename(__FILE__)." LANG\n";
@@ -34,10 +35,7 @@ if ($missing = array_diff_key($endata, $langdata)) {
         compareplaceholders($langfile, null, null, null, $key, $value, $translated[$key], true);
     }
     $langdata = $langdata + $translated;
-    $all = unflatten_json($langdata);
-    recur_ksort($all);
-    file_put_contents($maindir."/".$langfile,
-        preg_replace('/  /', ' ', json_encode($all, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES)) . "\n");
+    dump_json($maindir."/".$langfile, $langdata);
 }
 
 // Static, dynamic, articles
@@ -58,14 +56,16 @@ foreach (['static', 'dynamic', 'articles', 'emails'] as $section) {
     
     // Find missing sections and translate them
     $endataflattened = flatten_json($endata);
-    if ($missing = array_diff_key($endataflattened, flatten_json($langdata))) {
+    $langdataflattened = flatten_json($langdata);
+    if ($missing = array_diff_key($endataflattened, array_diff_key($langdataflattened, array_fill_keys($fixups[$section] ?? [], 1)))) {
         echo "Missing sections:\n - ".join("\n - ", array_keys($missing))."\n\n";
         $missing = translate($missing, $language);
         foreach ($missing as $key => $value) {
-            $missing[$key] = restore_whitespaces($value, $endataflattened[$key]);
+            $langdataflattened[$key] = restore_whitespaces($value, $endataflattened[$key]);
         }
-        foreach (unflatten_json($missing) as $filename => $data) {
-            $data = array_map('combine_multiline', ($langdata[$filename] ?? []) + $data);
+        $langdata = unflatten_json($langdataflattened);
+        foreach (array_keys(unflatten_json($missing)) as $filename) {
+            $data = array_map('combine_multiline', $langdata[$filename]);
             $en = array_map('combine_multiline', $endata[$filename]);
             $newdata = prepare_data($section, $data, $en);
             file_put_contents("$maindir/texts/$language/$section/$filename.md", $newdata);
