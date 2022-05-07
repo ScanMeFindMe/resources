@@ -64,10 +64,7 @@ function comparejsonfiles($enfile, $langfile): array {
     }
 
     if ($autofix && $errors) {
-        $all = unflatten_json($langdata);
-        recur_ksort($all);
-        file_put_contents($maindir."/".$langfile,
-            preg_replace('/  /', ' ', json_encode($all, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES)) . "\n");
+        dump_json($maindir."/".$langfile, $langdata);
     }
 
     return $errors;

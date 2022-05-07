@@ -275,3 +275,10 @@ function recur_ksort(&$array) {
     }
     return ksort($array);
 }
+
+function dump_json($filename, $flatjson) {
+    $all = unflatten_json($flatjson);
+    recur_ksort($all);
+    file_put_contents($filename,
+        preg_replace('/  /', ' ', json_encode($all, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES)) . "\n");
+}

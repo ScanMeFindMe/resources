@@ -26,7 +26,7 @@ Vcard almacena más información y se usa comúnmente para compartir contactos. 
 
 <p>Vcard es compatible con una amplia gama de aplicaciones, incluidos teléfonos móviles, códigos QR, correos electrónicos, sitios web y SMS. Sin embargo, MeCard se limita a códigos QR y teléfonos móviles. </p>
 
-<p>Ambos formatos admiten información similar, como nombre, teléfono, correo electrónico, sitio web y dirección. El formato Vcard admite campos de organización y cargo, que no están disponibles en MeCard.</p>
+<p>Ambos formatos admiten información similar, como nombre, teléfono, correo electrónico, sitio web y dirección. El formato Vcard también puede almacenar una imagen y admite muchos otros campos que no están disponibles en MeCard, como la organización, el cargo y la fecha de nacimiento.</p>
 
 <p>Cuando sea procesado, obtendrá un código QR más pequeño y compacto con el formato MeCard. Esto significa que un código QR de contacto de MeCard es más legible cuando se imprime en un área más pequeña en comparación con su contraparte de Vcard.</p>
 
