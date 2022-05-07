@@ -1,63 +1,63 @@
-<h1>Using QR codes to share contact details</h1>
+<h1>Używanie kodów QR do udostępniania danych kontaktowych</h1>
 
 --- Abstract / Meta description ---
 
-Sharing contact details with QR codes is a greener and more efficient branding strategy. Learn how you could easily create and share digital contacts with QR codes.
+Udostępnianie danych kontaktowych za pomocą kodów QR to bardziej ekologiczna i wydajniejsza strategia brandingowa. Dowiedz się, jak łatwo tworzyć i udostępniać kontakty cyfrowe za pomocą kodów QR.
 
 --- Short content 1 ---
 
-Store personal contact information, social media handles, and photo/logo with a sharable QR code. Track how often it is scanned.
+Przechowuj osobiste informacje kontaktowe, uchwyty w mediach społecznościowych oraz zdjęcie/logo za pomocą kodu QR, który można udostępnić. Śledź, jak często jest skanowany.
 
 ----------
 
-<p>If you expect customers to manually store your information from business cards, you need to rethink your branding strategy. Most people find having to save the contact details from a paper business card onto a mobile phone annoying and repetitive.</p>
+<p>Jeśli oczekujesz, że klienci będą ręcznie przechowywać Twoje informacje z wizytówek, musisz przemyśleć swoją strategię budowania marki. Większość ludzi uważa, że zapisywanie danych kontaktowych z papierowej wizytówki na telefonie komórkowym jest denerwujące i powtarzalne.</p>
 
-<p>Besides, did you know that <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% of business cards</a> are thrown off within a week after they are handed out?</p>
+<p>Poza tym, czy wiesz, że <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% wizytówek</a> jest wyrzucanych w ciągu tygodnia po ich rozdaniu?</p>
 
-<p>That's a staggering number of business cards gone to waste. Not only does it go against many companies' environmental commitment, but it also explains why some clients never reach out to you even when they promised to. </p>
+<p>To oszałamiająca liczba zmarnowanych wizytówek. Nie tylko jest to sprzeczne z zaangażowaniem wielu firm w ochronę środowiska, ale także wyjaśnia, dlaczego niektórzy klienci nigdy nie kontaktują się z Tobą, nawet jeśli obiecali.</p>
 
-<p>Nowadays, more and more business cards have a QR code printed on them, allowing people to easily save the contacts onto smartphones. This should be part of your strategy. </p>
+<p>W dzisiejszych czasach coraz więcej wizytówek ma nadrukowany kod QR, który umożliwia łatwe zapisywanie kontaktów na smartfonach. To powinno być częścią twojej strategii.</p>
 
-<h3> Why Use QR Codes For Sharing Contact Details? </h3>
+<h3>Dlaczego warto używać kodów QR do udostępniania danych kontaktowych?</h3>
 
-<p>You need to make it easier for clients to save your contacts on their phones, but unfortunately, physical business cards aren't optimized for that.  </p>
+<p>Musisz ułatwić klientom zapisywanie kontaktów na ich telefonach, ale niestety fizyczne wizytówki nie są do tego zoptymalizowane.</p>
 
-<p>Busy professionals find it a hassle to browse through stacks of business cards to find the right contact unless they invest in a business card scanner. Still, there's a chance that some cards are misplaced or are already disposed of. </p>
+<p>Zapracowani profesjonaliści uważają, że przeglądanie stosów wizytówek w celu znalezienia właściwego kontaktu jest kłopotliwe, chyba że zainwestują w skaner wizytówek. Mimo to istnieje szansa, że niektóre karty zostały zgubione lub zostały już zutylizowane.</p>
 
-<p><a href="#static:contact">Digitizing your contact details with QR codes</a>   addresses many of the disadvantages of using physical business cards.</p>
+<p><a href="#static:contact">Digitalizacja danych kontaktowych za pomocą kodów QR</a> rozwiązuje wiele wad korzystania z fizycznych wizytówek.</p>
 
-<p>All your clients have to do is scan the QR code and have all the contact information displayed on the screen.  </p>
+<p>Jedyne, co muszą zrobić Twoi klienci, to zeskanować kod QR i wyświetlić na ekranie wszystkie dane kontaktowe.</p>
 
-<p>With a single button, the user can contact you straight away or save the contact information onto their device. It puts an end to instances where clients misplace or forget your emails or phone numbers. </p>
+<p>Za pomocą jednego przycisku użytkownik może natychmiast skontaktować się z Tobą lub zapisać informacje kontaktowe na swoim urządzeniu. To kładzie kres przypadkom, w których klienci gubią lub zapominają twoje e-maile lub numery telefonów.</p>
 
-<h2> What Contact Information Can Be Stored In A QR Code </h2>
+<h2>Jakie dane kontaktowe można przechowywać w kodzie QR?</h2>
 
-<p>This depends on which type of QR code you are using.</p>
+<p>Zależy to od rodzaju używanego kodu QR.</p>
 
-<p>If you're using a static QR code, you can store basic details (such as name, phone, email, website, and address) on the QR code in <a href="#article:about_contactformats">Vcard or MeCard format</a>. When you scan a static QR code, you get to save the contact information onto your smartphone. </p>
+<p>Jeśli używasz statycznego kodu QR, możesz przechowywać podstawowe dane (takie jak imię i nazwisko, telefon, adres e-mail, witryna i adres) w kodzie QR w <a href="#article:about_contactformats">formacie Vcard lub MeCard</a> . Po zeskanowaniu statycznego kodu QR możesz zapisać informacje kontaktowe na swoim smartfonie.</p>
 
-<p><a href="#article:about_static">Static QR codes</a> encode the information directly, limiting how much information you can store. You'll need to use a dynamic QR code to include additional information like a photo/logo or social media handles.  </p>
+<p><a href="#article:about_static">Statyczne kody QR</a> bezpośrednio kodują informacje, ograniczając ilość informacji, które możesz przechowywać. Aby dołączyć dodatkowe informacje, takie jak zdjęcie/logo lub uchwyty do mediów społecznościowych, musisz użyć dynamicznego kodu QR.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png"
-        alt="Contact card fields - ScanMeFindMe">
+        alt="Pola wizytówki - ScanMeFindMe">
 </p>
 
-<p>Dynamic QR codes work differently from their static counterpart. Instead of encoding the contact details, it stores the information on a webpage and embeds a shortened URL in the QR Code.  </p>
+<p>Dynamiczne kody QR działają inaczej niż ich statyczny odpowiednik. Zamiast kodować dane kontaktowe, przechowuje informacje na stronie internetowej i osadza skrócony adres URL w kodzie QR.</p>
 
-<p>When users scan the code, they are redirected to the webpage that acts as a digital business card. The displayed contact details can be downloaded and saved into a smartphone's contacts. </p>
+<p>Gdy użytkownicy skanują kod, są przekierowywani na stronę internetową, która działa jak cyfrowa wizytówka. Wyświetlane dane kontaktowe można pobrać i zapisać w kontaktach smartfona.</p>
 
-<h2> How To Share Contact Details With QR Codes? </h2>
+<h2>Jak udostępnić dane kontaktowe za pomocą kodów QR?</h2>
 
-<p>To start sharing your contact details with a QR code, you need to generate one. With a <a href="#pro">ScanMeFIndMe PRO account</a>, you can generate a QR code that contains all your personal information with ease.</p>
+<p>Aby rozpocząć udostępnianie swoich danych kontaktowych za pomocą kodu QR, musisz go wygenerować. Z <a href="#pro">kontem ScanMeFIndMe PRO</a> możesz z łatwością wygenerować kod QR, który zawiera wszystkie Twoje dane osobowe.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - floyd miles - qr.png"
-        alt="Generating QR code for contact card - ScanMeFindMe">
+        alt="Generowanie kodu QR dla wizytówki - ScanMeFindMe">
 </p>
 
-<p>A QR code is automatically created after you have filled in the related fields.</p>
+<p>Kod QR jest tworzony automatycznie po wypełnieniu odpowiednich pól.</p>
 
-<p>Once you're done, you can download the QR code, print it out, or share it digitally. With a dynamic QR code, you can also view how many people have scanned the QR code. We automatically track and record <a href="#article:about_statistics">key metrics</a>   whenever a user scans the QR code to view your contact information, this can help you personalize and improve your marketing strategies.</p>
+<p>Gdy skończysz, możesz pobrać kod QR, wydrukować go lub udostępnić cyfrowo. Dzięki dynamicznemu kodowi QR możesz również zobaczyć, ile osób zeskanowało kod QR. Automatycznie śledzimy i rejestrujemy <a href="#article:about_statistics">kluczowe wskaźniki</a> za każdym razem, gdy użytkownik zeskanuje kod QR, aby wyświetlić Twoje dane kontaktowe, co może pomóc Ci spersonalizować i ulepszyć Twoje strategie marketingowe.</p>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for free now.</a></p>
+<p><a href="#pro">Wypróbuj ScanMeFindMe PRO za darmo już teraz.</a></p>

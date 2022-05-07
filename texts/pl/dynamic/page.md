@@ -1,10 +1,10 @@
-<h1>[Create a page with files] Create a QR code for Page with files</h1>
+<h1>[Utwórz stronę z plikami] Utwórz kod QR dla strony z plikami</h1>
 
 --- Example header ---
 
-Page with files example
+Przykładowa strona z plikami
 
 ----------
 
 <img src="https://media.scanmefindme.com/dynamic/page/page-with-files-popup.png" width="100%" height="auto"
-    alt="Page with files example - ScanMeFindMe">
+    alt="Przykładowa strona z plikami - ScanMeFindMe">

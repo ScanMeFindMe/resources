@@ -1,37 +1,37 @@
-<h1>[URL] Create a QR code for a website or URL</h1>
+<h1>[URL] Utwórz kod QR dla strony internetowej lub adresu URL</h1>
 
 ----------
 
-<h1>Effortless QR Code Solutions For Savvy Marketers</h1>
+<h1>Bezproblemowe rozwiązania kodów QR dla doświadczonych marketerów</h1>
 
-<p>Create, download, manage and track QR codes with a single platform. Work with different types of QR codes and personalization to suit your branding strategy.</p>
+<p>Twórz, pobieraj, zarządzaj i śledź kody QR za pomocą jednej platformy. Pracuj z różnymi typami kodów QR i personalizacji, aby dopasować je do swojej strategii brandingowej.</p>
 
-<p><a href="#pro">Try For Free</a></p>
+<p><a href="#pro">Wypróbuj za darmo</a></p>
 
-<h2>Create</h2>
+<h2>Tworzyć</h2>
 
-<p>Generate QR codes for websites, contacts, phones, SMS, and more in simple steps. You don’t have to be a technical wizard.</p>
+<p>Generuj kody QR dla stron internetowych, kontaktów, telefonów, SMS-ów i nie tylko w prostych krokach. Nie musisz być czarodziejem technicznym.</p>
 
-<h2>Customize</h2>
+<h2>Dostosuj</h2>
 
-<p>Choose from existing designs or add a personal touch to the QR code. Upload your own logo, template and select a color that goes well with your brand. Save time by using presets.</p>
+<p>Wybierz spośród istniejących projektów lub dodaj osobisty akcent do kodu QR. Prześlij własne logo, szablon i wybierz kolor pasujący do Twojej marki. Oszczędzaj czas, korzystając z ustawień wstępnych.</p>
 
-<h2>Download</h2>
+<h2>Pobierać</h2>
 
-<p>Download QR codes in high-resolution format. Set precise QR code location with advanced page settings.</p>
+<p>Pobierz kody QR w formacie wysokiej rozdzielczości. Ustaw dokładną lokalizację kodu QR z zaawansowanymi ustawieniami strony.</p>
 
-<h2>Manage</h2>
+<h2>Zarządzać</h2>
 
-<p>Store and manage all of your QR codes with one solution. Easily search and filter QR codes by tags. Stay organized as you create more QR codes.</p>
+<p>Przechowuj i zarządzaj wszystkimi kodami QR za pomocą jednego rozwiązania. Łatwo wyszukuj i filtruj kody QR według tagów. Utrzymuj porządek, tworząc więcej kodów QR.</p>
 
-<h2>Track</h2>
+<h2>Ścieżka</h2>
 
-<p>Leverage real-time QR code analytics to track scans, locations, language, platform, and other key metrics. A must-have for data-driven marketing efforts.</p>
+<p>Wykorzystaj analizę kodów QR w czasie rzeczywistym, aby śledzić skany, lokalizacje, język, platformę i inne kluczowe dane. Niezbędne w działaniach marketingowych opartych na danych.</p>
 
-<p><a href="#article:about_statistics">Learn More</a></p>
+<p><a href="#article:about_statistics">Ucz się więcej</a></p>
 
-<h2>Unlock Dynamic QR Codes With ScanMeFindMe PRO</h2>
+<h2>Odblokuj dynamiczne kody QR za pomocą ScanMeFindMe PRO</h2>
 
-<p>Dynamic QR codes live up to their name. You can dynamically change information after you have printed the QR code. Dynamic QR codes are only available in the ScanMeFindMe PRO</p>
+<p>Dynamiczne kody QR są zgodne ze swoją nazwą. Możesz dynamicznie zmieniać informacje po wydrukowaniu kodu QR. Dynamiczne kody QR są dostępne tylko w ScanMeFindMe PRO</p>
 
-<p><a href="#article:about_static">Static vs dynamic QR codes (Learn More)</a></p>
+<p><a href="#article:about_static">Statyczne a dynamiczne kody QR (Dowiedz się więcej)</a></p>

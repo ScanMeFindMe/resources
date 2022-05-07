@@ -1,11 +1,11 @@
-<h1>[File] Create a QR code for a file</h1>
+<h1>[Plik] Utwórz kod QR dla pliku</h1>
 
 --- Text above the form ---
 
-<p class="smfm-static-file-link">Is your file already in the Internet and you just want to create a static link to it?<br>
-<span class="hint">Go straight to <a href="#static:url">Create a QR code for a website or URL</a> and put the link to your file there</span></p>
+<p class="smfm-static-file-link">Czy Twój plik jest już w Internecie i chcesz tylko utworzyć do niego statyczny link?<br>
+<span class="hint">Przejdź od razu do <a href="#static:url">Utwórz kod QR dla strony internetowej lub adresu URL</a> i umieść tam link do swojego pliku</span></p>
 
-<p class="smfm-static-file-upload">Would you like to upload your file (or maybe several files), be able to modify the file at any moment and monitor who has scanned your QR code?<br>
-<span class="hint">Sign up for a <a href="#pro">free trial of the PRO account</a> on ScanMeFindMe and try Dynamic QR codes</span></p>
+<p class="smfm-static-file-upload">Chciałbyś wgrać swój plik (a może kilka plików), móc w każdej chwili zmodyfikować plik i monitorować, kto zeskanował Twój kod QR?<br>
+<span class="hint">Zarejestruj się na <a href="#pro">bezpłatną wersję próbną konta PRO</a> na ScanMeFindMe i wypróbuj dynamiczne kody QR</span></p>
 
 ----------

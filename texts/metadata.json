@@ -8,6 +8,7 @@
   "nb": {"long": "nb-NO"},
   "nl": {"long": "nl-NL"},
   "sv": {"long": "sv-SE"},
+  "pl": {"long": "pl-PL"},
   "ar": {"long": "ar-SA", "rtl": true},
   "hi": {"long": "hi-IN"},
   "ko": {"long": "ko-KR"},
