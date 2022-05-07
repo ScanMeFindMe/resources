@@ -62,7 +62,7 @@ function parse_json($f) {
     return flatten_json($res);
 }
 
-function flatten_json($json, $prefix = '') {
+function flatten_json(array $json, $prefix = '') {
     $flatdata = [];
     foreach ($json as $key => $val) {
         if (is_array($val)) {
@@ -124,7 +124,7 @@ function parse_data($section, $content) {
     return [$r, $offsets];
 }
 
-function prepare_data($section, $data) {
+function prepare_data(string $section, array $data, array $endata = []): string {
     $content = '';
     $main = $data['main'] ?? '';
     unset($data['main']);
