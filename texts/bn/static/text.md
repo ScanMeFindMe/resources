@@ -1,3 +1,3 @@
-<h1>[Text] Create a QR code for any text content</h1>
+<h1>[পাঠ্য] যেকোনো পাঠ্য বিষয়বস্তুর জন্য একটি QR কোড তৈরি করুন</h1>
 
 ----------

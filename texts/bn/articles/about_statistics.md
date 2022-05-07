@@ -1,118 +1,118 @@
-<h1>How QR code scan statistics can be viewed and used</h1>
+<h1>কিভাবে QR কোড স্ক্যান পরিসংখ্যান দেখা এবং ব্যবহার করা যেতে পারে</h1>
 
 --- Abstract / Meta description ---
 
-Monitor your campaign with dynamic QR code tracking. Find out what scan statistics are available on ScanMeFindMe and why they are important for marketers
+ডায়নামিক QR কোড ট্র্যাকিং দিয়ে আপনার প্রচারাভিযান নিরীক্ষণ করুন। ScanMeFindMe-এ কোন স্ক্যান পরিসংখ্যান পাওয়া যায় এবং কেন সেগুলি মার্কেটারদের জন্য গুরুত্বপূর্ণ তা খুঁজে বের করুন
 
 --- Short content 1 ---
 
-The approximate location of the scanning device. It may not always be accurate as the location is derived from the IP address of the internet service provider
+স্ক্যানিং ডিভাইসের আনুমানিক অবস্থান। এটি সর্বদা সঠিক নাও হতে পারে কারণ অবস্থানটি ইন্টারনেট পরিষেবা প্রদানকারীর IP ঠিকানা থেকে নেওয়া হয়েছে৷
 
 ----------
 
-<p>One of the reasons why marketers are turning to dynamic QR codes is their trackability. Unlike static QR codes, dynamic QR codes redirect users to a custom webpage when scanned. Therefore, it's possible to collect various metrics and compile them in visual formats. </p>
+<p>মার্কেটাররা ডায়নামিক QR কোডের দিকে ঝুঁকছেন তার একটি কারণ হল তাদের ট্র্যাকযোগ্যতা। স্ট্যাটিক QR কোডের বিপরীতে, গতিশীল QR কোড স্ক্যান করার সময় ব্যবহারকারীদের একটি কাস্টম ওয়েবপেজে পুনঃনির্দেশ করে। অতএব, বিভিন্ন মেট্রিক্স সংগ্রহ করা এবং সেগুলোকে ভিজ্যুয়াল ফরম্যাটে কম্পাইল করা সম্ভব।</p>
 
-<h2>Why QR Code Scan Statistics Are Important</h2>
+<h2>কেন QR কোড স্ক্যান পরিসংখ্যান গুরুত্বপূর্ণ</h2>
 
-<p>If you generate a dynamic QR code on <a href="#pro">ScanMeFindMe Pro</a>, you'll be able to track key metrics that can help with your marketing.</p>
+<p>আপনি <a href="#pro">ScanMeFindMe Pro</a> এ একটি ডায়নামিক QR কোড তৈরি করলে, আপনি মূল মেট্রিকগুলি ট্র্যাক করতে সক্ষম হবেন যা আপনার বিপণনে সাহায্য করতে পারে৷</p>
 
-<p>Rather than merely distributing marketing materials with QR codes, you'll want to monitor engagement indicators like how many people are accessing a landing page via QR code. Or if a particular campaign is reaching its audience in major cities. </p>
+<p>QR কোডের মাধ্যমে শুধুমাত্র বিপণন সামগ্রী বিতরণ করার পরিবর্তে, আপনি কতজন লোক QR কোডের মাধ্যমে একটি ল্যান্ডিং পৃষ্ঠা অ্যাক্সেস করছেন তার মতো ব্যস্ততার সূচকগুলি নিরীক্ষণ করতে চাইবেন৷ অথবা যদি একটি নির্দিষ্ট প্রচারণা প্রধান শহরগুলিতে তার দর্শকদের কাছে পৌঁছায়।</p>
 
-<p>Without dynamic QR codes, you will have no idea if you're reaching the target audience or on the right track with conversion goals. You'll need to gather relevant statistics from <a href="#about:product">dynamic QR codes</a> and use them to improve the campaign.</p>
+<p>ডায়নামিক QR কোড ব্যতীত, আপনি লক্ষ্য শ্রোতাদের কাছে পৌঁছাচ্ছেন বা রূপান্তর লক্ষ্যের সাথে সঠিক পথে আছেন কিনা তা আপনার কোন ধারণা থাকবে না। আপনাকে <a href="#about:product">ডায়নামিক QR কোডগুলি</a> থেকে প্রাসঙ্গিক পরিসংখ্যান সংগ্রহ করতে হবে এবং প্রচারাভিযানের উন্নতি করতে সেগুলি ব্যবহার করতে হবে৷</p>
 
-<p>QR code statistics show you what's working on your campaign and what's not. You'll know if you need a more intriguing design or a revamp in the overall strategy for better conversion from the numbers and charts. </p>
+<p>QR কোড পরিসংখ্যান আপনাকে দেখায় যে আপনার প্রচারাভিযানে কী কাজ করছে এবং কী নয়৷ সংখ্যা এবং চার্ট থেকে আরও ভাল রূপান্তর করার জন্য আপনার আরও আকর্ষণীয় ডিজাইন বা সামগ্রিক কৌশলের পুনর্গঠন প্রয়োজন কিনা তা আপনি জানতে পারবেন।</p>
 
-<h2>Which Scan Statistics Are Available On ScanMeFindMe PRO?</h2>
+<h2>ScanMeFindMe PRO-তে কোন স্ক্যান পরিসংখ্যান উপলব্ধ?</h2>
 
-<p><a href="#static:url">ScanMeFindMe</a> is developed to track and store important scan metrics in real-time. You'll have access to the following statistics when you sign up for a PRO account.</p>
+<p><a href="#static:url">ScanMeFindMe</a> রিয়েল-টাইমে গুরুত্বপূর্ণ স্ক্যান মেট্রিক্স ট্র্যাক এবং সঞ্চয় করার জন্য তৈরি করা হয়েছে। আপনি যখন একটি PRO অ্যাকাউন্টের জন্য সাইন আপ করবেন তখন আপনি নিম্নলিখিত পরিসংখ্যানগুলিতে অ্যাক্সেস পাবেন৷</p>
 
-<h3>Total Scans</h3>
+<h3>মোট স্ক্যান</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 1 - total scans.png"
-        alt="Total scans chart - QR code generator ScanMeFindMe">
+        alt="মোট স্ক্যান চার্ট - QR কোড জেনারেটর ScanMeFindMe">
 </p>
 
-<p>This chart shows the number of total and unique scans that you're getting everyday.</p>
+<p>এই চার্টটি আপনি প্রতিদিন পাচ্ছেন এমন মোট এবং অনন্য স্ক্যানের সংখ্যা দেখায়।</p>
 
-<p>Unique scans are the number of scans done from different devices. It does not include multiple scans from the same device. </p>
+<p>ইউনিক স্ক্যান হল বিভিন্ন ডিভাইস থেকে করা স্ক্যানের সংখ্যা। এটি একই ডিভাইস থেকে একাধিক স্ক্যান অন্তর্ভুক্ত করে না।</p>
 
-<p>We use a special method where our server tags a device with a 'fingerprint' when it first scans a QR code. If the server detects a new scan with the same 'fingerprint', it is added to the total scans but not the unique scans.</p>
+<p>আমরা একটি বিশেষ পদ্ধতি ব্যবহার করি যেখানে আমাদের সার্ভার একটি &#39;আঙ্গুলের ছাপ&#39; দিয়ে একটি ডিভাইস ট্যাগ করে যখন এটি প্রথম একটি QR কোড স্ক্যান করে। সার্ভার যদি একই &#39;আঙ্গুলের ছাপ&#39; সহ একটি নতুন স্ক্যান সনাক্ত করে, তবে এটি মোট স্ক্যানগুলিতে যোগ করা হয় তবে অনন্য স্ক্যানগুলিতে নয়।</p>
 
-<p>You'll find this chart helpful when you want to know how many people are actually responding to your campaign. The unique scans will paint a clearer picture of how your campaign is performing.</p>
+<p>আপনি যখন জানতে চান কতজন লোক আপনার প্রচারে সাড়া দিচ্ছে তখন আপনি এই চার্টটি সহায়ক বলে মনে করবেন। অনন্য স্ক্যানগুলি আপনার প্রচারাভিযান কীভাবে পারফর্ম করছে তার একটি পরিষ্কার ছবি আঁকবে।</p>
 
-<h3>Scans By Months</h3>
+<h3>মাস অনুযায়ী স্ক্যান করুন</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 2 - scans by month.png"
-        alt="Scans by month chart - QR code generator ScanMeFindMe">
+        alt="মাস চার্ট দ্বারা স্ক্যান - QR কোড জেনারেটর ScanMeFindMe">
 </p>
 
-<p>If you're running a seasonal campaign, this chart will be helpful. The numbers of scans are plotted by month. It helps identify the months that bring your business the most QR code traffic. </p>
+<p>আপনি যদি একটি মৌসুমী প্রচারাভিযান চালান তবে এই চার্টটি সহায়ক হবে৷ স্ক্যান সংখ্যা মাস দ্বারা প্লট করা হয়. এটি সেই মাসগুলি সনাক্ত করতে সাহায্য করে যেগুলি আপনার ব্যবসাকে সবচেয়ে বেশি QR কোড ট্র্যাফিক নিয়ে আসে৷</p>
 
-<h3>Scans By Hour Of The Day</h3>
+<h3>দিনের ঘন্টা দ্বারা স্ক্যান</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 3 - scans by hour of the day.png"
-        alt="Scans by hour of the day chart - QR code generator ScanMeFindMe">
+        alt="দিনের চার্টের ঘন্টা অনুসারে স্ক্যান করুন - QR কোড জেনারেটর ScanMeFindMe">
 </p>
 
-<p>You can also track QR scans by hours of the day. This is useful if you're running a restaurant or e-commerce where customers peak during different times. It helps to run a more targeted campaign during the peak hours.</p>
+<p>আপনি দিনের ঘন্টার মধ্যে QR স্ক্যান ট্র্যাক করতে পারেন। আপনি যদি এমন একটি রেস্তোরাঁ বা ই-কমার্স চালাচ্ছেন যেখানে গ্রাহক বিভিন্ন সময়ে শীর্ষে থাকে তাহলে এটি কার্যকর। এটি পিক আওয়ারে আরও লক্ষ্যযুক্ত প্রচার চালাতে সাহায্য করে।</p>
 
-<h3>Scans By OS</h3>
+<h3>ওএস দ্বারা স্ক্যান</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 4 - scans by OS.png"
-        alt="Scans by OS chart - QR code generator ScanMeFindMe">
+        alt="OS চার্ট দ্বারা স্ক্যান - QR কোড জেনারেটর ScanMeFindMe">
 </p>
 
-<p>Our server can also pick up which operating system the users are using when scanning the QR code. Usually, iOS and Android tend to dominate the chart as most users scan QR codes from their mobile phones. The statistics help when you're getting users to download an app for a specific OS. </p>
+<p>QR কোড স্ক্যান করার সময় ব্যবহারকারীরা কোন অপারেটিং সিস্টেম ব্যবহার করছেন তাও আমাদের সার্ভার নিতে পারে। সাধারণত, iOS এবং Android চার্টে আধিপত্য বিস্তার করে কারণ বেশিরভাগ ব্যবহারকারী তাদের মোবাইল ফোন থেকে QR কোড স্ক্যান করে। পরিসংখ্যান সাহায্য করে যখন আপনি ব্যবহারকারীদের একটি নির্দিষ্ট OS এর জন্য একটি অ্যাপ ডাউনলোড করতে পান।</p>
 
-<h3>Scans By Language</h3>
+<h3>ভাষা দ্বারা স্ক্যান</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 5 - scans by lang.png"
-        alt="Scans by language chart - QR code generator ScanMeFindMe">
+        alt="ভাষা চার্ট দ্বারা স্ক্যান - QR কোড জেনারেটর ScanMeFindMe">
 </p>
 
-<p>This chart will show what is the primary language installed on your clients devices. This is usually the language they are most comfortable with. This can be useful as if you find that a lot of your clients prefer French, for example, you might offer some materials in French to increase sales and popularity.</p>
+<p>এই চার্ট দেখাবে আপনার ক্লায়েন্ট ডিভাইসে প্রাথমিক ভাষা কি ইনস্টল করা হয়েছে। এটি সাধারণত তারা সবচেয়ে আরামদায়ক ভাষা. এটি কার্যকর হতে পারে যদি আপনি দেখতে পান যে আপনার অনেক ক্লায়েন্ট ফরাসি পছন্দ করে, উদাহরণস্বরূপ, আপনি বিক্রয় এবং জনপ্রিয়তা বাড়াতে ফরাসি ভাষায় কিছু উপকরণ অফার করতে পারেন।</p>
 
-<h3>Scans By Country and City</h3>
+<h3>দেশ এবং শহর দ্বারা স্ক্যান</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 6 - scans by country and city.png"
-        alt="Scans by country and city chart - QR code generator ScanMeFindMe">
+        alt="দেশ এবং শহরের চার্ট দ্বারা স্ক্যান - QR কোড জেনারেটর ScanMeFindMe">
 </p>
 
-<p><a href="#pro">ScanMeFindMe PRO</a> also tracks scans by city and country. This is done from tracking the IP address of the mobile operator or internet service provider where the device is connected to. Do note that the geolocation chart only gives an approximate location of where the scans originated. </p>
+<p><a href="#pro">ScanMeFindMe PRO</a> শহর এবং দেশ অনুসারে স্ক্যানগুলিও ট্র্যাক করে। এটি মোবাইল অপারেটর বা ইন্টারনেট পরিষেবা প্রদানকারীর IP ঠিকানা ট্র্যাক করা থেকে করা হয় যেখানে ডিভাইসটি সংযুক্ত রয়েছে৷ মনে রাখবেন যে ভূ-অবস্থান চার্ট শুধুমাত্র একটি আনুমানিক অবস্থান দেয় যেখানে স্ক্যানগুলি শুরু হয়েছিল৷</p>
 
-<p>You may occasionally see scans from a different city or even country and it may seem surprising, especially if your QR code could not have possibly gotten there (for example, if it is a sticker on your office entrance). This usually means that somebody with a mobile phone from that country scanned your code while being on mobile data roaming.</p>
+<p>আপনি মাঝে মাঝে একটি ভিন্ন শহর বা এমনকি দেশ থেকে স্ক্যান দেখতে পারেন এবং এটি আশ্চর্যজনক বলে মনে হতে পারে, বিশেষ করে যদি আপনার QR কোড সম্ভবত সেখানে না পাওয়া যায় (উদাহরণস্বরূপ, যদি এটি আপনার অফিসের প্রবেশপথে একটি স্টিকার হয়)। সাধারণত এর মানে হল যে মোবাইল ডেটা রোমিংয়ে থাকাকালীন সেই দেশের মোবাইল ফোন সহ কেউ আপনার কোড স্ক্যান করেছে৷</p>
 
-<h3>Last Scans</h3>
+<h3>শেষ স্ক্যান</h3>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans.png"
-        alt="Last scans list - QR code generator ScanMeFindMe">
+        alt="শেষ স্ক্যান তালিকা - QR কোড জেনারেটর ScanMeFindMe">
 </p>
 
-<p>This table is populated with historical scan data. You'll find the finer details of each scan such as the date, time, country, language, OS and browser. </p>
+<p>এই সারণীটি ঐতিহাসিক স্ক্যান ডেটা দিয়ে তৈরি। আপনি প্রতিটি স্ক্যানের সূক্ষ্ম বিবরণ যেমন তারিখ, সময়, দেশ, ভাষা, OS এবং ব্রাউজার খুঁজে পাবেন।</p>
 
-<h2>How To View And Download The Scan Statistics?</h2>
+<h2>কিভাবে স্ক্যান পরিসংখ্যান দেখুন এবং ডাউনলোড করবেন?</h2>
 
-<p>All ScanMeFindMe PRO users have access to the statistics, which are displayed on the dashboard. You can also access the charts and tables via the 'Statistics' button on each of the dynamic codes.</p>
+<p>সমস্ত ScanMeFindMe PRO ব্যবহারকারীদের পরিসংখ্যানগুলিতে অ্যাক্সেস রয়েছে, যা ড্যাশবোর্ডে প্রদর্শিত হয়। আপনি প্রতিটি গতিশীল কোডের &#39;পরিসংখ্যান&#39; বোতামের মাধ্যমে চার্ট এবং টেবিলগুলি অ্যাক্সেস করতে পারেন।</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 8 - dynamic codes-statistic.png"
-        alt="Individual QR code statistics - ScanMeFindMe">
+        alt="স্বতন্ত্র QR কোড পরিসংখ্যান - ScanMeFindMe">
 </p>
 
-<p>The Last Scans table can be downloaded in CSV (comma-separated values) format, which can be used for in-depth analysis.</p>
+<p>শেষ স্ক্যান টেবিলটি CSV (কমা-বিচ্ছিন্ন মান) বিন্যাসে ডাউনলোড করা যেতে পারে, যা গভীরভাবে বিশ্লেষণের জন্য ব্যবহার করা যেতে পারে।</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_statistics/files/img 7 - last scans - download as CSV.png"
-        alt="Download scans statistics - QR code generator ScanMeFindMe">
+        alt="স্ক্যান পরিসংখ্যান ডাউনলোড করুন - QR কোড জেনারেটর ScanMeFindMe">
 </p>
 
-<p>You don't want to miss out on the scan statistics that can drive your marketing campaign in the right direction.</p>
+<p>আপনি স্ক্যান পরিসংখ্যানগুলি মিস করতে চান না যা আপনার বিপণন প্রচারকে সঠিক দিকে চালিত করতে পারে।</p>
 
-<p><a href="#pro">Sign up for a ScanMeFindMe PRO account now.</a></p>
+<p><a href="#pro">এখন একটি ScanMeFindMe PRO অ্যাকাউন্টের জন্য সাইন আপ করুন৷</a></p>

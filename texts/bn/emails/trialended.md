@@ -1,5 +1,5 @@
-Your trial period at ScanMeFindMe has ended
+ScanMeFindMe-এ আপনার ট্রায়ালের মেয়াদ শেষ হয়েছে
 
-<h1>Hello {{name}},</h1>
-<h2>Yor trial period on ScanMeFindMe has now ended.</h2>
-<p>You can still log in and upgrade to a plan, or otherwise your account and all your QR codes will be deleted after 30 days.</p>
+<h1>হ্যালো {{name}},</h1>
+<h2> ScanMeFindMe-এ আপনার পরীক্ষার সময়কাল এখন শেষ হয়েছে৷</h2>
+<p> আপনি এখনও লগ ইন করতে পারেন এবং একটি প্ল্যানে আপগ্রেড করতে পারেন, অন্যথায় আপনার অ্যাকাউন্ট এবং আপনার সমস্ত QR কোড 30 দিন পরে মুছে ফেলা হবে৷</p>

@@ -1,5 +1,5 @@
-Welcome to ScanMeFindMe
+ScanMeFindMe এ স্বাগতম
 
-<h1>Hello {{name}},</h1>
-<h2>Welcome to your trial at ScanMeFindMe.</h2>
-<p>Your trial period will expire on {{expires}}.</p>
+<h1>হ্যালো {{name}},</h1>
+<h2> ScanMeFindMe এ আপনার ট্রায়ালে স্বাগতম।</h2>
+<p> আপনার ট্রায়ালের মেয়াদ {{expires}} তারিখে শেষ হবে৷</p>

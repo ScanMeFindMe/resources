@@ -1,72 +1,72 @@
-<h1>How to add borders and captions to the QR codes</h1>
+<h1>QR কোডগুলিতে কীভাবে সীমানা এবং ক্যাপশন যুক্ত করবেন</h1>
 
 --- Abstract / Meta description ---
 
-Learn how to add borders and captions that make your QR code unique. Style your QR code with a catchy call-to-actions to boost conversion.
+আপনার QR কোডকে অনন্য করে তোলে এমন সীমানা এবং ক্যাপশন কীভাবে যোগ করবেন তা শিখুন। রূপান্তরকে উৎসাহিত করতে একটি আকর্ষণীয় কল-টু-অ্যাকশন সহ আপনার QR কোডকে স্টাইল করুন।
 
 --- Short content 1 ---
 
-Learn how to add catchy phrases with QR codes captions. Choose from pre-defined templates or create your own with a PRO account.
+QR কোড ক্যাপশন সহ আকর্ষণীয় বাক্যাংশগুলি কীভাবে যুক্ত করবেন তা শিখুন। পূর্ব-নির্ধারিত টেমপ্লেটগুলি থেকে চয়ন করুন বা একটি PRO অ্যাকাউন্ট দিয়ে নিজের তৈরি করুন৷
 
 ----------
 
-<p>For marketers, everything comes out to conversion. If you have a brilliant ad designed, it's for nothing if the audience doesn't reach out in one way or another.</p>
+<p>বিপণনকারীদের জন্য, সবকিছু রূপান্তর থেকে বেরিয়ে আসে। আপনার যদি একটি দুর্দান্ত বিজ্ঞাপন ডিজাইন করা থাকে, তাহলে দর্শকরা যদি কোনো না কোনো উপায়ে না পৌঁছায় তাহলে তা কোনো কাজেই আসবে না।</p>
 
-<p><a href="#static:url">QR codes</a> are a useful marketing tool, but adding a plain-format QR code doesn't do justice to the creative works done on marketing materials.</p>
+<p><a href="#static:url">QR কোড</a> একটি দরকারী বিপণন সরঞ্জাম, কিন্তু একটি প্লেইন-ফরম্যাট QR কোড যোগ করা বিপণন সামগ্রীতে করা সৃজনশীল কাজের প্রতি সুবিচার করে না।</p>
 
-<p>Without a little nudge, the audience may skip over the QR code, even when it's in plain sight. Often, a call-to-action (CTA) and a unique presentation are what it takes to get users to scan the QR code.</p>
+<p>সামান্য ধাক্কা ছাড়া, দর্শকরা QR কোডটি এড়িয়ে যেতে পারে, এমনকি যখন এটি সরল দৃষ্টিতে থাকে। প্রায়শই, একটি কল-টু-অ্যাকশন (CTA) এবং একটি অনন্য উপস্থাপনা যা ব্যবহারকারীদের QR কোড স্ক্যান করার জন্য লাগে।</p>
 
-<h2>Why Add Borders And Captions To QR Codes?</h2>
+<h2>কেন QR কোডগুলিতে সীমানা এবং ক্যাপশন যুক্ত করবেন?</h2>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - templates.png"
-        alt="QR code templates - ScanMeFindMe">
+        alt="QR কোড টেমপ্লেট - ScanMeFindMe">
 </p>
 
-<p>Instead of sticking with the default format, you'll want to add a 'Scan Me' text along with the QR code. People may have developed 'QR code blindness' when seeing so many of them in their daily lives. </p>
+<p>ডিফল্ট বিন্যাসের সাথে লেগে থাকার পরিবর্তে, আপনি QR কোডের সাথে একটি &#39;স্ক্যান মি&#39; পাঠ্য যোগ করতে চাইবেন। লোকেরা তাদের দৈনন্দিন জীবনে তাদের অনেকগুলি দেখে &#39;QR কোড অন্ধত্ব&#39; তৈরি করতে পারে।</p>
 
-<p>However, a 'Scan Me' text and a unique border draw their attention to the QR code. The CTA leaves no doubt on what the audience should do next: scan the QR code. </p>
+<p>যাইহোক, একটি &#39;স্ক্যান মি&#39; পাঠ্য এবং একটি অনন্য বর্ডার QR কোডের প্রতি তাদের দৃষ্টি আকর্ষণ করে। CTA শ্রোতাদের পরবর্তীতে কী করা উচিত তা নিয়ে কোনো সন্দেহ নেই: QR কোড স্ক্যান করুন।</p>
 
-<p>You can also add text that previews what's on the other side of the QR code. For example, an 'App Store' text tells the users that they're about to be redirected to your app on Apple App Store. Or a simple 'Menu' to get users to check out what's offered by your restaurant.</p>
+<p>এছাড়াও আপনি পাঠ্য যোগ করতে পারেন যা QR কোডের অন্য দিকের পূর্বরূপ দেখায়। উদাহরণস্বরূপ, একটি &#39;অ্যাপ স্টোর&#39; পাঠ্য ব্যবহারকারীদের বলে যে তারা অ্যাপল অ্যাপ স্টোরে আপনার অ্যাপে পুনঃনির্দেশিত হতে চলেছে। অথবা একটি সাধারণ &#39;মেনু&#39; যাতে ব্যবহারকারীরা আপনার রেস্তোরাঁর দ্বারা কী অফার করে তা চেক করতে পারেন৷</p>
 
-<p>The idea is, you'll want to instill trust and remove any uncertainties with QR codes. Customers like to have an idea of what they're getting into before they scan the QR. With the right borders and captions, you can do precisely that and increase conversions.</p>
+<p>ধারণাটি হল, আপনি বিশ্বাস স্থাপন করতে এবং QR কোডগুলির সাথে যেকোনো অনিশ্চয়তা দূর করতে চাইবেন। গ্রাহকরা QR স্ক্যান করার আগে তারা কী করছেন সে সম্পর্কে ধারণা পেতে চান। সঠিক সীমানা এবং ক্যাপশন দিয়ে, আপনি সঠিকভাবে এটি করতে পারেন এবং রূপান্তর বাড়াতে পারেন।</p>
 
-<p>Even in the <a href="#static:url">Free version of QR code generator</a> you can modify the captions on the templates. Change the default <strong>"Scan me"</strong> to <strong>"More info"</strong>, <strong>"Our menu"</strong>, your instagram handle or a phone number. If your text is too long or too short, you can descrease or increase the font size to make it look better.</p>
+<p>এমনকি <a href="#static:url">QR কোড জেনারেটরের বিনামূল্যের সংস্করণেও</a> আপনি টেমপ্লেটের ক্যাপশন পরিবর্তন করতে পারেন। ডিফল্ট <strong>&quot;আমাকে স্ক্যান করুন&quot;</strong> পরিবর্তন করুন <strong>&quot;আরো তথ্য&quot;</strong> , <strong>&quot;আমাদের মেনু&quot;</strong> , আপনার ইনস্টাগ্রাম হ্যান্ডেল বা একটি ফোন নম্বর। আপনার টেক্সট খুব লম্বা বা খুব ছোট হলে, আপনি ফন্টের আকার কমাতে বা বাড়াতে পারেন যাতে এটি আরও ভাল দেখায়।</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
-        alt="QR code for instagram handle - ScanMeFindMe">
+        alt="ইনস্টাগ্রাম হ্যান্ডেলের জন্য QR কোড - ScanMeFindMe">
 </p>
 
-<p>Personalizing your QR codes with templates not only helps with marketing but also prevents confusion when you're sorting them out. Imagine you're about to print dozens of QR codes in different materials, and you'll need to scan them for verification manually. By having captions and borders, you'll know what they are meant for just by their visual appearance.</p>
+<p>টেমপ্লেটগুলির সাথে আপনার QR কোডগুলিকে ব্যক্তিগতকৃত করা শুধুমাত্র বিপণনের ক্ষেত্রেই সাহায্য করে না কিন্তু আপনি যখন সেগুলি সাজান তখন বিভ্রান্তিও প্রতিরোধ করে৷ কল্পনা করুন যে আপনি বিভিন্ন উপকরণে কয়েক ডজন QR কোড প্রিন্ট করতে চলেছেন, এবং আপনাকে ম্যানুয়ালি যাচাইয়ের জন্য সেগুলি স্ক্যান করতে হবে। ক্যাপশন এবং সীমানা থাকার দ্বারা, আপনি তাদের চাক্ষুষ চেহারা দ্বারা বোঝানো হয় কি জানতে পারবেন।</p>
 
-<h2>How To Create Your Own Templates</h2>
+<h2>কিভাবে আপনার নিজের টেমপ্লেট তৈরি করতে হয়</h2>
 
-<p>When you're using <a href="#pro">ScanMeFindMe PRO</a>, you have access to a set of pre-designed templates. However, you can also design your own templates, upload them and personalize the <a href="#static:url">QR code generated on our platform</a>.</p>
+<p>আপনি যখন <a href="#pro">ScanMeFindMe PRO</a> ব্যবহার করছেন, তখন আপনার পূর্ব-পরিকল্পিত টেমপ্লেটগুলির একটি সেটে অ্যাক্সেস থাকে৷ যাইহোক, আপনি আপনার নিজস্ব টেমপ্লেট ডিজাইন করতে, সেগুলি আপলোড করতে এবং <a href="#static:url">আমাদের প্ল্যাটফর্মে জেনারেট করা QR কোড</a> ব্যক্তিগতকৃত করতে পারেন।</p>
 
-<p>Not only that, you can also <a href="#article:about_presets">create presets</a> that include your choice of templates to save time in the future. </p>
+<p>শুধু তাই নয়, আপনি ভবিষ্যতে সময় বাঁচাতে আপনার পছন্দের টেমপ্লেটগুলি অন্তর্ভুক্ত করে <a href="#article:about_presets">এমন প্রিসেটও তৈরি</a> করতে পারেন।</p>
 
-<p>Now, how do you create your own templates?</p>
+<p>এখন, কিভাবে আপনি আপনার নিজস্ব টেমপ্লেট তৈরি করবেন?</p>
 
-<p>The templates are image files in the SVG format. An SVG image is an XML file containing tags representing different elements. Web browsers use the information from the file to render the image at any resolution. You can create an SVG file via graphic design software like Adobe Illustrator or use a JPEG/PNG to SVG converter.</p>
+<p>টেমপ্লেটগুলি হল SVG ফর্ম্যাটে ইমেজ ফাইল। একটি SVG চিত্র হল একটি XML ফাইল যাতে বিভিন্ন উপাদানের প্রতিনিধিত্বকারী ট্যাগ থাকে। ওয়েব ব্রাউজার যেকোন রেজোলিউশনে ছবি রেন্ডার করতে ফাইল থেকে তথ্য ব্যবহার করে। আপনি Adobe Illustrator-এর মতো গ্রাফিক ডিজাইন সফ্টওয়্যারের মাধ্যমে একটি SVG ফাইল তৈরি করতে পারেন বা একটি JPEG/PNG থেকে SVG রূপান্তরকারী ব্যবহার করতে পারেন।</p>
 
-<p>The quickest way to create a template is to duplicate one from the library and edit the SVG source.</p>
+<p>একটি টেমপ্লেট তৈরি করার দ্রুততম উপায় হল লাইব্রেরি থেকে একটি নকল করা এবং SVG উৎস সম্পাদনা করা।</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
-        alt="Editing QR code template - ScanMeFindMe">
+        alt="QR কোড টেমপ্লেট সম্পাদনা - ScanMeFindMe">
 </p>
 
-<p>For a template to work on ScanMeFindMe, it must have a <strong class="notranslate">&lt;rect&gt;</strong> element with <strong class="notranslate">id="qr"</strong>, which will be substituted with the QR code when it is generated.</p>
+<p>ScanMeFindMe-এ কাজ করার জন্য একটি টেমপ্লেটের জন্য, এটিতে <strong class="notranslate">id=&quot;qr&quot;</strong> সহ একটি <strong class="notranslate">&lt;rect&gt;</strong> উপাদান থাকতে হবে, যেটি তৈরি হলে QR কোড দিয়ে প্রতিস্থাপিত হবে।</p>
 
-<p>You can also include <strong class="notranslate">&lt;text&gt;</strong> elements, if those elements have an <strong class="notranslate">id</strong> attribute, they will become captions that you can modify for each QR code that uses this template. Additionally, if such <span class="notranslate">&lt;text&gt;</span> elements contain the <strong class="notranslate">font-size</strong> attribute, you'll be able to change the font size for each QR code using the same template.</p>
+<p>আপনি <strong class="notranslate">&lt;text&gt;</strong> উপাদানগুলিও অন্তর্ভুক্ত করতে পারেন, যদি সেই উপাদানগুলির একটি <strong class="notranslate">id</strong> বৈশিষ্ট্য থাকে, তবে সেগুলি ক্যাপশন হয়ে যাবে যা আপনি এই টেমপ্লেটটি ব্যবহার করে এমন প্রতিটি QR কোডের জন্য পরিবর্তন করতে পারেন৷ উপরন্তু, যদি এই ধরনের <span class="notranslate">&lt;text&gt;</span> উপাদানগুলিতে <strong class="notranslate">font-size</strong> অ্যাট্রিবিউট থাকে, আপনি একই টেমপ্লেট ব্যবহার করে প্রতিটি QR কোডের জন্য ফন্টের আকার পরিবর্তন করতে সক্ষম হবেন।</p>
 
-<p>Beware of some limitations! ScanMeFindMe uses the <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> library to convert generated QR codes to PNG, PDF and PS formats. Some complicated SVG elements may not be converted correctly. For security reasons @include directive is ignored during conversion, so you can not include any external URLs (with the exception of the fonts that we installed on our server).</p>
+<p>কিছু সীমাবদ্ধতা থেকে সাবধান! ScanMeFindMe তৈরি করা QR কোডগুলিকে PNG, PDF এবং PS ফর্ম্যাটে রূপান্তর করতে <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> লাইব্রেরি ব্যবহার করে৷ কিছু জটিল SVG উপাদান সঠিকভাবে রূপান্তরিত নাও হতে পারে। নিরাপত্তার কারণে @include নির্দেশিকা রূপান্তরের সময় উপেক্ষা করা হয়, তাই আপনি কোনো বাহ্যিক ইউআরএল অন্তর্ভুক্ত করতে পারবেন না (আমাদের সার্ভারে আমরা যে ফন্টগুলি ইনস্টল করেছি তা বাদ দিয়ে)।</p>
 
-<h2>What Fonts Are Supported? </h2>
+<h2>কোন ফন্ট সমর্থিত?</h2>
 
-<p>Rather than going into an endless serif vs. san serif argument, we let you decide what's the best with several commonly-used fonts. You can find the fonts that are pre-installed on the server in our Github repository: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
+<p>একটি অন্তহীন সেরিফ বনাম সান সেরিফ বিতর্কে যাওয়ার পরিবর্তে, আমরা আপনাকে সিদ্ধান্ত নিতে দিই যে কয়েকটি সাধারণভাবে ব্যবহৃত ফন্টগুলির সাথে কোনটি সেরা। আপনি আমাদের Github সংগ্রহস্থলে সার্ভারে প্রাক-ইনস্টল করা ফন্টগুলি খুঁজে পেতে পারেন: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
 
-<p>If you feel we're missing out on an interesting font for fellow marketers, you can submit a pull request. Generally, we prefer fonts that support multiple languages.</p>
+<p>আপনি যদি মনে করেন যে আমরা সহযোগী বিপণনকারীদের জন্য একটি আকর্ষণীয় ফন্ট মিস করছি, আপনি একটি পুল অনুরোধ জমা দিতে পারেন। সাধারণত, আমরা একাধিক ভাষা সমর্থন করে এমন ফন্ট পছন্দ করি।</p>
 
-<p>Start uploading your own templates with a <a href="#pro">ScanMeFindMe PRO account</a> now.</p>
+<p>এখনই একটি <a href="#pro">ScanMeFindMe PRO অ্যাকাউন্ট</a> দিয়ে আপনার নিজস্ব টেমপ্লেট আপলোড করা শুরু করুন৷</p>

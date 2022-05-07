@@ -14,5 +14,6 @@
   "hi": {"long": "hi-IN"},
   "ko": {"long": "ko-KR"},
   "ms": {"long": "ms-MY"},
+  "bn": {"long": "bn-BD"},
   "cn": {"long": "zh-CN"}
 }

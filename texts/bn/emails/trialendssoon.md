@@ -1,5 +1,5 @@
-Your trial period at ScanMeFindMe is about to expire
+ScanMeFindMe এ আপনার ট্রায়ালের মেয়াদ শেষ হতে চলেছে৷
 
-<h1>Hello {{name}},</h1>
-<h2>Are you enjoying generating QR codes on ScanMeFindMe so far?</h2>
-<p>This is just a reminder that your trial period will expire on {{expires}}.</p>
+<h1>হ্যালো {{name}},</h1>
+<h2> আপনি কি এখন পর্যন্ত ScanMeFindMe-এ QR কোড তৈরি করা উপভোগ করছেন?</h2>
+<p> এটি শুধুমাত্র একটি অনুস্মারক যে আপনার ট্রায়ালের মেয়াদ {{expires}} তারিখে শেষ হবে৷</p>

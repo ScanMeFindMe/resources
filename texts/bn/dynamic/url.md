@@ -1,8 +1,8 @@
-<h1>[Create a short url] Create a QR code for a website or URL</h1>
+<h1>[একটি ছোট ইউআরএল তৈরি করুন] একটি ওয়েবসাইট বা URL এর জন্য একটি QR কোড তৈরি করুন৷</h1>
 
 --- Example header ---
 
-Short URL example
+সংক্ষিপ্ত URL উদাহরণ
 
 ----------
 
@@ -11,14 +11,14 @@ Short URL example
         <img src="https://media.scanmefindme.com/dynamic/url/url-popup-qr.svg" width="100%" height="auto"
             alt="QR">
     </div>
-    <p>This QR code points to the short url
+    <p> এই QR কোডটি সংক্ষিপ্ত url
         <a href="http://qrs.re/example1" target="_blank" rel="noopener" class="smfm-externallink">http://qrs.re/example1</a>
-    </p>
+    নির্দেশ করে৷</p>
 </div>
 
-<p class="mb-7">It will take you to the google form. At any moment, the owner can change where the link redirects to without having to make a new QR code.</p>
+<p class="mb-7">এটি আপনাকে গুগল ফর্মে নিয়ে যাবে। যেকোন মুহুর্তে, নতুন QR কোড না করেই লিঙ্কটি যেখানে রিডাইরেক্ট করবে মালিক পরিবর্তন করতে পারেন।</p>
 
 <p>
     <img src="https://media.scanmefindme.com/dynamic/url/url-popup-dahsboard.png" width="100%" height="auto"
-        alt="QR code scans statistics - ScanMeFindMe">
+        alt="QR কোড পরিসংখ্যান স্ক্যান করে - ScanMeFindMe">
 </p>
