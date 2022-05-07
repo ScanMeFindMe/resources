@@ -1,3 +1,3 @@
-<h1>[Event] Create a QR code for a Calendar event</h1>
+<h1>[Evenement] Maak een QR-code voor een kalendergebeurtenis</h1>
 
 ----------

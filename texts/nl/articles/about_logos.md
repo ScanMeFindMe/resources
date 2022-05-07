@@ -1,73 +1,73 @@
-<h1>Adding logos to QR codes</h1>
+<h1>Logo&#39;s toevoegen aan QR-codes</h1>
 
 --- Abstract / Meta description ---
 
-Adding logos to QR codes helps in increasing brand awareness, trust, and scan-through rate. Learn how you can do so without compromising the QR code's integrity
+Het toevoegen van logo&#39;s aan QR-codes helpt bij het vergroten van de naamsbekendheid, het vertrouwen en de scan-through rate. Ontdek hoe u dit kunt doen zonder de integriteit van de QR-code in gevaar te brengen
 
 --- Short content 1 ---
 
-Upload and add a logo to the QR code. Personalize its size and positioning
+Upload en voeg een logo toe aan de QR-code. Personaliseer de grootte en positionering
 
 --- Short content 2 ---
 
-Higher error correction level allows for a bigger part of the QR code to be damaged but still be scannable. Choose higher error correction level if you plan to add a logo to the code. "Automatic" means that error correction level will be medium without logo and very high with a logo. The different error correction levels will change the appearance of your QR code.
+Een hoger foutcorrectieniveau zorgt ervoor dat een groter deel van de QR-code kan worden beschadigd, maar nog steeds kan worden gescand. Kies een hoger foutcorrectieniveau als u van plan bent een logo aan de code toe te voegen. &quot;Automatisch&quot; betekent dat het foutcorrectieniveau gemiddeld is zonder logo en zeer hoog met een logo. De verschillende foutcorrectieniveaus zullen het uiterlijk van uw QR-code veranderen.
 
 ----------
 
-<p>The emergence of QR codes has transformed marketing. It encourages customer engagement, makes information more accessible, and adds flexibility to marketing. </p>
+<p>De opkomst van QR-codes heeft marketing getransformeerd. Het stimuleert klantbetrokkenheid, maakt informatie toegankelijker en voegt flexibiliteit toe aan marketing.</p>
 
-<p>However, a little bit of personalization can go a long way in increasing brand exposure and awareness. Adding a logo to a QR code is a step towards getting more scans, leads, and conversions.   </p>
+<p>Een klein beetje personalisatie kan echter een grote bijdrage leveren aan het vergroten van de bekendheid en bekendheid van het merk. Het toevoegen van een logo aan een QR-code is een stap in de richting van meer scans, leads en conversies.</p>
 
-<h2> Why Should You Add Logos To Your QR Codes?</h2>
+<h2>Waarom zou u logo&#39;s aan uw QR-codes toevoegen?</h2>
 
-<p>Imagine printing plain QR codes onto leaflets, product packagings, banners, and other marketing materials. While the QR codes work perfectly, they do nothing to convey your brand identity.</p>
+<p>Stelt u zich eens voor dat u gewone QR-codes print op folders, productverpakkingen, banners en ander marketingmateriaal. Hoewel de QR-codes perfect werken, doen ze niets om uw merkidentiteit over te brengen.</p>
 
-<p>In business, it's important to increase awareness and instill brand loyalty amongst your customers. Logos are the most identifiable element that customers associate with a brand. You'll want your QR code to stand out from those printed in the plain, default format.</p>
+<p>In het bedrijfsleven is het belangrijk om de bekendheid te vergroten en merkloyaliteit bij uw klanten te creëren. Logo&#39;s zijn het meest herkenbare element dat klanten associëren met een merk. U wilt dat uw QR-code opvalt tussen de QR-codes die zijn afgedrukt in het gewone, standaardformaat.</p>
 
-<p>Customers associate logos with the company. By adding it to the QR code, you instill trust amongst the customers, and they'll have little hesitation about scanning it. If you're using a plain QR code, people may question if scanning the QR code is safe.</p>
+<p>Klanten associëren logo&#39;s met het bedrijf. Door het aan de QR-code toe te voegen, wekt u vertrouwen bij de klanten en zullen ze weinig aarzelen om het te scannen. Als u een gewone QR-code gebruikt, kunnen mensen zich afvragen of het scannen van de QR-code veilig is.</p>
 
-<h2>Does Adding A Logo Affect QR Code Scanability?</h2>
+<h2>Heeft het toevoegen van een logo invloed op de scanbaarheid van QR-codes?</h2>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr code with logo.png"
-        alt="QR code logo example - ScanMeFindMe">
+        alt="Voorbeeld van QR-codelogo - ScanMeFindMe">
 </p>
 
-<p>QR codes store information in segments of dots and spaces within the scannable area. When you add a logo, it occupies an area that's supposed to hold part of the encoded information.</p>
+<p>QR-codes slaan informatie op in segmenten van punten en spaties binnen het scanbare gebied. Wanneer u een logo toevoegt, neemt het een gebied in beslag dat een deel van de gecodeerde informatie zou moeten bevatten.</p>
 
-<p>The question is, will it affect the QR code's integrity in any manner?</p>
+<p>De vraag is, zal het de integriteit van de QR-code op enigerlei wijze beïnvloeden?</p>
 
-<p>If you're using  <a href="#static:url" title="QR code generator ScanMeFindMe">ScanMeFindMe</a>  to add the logo, there will not be any problem in scanning it. This is because QR codes are built with an error-correcting mechanism. Depending on the error correction level, a QR code is still readable even with up to 30% of its area covered up.</p>
+<p>Als u <a href="#static:url" title="QR-codegenerator ScanMeFindMe">ScanMeFindMe</a> gebruikt om het logo toe te voegen, is het geen probleem om het te scannen. Dit komt omdat QR-codes zijn gebouwd met een foutcorrigerend mechanisme. Afhankelijk van het foutcorrectieniveau is een QR-code nog steeds leesbaar, zelfs als tot 30% van het gebied bedekt is.</p>
 
-<p>The trade off is that the QR codes with bigger error correction levels have a bigger “matrix”. Here is the same URL encoded with four different error correction levels: low (L), medium (M), high (H) and very high (Q):</p>
+<p>De wisselwerking is dat de QR-codes met grotere foutcorrectieniveaus een grotere &quot;matrix&quot; hebben. Hier is dezelfde URL gecodeerd met vier verschillende foutcorrectieniveaus: laag (L), gemiddeld (M), hoog (H) en zeer hoog (Q):</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 2 - diff matrix.png"
-        alt="QR code with different error correction levels - ScanMeFindMe">
+        alt="QR-code met verschillende foutcorrectieniveaus - ScanMeFindMe">
 </p>
 
-<p>Of course, you shouldn't cover critical functional elements such as the QR markers and version identifier with the logo. It is, however, generally safe to add a logo in the middle of the QR code.</p>
+<p>Natuurlijk moet u kritieke functionele elementen zoals de QR-markeringen en versie-ID niet afdekken met het logo. Het is echter over het algemeen veilig om een logo in het midden van de QR-code toe te voegen.</p>
 
-<p>When you add a logo to a QR code, you need to set its error correction level to the maximum, which is 30%. Our <a href="#static:url">QR code generator</a>  automatically does that for you and determines the best logo placement based on factors like QR code size and information density.</p>
+<p>Wanneer u een logo aan een QR-code toevoegt, moet u het foutcorrectieniveau op het maximum instellen, namelijk 30%. Onze <a href="#static:url">QR-codegenerator</a> doet dat automatisch voor u en bepaalt de beste plaatsing van uw logo op basis van factoren zoals de grootte van de QR-code en de informatiedichtheid.</p>
 
-<h2> How To Add Logos To QR Codes?</h2>
+<h2>Hoe logo&#39;s aan QR-codes toe te voegen?</h2>
 
-<p>With <a href="#static:url" title="Add logos to QR codes">ScanMeFindMe</a>, adding logos to QR codes is a simple process. There's no complex calculation nor graphic design skills involved.</p>
+<p>Met <a href="#static:url" title="Logo&#39;s toevoegen aan QR-codes">ScanMeFindMe</a> is het toevoegen van logo&#39;s aan QR-codes een eenvoudig proces. Er zijn geen complexe berekeningen of grafische ontwerpvaardigheden bij betrokken.</p>
 
-<p>Upload your business logo and select the thumbnail: it will automatically appear on the QR code. This applies when you're creating any <a href="#about:product">dynamic or static QR codes</a>  on  ScanMeFindMe .</p>
+<p>Upload uw bedrijfslogo en selecteer de thumbnail: deze verschijnt automatisch op de QR-code. Dit is van toepassing wanneer u <a href="#about:product">dynamische of statische QR-codes</a> maakt op ScanMeFindMe.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - adding logo.png" width="600"
-        alt="Adding logo to QR code - ScanMeFindMe">
+        alt="Logo toevoegen aan QR-code - ScanMeFindMe">
 </p>
 
-<p>You can also customize the positioning, size, and style of the logo. Don't worry about compromising the QR code's scannability, as our QR code generator will warn you if the logo is obscuring any of the critical elements.</p>
+<p>U kunt ook de positionering, het formaat en de stijl van het logo aanpassen. Maak je geen zorgen over het in gevaar brengen van de scanbaarheid van de QR-code, want onze QR-codegenerator waarschuwt je als het logo een van de kritieke elementen verdoezelt.</p>
 
-<p>ScanMeFindMe <a href="#static:url">QR generator</a> not only allows you to place the logo in the middle of QR code, you can also make it look more accurate by removing or adding some blocks of the QR code matrix. Depending on the style of your QR code, you can pick the shape and style of your logo and choose different types of rendering blocks in the center of the QR code.</p>
+<p>Met de ScanMeFindMe <a href="#static:url">QR-generator</a> kunt u niet alleen het logo in het midden van de QR-code plaatsen, u kunt het er ook nauwkeuriger uit laten zien door enkele blokken van de QR-codematrix te verwijderen of toe te voegen. Afhankelijk van de stijl van uw QR-code, kunt u de vorm en stijl van uw logo kiezen en verschillende soorten weergaveblokken in het midden van de QR-code kiezen.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - center of qr.png"
-        alt="Example of logo placement on QR code - ScanMeFindMe">
+        alt="Voorbeeld van plaatsing van logo op QR-code - ScanMeFindMe">
 </p>
 
-<p>Try adding your own logos to your QR code with <a href="#pro">ScanMeFindMe Pro</a> now.</p>
+<p>Probeer nu uw eigen logo&#39;s aan uw QR-code toe te voegen met <a href="#pro">ScanMeFindMe Pro</a> .</p>

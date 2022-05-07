@@ -6,6 +6,7 @@
   "pt": {"long": "pt-PT"},
   "it": {"long": "it-IT"},
   "nb": {"long": "nb-NO"},
+  "nl": {"long": "nl-NL"},
   "sv": {"long": "sv-SE"},
   "ar": {"long": "ar-SA", "rtl": true},
   "hi": {"long": "hi-IN"},

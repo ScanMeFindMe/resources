@@ -1,3 +1,3 @@
-<h1>[SMS] Create a QR code for an SMS</h1>
+<h1>[sms] Maak een QR-code voor een sms</h1>
 
 ----------

@@ -1,72 +1,72 @@
-<h1>How to add borders and captions to the QR codes</h1>
+<h1>Randen en bijschriften toevoegen aan de QR-codes</h1>
 
 --- Abstract / Meta description ---
 
-Learn how to add borders and captions that make your QR code unique. Style your QR code with a catchy call-to-actions to boost conversion.
+Leer hoe u randen en bijschriften kunt toevoegen die uw QR-code uniek maken. Style uw QR-code met een pakkende call-to-action om de conversie te stimuleren.
 
 --- Short content 1 ---
 
-Learn how to add catchy phrases with QR codes captions. Choose from pre-defined templates or create your own with a PRO account.
+Leer hoe u pakkende zinnen kunt toevoegen met bijschriften van QR-codes. Kies uit vooraf gedefinieerde sjablonen of maak uw eigen sjablonen met een PRO-account.
 
 ----------
 
-<p>For marketers, everything comes out to conversion. If you have a brilliant ad designed, it's for nothing if the audience doesn't reach out in one way or another.</p>
+<p>Voor marketeers draait alles om conversie. Als je een briljante advertentie laat ontwerpen, is het voor niets als het publiek niet op de een of andere manier contact maakt.</p>
 
-<p><a href="#static:url">QR codes</a> are a useful marketing tool, but adding a plain-format QR code doesn't do justice to the creative works done on marketing materials.</p>
+<p><a href="#static:url">QR-codes</a> zijn een handig marketinginstrument, maar het toevoegen van een QR-code in gewoon formaat doet geen recht aan het creatieve werk dat aan marketingmateriaal wordt gedaan.</p>
 
-<p>Without a little nudge, the audience may skip over the QR code, even when it's in plain sight. Often, a call-to-action (CTA) and a unique presentation are what it takes to get users to scan the QR code.</p>
+<p>Zonder een klein duwtje kan het publiek de QR-code overslaan, zelfs als deze in het zicht is. Vaak zijn een call-to-action (CTA) en een unieke presentatie nodig om gebruikers de QR-code te laten scannen.</p>
 
-<h2>Why Add Borders And Captions To QR Codes?</h2>
+<h2>Waarom randen en bijschriften toevoegen aan QR-codes?</h2>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - templates.png"
-        alt="QR code templates - ScanMeFindMe">
+        alt="QR-codesjablonen - ScanMeFindMe">
 </p>
 
-<p>Instead of sticking with the default format, you'll want to add a 'Scan Me' text along with the QR code. People may have developed 'QR code blindness' when seeing so many of them in their daily lives. </p>
+<p>In plaats van vast te houden aan het standaardformaat, wil je een &#39;Scan Me&#39;-tekst toevoegen samen met de QR-code. Mensen hebben mogelijk &#39;QR-codeblindheid&#39; ontwikkeld toen ze er zoveel in hun dagelijks leven zagen.</p>
 
-<p>However, a 'Scan Me' text and a unique border draw their attention to the QR code. The CTA leaves no doubt on what the audience should do next: scan the QR code. </p>
+<p>Een &#39;Scan Me&#39;-tekst en een unieke rand vestigen echter de aandacht op de QR-code. De CTA laat er geen twijfel over bestaan wat het publiek vervolgens moet doen: scan de QR-code.</p>
 
-<p>You can also add text that previews what's on the other side of the QR code. For example, an 'App Store' text tells the users that they're about to be redirected to your app on Apple App Store. Or a simple 'Menu' to get users to check out what's offered by your restaurant.</p>
+<p>U kunt ook tekst toevoegen die een voorbeeld geeft van wat zich aan de andere kant van de QR-code bevindt. Een &#39;App Store&#39;-tekst vertelt de gebruikers bijvoorbeeld dat ze op het punt staan om doorgestuurd te worden naar uw app in de Apple App Store. Of een eenvoudig &#39;Menu&#39; om gebruikers te laten zien wat uw restaurant te bieden heeft.</p>
 
-<p>The idea is, you'll want to instill trust and remove any uncertainties with QR codes. Customers like to have an idea of what they're getting into before they scan the QR. With the right borders and captions, you can do precisely that and increase conversions.</p>
+<p>Het idee is dat je met QR-codes vertrouwen wilt wekken en onzekerheden wilt wegnemen. Klanten willen graag een idee hebben waar ze aan beginnen voordat ze de QR scannen. Met de juiste randen en bijschriften kun je precies dat doen en conversies verhogen.</p>
 
-<p>Even in the <a href="#static:url">Free version of QR code generator</a> you can modify the captions on the templates. Change the default <strong>"Scan me"</strong> to <strong>"More info"</strong>, <strong>"Our menu"</strong>, your instagram handle or a phone number. If your text is too long or too short, you can descrease or increase the font size to make it look better.</p>
+<p>Zelfs in de <a href="#static:url">gratis versie van de QR-codegenerator</a> kunt u de bijschriften op de sjablonen wijzigen. Wijzig de standaard <strong>&quot;Scan mij&quot;</strong> in <strong>&quot;Meer info&quot;</strong> , <strong>&quot;Ons menu&quot;</strong> , uw instagram-handle of een telefoonnummer. Als uw tekst te lang of te kort is, kunt u de lettergrootte verkleinen of vergroten om deze er beter uit te laten zien.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
-        alt="QR code for instagram handle - ScanMeFindMe">
+        alt="QR-code voor instagram-handvat - ScanMeFindMe">
 </p>
 
-<p>Personalizing your QR codes with templates not only helps with marketing but also prevents confusion when you're sorting them out. Imagine you're about to print dozens of QR codes in different materials, and you'll need to scan them for verification manually. By having captions and borders, you'll know what they are meant for just by their visual appearance.</p>
+<p>Het personaliseren van uw QR-codes met sjablonen helpt niet alleen bij marketing, maar voorkomt ook verwarring wanneer u ze uitzoekt. Stel je voor dat je op het punt staat tientallen QR-codes in verschillende materialen af te drukken, en je moet ze handmatig scannen voor verificatie. Door bijschriften en randen te gebruiken, weet je waar ze voor bedoeld zijn, alleen al door hun visuele uiterlijk.</p>
 
-<h2>How To Create Your Own Templates</h2>
+<h2>Hoe u uw eigen sjablonen kunt maken</h2>
 
-<p>When you're using <a href="#pro">ScanMeFindMe PRO</a>, you have access to a set of pre-designed templates. However, you can also design your own templates, upload them and personalize the <a href="#static:url">QR code generated on our platform</a>.</p>
+<p>Wanneer u <a href="#pro">ScanMeFindMe PRO</a> gebruikt, heeft u toegang tot een set vooraf ontworpen sjablonen. U kunt echter ook uw eigen sjablonen ontwerpen, uploaden en de <a href="#static:url">op ons platform gegenereerde QR-code</a> personaliseren.</p>
 
-<p>Not only that, you can also <a href="#article:about_presets">create presets</a> that include your choice of templates to save time in the future. </p>
+<p>Niet alleen dat, u kunt ook <a href="#article:about_presets">voorinstellingen maken</a> die uw keuze aan sjablonen bevatten om in de toekomst tijd te besparen.</p>
 
-<p>Now, how do you create your own templates?</p>
+<p>Hoe maak je nu je eigen sjablonen?</p>
 
-<p>The templates are image files in the SVG format. An SVG image is an XML file containing tags representing different elements. Web browsers use the information from the file to render the image at any resolution. You can create an SVG file via graphic design software like Adobe Illustrator or use a JPEG/PNG to SVG converter.</p>
+<p>De sjablonen zijn afbeeldingsbestanden in het SVG-formaat. Een SVG-afbeelding is een XML-bestand met tags die verschillende elementen vertegenwoordigen. Webbrowsers gebruiken de informatie uit het bestand om de afbeelding in elke resolutie weer te geven. U kunt een SVG-bestand maken via grafische ontwerpsoftware zoals Adobe Illustrator of een JPEG/PNG naar SVG-converter gebruiken.</p>
 
-<p>The quickest way to create a template is to duplicate one from the library and edit the SVG source.</p>
+<p>De snelste manier om een sjabloon te maken, is door er een uit de bibliotheek te dupliceren en de SVG-bron te bewerken.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
-        alt="Editing QR code template - ScanMeFindMe">
-</p>
+        alt="QR-codesjabloon bewerken - ScanMeFindMe"
+></p>
 
-<p>For a template to work on ScanMeFindMe, it must have a <strong class="notranslate">&lt;rect&gt;</strong> element with <strong class="notranslate">id="qr"</strong>, which will be substituted with the QR code when it is generated.</p>
+<p>Om een sjabloon te laten werken op ScanMeFindMe, moet het een <strong class="notranslate">&lt;rect&gt;</strong> -element hebben met <strong class="notranslate">id=&quot;qr&quot;</strong> , dat zal worden vervangen door de QR-code wanneer het wordt gegenereerd.</p>
 
-<p>You can also include <strong class="notranslate">&lt;text&gt;</strong> elements, if those elements have an <strong class="notranslate">id</strong> attribute, they will become captions that you can modify for each QR code that uses this template. Additionally, if such <span class="notranslate">&lt;text&gt;</span> elements contain the <strong class="notranslate">font-size</strong> attribute, you'll be able to change the font size for each QR code using the same template.</p>
+<p>U kunt ook <strong class="notranslate">&lt;text&gt;</strong> -elementen opnemen. Als die elementen een <strong class="notranslate">id</strong> -attribuut hebben, worden dit bijschriften die u kunt aanpassen voor elke QR-code die deze sjabloon gebruikt. Als dergelijke <span class="notranslate">&lt;text&gt;</span> -elementen het kenmerk <strong class="notranslate">font-size</strong> bevatten, kunt u bovendien de lettergrootte voor elke QR-code wijzigen met dezelfde sjabloon.</p>
 
-<p>Beware of some limitations! ScanMeFindMe uses the <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> library to convert generated QR codes to PNG, PDF and PS formats. Some complicated SVG elements may not be converted correctly. For security reasons @include directive is ignored during conversion, so you can not include any external URLs (with the exception of the fonts that we installed on our server).</p>
+<p>Pas op voor enkele beperkingen! ScanMeFindMe gebruikt de <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG-</a> bibliotheek om gegenereerde QR-codes om te zetten naar PNG-, PDF- en PS-formaten. Sommige gecompliceerde SVG-elementen worden mogelijk niet correct geconverteerd. Om veiligheidsredenen wordt @include-instructie genegeerd tijdens de conversie, dus u kunt geen externe URL&#39;s opnemen (met uitzondering van de lettertypen die we op onze server hebben geïnstalleerd).</p>
 
-<h2>What Fonts Are Supported? </h2>
+<h2>Welke lettertypen worden ondersteund?</h2>
 
-<p>Rather than going into an endless serif vs. san serif argument, we let you decide what's the best with several commonly-used fonts. You can find the fonts that are pre-installed on the server in our Github repository: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
+<p>In plaats van eindeloos in te gaan op een serif vs. san serif-argument, laten we u beslissen wat het beste is met verschillende veelgebruikte lettertypen. U vindt de lettertypen die vooraf op de server zijn geïnstalleerd in onze Github-repository: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
 
-<p>If you feel we're missing out on an interesting font for fellow marketers, you can submit a pull request. Generally, we prefer fonts that support multiple languages.</p>
+<p>Als je denkt dat we een interessant font voor collega-marketeers missen, kun je een pull-verzoek indienen. Over het algemeen geven we de voorkeur aan lettertypen die meerdere talen ondersteunen.</p>
 
-<p>Start uploading your own templates with a <a href="#pro">ScanMeFindMe PRO account</a> now.</p>
+<p>Begin nu met het uploaden van uw eigen sjablonen met een <a href="#pro">ScanMeFindMe PRO-account</a> .</p>

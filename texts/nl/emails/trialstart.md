@@ -1,5 +1,5 @@
-Welcome to ScanMeFindMe
+Welkom bij ScanMeFindMe
 
-<h1>Hello {{name}},</h1>
-<h2>Welcome to your trial at ScanMeFindMe.</h2>
-<p>Your trial period will expire on {{expires}}.</p>
+<h1>Hallo {{naam}},</h1>
+<h2> Welkom bij uw proefversie bij ScanMeFindMe.</h2>
+<p> Uw proefperiode loopt af op {{expires}}.</p>
