@@ -1,3 +1,3 @@
-<h1>[Contact] Create a QR code for contact information</h1>
+<h1>[Kenalan] Buat kod QR untuk maklumat hubungan</h1>
 
 ----------

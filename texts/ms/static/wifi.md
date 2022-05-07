@@ -1,3 +1,3 @@
-<h1>[Wi-Fi] Create a QR code for a Wi-Fi connection</h1>
+<h1>[Wi-Fi] Buat kod QR untuk sambungan Wi-Fi</h1>
 
 ----------

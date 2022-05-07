@@ -1,54 +1,53 @@
-<h1>Save time by creating presets for your QR codes</h1>
+<h1>Jimat masa dengan membuat pratetap untuk kod QR anda</h1>
 
 --- Abstract / Meta description ---
 
-Maximize efficiency when personalizing your QR codes with presets. Save your choices and reuse them any time you want.
+Maksimumkan kecekapan apabila memperibadikan kod QR anda dengan pratetap. Simpan pilihan anda dan gunakan semula pada bila-bila masa anda mahu.
 
 --- Short content 1 ---
 
-Choose a pre-designed preset or create one with selected style, colors, templates, and logo. Reuse them easily when generating QR codes.
+Pilih pratetap yang telah direka bentuk atau buat satu dengan gaya, warna, templat dan logo yang dipilih. Gunakan semula dengan mudah apabila menjana kod QR.
 
 ----------
 
-<p>Having a personalized QR code that captures customer's attention helps in getting more engagement. With fun colors, a catchy caption, and a logo, you'll have a QR code that resonates with your brand value.</p>
+<p>Mempunyai kod QR yang diperibadikan yang menarik perhatian pelanggan membantu dalam mendapatkan lebih banyak penglibatan. Dengan warna yang menyeronokkan, kapsyen menarik dan logo, anda akan mempunyai kod QR yang bergema dengan nilai jenama anda.</p>
 
-<p>Customizing QR codes can be a fun process, but it can be equally taxing if you do it every time you need to generate a QR code. </p>
+<p>Menyesuaikan kod QR boleh menjadi proses yang menyeronokkan, tetapi ia boleh membebankan jika anda melakukannya setiap kali anda perlu menjana kod QR.</p>
 
-<p>This is where you'll want to create presets, a feature exclusive to ScanMeFindMe PRO users.</p>
+<p>Di sinilah anda ingin membuat pratetap, ciri eksklusif untuk pengguna ScanMeFindMe PRO.</p>
 
-<h2>What Are Presets And Why Do You Need Them?</h2>
+<h2>Apakah Pratetap Dan Mengapa Anda Memerlukannya?</h2>
 
-<p>Presets are a memory of customization you've selected or created for a particular QR code. When you're using ScanMeFindMe PRO, you get to personalize the QR code with styles, colors, <a href="#article:about_templates">templates</a>, and <a href="#article:about_logos">logos</a>.</p>
+<p>Pratetap ialah memori penyesuaian yang telah anda pilih atau cipta untuk kod QR tertentu. Apabila anda menggunakan ScanMeFindMe PRO, anda boleh memperibadikan kod QR dengan gaya, warna, <a href="#article:about_templates">templat</a> dan <a href="#article:about_logos">logo</a> .</p>
 
-<p>These selections can be saved as a preset where they can automatically be selected and applied to a new QR code. Technically, a preset contains information on the particular choices of styles, templates, logos, and colors. Presets are valid as long as the individual elements are not renamed or deleted. </p>
+<p>Pilihan ini boleh disimpan sebagai pratetap di mana ia boleh dipilih secara automatik dan digunakan pada kod QR baharu. Secara teknikal, pratetap mengandungi maklumat tentang pilihan gaya, templat, logo dan warna tertentu. Pratetap adalah sah selagi elemen individu tidak dinamakan semula atau dipadamkan.</p>
 
-<p>Here's how you can use presets to save setup time when creating a QR code. </p>
+<p>Begini cara anda boleh menggunakan pratetap untuk menjimatkan masa persediaan semasa membuat kod QR.</p>
 
-<p>You're releasing a series of yoga tutorial videos, and you're <a href="#article:about_static">encoding the links in QR codes.</a> If you're going to personalize the QR code for each episode, you'll need to manually choose the colors, logo, templates, and style.</p>
+<p>Anda sedang mengeluarkan satu siri video tutorial yoga dan anda <a href="#article:about_static">mengekodkan pautan dalam kod QR.</a> Jika anda akan memperibadikan kod QR untuk setiap episod, anda perlu memilih warna, logo, templat dan gaya secara manual.</p>
 
-<p>It's easy to make a mistake, which results in some QR codes looking out of place. Also, you're wasting time repeating a process that can be automated. </p>
+<p>Sangat mudah untuk membuat kesilapan, yang mengakibatkan beberapa kod QR kelihatan tidak pada tempatnya. Selain itu, anda membuang masa mengulangi proses yang boleh diautomasikan.</p>
 
-<p>By saving your choices as a preset, you can reuse the style elements by just loading the same preset when generating the QR code for each episode. </p>
+<p>Dengan menyimpan pilihan anda sebagai pratetap, anda boleh menggunakan semula elemen gaya dengan hanya memuatkan pratetap yang sama apabila menjana kod QR untuk setiap episod.</p>
 
-<h2>How To Create And Save Presets for QR codes</h2>
+<h2>Cara Membuat Dan Menyimpan Pratetap untuk kod QR</h2>
 
-<p>If you're using <a href="#pro">ScanMeFindMe PRO</a>, you can create a preset with the 'Create a new preset' button while you create or edit any QR code in the QR code generator. You can choose a name for your preset so it is easier to use in the <a href="#about:api" title="QR code API">API</a>.</p>
+<p>Jika anda menggunakan <a href="#pro">ScanMeFindMe PRO</a> , anda boleh membuat pratetap dengan butang &#39;Buat pratetap baharu&#39; semasa anda membuat atau mengedit sebarang kod QR dalam penjana kod QR. Anda boleh memilih nama untuk pratetap anda supaya lebih mudah digunakan dalam <a href="#about:api" title="API kod QR">API</a> .</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 1 - Presets.png"
-        alt="Creating a preset from the QR code editor">
+        alt="Mencipta pratetap daripada editor kod QR">
 </p>
 
-<p>Alternatively, you can duplicate an existing preset in the library and customize it. </p>
+<p>Sebagai alternatif, anda boleh menduplikasi pratetap sedia ada dalam pustaka dan menyesuaikannya.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
-        alt="Creating a preset by copying a system one">
+        alt="Mencipta pratetap dengan menyalin satu sistem">
 </p>
 
-<p>Once you're done, the customized preset will appear alongside other pre-installed presets on the selection panel. </p>
+<p>Setelah anda selesai, pratetap tersuai akan muncul bersama pratetap prapasang lain pada panel pemilihan.</p>
 
-<p>Selecting a preset will automatically regenerate the QR code with the selected style and design elements. If you're using our <a href="#static:url">QR code generator</a> from the API, you can invoke the presets by specifying their names.</p>
+<p>Memilih pratetap akan menjana semula kod QR secara automatik dengan gaya dan elemen reka bentuk yang dipilih. Jika anda menggunakan <a href="#static:url">penjana kod QR</a> kami daripada API, anda boleh menggunakan pratetap dengan menyatakan namanya.</p>
 
-<p>Stop re-styling your QR code each time you generate one. Try <a href="#pro">ScanMeFindMe PRO</a> and use presets instead. </p>
-
+<p>Berhenti menggayakan semula kod QR anda setiap kali anda menjana satu. Cuba <a href="#pro">ScanMeFindMe PRO</a> dan sebaliknya gunakan pratetap.</p>

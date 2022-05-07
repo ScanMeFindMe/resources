@@ -1,63 +1,63 @@
-<h1>Using QR codes to share contact details</h1>
+<h1>Menggunakan kod QR untuk berkongsi butiran hubungan</h1>
 
 --- Abstract / Meta description ---
 
-Sharing contact details with QR codes is a greener and more efficient branding strategy. Learn how you could easily create and share digital contacts with QR codes.
+Berkongsi butiran hubungan dengan kod QR ialah strategi penjenamaan yang lebih hijau dan cekap. Ketahui cara anda boleh membuat dan berkongsi kenalan digital dengan mudah dengan kod QR.
 
 --- Short content 1 ---
 
-Store personal contact information, social media handles, and photo/logo with a sharable QR code. Track how often it is scanned.
+Simpan maklumat hubungan peribadi, pemegang media sosial dan foto/logo dengan kod QR yang boleh dikongsi. Jejaki kekerapan ia diimbas.
 
 ----------
 
-<p>If you expect customers to manually store your information from business cards, you need to rethink your branding strategy. Most people find having to save the contact details from a paper business card onto a mobile phone annoying and repetitive.</p>
+<p>Jika anda mengharapkan pelanggan menyimpan maklumat anda secara manual daripada kad perniagaan, anda perlu memikirkan semula strategi penjenamaan anda. Kebanyakan orang mendapati perlu menyimpan butiran hubungan daripada kad perniagaan kertas ke telefon mudah alih menjengkelkan dan berulang.</p>
 
-<p>Besides, did you know that <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% of business cards</a> are thrown off within a week after they are handed out?</p>
+<p>Selain itu, adakah anda tahu bahawa <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% kad perniagaan</a> dibuang dalam masa seminggu selepas ia diedarkan?</p>
 
-<p>That's a staggering number of business cards gone to waste. Not only does it go against many companies' environmental commitment, but it also explains why some clients never reach out to you even when they promised to. </p>
+<p>Itulah jumlah yang mengejutkan kad perniagaan yang telah dibazirkan. Ia bukan sahaja bertentangan dengan komitmen alam sekitar banyak syarikat, tetapi ia juga menerangkan sebab sesetengah pelanggan tidak pernah menghubungi anda walaupun mereka berjanji untuk melakukannya.</p>
 
-<p>Nowadays, more and more business cards have a QR code printed on them, allowing people to easily save the contacts onto smartphones. This should be part of your strategy. </p>
+<p>Pada masa kini, semakin banyak kad perniagaan mempunyai kod QR yang dicetak padanya, membolehkan orang ramai menyimpan kenalan ke telefon pintar dengan mudah. Ini sepatutnya menjadi sebahagian daripada strategi anda.</p>
 
-<h3> Why Use QR Codes For Sharing Contact Details? </h3>
+<h3>Mengapa Gunakan Kod QR Untuk Berkongsi Butiran Hubungan?</h3>
 
-<p>You need to make it easier for clients to save your contacts on their phones, but unfortunately, physical business cards aren't optimized for that.  </p>
+<p>Anda perlu memudahkan pelanggan menyimpan kenalan anda pada telefon mereka, tetapi malangnya, kad perniagaan fizikal tidak dioptimumkan untuk itu.</p>
 
-<p>Busy professionals find it a hassle to browse through stacks of business cards to find the right contact unless they invest in a business card scanner. Still, there's a chance that some cards are misplaced or are already disposed of. </p>
+<p>Profesional yang sibuk mendapati sukar untuk menyemak imbas timbunan kad perniagaan untuk mencari kenalan yang betul melainkan mereka melabur dalam pengimbas kad perniagaan. Namun, ada kemungkinan beberapa kad tersasar atau sudah dilupuskan.</p>
 
-<p><a href="#static:contact">Digitizing your contact details with QR codes</a>   addresses many of the disadvantages of using physical business cards.</p>
+<p><a href="#static:contact">Mendigitalkan butiran hubungan anda dengan kod QR</a> menangani banyak keburukan menggunakan kad perniagaan fizikal.</p>
 
-<p>All your clients have to do is scan the QR code and have all the contact information displayed on the screen.  </p>
+<p>Apa yang pelanggan anda perlu lakukan ialah mengimbas kod QR dan semua maklumat hubungan dipaparkan pada skrin.</p>
 
-<p>With a single button, the user can contact you straight away or save the contact information onto their device. It puts an end to instances where clients misplace or forget your emails or phone numbers. </p>
+<p>Dengan satu butang, pengguna boleh menghubungi anda terus atau menyimpan maklumat hubungan pada peranti mereka. Ia menamatkan keadaan di mana pelanggan tersalah letak atau lupa e-mel atau nombor telefon anda.</p>
 
-<h2> What Contact Information Can Be Stored In A QR Code </h2>
+<h2>Apakah Maklumat Hubungan Yang Boleh Disimpan Dalam Kod QR</h2>
 
-<p>This depends on which type of QR code you are using.</p>
+<p>Ini bergantung pada jenis kod QR yang anda gunakan.</p>
 
-<p>If you're using a static QR code, you can store basic details (such as name, phone, email, website, and address) on the QR code in <a href="#article:about_contactformats">Vcard or MeCard format</a>. When you scan a static QR code, you get to save the contact information onto your smartphone. </p>
+<p>Jika anda menggunakan kod QR statik, anda boleh menyimpan butiran asas (seperti nama, telefon, e-mel, tapak web dan alamat) pada kod QR dalam <a href="#article:about_contactformats">format Vcard atau MeCard</a> . Apabila anda mengimbas kod QR statik, anda boleh menyimpan maklumat hubungan pada telefon pintar anda.</p>
 
-<p><a href="#article:about_static">Static QR codes</a> encode the information directly, limiting how much information you can store. You'll need to use a dynamic QR code to include additional information like a photo/logo or social media handles.  </p>
+<p><a href="#article:about_static">Kod QR statik</a> mengekod maklumat secara langsung, mengehadkan jumlah maklumat yang boleh anda simpan. Anda perlu menggunakan kod QR dinamik untuk memasukkan maklumat tambahan seperti foto/logo atau pemegang media sosial.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png"
-        alt="Contact card fields - ScanMeFindMe">
+        alt="Medan kad kenalan - ScanMeFindMe">
 </p>
 
-<p>Dynamic QR codes work differently from their static counterpart. Instead of encoding the contact details, it stores the information on a webpage and embeds a shortened URL in the QR Code.  </p>
+<p>Kod QR dinamik berfungsi secara berbeza daripada kod statiknya. Daripada mengekod butiran hubungan, ia menyimpan maklumat pada halaman web dan membenamkan URL yang dipendekkan dalam Kod QR.</p>
 
-<p>When users scan the code, they are redirected to the webpage that acts as a digital business card. The displayed contact details can be downloaded and saved into a smartphone's contacts. </p>
+<p>Apabila pengguna mengimbas kod, mereka diubah hala ke halaman web yang bertindak sebagai kad perniagaan digital. Butiran kenalan yang dipaparkan boleh dimuat turun dan disimpan ke dalam kenalan telefon pintar.</p>
 
-<h2> How To Share Contact Details With QR Codes? </h2>
+<h2>Bagaimana Untuk Berkongsi Butiran Hubungan Dengan Kod QR?</h2>
 
-<p>To start sharing your contact details with a QR code, you need to generate one. With a <a href="#pro">ScanMeFIndMe PRO account</a>, you can generate a QR code that contains all your personal information with ease.</p>
+<p>Untuk mula berkongsi butiran hubungan anda dengan kod QR, anda perlu menjana satu. Dengan <a href="#pro">akaun ScanMeFIndMe PRO</a> , anda boleh menjana kod QR yang mengandungi semua maklumat peribadi anda dengan mudah.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - floyd miles - qr.png"
-        alt="Generating QR code for contact card - ScanMeFindMe">
+        alt="Menjana kod QR untuk kad kenalan - ScanMeFindMe">
 </p>
 
-<p>A QR code is automatically created after you have filled in the related fields.</p>
+<p>Kod QR dibuat secara automatik selepas anda mengisi medan yang berkaitan.</p>
 
-<p>Once you're done, you can download the QR code, print it out, or share it digitally. With a dynamic QR code, you can also view how many people have scanned the QR code. We automatically track and record <a href="#article:about_statistics">key metrics</a>   whenever a user scans the QR code to view your contact information, this can help you personalize and improve your marketing strategies.</p>
+<p>Setelah anda selesai, anda boleh memuat turun kod QR, mencetaknya atau berkongsinya secara digital. Dengan kod QR dinamik, anda juga boleh melihat bilangan orang yang telah mengimbas kod QR. Kami menjejak dan merekodkan <a href="#article:about_statistics">metrik utama</a> secara automatik apabila pengguna mengimbas kod QR untuk melihat maklumat hubungan anda, ini boleh membantu anda memperibadikan dan meningkatkan strategi pemasaran anda.</p>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for free now.</a></p>
+<p><a href="#pro">Cuba ScanMeFindMe PRO secara percuma sekarang.</a></p>

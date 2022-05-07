@@ -1,3 +1,3 @@
-<h1>[Facebook] Create a QR code for a Facebook page</h1>
+<h1>[Facebook] Buat kod QR untuk halaman Facebook</h1>
 
 ----------

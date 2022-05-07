@@ -1,73 +1,73 @@
-<h1>Adding logos to QR codes</h1>
+<h1>Menambah logo pada kod QR</h1>
 
 --- Abstract / Meta description ---
 
-Adding logos to QR codes helps in increasing brand awareness, trust, and scan-through rate. Learn how you can do so without compromising the QR code's integrity
+Menambah logo pada kod QR membantu dalam meningkatkan kesedaran jenama, kepercayaan dan kadar imbasan. Ketahui cara anda boleh berbuat demikian tanpa menjejaskan integriti kod QR
 
 --- Short content 1 ---
 
-Upload and add a logo to the QR code. Personalize its size and positioning
+Muat naik dan tambahkan logo pada kod QR. Peribadikan saiz dan kedudukannya
 
 --- Short content 2 ---
 
-Higher error correction level allows for a bigger part of the QR code to be damaged but still be scannable. Choose higher error correction level if you plan to add a logo to the code. "Automatic" means that error correction level will be medium without logo and very high with a logo. The different error correction levels will change the appearance of your QR code.
+Tahap pembetulan ralat yang lebih tinggi membolehkan sebahagian besar kod QR rosak tetapi masih boleh diimbas. Pilih tahap pembetulan ralat yang lebih tinggi jika anda bercadang untuk menambah logo pada kod. &quot;Automatik&quot; bermakna tahap pembetulan ralat akan sederhana tanpa logo dan sangat tinggi dengan logo. Tahap pembetulan ralat yang berbeza akan mengubah rupa kod QR anda.
 
 ----------
 
-<p>The emergence of QR codes has transformed marketing. It encourages customer engagement, makes information more accessible, and adds flexibility to marketing. </p>
+<p>Kemunculan kod QR telah mengubah pemasaran. Ia menggalakkan penglibatan pelanggan, menjadikan maklumat lebih mudah diakses dan menambah fleksibiliti kepada pemasaran.</p>
 
-<p>However, a little bit of personalization can go a long way in increasing brand exposure and awareness. Adding a logo to a QR code is a step towards getting more scans, leads, and conversions.   </p>
+<p>Walau bagaimanapun, sedikit pemperibadian boleh membantu dalam meningkatkan pendedahan dan kesedaran jenama. Menambah logo pada kod QR ialah satu langkah ke arah mendapatkan lebih banyak imbasan, petunjuk dan penukaran.</p>
 
-<h2> Why Should You Add Logos To Your QR Codes?</h2>
+<h2>Mengapa Anda Perlu Menambah Logo Pada Kod QR Anda?</h2>
 
-<p>Imagine printing plain QR codes onto leaflets, product packagings, banners, and other marketing materials. While the QR codes work perfectly, they do nothing to convey your brand identity.</p>
+<p>Bayangkan mencetak kod QR biasa pada risalah, pembungkusan produk, sepanduk dan bahan pemasaran lain. Walaupun kod QR berfungsi dengan sempurna, mereka tidak melakukan apa-apa untuk menyampaikan identiti jenama anda.</p>
 
-<p>In business, it's important to increase awareness and instill brand loyalty amongst your customers. Logos are the most identifiable element that customers associate with a brand. You'll want your QR code to stand out from those printed in the plain, default format.</p>
+<p>Dalam perniagaan, adalah penting untuk meningkatkan kesedaran dan menyemai kesetiaan jenama di kalangan pelanggan anda. Logo ialah elemen yang paling boleh dikenal pasti yang dikaitkan pelanggan dengan jenama. Anda mahu kod QR anda menonjol daripada yang dicetak dalam format lalai biasa.</p>
 
-<p>Customers associate logos with the company. By adding it to the QR code, you instill trust amongst the customers, and they'll have little hesitation about scanning it. If you're using a plain QR code, people may question if scanning the QR code is safe.</p>
+<p>Pelanggan mengaitkan logo dengan syarikat. Dengan menambahkannya pada kod QR, anda menanam kepercayaan di kalangan pelanggan, dan mereka tidak akan teragak-agak untuk mengimbasnya. Jika anda menggunakan kod QR biasa, orang ramai mungkin mempersoalkan sama ada mengimbas kod QR itu selamat.</p>
 
-<h2>Does Adding A Logo Affect QR Code Scanability?</h2>
+<h2>Adakah Menambah Logo Mempengaruhi Kebolehimbasan Kod QR?</h2>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 1 - qr code with logo.png"
-        alt="QR code logo example - ScanMeFindMe">
+        alt="Contoh logo kod QR - ScanMeFindMe">
 </p>
 
-<p>QR codes store information in segments of dots and spaces within the scannable area. When you add a logo, it occupies an area that's supposed to hold part of the encoded information.</p>
+<p>Kod QR menyimpan maklumat dalam segmen titik dan ruang dalam kawasan boleh imbasan. Apabila anda menambah logo, ia menduduki kawasan yang sepatutnya menyimpan sebahagian daripada maklumat yang dikodkan.</p>
 
-<p>The question is, will it affect the QR code's integrity in any manner?</p>
+<p>Persoalannya, adakah ia akan menjejaskan integriti kod QR dalam apa cara sekalipun?</p>
 
-<p>If you're using  <a href="#static:url" title="QR code generator ScanMeFindMe">ScanMeFindMe</a>  to add the logo, there will not be any problem in scanning it. This is because QR codes are built with an error-correcting mechanism. Depending on the error correction level, a QR code is still readable even with up to 30% of its area covered up.</p>
+<p>Jika anda menggunakan <a href="#static:url" title="Penjana kod QR ScanMeFindMe">ScanMeFindMe</a> untuk menambah logo, tidak akan ada masalah untuk mengimbasnya. Ini kerana kod QR dibina dengan mekanisme pembetulan ralat. Bergantung pada tahap pembetulan ralat, kod QR masih boleh dibaca walaupun sehingga 30% kawasannya ditutup.</p>
 
-<p>The trade off is that the QR codes with bigger error correction levels have a bigger “matrix”. Here is the same URL encoded with four different error correction levels: low (L), medium (M), high (H) and very high (Q):</p>
+<p>Pertimbangannya ialah kod QR dengan tahap pembetulan ralat yang lebih besar mempunyai &quot;matriks&quot; yang lebih besar. Berikut ialah URL yang sama yang dikodkan dengan empat tahap pembetulan ralat berbeza: rendah (L), sederhana (M), tinggi (H) dan sangat tinggi (Q):</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 2 - diff matrix.png"
-        alt="QR code with different error correction levels - ScanMeFindMe">
+        alt="Kod QR dengan tahap pembetulan ralat berbeza - ScanMeFindMe">
 </p>
 
-<p>Of course, you shouldn't cover critical functional elements such as the QR markers and version identifier with the logo. It is, however, generally safe to add a logo in the middle of the QR code.</p>
+<p>Sudah tentu, anda tidak sepatutnya merangkumi elemen fungsi kritikal seperti penanda QR dan pengecam versi dengan logo. Walau bagaimanapun, secara amnya selamat untuk menambah logo di tengah-tengah kod QR.</p>
 
-<p>When you add a logo to a QR code, you need to set its error correction level to the maximum, which is 30%. Our <a href="#static:url">QR code generator</a>  automatically does that for you and determines the best logo placement based on factors like QR code size and information density.</p>
+<p>Apabila anda menambah logo pada kod QR, anda perlu menetapkan tahap pembetulan ralatnya kepada maksimum, iaitu 30%. <a href="#static:url">Penjana kod QR</a> kami secara automatik melakukannya untuk anda dan menentukan peletakan logo terbaik berdasarkan faktor seperti saiz kod QR dan kepadatan maklumat.</p>
 
-<h2> How To Add Logos To QR Codes?</h2>
+<h2>Bagaimana Untuk Menambah Logo Pada Kod QR?</h2>
 
-<p>With <a href="#static:url" title="Add logos to QR codes">ScanMeFindMe</a>, adding logos to QR codes is a simple process. There's no complex calculation nor graphic design skills involved.</p>
+<p>Dengan <a href="#static:url" title="Tambahkan logo pada kod QR">ScanMeFindMe</a> , menambah logo pada kod QR ialah proses yang mudah. Tiada pengiraan yang rumit atau kemahiran reka bentuk grafik yang terlibat.</p>
 
-<p>Upload your business logo and select the thumbnail: it will automatically appear on the QR code. This applies when you're creating any <a href="#about:product">dynamic or static QR codes</a>  on  ScanMeFindMe .</p>
+<p>Muat naik logo perniagaan anda dan pilih lakaran kenit: ia akan dipaparkan secara automatik pada kod QR. Ini terpakai apabila anda membuat sebarang <a href="#about:product">kod QR dinamik atau statik</a> pada ScanMeFindMe .</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 3 - adding logo.png" width="600"
-        alt="Adding logo to QR code - ScanMeFindMe">
+        alt="Menambah logo pada kod QR - ScanMeFindMe">
 </p>
 
-<p>You can also customize the positioning, size, and style of the logo. Don't worry about compromising the QR code's scannability, as our QR code generator will warn you if the logo is obscuring any of the critical elements.</p>
+<p>Anda juga boleh menyesuaikan kedudukan, saiz dan gaya logo. Jangan bimbang tentang menjejaskan kebolehimbasan kod QR, kerana penjana kod QR kami akan memberi amaran kepada anda jika logo itu mengaburkan mana-mana elemen kritikal.</p>
 
-<p>ScanMeFindMe <a href="#static:url">QR generator</a> not only allows you to place the logo in the middle of QR code, you can also make it look more accurate by removing or adding some blocks of the QR code matrix. Depending on the style of your QR code, you can pick the shape and style of your logo and choose different types of rendering blocks in the center of the QR code.</p>
+<p>Penjana <a href="#static:url">QR</a> ScanMeFindMe bukan sahaja membenarkan anda meletakkan logo di tengah-tengah kod QR, anda juga boleh menjadikannya kelihatan lebih tepat dengan mengalih keluar atau menambah beberapa blok matriks kod QR. Bergantung pada gaya kod QR anda, anda boleh memilih bentuk dan gaya logo anda dan memilih pelbagai jenis blok pemaparan di tengah-tengah kod QR.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_logos/files/img 4 - center of qr.png"
-        alt="Example of logo placement on QR code - ScanMeFindMe">
+        alt="Contoh peletakan logo pada kod QR - ScanMeFindMe">
 </p>
 
-<p>Try adding your own logos to your QR code with <a href="#pro">ScanMeFindMe Pro</a> now.</p>
+<p>Cuba tambah logo anda sendiri pada kod QR anda dengan <a href="#pro">ScanMeFindMe Pro</a> sekarang.</p>

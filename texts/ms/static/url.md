@@ -1,37 +1,37 @@
-<h1>[URL] Create a QR code for a website or URL</h1>
+<h1>[URL] Buat kod QR untuk tapak web atau URL</h1>
 
 ----------
 
-<h1>Effortless QR Code Solutions For Savvy Marketers</h1>
+<h1>Penyelesaian Kod QR yang Mudah Untuk Pemasar Arif</h1>
 
-<p>Create, download, manage and track QR codes with a single platform. Work with different types of QR codes and personalization to suit your branding strategy.</p>
+<p>Cipta, muat turun, urus dan jejak kod QR dengan satu platform. Bekerja dengan pelbagai jenis kod QR dan pemperibadian agar sesuai dengan strategi penjenamaan anda.</p>
 
-<p><a href="#pro">Try For Free</a></p>
+<p><a href="#pro">Cuba Secara Percuma</a></p>
 
-<h2>Create</h2>
+<h2>Buat</h2>
 
-<p>Generate QR codes for websites, contacts, phones, SMS, and more in simple steps. You don’t have to be a technical wizard.</p>
+<p>Jana kod QR untuk tapak web, kenalan, telefon, SMS dan banyak lagi dengan langkah mudah. Anda tidak perlu menjadi ahli sihir teknikal.</p>
 
-<h2>Customize</h2>
+<h2>Sesuaikan</h2>
 
-<p>Choose from existing designs or add a personal touch to the QR code. Upload your own logo, template and select a color that goes well with your brand. Save time by using presets.</p>
+<p>Pilih daripada reka bentuk sedia ada atau tambahkan sentuhan peribadi pada kod QR. Muat naik logo, templat anda sendiri dan pilih warna yang sesuai dengan jenama anda. Jimat masa dengan menggunakan pratetap.</p>
 
-<h2>Download</h2>
+<h2>Muat turun</h2>
 
-<p>Download QR codes in high-resolution format. Set precise QR code location with advanced page settings.</p>
+<p>Muat turun kod QR dalam format resolusi tinggi. Tetapkan lokasi kod QR yang tepat dengan tetapan halaman lanjutan.</p>
 
-<h2>Manage</h2>
+<h2>Mengurus</h2>
 
-<p>Store and manage all of your QR codes with one solution. Easily search and filter QR codes by tags. Stay organized as you create more QR codes.</p>
+<p>Simpan dan urus semua kod QR anda dengan satu penyelesaian. Cari dan tapis kod QR dengan mudah mengikut teg. Kekal teratur semasa anda membuat lebih banyak kod QR.</p>
 
-<h2>Track</h2>
+<h2>Jejak</h2>
 
-<p>Leverage real-time QR code analytics to track scans, locations, language, platform, and other key metrics. A must-have for data-driven marketing efforts.</p>
+<p>Manfaatkan analitik kod QR masa nyata untuk menjejak imbasan, lokasi, bahasa, platform dan metrik utama yang lain. Mesti ada untuk usaha pemasaran berasaskan data.</p>
 
-<p><a href="#article:about_statistics">Learn More</a></p>
+<p><a href="#article:about_statistics">Ketahui Lebih Lanjut</a></p>
 
-<h2>Unlock Dynamic QR Codes With ScanMeFindMe PRO</h2>
+<h2>Buka kunci Kod QR Dinamik Dengan ScanMeFindMe PRO</h2>
 
-<p>Dynamic QR codes live up to their name. You can dynamically change information after you have printed the QR code. Dynamic QR codes are only available in the ScanMeFindMe PRO</p>
+<p>Kod QR dinamik sesuai dengan namanya. Anda boleh menukar maklumat secara dinamik selepas anda mencetak kod QR. Kod QR dinamik hanya tersedia dalam ScanMeFindMe PRO</p>
 
-<p><a href="#article:about_static">Static vs dynamic QR codes (Learn More)</a></p>
+<p><a href="#article:about_static">Kod QR statik lwn dinamik (Ketahui Lebih Lanjut)</a></p>

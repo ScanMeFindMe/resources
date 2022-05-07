@@ -1,11 +1,11 @@
-<h1>[File] Create a QR code for a file</h1>
+<h1>[Fail] Buat kod QR untuk fail</h1>
 
 --- Text above the form ---
 
-<p class="smfm-static-file-link">Is your file already in the Internet and you just want to create a static link to it?<br>
-<span class="hint">Go straight to <a href="#static:url">Create a QR code for a website or URL</a> and put the link to your file there</span></p>
+<p class="smfm-static-file-link">Adakah fail anda sudah berada di Internet dan anda hanya mahu membuat pautan statik kepadanya?<br>
+<span class="hint">Pergi terus ke <a href="#static:url">Buat kod QR untuk tapak web atau URL</a> dan letakkan pautan ke fail anda di sana</span></p>
 
-<p class="smfm-static-file-upload">Would you like to upload your file (or maybe several files), be able to modify the file at any moment and monitor who has scanned your QR code?<br>
-<span class="hint">Sign up for a <a href="#pro">free trial of the PRO account</a> on ScanMeFindMe and try Dynamic QR codes</span></p>
+<p class="smfm-static-file-upload">Adakah anda ingin memuat naik fail anda (atau mungkin beberapa fail), boleh mengubah suai fail pada bila-bila masa dan memantau siapa yang telah mengimbas kod QR anda?<br>
+<span class="hint">Daftar untuk <a href="#pro">percubaan percuma akaun PRO</a> di ScanMeFindMe dan cuba kod QR Dinamik</span></p>
 
 ----------
