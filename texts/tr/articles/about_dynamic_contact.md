@@ -1,63 +1,63 @@
-<h1>Using QR codes to share contact details</h1>
+<h1>İletişim bilgilerini paylaşmak için QR kodlarını kullanma</h1>
 
 --- Abstract / Meta description ---
 
-Sharing contact details with QR codes is a greener and more efficient branding strategy. Learn how you could easily create and share digital contacts with QR codes.
+İletişim bilgilerini QR kodlarla paylaşmak, daha çevreci ve daha verimli bir marka stratejisidir. QR kodlarıyla dijital kişileri nasıl kolayca oluşturabileceğinizi ve paylaşabileceğinizi öğrenin.
 
 --- Short content 1 ---
 
-Store personal contact information, social media handles, and photo/logo with a sharable QR code. Track how often it is scanned.
+Paylaşılabilir bir QR koduyla kişisel iletişim bilgilerini, sosyal medya tutamaçlarını ve fotoğrafı/logoyu saklayın. Ne sıklıkla tarandığını takip edin.
 
 ----------
 
-<p>If you expect customers to manually store your information from business cards, you need to rethink your branding strategy. Most people find having to save the contact details from a paper business card onto a mobile phone annoying and repetitive.</p>
+<p>Müşterilerin kartvizitlerdeki bilgilerinizi manuel olarak saklamasını bekliyorsanız, marka stratejinizi yeniden düşünmeniz gerekir. Çoğu kişi, kağıt bir kartvizitteki iletişim bilgilerini cep telefonuna kaydetmeyi can sıkıcı ve tekrarlayıcı buluyor.</p>
 
-<p>Besides, did you know that <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">88% of business cards</a> are thrown off within a week after they are handed out?</p>
+<p>Ayrıca, <a href="https://blog.adobe.com/en/publish/2016/10/26/4-business-card-statistics-that-will-make-you-rethink-your-strategy.html#gs.5xe9i0" class="smfm-externallink" target="_blank" rel="nofollow">kartvizitlerin %88&#39;inin</a> dağıtıldıktan sonra bir hafta içinde çöpe atıldığını biliyor muydunuz?</p>
 
-<p>That's a staggering number of business cards gone to waste. Not only does it go against many companies' environmental commitment, but it also explains why some clients never reach out to you even when they promised to. </p>
+<p>Bu, boşa giden şaşırtıcı sayıda kartvizit. Bu, yalnızca birçok şirketin çevresel taahhüdüne aykırı olmakla kalmaz, aynı zamanda bazı müşterilerin söz verdiklerinde bile neden size asla ulaşmadığını da açıklar.</p>
 
-<p>Nowadays, more and more business cards have a QR code printed on them, allowing people to easily save the contacts onto smartphones. This should be part of your strategy. </p>
+<p>Günümüzde, giderek daha fazla sayıda kartvizitte, kişilerin kişileri akıllı telefonlara kolayca kaydetmelerine olanak tanıyan bir QR kodu basılmıştır. Bu, stratejinizin bir parçası olmalıdır.</p>
 
-<h3> Why Use QR Codes For Sharing Contact Details? </h3>
+<h3>İletişim Bilgilerini Paylaşmak İçin Neden QR Kodlarını Kullanmalısınız?</h3>
 
-<p>You need to make it easier for clients to save your contacts on their phones, but unfortunately, physical business cards aren't optimized for that.  </p>
+<p>Müşterilerin kişilerinizi telefonlarına kaydetmesini kolaylaştırmanız gerekir, ancak ne yazık ki fiziksel kartvizitler bunun için optimize edilmemiştir.</p>
 
-<p>Busy professionals find it a hassle to browse through stacks of business cards to find the right contact unless they invest in a business card scanner. Still, there's a chance that some cards are misplaced or are already disposed of. </p>
+<p>Meşgul profesyoneller, bir kartvizit tarayıcıya yatırım yapmadıkça doğru kişiyi bulmak için kartvizit yığınlarına göz atmayı bir güçlük olarak görür. Yine de, bazı kartların yanlış yerleştirilmiş veya zaten atılmış olma ihtimali var.</p>
 
-<p><a href="#static:contact">Digitizing your contact details with QR codes</a>   addresses many of the disadvantages of using physical business cards.</p>
+<p><a href="#static:contact">İletişim bilgilerinizi QR kodlarla dijital</a> hale getirmek, fiziksel kartvizit kullanmanın birçok dezavantajını giderir.</p>
 
-<p>All your clients have to do is scan the QR code and have all the contact information displayed on the screen.  </p>
+<p>Müşterilerinizin tek yapması gereken QR kodunu taramak ve tüm iletişim bilgilerini ekranda görüntülemek.</p>
 
-<p>With a single button, the user can contact you straight away or save the contact information onto their device. It puts an end to instances where clients misplace or forget your emails or phone numbers. </p>
+<p>Kullanıcı tek bir tuşla sizinle hemen iletişime geçebilir veya iletişim bilgilerini cihazına kaydedebilir. Müşterilerin e-postalarınızı veya telefon numaralarınızı yanlış yere koyduğu veya unuttuğu durumlara son verir.</p>
 
-<h2> What Contact Information Can Be Stored In A QR Code </h2>
+<h2>Bir QR Kodunda Hangi İletişim Bilgileri Saklanabilir?</h2>
 
-<p>This depends on which type of QR code you are using.</p>
+<p>Bu, kullandığınız QR kodunun türüne bağlıdır.</p>
 
-<p>If you're using a static QR code, you can store basic details (such as name, phone, email, website, and address) on the QR code in <a href="#article:about_contactformats">Vcard or MeCard format</a>. When you scan a static QR code, you get to save the contact information onto your smartphone. </p>
+<p>Statik bir QR kodu kullanıyorsanız, temel ayrıntıları (ad, telefon, e-posta, web sitesi ve adres gibi) QR kodunda <a href="#article:about_contactformats">Vcard veya MeCard biçiminde saklayabilirsiniz</a> . Statik bir QR kodu taradığınızda, iletişim bilgilerini akıllı telefonunuza kaydedersiniz.</p>
 
-<p><a href="#article:about_static">Static QR codes</a> encode the information directly, limiting how much information you can store. You'll need to use a dynamic QR code to include additional information like a photo/logo or social media handles.  </p>
+<p><a href="#article:about_static">Statik QR kodları</a> , bilgileri doğrudan kodlayarak ne kadar bilgi depolayabileceğinizi sınırlar. Fotoğraf/logo veya sosyal medya tanıtıcıları gibi ek bilgileri eklemek için dinamik bir QR kodu kullanmanız gerekir.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 1 - contact fields.png"
-        alt="Contact card fields - ScanMeFindMe">
+        alt="Kişi kartı alanları - ScanMeFindMe">
 </p>
 
-<p>Dynamic QR codes work differently from their static counterpart. Instead of encoding the contact details, it stores the information on a webpage and embeds a shortened URL in the QR Code.  </p>
+<p>Dinamik QR kodları, statik muadillerinden farklı çalışır. İletişim bilgilerini kodlamak yerine, bilgileri bir web sayfasında saklar ve QR Koduna kısaltılmış bir URL yerleştirir.</p>
 
-<p>When users scan the code, they are redirected to the webpage that acts as a digital business card. The displayed contact details can be downloaded and saved into a smartphone's contacts. </p>
+<p>Kullanıcılar kodu taradıklarında, dijital kartvizit görevi gören web sayfasına yönlendirilirler. Görüntülenen kişi ayrıntıları indirilebilir ve bir akıllı telefonun kişilerine kaydedilebilir.</p>
 
-<h2> How To Share Contact Details With QR Codes? </h2>
+<h2>QR Kodları ile İletişim Bilgileri Nasıl Paylaşılır?</h2>
 
-<p>To start sharing your contact details with a QR code, you need to generate one. With a <a href="#pro">ScanMeFIndMe PRO account</a>, you can generate a QR code that contains all your personal information with ease.</p>
+<p>İletişim bilgilerinizi bir QR koduyla paylaşmaya başlamak için bir tane oluşturmanız gerekir. <a href="#pro">ScanMeFIndMe PRO hesabıyla</a> , tüm kişisel bilgilerinizi kolaylıkla içeren bir QR kodu oluşturabilirsiniz.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_contact/files/img 2 - floyd miles - qr.png"
-        alt="Generating QR code for contact card - ScanMeFindMe">
+        alt="Kişi kartı için QR kodu oluşturma - ScanMeFindMe">
 </p>
 
-<p>A QR code is automatically created after you have filled in the related fields.</p>
+<p>İlgili alanları doldurduktan sonra otomatik olarak QR kodu oluşturulur.</p>
 
-<p>Once you're done, you can download the QR code, print it out, or share it digitally. With a dynamic QR code, you can also view how many people have scanned the QR code. We automatically track and record <a href="#article:about_statistics">key metrics</a>   whenever a user scans the QR code to view your contact information, this can help you personalize and improve your marketing strategies.</p>
+<p>İşiniz bittiğinde QR kodunu indirebilir, yazdırabilir veya dijital olarak paylaşabilirsiniz. Dinamik QR kodu ile kaç kişinin QR kodunu taradığını da görüntüleyebilirsiniz. Bir kullanıcı iletişim bilgilerinizi görüntülemek için QR kodunu taradığında, <a href="#article:about_statistics">temel ölçümleri</a> otomatik olarak izler ve kaydederiz; bu, pazarlama stratejilerinizi kişiselleştirmenize ve geliştirmenize yardımcı olabilir.</p>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for free now.</a></p>
+<p><a href="#pro">ScanMeFindMe PRO&#39;yu şimdi ücretsiz deneyin.</a></p>

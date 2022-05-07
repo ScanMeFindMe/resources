@@ -1,5 +1,5 @@
-Welcome to ScanMeFindMe
+ScanMeFindMe&#39;ye hoş geldiniz
 
-<h1>Hello {{name}},</h1>
-<h2>Welcome to your trial at ScanMeFindMe.</h2>
-<p>Your trial period will expire on {{expires}}.</p>
+<h1>Merhaba {{isim}},</h1>
+<h2> ScanMeFindMe&#39;deki denemenize hoş geldiniz.</h2>
+<p> Deneme süreniz {{expires}} tarihinde sona erecek.</p>

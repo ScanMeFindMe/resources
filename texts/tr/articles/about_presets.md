@@ -1,54 +1,53 @@
-<h1>Save time by creating presets for your QR codes</h1>
+<h1>QR kodlarınız için ön ayarlar oluşturarak zamandan tasarruf edin</h1>
 
 --- Abstract / Meta description ---
 
-Maximize efficiency when personalizing your QR codes with presets. Save your choices and reuse them any time you want.
+QR kodlarınızı ön ayarlarla kişiselleştirirken verimliliği en üst düzeye çıkarın. Seçimlerinizi kaydedin ve istediğiniz zaman yeniden kullanın.
 
 --- Short content 1 ---
 
-Choose a pre-designed preset or create one with selected style, colors, templates, and logo. Reuse them easily when generating QR codes.
+Önceden tasarlanmış bir ön ayar seçin veya seçilen stil, renkler, şablonlar ve logo ile bir ön ayar oluşturun. QR kodları oluştururken bunları kolayca yeniden kullanın.
 
 ----------
 
-<p>Having a personalized QR code that captures customer's attention helps in getting more engagement. With fun colors, a catchy caption, and a logo, you'll have a QR code that resonates with your brand value.</p>
+<p>Müşterinin dikkatini çeken kişiselleştirilmiş bir QR koduna sahip olmak, daha fazla katılım sağlamaya yardımcı olur. Eğlenceli renkler, akılda kalıcı bir başlık ve bir logo ile marka değerinizi yansıtan bir QR kodunuz olacak.</p>
 
-<p>Customizing QR codes can be a fun process, but it can be equally taxing if you do it every time you need to generate a QR code. </p>
+<p>QR kodlarını özelleştirmek eğlenceli bir süreç olabilir, ancak bunu her QR kodu oluşturmanız gerektiğinde yaparsanız aynı derecede zahmetli olabilir.</p>
 
-<p>This is where you'll want to create presets, a feature exclusive to ScanMeFindMe PRO users.</p>
+<p>Burası, ScanMeFindMe PRO kullanıcılarına özel bir özellik olan ön ayarlar oluşturmak isteyeceğiniz yerdir.</p>
 
-<h2>What Are Presets And Why Do You Need Them?</h2>
+<h2>Ön Ayarlar Nedir ve Neden Onlara İhtiyacınız Var?</h2>
 
-<p>Presets are a memory of customization you've selected or created for a particular QR code. When you're using ScanMeFindMe PRO, you get to personalize the QR code with styles, colors, <a href="#article:about_templates">templates</a>, and <a href="#article:about_logos">logos</a>.</p>
+<p>Ön ayarlar, belirli bir QR kodu için seçtiğiniz veya oluşturduğunuz bir özelleştirme hafızasıdır. ScanMeFindMe PRO&#39;yu kullanırken, QR kodunu stiller, renkler, <a href="#article:about_templates">şablonlar</a> ve <a href="#article:about_logos">logolarla</a> kişiselleştirebilirsiniz.</p>
 
-<p>These selections can be saved as a preset where they can automatically be selected and applied to a new QR code. Technically, a preset contains information on the particular choices of styles, templates, logos, and colors. Presets are valid as long as the individual elements are not renamed or deleted. </p>
+<p>Bu seçimler, otomatik olarak seçilebilecekleri ve yeni bir QR koduna uygulanabilecekleri bir ön ayar olarak kaydedilebilir. Teknik olarak bir hazır ayar, belirli stil, şablon, logo ve renk seçenekleri hakkında bilgi içerir. Ön ayarlar, tek tek öğeler yeniden adlandırılmadığı veya silinmediği sürece geçerlidir.</p>
 
-<p>Here's how you can use presets to save setup time when creating a QR code. </p>
+<p>QR kodu oluştururken kurulum süresinden tasarruf etmek için hazır ayarları nasıl kullanabileceğiniz aşağıda açıklanmıştır.</p>
 
-<p>You're releasing a series of yoga tutorial videos, and you're <a href="#article:about_static">encoding the links in QR codes.</a> If you're going to personalize the QR code for each episode, you'll need to manually choose the colors, logo, templates, and style.</p>
+<p>Bir dizi yoga eğitimi videosu <a href="#article:about_static">yayınlıyorsunuz ve bağlantıları QR kodlarında kodluyorsunuz.</a> Her bölüm için QR kodunu kişiselleştirecekseniz renkleri, logoyu, şablonları ve stili manuel olarak seçmeniz gerekir.</p>
 
-<p>It's easy to make a mistake, which results in some QR codes looking out of place. Also, you're wasting time repeating a process that can be automated. </p>
+<p>Hata yapmak kolaydır, bu da bazı QR kodlarının yerinde görünmemesine neden olur. Ayrıca, otomatikleştirilebilen bir işlemi tekrarlayarak zaman kaybediyorsunuz.</p>
 
-<p>By saving your choices as a preset, you can reuse the style elements by just loading the same preset when generating the QR code for each episode. </p>
+<p>Seçimlerinizi ön ayar olarak kaydederek, her bölüm için QR kodunu oluştururken aynı ön ayarı yükleyerek stil öğelerini yeniden kullanabilirsiniz.</p>
 
-<h2>How To Create And Save Presets for QR codes</h2>
+<h2>QR kodları için Ön Ayarlar Nasıl Oluşturulur ve Kaydedilir</h2>
 
-<p>If you're using <a href="#pro">ScanMeFindMe PRO</a>, you can create a preset with the 'Create a new preset' button while you create or edit any QR code in the QR code generator. You can choose a name for your preset so it is easier to use in the <a href="#about:api" title="QR code API">API</a>.</p>
+<p><a href="#pro">ScanMeFindMe PRO</a> kullanıyorsanız, QR kodu oluşturucuda herhangi bir QR kodunu oluştururken veya düzenlerken &#39;Yeni bir ön ayar oluştur&#39; düğmesiyle bir ön ayar oluşturabilirsiniz. <a href="#about:api" title="QR kodu API&#39;si">API&#39;de</a> kullanımı daha kolay olacak şekilde ön ayarınız için bir ad seçebilirsiniz.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 1 - Presets.png"
-        alt="Creating a preset from the QR code editor">
+        alt="QR kod düzenleyicisinden bir ön ayar oluşturma">
 </p>
 
-<p>Alternatively, you can duplicate an existing preset in the library and customize it. </p>
+<p>Alternatif olarak, kitaplıkta mevcut bir hazır ayarı çoğaltabilir ve özelleştirebilirsiniz.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_presets/files/img 2 - customize preset.png"
-        alt="Creating a preset by copying a system one">
+        alt="Bir sistem ön ayarını kopyalayarak ön ayar oluşturma">
 </p>
 
-<p>Once you're done, the customized preset will appear alongside other pre-installed presets on the selection panel. </p>
+<p>İşiniz bittiğinde, özelleştirilmiş hazır ayar, seçim panelinde önceden kurulmuş diğer hazır ayarların yanında görünecektir.</p>
 
-<p>Selecting a preset will automatically regenerate the QR code with the selected style and design elements. If you're using our <a href="#static:url">QR code generator</a> from the API, you can invoke the presets by specifying their names.</p>
+<p>Bir ön ayar seçmek, QR kodunu seçilen stil ve tasarım öğeleriyle otomatik olarak yeniden oluşturur. API&#39;den <a href="#static:url">QR kod</a> oluşturucumuzu kullanıyorsanız, adlarını belirterek ön ayarları çağırabilirsiniz.</p>
 
-<p>Stop re-styling your QR code each time you generate one. Try <a href="#pro">ScanMeFindMe PRO</a> and use presets instead. </p>
-
+<p>Her oluşturduğunuzda QR kodunuzu yeniden şekillendirmeyi bırakın. <a href="#pro">ScanMeFindMe PRO&#39;yu</a> deneyin ve bunun yerine ön ayarları kullanın.</p>

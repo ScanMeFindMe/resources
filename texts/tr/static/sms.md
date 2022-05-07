@@ -1,3 +1,3 @@
-<h1>[SMS] Create a QR code for an SMS</h1>
+<h1>[SMS] SMS için bir QR kodu oluşturun</h1>
 
 ----------

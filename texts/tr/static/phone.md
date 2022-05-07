@@ -1,7 +1,7 @@
-<h1>[Phone] Create a QR code for a phone number</h1>
+<h1>[Telefon] Bir telefon numarası için QR kodu oluşturun</h1>
 
 --- Text above the form ---
 
-<p class="hint smfm-hint">Enter a phone number in any format that a smartphone can recognise. It can be in a local format if you only expect people from your city/country to scan it, however international phone format works the best.</p>
+<p class="hint smfm-hint">Bir akıllı telefonun tanıyabileceği herhangi bir biçimde bir telefon numarası girin. Yalnızca şehrinizdeki/ülkenizdeki kişilerin taramasını bekliyorsanız, yerel bir biçimde olabilir, ancak uluslararası telefon biçimi en iyi sonucu verir.</p>
 
 ----------

@@ -1,10 +1,10 @@
-<h1>[Create a contact card] Create a QR code for a Contact card</h1>
+<h1>[Kişi kartı oluşturun] Kişi kartı için QR kodu oluşturun</h1>
 
 --- Example header ---
 
-Contact card example
+Kişi kartı örneği
 
 ----------
 
 <img src="https://media.scanmefindme.com/dynamic/contact/contact-popup.png" width="100%" height="auto"
-    alt="Contact card example - ScanMeFindMe">
+    alt="Kişi kartı örneği - ScanMeFindMe">

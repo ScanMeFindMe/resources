@@ -1,72 +1,72 @@
-<h1>How to add borders and captions to the QR codes</h1>
+<h1>QR kodlarına kenarlıklar ve başlıklar nasıl eklenir</h1>
 
 --- Abstract / Meta description ---
 
-Learn how to add borders and captions that make your QR code unique. Style your QR code with a catchy call-to-actions to boost conversion.
+QR kodunuzu benzersiz kılan kenarlıkları ve altyazıları nasıl ekleyeceğinizi öğrenin. Dönüşümü artırmak için QR kodunuzu akılda kalıcı bir harekete geçirici mesajla şekillendirin.
 
 --- Short content 1 ---
 
-Learn how to add catchy phrases with QR codes captions. Choose from pre-defined templates or create your own with a PRO account.
+QR kodları altyazılarıyla nasıl akılda kalıcı ifadeler ekleyeceğinizi öğrenin. Önceden tanımlanmış şablonlardan birini seçin veya bir PRO hesabıyla kendinizinkini oluşturun.
 
 ----------
 
-<p>For marketers, everything comes out to conversion. If you have a brilliant ad designed, it's for nothing if the audience doesn't reach out in one way or another.</p>
+<p>Pazarlamacılar için her şey dönüşümle sonuçlanır. Tasarlanmış harika bir reklamınız varsa, hedef kitle bir şekilde onlara ulaşmıyorsa bu boşuna değildir.</p>
 
-<p><a href="#static:url">QR codes</a> are a useful marketing tool, but adding a plain-format QR code doesn't do justice to the creative works done on marketing materials.</p>
+<p><a href="#static:url">QR kodları</a> kullanışlı bir pazarlama aracıdır, ancak düz formatlı bir QR kodu eklemek, pazarlama materyalleri üzerinde yapılan yaratıcı çalışmaların hakkını vermez.</p>
 
-<p>Without a little nudge, the audience may skip over the QR code, even when it's in plain sight. Often, a call-to-action (CTA) and a unique presentation are what it takes to get users to scan the QR code.</p>
+<p>Küçük bir dürtme olmadan izleyiciler, görünürde olsa bile QR kodunu atlayabilir. Çoğu zaman, bir harekete geçirici mesaj (CTA) ve benzersiz bir sunum, kullanıcıların QR kodunu taramasını sağlamak için gereken şeydir.</p>
 
-<h2>Why Add Borders And Captions To QR Codes?</h2>
+<h2>Neden QR Kodlarına Kenarlık ve Altyazı Eklemelisiniz?</h2>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 1 - templates.png"
-        alt="QR code templates - ScanMeFindMe">
+        alt="QR kod şablonları - ScanMeFindMe">
 </p>
 
-<p>Instead of sticking with the default format, you'll want to add a 'Scan Me' text along with the QR code. People may have developed 'QR code blindness' when seeing so many of them in their daily lives. </p>
+<p>Varsayılan biçime bağlı kalmak yerine, QR koduyla birlikte bir &#39;Beni Tara&#39; metni eklemek isteyeceksiniz. İnsanlar günlük hayatlarında bu kadar çok gördüklerinde &#39;QR kod körlüğü&#39; geliştirmiş olabilirler.</p>
 
-<p>However, a 'Scan Me' text and a unique border draw their attention to the QR code. The CTA leaves no doubt on what the audience should do next: scan the QR code. </p>
+<p>Ancak, bir &#39;Beni Tara&#39; metni ve benzersiz bir kenarlık, dikkatlerini QR koduna çeker. CTA, izleyicinin bundan sonra ne yapması gerektiği konusunda hiçbir şüphe bırakmıyor: QR kodunu tarayın.</p>
 
-<p>You can also add text that previews what's on the other side of the QR code. For example, an 'App Store' text tells the users that they're about to be redirected to your app on Apple App Store. Or a simple 'Menu' to get users to check out what's offered by your restaurant.</p>
+<p>QR kodunun diğer tarafında ne olduğunu önizleyen metin de ekleyebilirsiniz. Örneğin, bir &quot;App Store&quot; metni, kullanıcılara Apple App Store&#39;daki uygulamanıza yönlendirilmek üzere olduklarını bildirir. Veya kullanıcıların restoranınız tarafından sunulanları kontrol etmelerini sağlamak için basit bir &#39;Menü&#39;.</p>
 
-<p>The idea is, you'll want to instill trust and remove any uncertainties with QR codes. Customers like to have an idea of what they're getting into before they scan the QR. With the right borders and captions, you can do precisely that and increase conversions.</p>
+<p>Fikir şu ki, QR kodlarıyla güven aşılamak ve belirsizlikleri ortadan kaldırmak isteyeceksiniz. Müşteriler, QR&#39;yi taramadan önce neyle karşılaşacakları hakkında bir fikre sahip olmayı severler. Doğru kenarlıklar ve başlıklar ile tam olarak bunu yapabilir ve dönüşümleri artırabilirsiniz.</p>
 
-<p>Even in the <a href="#static:url">Free version of QR code generator</a> you can modify the captions on the templates. Change the default <strong>"Scan me"</strong> to <strong>"More info"</strong>, <strong>"Our menu"</strong>, your instagram handle or a phone number. If your text is too long or too short, you can descrease or increase the font size to make it look better.</p>
+<p><a href="#static:url">QR kod oluşturucunun Ücretsiz sürümünde</a> bile şablonlardaki başlıkları değiştirebilirsiniz. Varsayılan <strong>&quot;Beni tara&quot;</strong> yı <strong>&quot;Daha fazla bilgi&quot;</strong> , <strong>&quot;Menümüz&quot;</strong> , instagram tanıtıcınız veya bir telefon numarası olarak değiştirin. Metniniz çok uzun veya çok kısaysa, daha iyi görünmesi için yazı tipi boyutunu küçültebilir veya artırabilirsiniz.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 2 - qr code instagram.png"
-        alt="QR code for instagram handle - ScanMeFindMe">
+        alt="instagram tutacağı için QR kodu - ScanMeFindMe">
 </p>
 
-<p>Personalizing your QR codes with templates not only helps with marketing but also prevents confusion when you're sorting them out. Imagine you're about to print dozens of QR codes in different materials, and you'll need to scan them for verification manually. By having captions and borders, you'll know what they are meant for just by their visual appearance.</p>
+<p>QR kodlarınızı şablonlarla kişiselleştirmek yalnızca pazarlamaya yardımcı olmakla kalmaz, aynı zamanda bunları sıralarken karışıklığı da önler. Farklı materyallere düzinelerce QR kodu yazdırmak üzere olduğunuzu ve doğrulama için bunları manuel olarak taramanız gerektiğini hayal edin. Altyazılara ve kenarlıklara sahip olduğunuzda, yalnızca görsel görünümlerinden ne anlama geldiklerini anlayacaksınız.</p>
 
-<h2>How To Create Your Own Templates</h2>
+<h2>Kendi Şablonlarınızı Nasıl Oluşturursunuz</h2>
 
-<p>When you're using <a href="#pro">ScanMeFindMe PRO</a>, you have access to a set of pre-designed templates. However, you can also design your own templates, upload them and personalize the <a href="#static:url">QR code generated on our platform</a>.</p>
+<p><a href="#pro">ScanMeFindMe PRO&#39;yu</a> kullanırken, önceden tasarlanmış bir dizi şablona erişiminiz olur. Ancak kendi şablonlarınızı da tasarlayabilir, yükleyebilir ve <a href="#static:url">platformumuzda oluşturulan QR kodunu</a> kişiselleştirebilirsiniz.</p>
 
-<p>Not only that, you can also <a href="#article:about_presets">create presets</a> that include your choice of templates to save time in the future. </p>
+<p>Sadece bu değil, gelecekte zaman kazanmak için şablon seçiminizi içeren <a href="#article:about_presets">hazır ayarlar da oluşturabilirsiniz</a> .</p>
 
-<p>Now, how do you create your own templates?</p>
+<p>Şimdi, kendi şablonlarınızı nasıl yaratırsınız?</p>
 
-<p>The templates are image files in the SVG format. An SVG image is an XML file containing tags representing different elements. Web browsers use the information from the file to render the image at any resolution. You can create an SVG file via graphic design software like Adobe Illustrator or use a JPEG/PNG to SVG converter.</p>
+<p>Şablonlar, SVG formatındaki görüntü dosyalarıdır. SVG görüntüsü, farklı öğeleri temsil eden etiketleri içeren bir XML dosyasıdır. Web tarayıcıları, görüntüyü herhangi bir çözünürlükte oluşturmak için dosyadaki bilgileri kullanır. Adobe Illustrator gibi bir grafik tasarım yazılımı aracılığıyla bir SVG dosyası oluşturabilir veya bir JPEG/PNG&#39;den SVG&#39;ye dönüştürücü kullanabilirsiniz.</p>
 
-<p>The quickest way to create a template is to duplicate one from the library and edit the SVG source.</p>
+<p>Şablon oluşturmanın en hızlı yolu, bir şablonu kitaplıktan çoğaltmak ve SVG kaynağını düzenlemektir.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_templates/files/img 3 - edit svg template.png"
-        alt="Editing QR code template - ScanMeFindMe">
+        alt="QR kod şablonunu düzenleme - ScanMeFindMe">
 </p>
 
-<p>For a template to work on ScanMeFindMe, it must have a <strong class="notranslate">&lt;rect&gt;</strong> element with <strong class="notranslate">id="qr"</strong>, which will be substituted with the QR code when it is generated.</p>
+<p>Bir şablonun ScanMeFindMe üzerinde çalışması için, oluşturulduğunda QR koduyla değiştirilecek olan <strong class="notranslate">id=&quot;qr&quot;</strong> içeren bir <strong class="notranslate">&lt;rect&gt;</strong> öğesine sahip olması gerekir.</p>
 
-<p>You can also include <strong class="notranslate">&lt;text&gt;</strong> elements, if those elements have an <strong class="notranslate">id</strong> attribute, they will become captions that you can modify for each QR code that uses this template. Additionally, if such <span class="notranslate">&lt;text&gt;</span> elements contain the <strong class="notranslate">font-size</strong> attribute, you'll be able to change the font size for each QR code using the same template.</p>
+<p><strong class="notranslate">&lt;text&gt;</strong> öğelerini de dahil edebilirsiniz; bu öğelerin bir <strong class="notranslate">id</strong> özelliği varsa, bunlar bu şablonu kullanan her QR kodu için değiştirebileceğiniz başlıklar haline gelir. Ek olarak, bu tür <span class="notranslate">&lt;text&gt;</span> öğeleri <strong class="notranslate">font-size</strong> özniteliğini içeriyorsa, aynı şablonu kullanarak her QR kodu için yazı tipi boyutunu değiştirebileceksiniz.</p>
 
-<p>Beware of some limitations! ScanMeFindMe uses the <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> library to convert generated QR codes to PNG, PDF and PS formats. Some complicated SVG elements may not be converted correctly. For security reasons @include directive is ignored during conversion, so you can not include any external URLs (with the exception of the fonts that we installed on our server).</p>
+<p>Bazı sınırlamalara dikkat edin! ScanMeFindMe, oluşturulan QR kodlarını PNG, PDF ve PS biçimlerine dönüştürmek için <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a> kitaplığını kullanır. Bazı karmaşık SVG öğeleri doğru şekilde dönüştürülemeyebilir. Güvenlik nedenleriyle @include yönergesi dönüştürme sırasında yok sayılır, bu nedenle herhangi bir harici URL ekleyemezsiniz (sunucumuza yüklediğimiz yazı tipleri dışında).</p>
 
-<h2>What Fonts Are Supported? </h2>
+<h2>Hangi Yazı Tipleri Desteklenir?</h2>
 
-<p>Rather than going into an endless serif vs. san serif argument, we let you decide what's the best with several commonly-used fonts. You can find the fonts that are pre-installed on the server in our Github repository: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
+<p>Sonsuz bir serif vs. san serif tartışmasına girmek yerine, yaygın olarak kullanılan birkaç yazı tipiyle en iyisinin ne olduğuna karar vermenize izin veriyoruz. Sunucuya önceden yüklenmiş olan yazı tiplerini Github depomuzda bulabilirsiniz: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https://github.com/ScanMeFindMe/fonts</a></p>
 
-<p>If you feel we're missing out on an interesting font for fellow marketers, you can submit a pull request. Generally, we prefer fonts that support multiple languages.</p>
+<p>Diğer pazarlamacılar için ilginç bir yazı tipini kaçırdığımızı düşünüyorsanız, bir çekme talebi gönderebilirsiniz. Genellikle birden çok dili destekleyen yazı tiplerini tercih ederiz.</p>
 
-<p>Start uploading your own templates with a <a href="#pro">ScanMeFindMe PRO account</a> now.</p>
+<p>Şimdi bir <a href="#pro">ScanMeFindMe PRO hesabıyla</a> kendi şablonlarınızı yüklemeye başlayın.</p>

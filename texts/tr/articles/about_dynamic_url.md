@@ -1,74 +1,74 @@
-<h1>Using QR codes to create short URLs and track views</h1>
+<h1>Kısa URL&#39;ler oluşturmak ve görünümleri izlemek için QR kodlarını kullanma</h1>
 
 --- Abstract / Meta description ---
 
-Creating short URLs with QR codes enables view tracking. It's a useful feature that helps in monitoring marketing campaigns.
+QR kodlarıyla kısa URL&#39;ler oluşturmak, görüntüleme izlemeyi sağlar. Pazarlama kampanyalarının izlenmesine yardımcı olan kullanışlı bir özelliktir.
 
 --- Short content 1 ---
 
-Generate a shortened alias of your webpage URL and track who, where, and how users are scanning it.
+Web sayfası URL&#39;nizin kısaltılmış bir takma adını oluşturun ve kullanıcıların onu kimin, nerede ve nasıl taradığını izleyin.
 
 ----------
 
-<p><span class="font-italic">'If you can't measure it, you can't improve it'</span>  -- Peter Drucker</p>
+<p><span class="font-italic">&#39;Ölçemezseniz geliştiremezsiniz&#39;</span> - Peter Drucker</p>
 
-<p>The oft-repeated saying applies when you're making QR codes part of your marketing campaign.</p>
+<p>QR kodlarını pazarlama kampanyanızın bir parçası yaptığınızda sıkça tekrarlanan söz geçerlidir.</p>
 
-<p>If you're clueless about how many scans your QR Code generated over the past week, or which cities generated the most hits, you won't know if the campaign is on track for success.</p>
+<p>Geçen hafta QR Kodunuzun kaç kez tarandığını veya en çok hangi şehirlerin isabet aldığını bilmiyorsanız, kampanyanın başarı yolunda olup olmadığını bilemezsiniz.</p>
 
-<p>Now, not all QR codes are trackable. You need to create the right QR codes and ensure that they are linked to a tracking module. Creating QR codes with ScanMeFindMe makes this very easy. </p>
+<p>Şimdi, tüm QR kodları izlenebilir değildir. Doğru QR kodlarını oluşturmanız ve bunların bir izleme modülüne bağlı olduğundan emin olmanız gerekir. ScanMeFindMe ile QR kodları oluşturmak bunu çok kolaylaştırır.</p>
 
-<h2>Why Create Short URLs with QR Codes?</h2>
+<h2>Neden QR Kodlarıyla Kısa URL&#39;ler Oluşturun?</h2>
 
-<p>A short URL is a shortened link address that redirects the user to the intended webpage. </p>
+<p>Kısa URL, kullanıcıyı istenen web sayfasına yönlendiren kısaltılmış bir bağlantı adresidir.</p>
 
-<p>For example, here's a short URL: <span class="font-italic">http://qrs.re/resources</span></p>
+<p>Örneğin, kısa bir URL: <span class="font-italic">http://qrs.re/resources</span></p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 1 - qr.png"
-        alt="Example of QR code for short URL - ScanMeFindMe">
+        alt="Kısa URL için QR kodu örneği - ScanMeFindMe">
 </p>
 
-<p>It points to our resource page, which has the full URL: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
+<p>Tam URL&#39;ye sahip olan kaynak sayfamıza işaret ediyor: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
 
-<p>If you encode the full URL into the QR code, it will still direct users to the respective webpage. However, you wouldn't be able to tap into the full benefits that QR codes have to offer. </p>
+<p>Tam URL&#39;yi QR koduna kodlarsanız, kullanıcıları ilgili web sayfasına yönlendirmeye devam eder. Ancak, QR kodlarının sunduğu tüm avantajlardan yararlanamazsınız.</p>
 
-<p><strong>QR codes that encode short URLs</strong> are also known as dynamic QR codes. With a dynamic QR code, you have more flexibility in editing the destination content and also in tracking users that scan the QR code.</p>
+<p><strong>Kısa URL&#39;leri kodlayan QR kodları</strong> , dinamik QR kodları olarak da bilinir. Dinamik bir QR koduyla, hedef içeriği düzenleme ve ayrıca QR kodunu tarayan kullanıcıları izleme konusunda daha fazla esnekliğe sahip olursunuz.</p>
 
-<h2>How To Track Views With QR Code</h2>
+<h2>QR Koduyla Görüntüleme Nasıl İzlenir?</h2>
 
-<p>When you generate a dynamic QR code with our <a href="#pro">PRO QR generator</a>, it is automatically linked to our tracking tools.</p>
+<p><a href="#pro">PRO QR</a> oluşturucumuzla dinamik bir QR kodu oluşturduğunuzda, otomatik olarak izleme araçlarımıza bağlanır.</p>
 
-<p>When a user scans the QR code and is redirected to the destination webpage, <a href="#static:url">ScanMeFindMe</a> traces key metrics from the device and saves them on the dashboard.</p>
+<p>Bir kullanıcı QR kodunu taradığında ve hedef web sayfasına yeniden yönlendirildiğinde, <a href="#static:url">ScanMeFindMe cihazdaki</a> temel ölçümleri izler ve bunları gösterge panosuna kaydeder.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 2 - total scans.png"
-        alt="Example of QR code scans statistics - ScanMeFindMe">
+        alt="QR kodu tarama istatistikleri örneği - ScanMeFindMe">
 </p>
 
-<p>From the <a href="#article:about_statistics" title="Scans statistics for dynamic QR codes">statistics</a>, you will discover how many scans are generated by a particular QR code and how many of them are unique hits. Unique hits are scans generated from different devices. Often, it means different individuals are scanning the QR code. </p>
+<p><a href="#article:about_statistics" title="Dinamik QR kodları için istatistikleri tarar">İstatistiklerden</a> , belirli bir QR kodu tarafından kaç tarama yapıldığını ve bunların kaçının benzersiz isabetler olduğunu keşfedeceksiniz. Benzersiz isabetler, farklı cihazlardan oluşturulan taramalardır. Çoğu zaman, farklı kişilerin QR kodunu taradığı anlamına gelir.</p>
 
-<p>Also, you'll get a monthly and daily breakdown of the scans, which helps in determining the peak hours or any distinct patterns where users frequent your website. </p>
+<p>Ayrıca, taramaların aylık ve günlük dökümünü alırsınız; bu, kullanıcıların web sitenizi sık sık ziyaret ettiği yoğun saatleri veya farklı kalıpları belirlemenize yardımcı olur.</p>
 
-<p>The charts help marketers to fine-tune their campaigns to increase conversion and sales. For example, an online retailer can run targeted promotions during the hours when it's anticipating peak traffic.</p>
+<p>Grafikler, pazarlamacıların dönüşüm ve satışları artırmak için kampanyalarında ince ayar yapmalarına yardımcı olur. Örneğin, bir çevrimiçi perakendeci, en yoğun trafiği beklediği saatlerde hedefli promosyonlar yürütebilir.</p>
 
 <p class="imageholder">
     <img src="https://media.scanmefindme.com/blog/about_dynamic_url/files/img 3 - scans by.png"
-        alt="Example of QR code scans statistics - ScanMeFindMe">
+        alt="QR kodu tarama istatistikleri örneği - ScanMeFindMe">
 </p>
 
-<p>There's more to getting the number of total hits with our QR code tracker. You'll get access to details like the number of scans by OS, language, city, and country. </p>
+<p>QR kod izleyicimizle toplam isabet sayısını elde etmenin daha fazlası var. İşletim sistemine, dile, şehre ve ülkeye göre tarama sayısı gibi ayrıntılara erişebilirsiniz.</p>
 
-<p>These metrics provide insights into how your campaign is faring at a deeper level. For example, if you're promoting an app developed for Android users, you'll want scans originating from the Android platform. </p>
+<p>Bu metrikler, kampanyanızın daha derin bir düzeyde nasıl ilerlediğine dair bilgiler sağlar. Örneğin, Android kullanıcıları için geliştirilmiş bir uygulamayı tanıtıyorsanız, Android platformundan kaynaklanan taramalar isteyeceksiniz.</p>
 
-<p>Marketers targeting the global audience can personalize their campaigns based on how users in the respective cities or countries are responding. </p>
+<p>Küresel kitleyi hedefleyen pazarlamacılar, ilgili şehirlerdeki veya ülkelerdeki kullanıcıların nasıl yanıt verdiğine bağlı olarak kampanyalarını kişiselleştirebilir.</p>
 
-<p>The figures help with other marketing strategies and serve as an early indicator of which region is more likely to generate an impactful engagement. </p>
+<p>Rakamlar, diğer pazarlama stratejilerine yardımcı olur ve hangi bölgenin etkili bir etkileşim yaratma olasılığının daha erken olduğunu gösterir.</p>
 
-<h2>Bottom Line</h2>
+<h2>Sonuç olarak</h2>
 
-<p>If you wanted to set up a data-driven QR code campaign, you'll need dynamic QR codes and a reliable, hassle-free tracking module. You don't want to spend hours setting up the analytics or generating the reports.</p>
+<p>Veriye dayalı bir QR kod kampanyası oluşturmak istiyorsanız, dinamik QR kodlarına ve güvenilir, sorunsuz bir izleme modülüne ihtiyacınız olacak. Analitiği ayarlamak veya raporları oluşturmak için saatler harcamak istemezsiniz.</p>
 
-<p>ScanMeFindMe PRO takes care of the technical stuff, which means you can start generating QR codes that automatically track views in no time.</p>
+<p>ScanMeFindMe PRO teknik işlerle ilgilenir, bu da kısa sürede görünümleri otomatik olarak izleyen QR kodları oluşturmaya başlayabileceğiniz anlamına gelir.</p>
 
-<p><a href="#pro">Try ScanMeFindMe PRO for free now.</a></p>
+<p><a href="#pro">ScanMeFindMe PRO&#39;yu şimdi ücretsiz deneyin.</a></p>

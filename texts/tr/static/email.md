@@ -1,3 +1,3 @@
-<h1>[E-mail] Create a QR code for an E-mail address</h1>
+<h1>[e-posta] Bir E-posta adresi için bir QR kodu oluşturun</h1>
 
 ----------
