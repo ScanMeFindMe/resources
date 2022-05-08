@@ -8,7 +8,7 @@
     },
     "apierror": "Sesuatu telah berlaku. Kod QR tidak dapat dijana",
     "cancel": "Batal",
-    "close": "tutup",
+    "close": "Tutup",
     "contact": {
       "contact": "Jika anda mempunyai soalan atau cadangan atau ingin penyelesaian tersuai - sila hubungi kami",
       "contactinfo": "Maklumat perhubungan",
@@ -104,15 +104,15 @@
       "featuretemplates": "Tambahkan bingkai dan kapsyen",
       "metadesc": "Sentiasa percuma kod QR statik. Percubaan 14 hari percuma untuk kod QR dinamik. Jejaki imbasan kod QR anda, gunakan API kod QR, muat naik kandungan anda",
       "metatitle": "Penjana kod QR - Pelan dan Harga",
-      "pmonth": "bulan",
-      "pricing": "penentuan harga",
+      "pmonth": "Bulan",
+      "pricing": "Penentuan harga",
       "starttrial": "Mulakan percubaan 14 hari",
       "startusing": "Mula menggunakan",
       "unlimited": "tidak terhad",
       "uploadedfiles": "muat naik"
     },
     "privacypage": "Dasar privasi",
-    "proaccount": "akaun PRO",
+    "proaccount": "Akaun PRO",
     "product": {
       "dynamic": {
         "contact": {
@@ -170,7 +170,7 @@
         "withfree": "Dengan <span class=\"free\">versi percuma</span> anda boleh:",
         "withpro": "Dalam <span class=\"pro-badge\">Akaun PRO</span> anda juga boleh:"
       },
-      "title": "produk"
+      "title": "Produk"
     },
     "qrgenerator": "Penjana kod QR",
     "readmore": "Baca lagi",
@@ -208,8 +208,8 @@
   },
   "plan": {
     "advanced": "Maju",
-    "basic": "asas",
-    "expert": "pakar",
+    "basic": "Asas",
+    "expert": "Pakar",
     "free": "Percuma",
     "trial": "Perbicaraan"
   },
@@ -520,7 +520,7 @@
     "resettodefault": "Tetapkan semula kepada lalai",
     "saveasapreset": "Buat pratetap baharu",
     "style": "Gaya",
-    "template": "templat",
+    "template": "Templat",
     "templatecolor": "Warna templat",
     "templatecolorcustom": "Tukar warna templat",
     "transparent": "Telus"
