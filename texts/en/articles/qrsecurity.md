@@ -19,7 +19,7 @@ Are there dangers when scanning QR codes? Or does it pose security risks to your
 <p>While QR code is dominant in retail, the squarish space-dot pattern capable of holding various information has been prevalent in other applications. For example, trade visitors scan the QR code to save a virtual business card. Marketers embed QR codes in promotional materials that allow users to scan and download apps to their mobile phones.</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/qrsecurity/files/menu.svg"
+    <img src="https://media-staging.scanmefindme.com/articles/qrsecurity/files/menu.svg"
         alt="Using QR code - ScanMeFindMe">
 </p>
 
@@ -63,7 +63,7 @@ Are there dangers when scanning QR codes? Or does it pose security risks to your
 <p>Most phishing sites are exact replicas of the original. To be safe, look for misspelled words on the URL. For example, hackers might redirect you to payment.co instead of payment.com. Also, ensure it has a padlock icon in the browser in front of the URL. The padlock icon indicates that the website uses encryption to prevent hackers from snooping on sensitive data.</p>
 
 <p class="imageholder">
-    <img src="https://media.scanmefindme.com/blog/qrsecurity/files/lock.png"
+    <img src="https://media-staging.scanmefindme.com/articles/qrsecurity/files/lock.png"
         alt="Secure protocol - ScanMeFindMe">
 </p>
 
