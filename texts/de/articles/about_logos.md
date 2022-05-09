@@ -6,7 +6,7 @@ Das Hinzufügen von Logos zu QR-Codes trägt dazu bei, die Markenbekanntheit, da
 
 --- Short content 1 ---
 
-Laden Sie ein Logo hoch und fügen Sie es dem QR-Code hinzu. Personalisieren Sie seine Größe und Positionierung
+Laden Sie ein Logo hoch und fügen Sie es dem QR-Code hinzu. Personalisieren Sie die Größe und Positionierung.
 
 --- Short content 2 ---
 

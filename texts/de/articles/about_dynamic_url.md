@@ -29,7 +29,7 @@ Generieren Sie einen verkürzten Alias Ihrer Webseiten-URL und verfolgen Sie, we
         alt="Beispiel eines QR-Codes für Kurz-URL - ScanMeFindMe">
 </p>
 
-<p>Sie verweist auf unsere Ressourcenseite, die die vollständige URL hat: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
+<p>Diese verweist auf unsere Ressourcenseite, welche die vollständige URL hat: <span class="font-italic">https://scanmefindme.com/en/resources</span></p>
 
 <p>Wenn Sie die vollständige URL in den QR-Code codieren, werden Benutzer dennoch auf die entsprechende Webseite weitergeleitet. Sie könnten jedoch nicht alle Vorteile nutzen, die QR-Codes zu bieten haben. </p>
 

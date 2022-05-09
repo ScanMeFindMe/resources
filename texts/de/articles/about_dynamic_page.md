@@ -51,7 +51,7 @@ Laden Sie Menüs, Musik, Handbücher und andere Dateien auf eine personalisierte
 
 <h3>Es ist flexibel</h3>
 
-<p>Hatten Sie eine aktualisierte Version der Benutzerhandbücher? Oder möchten Sie neue Rezepte zusammen mit Nudelpackungen anbieten? Sie müssen vorhandene Marketingmaterialien, die mit dem QR-Code bedruckt sind, nicht verschrotten. </p>
+<p>Hatten Sie eine aktualisierte Version der Benutzerhandbücher? Oder möchten Sie neue Rezepte zusammen mit Nudelverpackungen anbieten? Sie müssen vorhandene Marketingmaterialien, die mit dem QR-Code bedruckt sind, nicht verschrotten. </p>
 
 <p>Da es sich um einen <a href="#about:product">dynamischen QR-Code</a> handelt, können Sie neue Dateien auf der Webseite entfernen und hinzufügen und den vorhandenen QR-Code beibehalten.</p>
 

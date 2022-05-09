@@ -94,10 +94,10 @@ END:VCARD</pre>
 <ul>
     <li>Die Kontaktdetails jederzeit ändern.</li>
     <li>Ein Foto oder ein Unternehmenslogo hochladen.</li>
-    <li>Handles oder Links zu sozialen Medien einfügen.</li>
-    <li>überwachen, wer den QR-Code des Kontakts wann und wo scannt.</li>
+    <li>Einträge oder Links zu sozialen Medien einfügen.</li>
+    <li>Kontrollieren, wer den QR-Code des Kontakts wann und wo scannt.</li>
     <li>Eine Vorschau der Kontaktinformationen vor dem Speichern auf einem Smartphone zulassen.</li>
-    <li>Sie können den QR-Code verkleinern und gleichzeitig mehr Informationen speichern.</li>
+    <li>Ein QR-Code verkleinern und gleichzeitig mehr Informationen speichern.</li>
 </ul>
 
 <p><a href="#pro">Erstellen Sie jetzt dynamische Vcard-Kontakte mit ScanMeFindMe PRO.</a></p>

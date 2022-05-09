@@ -16,7 +16,7 @@ Wählen Sie eine vorgefertigte Voreinstellung oder erstellen Sie eine mit ausgew
 
 <p>Hier sollten Sie Voreinstellungen erstellen, eine exklusive Funktion für Benutzer von ScanMeFindMe PRO.</p>
 
-<h2>Was sind Voreinstellungen und warum brauchen Sie sie?</h2>
+<h2>Was sind Voreinstellungen und warum brauchen Sie diese?</h2>
 
 <p>Voreinstellungen sind eine Erinnerung an Anpassungen, die Sie für einen bestimmten QR-Code ausgewählt oder erstellt haben. Wenn Sie ScanMeFindMe PRO verwenden, können Sie den QR-Code mit Stilen, Farben, <a href="#article:about_templates">Vorlagen</a> und <a href="#article:about_logos">Logos personalisieren </a>.</p>
 
