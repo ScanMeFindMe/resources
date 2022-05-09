@@ -1,4 +1,4 @@
-<h1>[Telefon] Erstellen Sie einen QR-Code für eine Rufnummer</h1>
+<h1>[Telefon] Erstellen Sie einen QR-Code für eine Telefonnummer</h1>
 
 --- Previous titles ---
 

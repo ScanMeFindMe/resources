@@ -10,7 +10,7 @@ Erfahren Sie, wie Sie einprägsame Phrasen mit QR-Code-Beschriftungen hinzufüge
 
 ----------
 
-<p>Für Werbetreibende dreht sich alles um die Conversion. Wenn Sie eine brillante Anzeige entworfen haben, ist sie umsonst, wenn das Publikum sie nicht auf die eine oder andere Weise erreicht.</p>
+<p>Für Werbetreibende dreht sich alles um mehr Gewinnung des Publikums. Wenn Sie eine brillante Anzeige entworfen haben, ist sie umsonst, wenn das Publikum sie nicht auf die eine oder andere Weise erreicht.</p>
 
 <p><a href="#static:url">QR-Codes</a> sind ein nützliches Marketinginstrument, aber das Hinzufügen eines einfachen QR-Codes wird der kreativen Arbeit an Marketingmaterialien nicht gerecht.</p>
 
@@ -63,7 +63,7 @@ Erfahren Sie, wie Sie einprägsame Phrasen mit QR-Code-Beschriftungen hinzufüge
 
 <p>Achten Sie auf einige Einschränkungen! ScanMeFindMe verwendet die Bibliothek <a href="https://cairosvg.org/" class="smfm-externallink">CairoSVG</a>, um generierte QR-Codes in die Formate PNG, PDF und PS zu konvertieren. Einige komplizierte SVG-Elemente werden möglicherweise nicht korrekt konvertiert. Aus Sicherheitsgründen wird die @include-Direktive bei der Konvertierung ignoriert, daher können Sie keine externen URLs einbinden (mit Ausnahme der Schriftarten, die wir auf unserem Server installiert haben).</p>
 
-<h2>Welche Schriftarten werden unterstützt? </h2>
+<h2>Welche Schriftarten werden angeboten? </h2>
 
 <p>Anstatt in einen endlosen Streit zwischen Serifen und San Serifen zu verfallen, lassen wir Sie entscheiden, was mit mehreren häufig verwendeten Schriftarten am besten ist. Die auf dem Server vorinstallierten Schriftarten finden Sie in unserem Github-Repository: <a href="https://github.com/ScanMeFindMe/fonts" class="smfm-externallink" target="_blank">https: //github.com/ScanMeFindMe/fonts</a></p>
 
