@@ -2,7 +2,7 @@
 
 --- Previous titles ---
 
-Erstellen Sie einen QR-Code für eine Telefonnummer
+Erstellen Sie einen QR-Code für eine Rufnummer
 
 --- Text above the form ---
 

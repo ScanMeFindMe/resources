@@ -1,5 +1,9 @@
 <h1>Verwendung von QR-Codes, um Kontaktdaten zu teilen</h1>
 
+--- Previous titles ---
+
+Verwenden von QR-Codes Um Kontaktdaten zu teilen
+
 --- Abstract / Meta description ---
 
 Das Teilen von Kontaktdaten mit QR-Codes ist eine umweltfreundlichere und effizientere Markenstrategie. Erfahren Sie, wie Sie ganz einfach digitale Kontakte mit QR-Codes erstellen und teilen können.
