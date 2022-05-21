@@ -11,25 +11,38 @@ $maindir = dirname(dirname(__DIR__));
 $autofix = in_array("--autofix", $argv);
 [$script, $language, $section, $filename] = array_merge(array_diff($argv, ['--autofix']), [null, null, null]);
 
-
-$errors = [];
-
-if ($filename) {
-    $filename .= preg_match('/\.md$/', $filename) ? '' : '.md';
-    $errors = array_merge($errors, comparefiles($language, $section, $filename));
-} else if ($section) {
-    $errors = array_merge($errors, comparefolder($language, $section));
-} else {
-    foreach (scandir("$maindir/texts/en") as $section) {
-        if (preg_match('/^[^\\.]/', $section) && is_dir("$maindir/texts/en/{$section}")) {
-            $errors = array_merge($errors, comparefolder($language, $section));
+if ($language === 'all') {
+    $errors = [];
+    foreach (scandir("$maindir/texts") as $lang) {
+        if (preg_match('/^[\\w]{2,5}$/', $lang) && $lang !== 'en') {
+            $errors = array_merge($errors, compare_language($lang, $section, $filename));
         }
     }
+} else {
+    $errors = compare_language($language, $section, $filename);
 }
 
 if (count($errors)) {
     echo join("\n\n", $errors)."\n";
     exit(1);
+}
+
+function compare_language($language, $section, $filename): array {
+    global $maindir;
+    $errors = [];
+    if ($filename) {
+        $filename .= preg_match('/\.md$/', $filename) ? '' : '.md';
+        $errors = array_merge($errors, comparefiles($language, $section, $filename));
+    } else if ($section) {
+        $errors = array_merge($errors, comparefolder($language, $section));
+    } else {
+        foreach (scandir("$maindir/texts/en") as $section) {
+            if (preg_match('/^[^\\.]/', $section) && is_dir("$maindir/texts/en/{$section}")) {
+                $errors = array_merge($errors, comparefolder($language, $section));
+            }
+        }
+    }
+    return $errors;
 }
 
 function comparefolder($language, $section): array {
@@ -92,14 +105,24 @@ function comparefiles($language, $section, $filename): array {
         $langdata[$part] = $langdata[$part] ?? '';
         $errors = array_merge($errors,
             comparetext($langfile, $section, $part, $langoffsets[$part] ?? 0, $endata[$part] ?? '', $langdata[$part], $autofix));
+        if ($section === 'emails') {
+            $errors = array_merge($errors,
+                compare_placeholders_emails($langfile, $endata[$part], $langdata[$part], $autofix));
+        }
     }
 
     if ($canfix && $autofix && count($errors)) {
         //print_r($langdata);
         //print_r(array_keys($endata));
-        $text = array_key_exists('h1short', $langdata) ? "<h1>[{$langdata['h1short']}] {$langdata['h1long']}</h1>\n\n" : "<h1>{$langdata['h1long']}</h1>\n\n";
-        foreach ($langdata as $header => $content) if (!in_array($header, ['h1short', 'h1long', 'main'])) $text .= "--- $header ---\n\n".trim($content)."\n\n";
-        $text .= "----------\n\n".trim($langdata['main']);
+        $text = '';
+        if (hasH1($section)) {
+            $text .= hasH1short($section) ? "<h1>[{$langdata['h1short']}] {$langdata['h1long']}</h1>\n\n" : "<h1>{$langdata['h1long']}</h1>\n\n";
+        }
+        if (hasParts($section)) {
+            foreach ($langdata as $header => $content) if (!in_array($header, ['h1short', 'h1long', 'main'])) $text .= "--- $header ---\n\n".trim($content)."\n\n";
+            $text .= "----------\n\n";
+        }
+        $text .= trim($langdata['main']);
         //echo "\n\n\n$text\n\n";
         file_put_contents($langfile, trim($text)."\n");
     }

@@ -231,7 +231,7 @@ function comparetags($langfile, $section, $sname, $partkey, $lineno, $entext, &$
 
 function compareplaceholders($langfile, $section, $sname, $partkey, $lineno, $entext, &$langtext, $autofix = false): array {
 
-    $tagmatch = '/\\{[^\\}]*\\}/';
+    $tagmatch = ($section === 'emails') ? '/\\{\\{[^\\}]*\\}\\}/' : '/\\{[^\\}]*\\}/';
     $r = preg_match_all($tagmatch, $entext, $matches);
     $entags = $r ? $matches[0] : [];
     $r = preg_match_all($tagmatch, $langtext, $matches);
@@ -248,6 +248,19 @@ function compareplaceholders($langfile, $section, $sname, $partkey, $lineno, $en
     }
 
     return [];
+}
+
+function compare_placeholders_emails($langfile, $entext, &$langtext, $autofix = false): array {
+    $enlines = preg_split('/\\n/', trim($entext));
+    $langlines = preg_split('/\\n/', trim($langtext));
+
+    $errors = [];
+    for ($i=0; $i<min(count($enlines), count($langlines)); $i++) {
+        $errors = array_merge($errors, compareplaceholders($langfile, 'emails', null, null, $i + 1,
+            $enlines[$i], $langlines[$i], $autofix));
+    }
+    $langtext = join("\n", $langlines);
+    return $errors;
 }
 
 function strip_placeholders($text): string {
