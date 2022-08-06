@@ -4,15 +4,19 @@
 
 <h2>What is a Text QR Code Generator?</h2>
 
-<p>A text QR code generator is the simplest form of software tool for encoding plain text in a QR code. Text QR codes are commonly used by businesses to digitize information, automate processes and inject creativity into marketing campaigns.</p>
+<p>A text QR code generator is the simplest form of software tool for encoding plain text in a QR code. Text QR codes are commonly used by businesses to digitize information and automate processes.</p>
+
+<p>You have probably already tried to scan the COVID vaccination QR code with a regular QR scanner and only found a bunch of letters and numbers there. This is a great example of storing text in the QR code that does nothing on normal QR readers but, when used in a specialised app, contains a lot of useful information.</p>
 
 <h2>How Does a Text QR Code Generator Work?</h2>
 
-<p>Text QR code generators leverage the two-dimensional barcode technology to convert a series of alphanumeric characters, numbers, special characters, or emojis into a scannable QR code. For example, you can turn text like “visit our website for more info” into a perfectly scannable QR code.</p>
+<p>Text QR code generators leverage the two-dimensional barcode technology to convert a series of alphanumeric characters, numbers, special characters, or emojis into a scannable QR code. For example, you can turn text like <span class="notranslate">"the rain in spain stays mainly in the plain"</span> into a perfectly scannable QR code.</p>
 
 <p>ScanMeFindMe provides you with styling options to make the text QR code more visually appealing. You can add a custom logo, alter the color or use one of the pre-designed templates to create a brandable QR code.</p>
 
-<h2>Why do you Need a Text QR Code Generator?</h2>
+<p>You can also use the <a href="#about:api">QR generator API</a> to generate the QR codes in bulk. Basically, all other types of static QR code generation that you can find on this site only convert the data from the form into the text and store this text in the QR code.</p>
+
+<h2>Why do you need a text QR Code Generator?</h2>
 
 <p>Whether running a brick-and-mortar business, e-commerce, manufacturing, or other types of businesses, you'll find that plain text QR codes can improve productivity, automation, and customer experience.</p>
 
@@ -30,7 +34,7 @@
 
 <h3>Affordable</h3>
 
-<p>You don't need to splurge on expensive software to generate text QR codes. ScanMeFindMe allows you to produce text QR codes for various purposes without premium charges. It takes a few minutes to download your first text QR code for free.</p>
+<p>You don't need to splurge on expensive software to generate text QR codes. ScanMeFindMe allows you to produce text QR codes for various purposes without premium charges. It takes seconds to download your first text QR code for free.</p>
 
 <h2>How to Create a Text QR Code?</h2>
 
@@ -73,7 +77,7 @@
 
 <h3>Ticketing</h3>
 
-<p>Carnivals, public transports, carnivals, and other paid admission spaces use text QR codes to store relevant ticketing information like ticket number, purchase date, and fee. Attendants scan the QR code to minimize queue lines and ensure orderly admission.</p>
+<p>Concerts, public transports, carnivals, and other paid admission spaces use text QR codes to store relevant ticketing information like ticket number, purchase date, and fee. This information is usually encrypted so it is hard to mock it. Attendants scan the QR code to minimize queue lines and ensure orderly admission. They use the app that stores a decryption key and can check validity.</p>
 
 <h3>Manufacturing</h3>
 
@@ -85,13 +89,13 @@
 
 <h3>Marketing.</h3>
 
-<p>Marketers use text QR codes as part of their marketing efforts to increase leads and conversions.. For example, customers scan the QR code on a product that contains a discount code.</p>
+<p>Marketers use text QR codes as part of their marketing efforts to increase leads and conversions. For example, customers scan the QR code on a product that contains a discount code.</p>
 
 <h2>FAQ</h2>
 
 <h3>Can text QR codes work offline?</h3>
 
-<p>Yes. A text QR code is static and stores the original information, meaning customers can decode the content without an active internet connection.</p>
+<p>Yes. A text QR code is static and stores the original information, meaning customers can decode the content without an active internet connection. However depending on the content of the text, the smartphone may require internet to proceed to the next step, for example, you can scan a QR code that contains a URL and see it but you can't follow this URL without internet.</p>
 
 <h3>How many characters can be stored in a text QR code?</h3>
 
@@ -99,7 +103,7 @@
 
 <h3>Is scanning a text QR code safe?</h3>
 
-<p>Some users might be concerned about being redirected to malicious websites when scanning QR codes. Scanning a text QR code is perfectly safe as all you'll see is the decoded content. Scanning QR codes, be it text or dynamic QR, will not install apps or launch websites without your permission.</p>
+<p>Some users might be concerned about contracting viruses or making costly international calls when scanning QR codes. <a href="#article:qrsecurity">Scanning a text QR code is generally safe</a> as all you'll see is the decoded content. Scanning QR codes, be it text or dynamic QR, will not install apps or make calls without your permission.</p>
 
 <h3>Does a text QR code expire?</h3>
 

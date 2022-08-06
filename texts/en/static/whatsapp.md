@@ -12,11 +12,13 @@
 
 <h2>What is a Whatsapp QR Code generator, and how does it work?</h2>
 
-<p>A Whatsapp QR code is a two-dimensional barcode that allows users to start a new conversation on Whatsapp simply by scanning it. The QR code contains a Whatsapp Web URL and the recipient’s mobile number.</p>
+<p>A Whatsapp QR code is a two-dimensional barcode that allows users to start a new conversation on Whatsapp simply by scanning it. The QR code contains a Whatsapp Web URL prefix and the recipient’s mobile number.</p>
 
-<p>Here’s what a Whatsapp Web URL looks like:</p>
+<p>If your phone number is +1 (234) 635 789 012, the Whatsapp URL for it will look like:</p>
 
-<pre>https://wa.me/[123456789]</pre>
+<pre>https://wa.me/123456789012</pre>
+
+<p>Remember that the phone number used in the Whatspp URL must always include the country code and the area code, even if all your customers are local.</p>
 
 <p>The Whatsapp QR code generator encodes the entire URL, including the phone number, into a scannable QR code. Instead of typing and editing the Whatsapp URL on the web browser, users can send messages to a particular number by scanning the QR code.</p>
 
@@ -61,7 +63,7 @@
 <p>Generating a Whatsapp QR Code is easy and FREE with ScanMeFindMe. To do so, follow these steps.</p>
 
 <ol>
-<li>Go to <a href="/">ScanMeFindMe.com</a>. Select QR Code Generator and choose Whatsapp.</li>
+<li>Go to <a href="#static:url">ScanMeFindMe.com</a>. Select QR Code Generator and choose Whatsapp.</li>
 <li>Key in your business's mobile number, including country and area codes.</li>
 <li>Style your QR code with our pre-built designs, particularly one that displays the Whatsapp icon. Alternatively, add a logo, caption, or change the color of the QR code to reflect your brand value.</li>
 <li>Choose the appropriate format and size. Then, download the QR code to your device.</li>

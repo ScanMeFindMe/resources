@@ -6,26 +6,28 @@
 
 <p>WiFi QR code is a two-dimensional barcode that allows smartphones to connect to a WiFi network automatically. Instead of choosing the right network and keying in the credentials, users can join an existing network by scanning the WiFi QR code. Using a WiFi QR code offers convenience and improves efficiency for businesses and users.</p>
 
+<p>WiFi QR code is always a static QR code because dynamic QR codes require internet connection.</p>
+
 <h2>How does a WiFi QR Code work?</h2>
 
 <p>WiFi QR codes take advantage of the quick-scanning QR technology by encoding the necessary network credential in the scannable QR code. Basically, you'll need the following parameters to connect to a WiFi network:</p>
 
 <ul>
-<li>Encryption type</li>
-<li>SSID (the network's name)</li>
+<li>Encryption type (usually WPA/WPA2)</li>
+<li>SSID or the network's name</li>
 <li>Password</li>
-<li>Hidden status</li>
+<li>Whether your network is hidden or not (usually not)</li>
 </ul>
+
+<p>QR generator takes this data and concatenates it into a string following the strict format, such as:</p>
+
+<pre>WIFI:S:&lt;SSID>;T:&lt;WPA|WEP|>;P:&lt;password>;;</pre>
+
+<p>This string is then encoded into a QR code. Basically, it is <a href="#article:about_static">what QR codes do</a> - store any text in a machine-readable format and pass it to the readers. All QR scanners know that if the stored text starts with "WIFI:" then it contains the WiFi credentials.</p>
 
 <p>ScanMeFindMe WiFi QR code generator allows you to encode the information into a QR code.  Once you've filled in the necessary parameters, our tool creates a scannable QR code that you can share with trusted users. For example, you can print the WiFi QR code for your home network and share it with your family and friends.</p>
 
 <p>To connect to a WiFi network, users scan the QR code with a smartphone and join the network when prompted. The smartphone will automatically establish and authenticate the connection with the network credentials decoded from the QR code.</p>
-
-<h2>Is WiFi QR Code generator safe?</h2>
-
-<p>Understandably, some users might be wary of using an online WiFi QR code generator for security and privacy concerns. If you're wondering if it's safe to turn your WiFi credentials into a QR code with our tool, it is. We can't vouch for all free QR code generators, but you're not at risk when generating a WiFi QR code with our tool.</p>
-
-<p>ScanMeFindMe practices a strict privacy policy where we do not store, use or sell any information you've used to create a QR code. This means that we have no knowledge about your WiFi SSID and password. We strive to make QR code technologies work for you and not against you.</p>
 
 <h2>Which WiFi encryption should I choose?</h2>
 
@@ -33,9 +35,11 @@
 
 <p>ScanMeFindMe provides a choice of WPA/WPA2, WEP, and none when choosing the encryption type. WEP is an earlier form of encryption with known vulnerabilities, while choosing ‘none' means your network is not secured with encryption. We recommend enabling encryption for your network, particularly for home and workplace connections.</p>
 
-<h2>Does WiFi QR code work for hidden networks?</h2>
+<h2>What are the hidden networks?</h2>
 
-<p>Yes. By checking the option, you can create a WiFI QR code that works for a hidden network. When doing so, the QR code classifies the network status as hidden and ensures the scanning device takes appropriate measures to connect to the network.</p>
+<p>By default, all WiFi networks broadcast the so-called Service Set Identifier (SSID) every 100 milliseconds to let other devices know about their presence. Some routers may have enabled the setting to turn off this broadcasting. Turning off broadcasting usually means "I don't want my customers constantly ask me for a password, my network is for internal use only". It is not really a security measure because there are other ways to find hidden networks. If you want to protect your network, you need to do it with a hard-to-guess password.</p>
+
+<p>If your WiFi router is configured to create a hidden network, you need to check the "Hidden" checkbox when generating QR code for it, otherwise it may not work.</p>
 
 <h2>How do I create a QR code for my WiFi?</h2>
 
@@ -49,11 +53,17 @@
 <li>Download the QR code in PNG or SVG format or sign up to ScanMeFindMe Pro to access more formatting options.</li>
 </ul>
 
+<h2>Is WiFi QR Code generator safe?</h2>
+
+<p>Understandably, some users might be wary of using an online WiFi QR code generator for security and privacy concerns. If you're wondering if it's safe to turn your WiFi credentials into a QR code with our tool, it is. We can't vouch for all free QR code generators, but you're not at risk when generating a WiFi QR code with our tool.</p>
+
+<p>ScanMeFindMe practices a strict <a href="#about:privacy">privacy policy</a> where we do not store, use or sell any information you've used to create a QR code. This means that we have no knowledge about your WiFi SSID and password. We strive to make QR code technologies work for you and not against you.</p>
+
 <h2>What are examples of WiFi QR Code applications?</h2>
 
 <p>The ease of connecting to a WiFi network with a single scan has seen WiFi QR codes being used in different spaces. These are how you can use WiFi QR codes to improve user experience.</p>
 
-<h3>Hotels</h3>
+<h3>Hotels and Airbnb</h3>
 
 <p>Guests are looking forward to impeccable service quality, and fumbling over the keypad to connect to the WiFi is anything but. To improve the guest experience, hoteliers print WiFi QR codes and place them in each room to ensure guests enjoy seamless connectivity.</p>
 
@@ -134,7 +144,6 @@
 
 <p>Yes. As the QR code stores the exact WiFi password, you have no choice but to generate new QR codes. Otherwise, users will connect to the network with the old, obsolete password.</p>
 
-<h3>Can I use the same WiFi QR Code for both 2.4 GHz and 5.8Ghz bands?</h3>
+<h3>Can I use the same WiFi QR Code for both 2.4GHz and 5.8Ghz bands?</h3>
 
-<p>No. A QR code is designed to store only one WiFi connection credential. You'll need to create two different QR codes if you need instant connectivity for 2.4GHz and 5.8GHz bands.</p>
-
+<p>No. A QR code is designed to store only one WiFi connection credential and the networks for 2.4Ghz and 5.8Ghz have different SSIDs. You'll need to create two different QR codes if you need instant connectivity for 2.4GHz and 5.8GHz bands.</p>

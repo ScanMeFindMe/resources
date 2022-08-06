@@ -12,17 +12,17 @@
 
 <ul>
 <li>Fast, accurate, and safe access to websites.</li>
-<li>Real-time tracking of scan metrics with dynamic URLs.</li>
-<li>Generate and customize neat, trustworthy, shortened URLs.</li>
-<li>Apply your design, theme, and images, and add the captions to make the QR code more appealing.</li>
+<li><a href="#article:about_statistics">Real-time tracking</a> of scan metrics with dynamic URLs.</li>
+<li>Generate and customize neat, trustworthy, <a href="article:about_dynamic_url">shortened URLs</a>.</li>
+<li>Apply your design, theme, and images, and add the captions to make the QR code more appealing and trustworthy.</li>
 <li>A cost-efficient way to increase leads, conversion, and ROI for marketing campaigns.</li>
 </ul>
 
 <h2>What are the different types of URL QR codes?</h2>
 
-<p>URL QR codes can be either static or dynamic. A static QR code generator stores the exact website link into the QR code. Meanwhile, a dynamic QR code generator creates a shortened URL that directs users to the target webpage. The dynamic QR code is popular amongst marketers because it allows them to track engagement metrics and be responsive in their campaigns.</p>
+<p>URL QR codes can be either <a href="#about:product">static or dynamic</a>. A static QR code generator stores the exact website link into the QR code. Meanwhile, a dynamic QR code generator creates a shortened URL that directs users to the target webpage. The dynamic QR code is popular amongst marketers because it allows them to track engagement metrics and be responsive in their campaigns.</p>
 
-<p>ScanMeFindMe allows you to create both types of QR codes. The QR code generator on this page will enable you to embed a static web URL into the QR code. If you need a dynamic URL QR code generator, <a href="#pro">sign up for a free trial</a> and get immediate access to our PRO tools.</p>
+<p>ScanMeFindMe allows you to create both types of QR codes. The QR code generator on this page will enable you to embed a web URL into the static QR code. If you need a dynamic URL QR code generator, <a href="#pro">sign up for a free trial</a> and get immediate access to our PRO tools.</p>
 
 <h2>Why do you need a URL QR Code generator?</h2>
 
@@ -55,15 +55,16 @@
 <li>Add visual appeals by changing the QR code's color to match your brand.</li>
 <li>Include a caption to briefly describe the QR code to customers.</li>
 <li>Download the QR code and include it in your printable designs.</li>
-<li>To create a shortened URL, sign up for the free trial of ScanMeFindMe PRO. You'll get to generate short URLs and track views in real-time.</li>
+<li>To create a shortened URL, sign up for the <a href="#pro">free trial of ScanMeFindMe PRO.</a> You'll get to generate short URLs and track views in real-time.</li>
 </ol>
 
 <h2>What are common URL QR code use cases?</h2>
 
 <h3>Contactless dining</h3>
 
-<p>The recent global health crisis has led to an immediate shift in how people dine in restaurants. To minimize contact, restaurants assign individual tables with a unique QR code. When customers scan the QR code, they are led to an online menu, where they can browse and place food orders from the phone.
-Labels and packaging</p>
+<p>The recent global health crisis has led to an immediate shift in how people dine in restaurants. To minimize contact, restaurants assign individual tables with a unique QR code. When customers scan the QR code, they are led to an online menu, where they can browse and place food orders from the phone.</p>
+
+<h3>Labels and packaging</h3>
 
 <p>Consumer products like canned foods, snacks, and dairies leverage QR codes to enhance customer experience. For example, Coca-Cola added a dynamic QR code in its <a href="https://us.coca-cola.com/support/sip-and-scan-faqs" target="_blank">Sip & Scan campaign</a>. Customers who scan the QR code are taken to a landing page where exciting rewards await. Some products use QR codes to provide users immediate access to a how-to manual, recipes, and other relevant information.</p>
 
@@ -87,13 +88,13 @@ Labels and packaging</p>
 
 <h3>Logo</h3>
 
-<p>You can use the many default logos on our platform or upload your own with a Pro account. Doing so instills trust amongst users when they come across your QR code. If you're wondering if adding a logo corrupts the encoded URL, it doesn't.</p>
+<p>You can use the many default logos on our platform or upload your own with a Pro account. Doing so instills trust amongst users when they come across your QR code. If you're wondering if adding a logo corrupts the encoded URL, <a href="#article:about_logos">it doesn't</a>.</p>
 
 <p>QR codes are designed to be readable even if the logo covers part of the encoded information. As long as the logo is sized to a specific ratio and doesn't cover the markers at the edge, your QR code will be perfectly scannable.</p>
 
 <h3>Captions and borders</h3>
 
-<p>Instead of a plain QR code, style it with personalized captions and borders. Captions offer clarity about what lies ahead after the user scans the QR code. Adding a caption with ScanMeFindMe adds legitimacy and encourages your customers to scan the QR code. Meanwhile, customizing the QR code with borders makes it stands out from other text and visuals in printed materials.</p>
+<p>Instead of a plain QR code, style it with personalized captions and borders. Captions offer clarity about what lies ahead after the user scans the QR code. <a href="#article:about_templates">Adding a caption with ScanMeFindMe</a> adds legitimacy and encourages your customers to scan the QR code. Meanwhile, customizing the QR code with borders makes it stands out from other text and visuals in printed materials.</p>
 
 <h3>Color</h3>
 
